@@ -576,9 +576,9 @@ async def demo_css_structured_extraction_no_schema(link: str):
     async with AsyncWebCrawler(config=browser_config) as crawler:
         total_pages = await detect_total_pages(crawler, link)
         ################ for testing only ################
-        if total_pages >= 2:
-            print(f"Total pages {total_pages} > 2, limiting to 2 for testing.")
-            total_pages = 2
+        if total_pages >= 3:
+            print(f"Total pages {total_pages} > 3, limiting to 3 for testing.")
+            total_pages = 3
         ##################################################
         urls = [build_page_url(link, page) for page in range(1, total_pages + 1)]
 
