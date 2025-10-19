@@ -396,29 +396,31 @@ async def fetch_until_new(
 
 # ----- Detail enrichment helpers -----
 async def _fetch_detail_for_product(pid: str, detail_url: str) -> Optional[Dict[str, Any]]:
-    """
-    Calls your scrape_product_detail(url) in a thread, parses JSON string safely.
-    """
-    # minor jitter to avoid burst requests
     await asyncio.sleep(random.uniform(*DETAIL_SLEEP_RANGE))
     try:
-        # Run sync function without blocking event loop
-        from detail_main import scrape_product_detail 
-        print("Fetching detail for PID %s from %s" % (pid, detail_url))
+        from detail_main import scrape_product_detail
+        print(f"   [Enrich] Calling detail scraper for PID {pid} -> {detail_url}") # Debug print
     except ImportError:
-        
-        print("⚠️ detail_main.scrape_product_detail not found; cannot fetch detail.")
-        return None
+        print("   [Enrich] ⚠️ detail_main.py or scrape_product_detail not found.")
+        # Return an error dict instead of None, so it gets cached
+        return {"_error": "detail_main import failed"}
 
-    raw = await asyncio.to_thread(scrape_product_detail, detail_url)
-    if raw is None:
-        return None
+    # Run the synchronous scrape_product_detail in a thread
+    raw_json_string = await asyncio.to_thread(scrape_product_detail, detail_url)
+
+    if raw_json_string is None:
+        print(f"   [Enrich] ⚠️ Scraper returned None for {detail_url}")
+        return {"_error": "Scraper returned None"} # Return error dict
     try:
-        return json.loads(raw)
-    except Exception:
-        # Store raw in case it wasn't valid JSON
-        return {"_raw": raw}
-
+        # Attempt to parse the JSON string returned by the scraper
+        return json.loads(raw_json_string)
+    except json.JSONDecodeError:
+        print(f"   [Enrich] ⚠️ Scraper returned invalid JSON for {detail_url}: {raw_json_string[:100]}...")
+        # Store raw in case it wasn't valid JSON, include an error flag
+        return {"_error": "Invalid JSON returned", "_raw": raw_json_string}
+    except Exception as e:
+        print(f"   [Enrich] ❌ Error processing detail result for {detail_url}: {e}")
+        return {"_error": f"Processing error: {e}"}
 
 async def enrich_products_with_details(
     items: List[dict],
