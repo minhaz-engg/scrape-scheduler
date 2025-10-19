@@ -1,11 +1,18 @@
-# For scrape.py
+# For Daraz scraper (main.py, detail_main.py)
 crawl4ai
 python-dotenv
 
-# For build_corpus.py
-# (No external libraries)
+# For StarTech scraper (startech_scraper.py)
+firecrawl-py
+beautifulsoup4
+tenacity
+nest_asyncio
+# crawl4ai is already listed
 
-# For app.py
+# For Corpus builders
+# (No extra libraries needed beyond standard Python)
+
+# For RAG App (app.py)
 streamlit
 openai
 rank_bm25

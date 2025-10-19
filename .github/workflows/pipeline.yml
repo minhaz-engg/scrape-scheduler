@@ -36,25 +36,32 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
           python main.py
-
-      - name: Run Corpus Builder
+      
+      - name: Run StarTech Scraper (startech_scraper.py)
+        env:
+          # Add Firecrawl key as a secret in repo settings
+          FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }} 
         run: |
-          python build_corpus.py
+          python startech_scraper.py
+
+      - name: Build Combined RAG Corpus
+        run: |
+          # Use the new combined script (create this file next)
+          python build_combined_corpus.py
       
       # Pull the latest main branch
       - name: Pull latest changes from remote
-        run: git pull origin main 
+        run: git pull origin main --rebase # Use rebase to avoid merge commits
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # Message for the commit
-          commit_message: "Auto: Update product corpus"
-          
-          # The files to add and commit
-          file_pattern: "out/daraz_products_corpus.md out/daraz_products_corpus.txt out/daraz_products_corpus.jsonl result/*/*.json"
-          
-          # Git user details for the commit
+          commit_message: "Auto: Update combined product corpus"
+          # --- 👇 UPDATE FILE PATTERN ---
+          file_pattern: "out/combined_corpus.* result/*/*.json startech_products.csv" 
+          # --- 👆 ---
           commit_user_name: GitHub Actions Bot
           commit_user_email: actions@github.com
           commit_author: GitHub Actions Bot <actions@github.com>
+          # Add push options to handle potential force pushes cleanly
+          push_options: '--force --force-with-lease'
