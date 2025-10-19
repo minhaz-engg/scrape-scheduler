@@ -44,11 +44,11 @@ jobs:
       - name: Install Playwright browser dependencies
         run: playwright install --with-deps chromium 
 
-      - name: Run Daraz Scraper (daraz_scraper.py)
+      - name: Run Daraz Scraper (main.py)
         env:
           # Use secrets for sensitive API keys
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python daraz_scraper.py
+        run: python main.py
 
       - name: Run StarTech Scraper (startech_scraper.py)
         env:
