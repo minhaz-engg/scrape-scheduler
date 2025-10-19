@@ -136,10 +136,14 @@ celerybeat.pid
 
 # Environments
 .env
+.env.example
 .envrc
 .venv
 env/
 venv/
+sigenv/
+.emb_cache.pkl
+
 ENV/
 env.bak/
 venv.bak/

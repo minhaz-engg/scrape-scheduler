@@ -1,0 +1,12 @@
+# For scrape.py
+crawl4ai
+python-dotenv
+
+# For build_corpus.py
+# (No external libraries)
+
+# For app.py
+streamlit
+openai
+rank_bm25
+chonkie
