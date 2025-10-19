@@ -652,17 +652,17 @@ async def main():
     print("=== Crawl4AI (category + PDP enrichment) ===")
     # any category/search URL
     list_category_links = [
-        "https://www.daraz.com.bd/mens-sports-football-shirts-and-merchandise/",
-        "https://www.daraz.com.bd/mens-chronograph/",
-        "https://www.daraz.com.bd/mens-sneakers/",
-        "https://www.daraz.com.bd/mens-polo-shirts/",
-        "https://www.daraz.com.bd/keyboards-gaming/",
-        "https://www.daraz.com.bd/gaming-controllers/",
-        "https://www.daraz.com.bd/headphones-headsets-accessories/",
-        "https://www.daraz.com.bd/laptops/",
-        "https://www.daraz.com.bd/gaming-laptops/",
-        "https://www.daraz.com.bd/macbooks/",
-        "https://www.daraz.com.bd/smart-watches/",
+        # "https://www.daraz.com.bd/mens-sports-football-shirts-and-merchandise/",
+        # "https://www.daraz.com.bd/mens-chronograph/",
+        # "https://www.daraz.com.bd/mens-sneakers/",
+        # "https://www.daraz.com.bd/mens-polo-shirts/",
+        # "https://www.daraz.com.bd/keyboards-gaming/",
+        # "https://www.daraz.com.bd/gaming-controllers/",
+        # "https://www.daraz.com.bd/headphones-headsets-accessories/",
+        # "https://www.daraz.com.bd/laptops/",
+        # "https://www.daraz.com.bd/gaming-laptops/",
+        # "https://www.daraz.com.bd/macbooks/",
+        # "https://www.daraz.com.bd/smart-watches/",
         "https://www.daraz.com.bd/smartphones/",
         "https://www.daraz.com.bd/tablets/",
     ]
