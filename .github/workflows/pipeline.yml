@@ -7,7 +7,7 @@ on:
   # 2. Runs on a schedule
   schedule:
     # Runs "at minute 0 past every 3rd hour" (e.g., 00:00, 03:00, 06:00 UTC)
-    - cron: '0 */3 * * *'
+    - cron: '0 */6 * * *'
 
 jobs:
   scrape-and-build:
