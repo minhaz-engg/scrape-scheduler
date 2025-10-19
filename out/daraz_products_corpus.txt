@@ -1,0 +1,3552 @@
+DARAZ PRODUCT CORPUS
+
+### DOC START | id=369372786 | category=gaming controllers
+PRODUCT: PS4 DualShock 4 Wireless Controller
+CATEGORY: gaming controllers
+SKU: 369372786_BD-1849143572
+PRICE: ৳ 1,399
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=210087222 | category=gaming controllers
+PRODUCT: PS3 Controller wirless
+CATEGORY: gaming controllers
+SKU: 210087222_BD-1160219820
+PRICE: ৳ 799
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=176198169 | category=gaming controllers
+PRODUCT: FANTECH REVOLVER GP12 Gamepad Wired PC Game Controller Joystick Dual Vibration For Windows PC PS3 Playstation Android
+CATEGORY: gaming controllers
+SKU: 176198169_BD-1115906946
+PRICE: ৳ 1,750
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=208123963 | category=gaming controllers
+PRODUCT: PS3 Controller Wireless Dualshock Remote/Gamepad Control for Sony Playstation 3 Bluetooth PS3 Sixaxis Joystick
+CATEGORY: gaming controllers
+SKU: 208123963_BD-1158182341
+PRICE: ৳ 950
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=390277751 | category=gaming controllers
+PRODUCT: PS4 DualShock 4 Wireless Controller
+CATEGORY: gaming controllers
+SKU: 390277751_BD-1948766363
+PRICE: ৳ 1,395
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=530376014 | category=gaming controllers
+PRODUCT: UCOM PC Dual Shock UCom Wired Game Controller Gaming Joypad Joystick USB Gamepad Joy stick Game pad Joy pad For Win7/ XP For PC Laptop
+CATEGORY: gaming controllers
+SKU: 530376014_BD-2547131774
+PRICE: ৳ 520
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=206581825 | category=gaming controllers
+PRODUCT: FANTECH GP13 SHOOTER-II Gamepad Wired PC Game Controller Joystick Dual Vibration Saturn for Windows PC PS3 Playstation Android Gamepad
+CATEGORY: gaming controllers
+SKU: 206581825_BD-1155854551
+PRICE: ৳ 1,850
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=404557772 | category=gaming controllers
+PRODUCT: PS4 Dual shock 4 Wireless Controller for PS4
+CATEGORY: gaming controllers
+SKU: 404557772_BD-2589961809
+PRICE: ৳ 1,499
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=530973155 | category=gaming controllers
+PRODUCT: Ucom PC Vibration Joypad, a wired USB gaming controller for PCs
+CATEGORY: gaming controllers
+SKU: 530973155_BD-2548892420
+PRICE: ৳ 550
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=545917766 | category=gaming controllers
+PRODUCT: UCOM PC Dual Shock UCom Wired Game Controller Gaming Joypad Joystick USB Gamepad Joy stick Game pad Joy pad For Win7/ XP For PC Laptop
+CATEGORY: gaming controllers
+SKU: 545917766_BD-2568173706
+PRICE: ৳ 546
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=189732406 | category=gaming controllers
+PRODUCT: PlayStation 3 Dualshock 3 (PS3) Wireless Controller- Black
+CATEGORY: gaming controllers
+SKU: 189732406_BD-1137384529
+PRICE: ৳ 930
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=164446626 | category=gaming controllers
+PRODUCT: PS4 Controller - DualShock 4 Wireless Controller V2
+CATEGORY: gaming controllers
+SKU: 164446626_BD-1097194923
+PRICE: ৳ 1,890
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=523941520 | category=gaming controllers
+PRODUCT: Android Game controller PC for mobaile
+CATEGORY: gaming controllers
+SKU: 523941520_BD-2528391098
+PRICE: ৳ 1,350
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=210089215 | category=gaming controllers
+PRODUCT: PS3 Controller wirless
+CATEGORY: gaming controllers
+SKU: 210089215_BD-1160223767
+PRICE: ৳ 830
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=208120056 | category=gaming controllers
+PRODUCT: Sony PS2 Dual Shock 2/Wired Controller for Playstation 2
+CATEGORY: gaming controllers
+SKU: 208120056_BD-1158154466
+PRICE: ৳ 545
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=523967501 | category=gaming controllers
+PRODUCT: V8 Bluetooth Wireless Gaming Controller with Receiver, Joystick BT3.0 For iOS/Android/Smart T.V/PC Gamepad Joystick
+CATEGORY: gaming controllers
+SKU: 523967501_BD-2528587486
+PRICE: ৳ 1,500
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=306296083 | category=gaming controllers
+PRODUCT: Remote Bluetooth Control for VR Box
+CATEGORY: gaming controllers
+SKU: 306296083_BD-1369328947
+PRICE: ৳ 275
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=543021111 | category=gaming controllers
+PRODUCT: 【No-profit】 For Xbox Series X/s 2.4g Gaming Handle With Game Controller Joysticks For Pc Gamepad Accessories
+CATEGORY: gaming controllers
+SKU: 543021111_BD-2563120459
+PRICE: ৳ 1,033
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=529130216 | category=gaming controllers
+PRODUCT: USB Wireless Game Controller For Android Phone And PC
+CATEGORY: gaming controllers
+SKU: 529130216_BD-2545167056
+PRICE: ৳ 1,299
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=543261376 | category=gaming controllers
+PRODUCT: 2.4G Wireless Gamepad For PS3/TV Box/ Android Phone PC Joystick For Super Console X Pro Game Controller For PS3 accessories
+CATEGORY: gaming controllers
+SKU: 543261376_BD-2563570112
+PRICE: ৳ 1,290
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=124121718 | category=gaming controllers
+PRODUCT: PS3 Controller wirless
+CATEGORY: gaming controllers
+SKU: 124121718_BD-1044420356
+PRICE: ৳ 1,399
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=387571957 | category=gaming controllers
+PRODUCT: Wireless Game Controller Gamepad For TV Box PC Android Phone
+CATEGORY: gaming controllers
+SKU: 387571957_BD-2378766579
+PRICE: ৳ 1,299
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=467528354 | category=gaming controllers
+PRODUCT: Sony_PS4 Dual shock 4 Wireless Controller
+CATEGORY: gaming controllers
+SKU: 467528354_BD-2246937439
+PRICE: ৳ 1,680
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=208124730 | category=gaming controllers
+PRODUCT: Sony PS2 DualShock 2 Controller
+CATEGORY: gaming controllers
+SKU: 208124730_BD-1158185219
+PRICE: ৳ 580
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=253303460 | category=gaming controllers
+PRODUCT: RC-879M Remote Control for Onkyo TX-NR535 TX-SR333 HT-R393 HT-S3700 Power Emplifier AV Receiver Controller Remote
+CATEGORY: gaming controllers
+SKU: 253303460_BD-1198822054
+PRICE: ৳ 1,159
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=208109759 | category=gaming controllers
+PRODUCT: PS2 Dual Shock 2/Wired Controller for Playstation 2
+CATEGORY: gaming controllers
+SKU: 208109759_BD-1158154513
+PRICE: ৳ 555
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=318133834 | category=gaming controllers
+PRODUCT: UCoM - PC Vibration JoyPad/usb Game Pad for pc and Laptop
+CATEGORY: gaming controllers
+SKU: 318133834_BD-1449393342
+PRICE: ৳ 580
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=238802874 | category=gaming controllers
+PRODUCT: Havit HV-G69 USB with Vibration Gamepad
+CATEGORY: gaming controllers
+SKU: 238802874_BD-1182465914
+PRICE: ৳ 750
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=257693963 | category=gaming controllers
+PRODUCT: for PS5 Game Controller Silicone Protective Cover for PS5 Non-Slip Handle Cover
+CATEGORY: gaming controllers
+SKU: 257693963_BD-1208910583
+PRICE: ৳ 539
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=505251214 | category=gaming controllers
+PRODUCT: UCOM PC Dual Vibration Wired Game Controller Gaming Joypad Joystick USB Gamepad Joystick Gamepad Joypad For Win7/ XP For PC Laptop Vibration Gamepads
+CATEGORY: gaming controllers
+SKU: 505251214_BD-2437397601
+PRICE: ৳ 625
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=220322741 | category=gaming controllers
+PRODUCT: PS4 Controller Same as PS5 Controller for PS4, PC & Mobile
+CATEGORY: gaming controllers
+SKU: 220322741_BD-1167694529
+PRICE: ৳ 2,450
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=276477565 | category=gaming controllers
+PRODUCT: Arcade Joystick Controller Joystick Joystick with Circuit Board 5P Pin Without Light Joystick Game Console Handle
+CATEGORY: gaming controllers
+SKU: 276477565_BD-1255800239
+PRICE: ৳ 1,477
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=492859000 | category=gaming controllers
+PRODUCT: 10pcs for Gamepad Controller Replacement Touch Controller Rocker Cover Thumbstick Mushroom Cap
+CATEGORY: gaming controllers
+SKU: 492859000_BD-2379860021
+PRICE: ৳ 493
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=456972301 | category=gaming controllers
+PRODUCT: IPEGA PG-9078 BLUETOOTH GAMEPAD FOR IOS AND ANDROID, WINDOWS COMPATIBLE WITH PS4 AND NINTENDOW SWITCH ALSO PG 9078
+CATEGORY: gaming controllers
+SKU: 456972301_BD-2192607942
+PRICE: ৳ 1,950
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=523784057 | category=gaming controllers
+PRODUCT: 2.4G BT Remote Wireless Control Mando Android PC PS3 Tablet Gamepad Free Fire Mobile Game Controller for PUBG Trigger
+CATEGORY: gaming controllers
+SKU: 523784057_BD-2526664204
+PRICE: ৳ 1,400
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=551045073 | category=gaming controllers
+PRODUCT: 1 piece For PS4 PS5 Xbox One Series X/S Hall effect rocker Electromagnetic Analog Stick Third generation Anti drift Joysticks
+CATEGORY: gaming controllers
+SKU: 551045073_BD-2583777619
+PRICE: ৳ 492
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=208123969 | category=gaming controllers
+PRODUCT: PS3 Controller wirless- Black
+CATEGORY: gaming controllers
+SKU: 208123969_BD-1158179889
+PRICE: ৳ 930
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=486899298 | category=gaming controllers
+PRODUCT: PS3 DualShock 3 Wireless Controller-Black
+CATEGORY: gaming controllers
+SKU: 486899298_BD-2354940046
+PRICE: ৳ 850
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=546102854 | category=gaming controllers
+PRODUCT: Original ALPS New Model 3D Joystick for PS5 Gamepads, Replacement PS5 Controller Joystick for Sony PlayStation 5 Game Controller
+CATEGORY: gaming controllers
+SKU: 546102854_BD-2569045296
+PRICE: ৳ 357
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=401122741 | category=gaming controllers
+PRODUCT: PS4 DualShock 4 Wireless Controller
+CATEGORY: gaming controllers
+SKU: 401122741_BD-1980343983
+PRICE: ৳ 1,499
+SOURCE: www_daraz_com_bd_gaming_controllers / products.json
+### DOC END
+### DOC START | id=535974587 | category=gaming laptops
+PRODUCT: Lenovo LOQ AI Powered Gaming (9) (83DV00K0LK) 13th Gen Core i7 16GB RAM 512GB SSD RTX 3050 Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 535974587_BD-2552686956
+PRICE: ৳ 156,030
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=323077918 | category=gaming laptops
+PRODUCT: Acer Aspire 5 A515-57G (UN.K9TSI.009) 12th Gen i5-1240P 3.3 to 4.4 GHz, 8GB, 512GB SSD, RTX2050 4GB, Win 11, 15.6" FHD Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 323077918_BD-1534569495
+PRICE: ৳ 99,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=318823674 | category=gaming laptops
+PRODUCT: Gigabyte Gaming G5 KF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB, 512GB SSD, RTX4060 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 318823674_BD-1455753740
+PRICE: ৳ 142,250
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=347830241 | category=gaming laptops
+PRODUCT: HP VICTUS 15-FB1013 AMD Ryzen 5 7535HS 8GB RAM 512GB SSD 4GB RTX2050 15.6" FHD IPS Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 347830241_BD-1703298066
+PRICE: ৳ 88,500
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=322109154 | category=gaming laptops
+PRODUCT: MSI Modern 15 B12M Intel Core I7-1255U 12thGen 16GB 3200MHz RAM 512GB NVMe SSD 15.6 Inch FHD 60Hz Classic Black Laptop
+CATEGORY: gaming laptops
+SKU: 322109154_BD-1503661294
+PRICE: ৳ 109,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=496260656 | category=gaming laptops
+PRODUCT: Lenovo V14 Gen4 14' FHD Business Laptop, AMD Ryzen 5 7520U Processor 16GB LPDDR5 RAM 256GB PCIe SSD ,2gb graphics
+CATEGORY: gaming laptops
+SKU: 496260656_BD-2393499881
+PRICE: ৳ 74,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=471700773 | category=gaming laptops
+PRODUCT: ASUS TUF Gaming A15 FA506NFR-HN004W Ryzen 7-7435HS 8GB RAM, 512GB SSD, RTX 2050 GPU,Win 11, 15.6 Inch FHD Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 471700773_BD-2268629426
+PRICE: ৳ 105,100
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=275382755 | category=gaming laptops
+PRODUCT: Dell Inspiron 15 5510 11th Gen Core i5-11300H 3.1 to 4.4GHz, 8GB, 512GB SSD, Win10, 15.6 FHD Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 275382755_BD-1253177059
+PRICE: ৳ 94,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=476165158 | category=gaming laptops
+PRODUCT: HP PROBOOK 440 G10 CORE I7 13TH GEN 8GB RAM 512 GB DOS 14'' DISPLAY BACKLIT & FINGERPRINT
+CATEGORY: gaming laptops
+SKU: 476165158_BD-2291767565
+PRICE: ৳ 97,999
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=270395996 | category=gaming laptops
+PRODUCT: Lenovo IP Gaming 3i #82K100WFIN 3Y# 11th Gen i7-11370H 3.3 to 4.8GHz, 16GB, 256GB SSD + 1TB HDD, GTX 1650 4GB, 15.6 IPS Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 270395996_BD-1242129210
+PRICE: ৳ 145,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=536140001 | category=gaming laptops
+PRODUCT: Lenovo LOQ AI Powered Gaming (9) (83GS006LLK) 12th Gen Core-i5 16GB RAM 512GB SSD RTX 2050 Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 536140001_BD-2552805192
+PRICE: ৳ 107,610
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=536016183 | category=gaming laptops
+PRODUCT: Lenovo LOQ (E) Gaming (9) (83LK004KLK) 12th Gen Core i5 12GB RAM 512GB SSD RTX 2050 Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 536016183_BD-2552759191
+PRICE: ৳ 96,480
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=557075039 | category=gaming laptops
+PRODUCT: HP Elite Dragonfly Core i5 8th Gen 8GB RAM 13.3" Touch
+CATEGORY: gaming laptops
+SKU: 557075039_BD-2590375704
+PRICE: ৳ 52,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=326100105 | category=gaming laptops
+PRODUCT: HP Victus 15-fa1090nia Intel Core i5 13th GEN 8GB DDR4 RAM 512GB NVME SSD NVDIA GeForce RTX 2050 4GB GDDR6 GPU 15.6″ FHD IPS LED Display Laptop
+CATEGORY: gaming laptops
+SKU: 326100105_BD-1570702228
+PRICE: ৳ 105,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=536024915 | category=gaming laptops
+PRODUCT: Lenovo LOQ Gaming (9) (83DV00F9LK) 13th Gen Core-i5 Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 536024915_BD-2552793001
+PRICE: ৳ 130,430
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=274584139 | category=gaming laptops
+PRODUCT: ASUS ROG Zephyrus G15 GA503RM Ryzen 7 6800HS Gaming Laptop - 16GB DDR5 RAM - 1TB M.2 NVMe SSD - RTX 3060 6GB GDDR6 Graphics - 15.6-inch 2K WQHD Display - Eclipse Gray #GA503RM-LN058W
+CATEGORY: gaming laptops
+SKU: 274584139_BD-1250431244
+PRICE: ৳ 210,740
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=280334409 | category=gaming laptops
+PRODUCT: Gigabyte Aorus 15 XE4 12th Gen i7-12700H 2.3 to 4.7GHz,16GB, 1TB SSD, RTX3070Ti GDDR6 8GB,Windows 11, 15.6 Inch FHD IPS Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 280334409_BD-1266239620
+PRICE: ৳ 252,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=347824374 | category=gaming laptops
+PRODUCT: HP VICTUS 15-FB1013 AMD Ryzen 5 7535HS 8GB RAM 512GB SSD 4GB RTX2050 15.6" FHD IPS Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 347824374_BD-1703267143
+PRICE: ৳ 87,500
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=281228436 | category=gaming laptops
+PRODUCT: Lenovo Legion 7 16ACHg6 (82N600NFIN-3Y) Ryzen 9 5900HX 3.3 To 4.6GHz, 16GB, 1TB SSD, GTX 3080 16GB, Win11H, 16Inch WQXGA IPS Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 281228436_BD-1268929231
+PRICE: ৳ 356,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=226089603 | category=gaming laptops
+PRODUCT: Lenovo IdeaPad Gaming 3 (82K201AXIN-3Y) AMD Ryzen 7 5800H 3.2 to 4.4GHz, 16GB, 256GB SSD+ 1TB HDD, GTX1650 4GB, Win11H,15.6Inch FHD Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 226089603_BD-1268550140
+PRICE: ৳ 115,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=357028728 | category=gaming laptops
+PRODUCT: Gigabyte AORUS 16X AKG Intel Core i7 14650HX 16GB RAM, 1TB SSD 16 Inch 2.5K QHD WQXGA Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 357028728_BD-1757715913
+PRICE: ৳ 237,150
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=356182777 | category=gaming laptops
+PRODUCT: Gigabyte G5 KF5 Core i7 13th Gen RTX 4060 8GB Graphics 15.6" FHD 144Hz Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 356182777_BD-1755373358
+PRICE: ৳ 161,700
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=530552608 | category=gaming laptops
+PRODUCT: HP Victus 16-r1237TX (AP0Y8PA) Intel 14th Gen Core i5 14450HX 2.4 to 4.8GHz, 16GB LPDDR5, 512B SSD, 6GB RTX 3050, Win 11, 16.1 Inch IPS FHD Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 530552608_BD-2548575707
+PRICE: ৳ 145,099
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=328428153 | category=gaming laptops
+PRODUCT: Lenovo LOQ (I) Gaming (8) 13TH Gen Core i7 Laptop - 16GB RAM - 512GB SSD - 15.6 Inch FHD Display - NVIDIA GeForce RTX 4060 8GB GPU - 	FHD 1080p WebCam with E-shutter - Storm Grey - #82XV00L2LK
+CATEGORY: gaming laptops
+SKU: 328428153_BD-1602753509
+PRICE: ৳ 214,770
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=281172780 | category=gaming laptops
+PRODUCT: Lenovo Legion 5 Pro (82JQ00RYIN-3Y) Ryzen 7 5800H 3.2 to 4.4GHz, 16GB, 1TB SSD, GTX 3060 6GB, Win11H,16Inch WQXGA Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 281172780_BD-1268694897
+PRICE: ৳ 221,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=377192545 | category=gaming laptops
+PRODUCT: Acer Nitro 5 AN515-58-59JP (NH.QFHSI.008) Intel 12th Gen i5-12450H, 3.3 to 4.40GHz, 8GB, 512GB SSD, RTX3050 4GB Graphics, Win 11, 15.6 Inch FHD IPS Laptop
+CATEGORY: gaming laptops
+SKU: 377192545_BD-1890735596
+PRICE: ৳ 121,500
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=356406467 | category=gaming laptops
+PRODUCT: GIGABYTE AERO 16 OLED BKF Core i7 13th Gen RTX 4060 8GB Graphics 16" 4K OLED  Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 356406467_BD-1756672730
+PRICE: ৳ 204,850
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=523543469 | category=gaming laptops
+PRODUCT: Lenovo LOQ 15IAX9 (83GS006LLK) 12th Gen i5-12450HX 3.1 to 4.4GHz, 16GB DDR5, 512GB SSD, RTX2050 4GB, Win 11, 15.6 Inch FHD Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 523543469_BD-2525575395
+PRICE: ৳ 110,700
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=536221018 | category=gaming laptops
+PRODUCT: Lenovo LOQ 15IRX9 AI-Powered Gaming (83DV00V0LK) 13th Gen Core i7-13650HX 16GB RAM 1TB SSD RTX 4050 15.6-inch FHD Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 536221018_BD-2552803184
+PRICE: ৳ 167,160
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=530770130 | category=gaming laptops
+PRODUCT: HP Victus 16-r1237TX (AP0Y8PA) Intel 14th Gen Core i5 14450HX 2.4 to 4.8GHz, 16GB LPDDR5, 512B SSD, 6GB RTX 3050, Win 11, 16.1 Inch IPS FHD Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 530770130_BD-2548613471
+PRICE: ৳ 145,099
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=347807909 | category=gaming laptops
+PRODUCT: HP VICTUS 15-FB1013 AMD Ryzen 5 7535HS 8GB RAM 512GB SSD 4GB RTX2050 15.6" FHD IPS Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 347807909_BD-1703237681
+PRICE: ৳ 87,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=275391962 | category=gaming laptops
+PRODUCT: Dell Gaming G7 15 7500 10th Gen i7-10750H 2.6 to 5GHz, 16GB, 512GB SSD, RTX2060 6GB, W10, 15.6 FHD Laptop
+CATEGORY: gaming laptops
+SKU: 275391962_BD-1253192437
+PRICE: ৳ 180,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=356399226 | category=gaming laptops
+PRODUCT: Gigabyte AERO 16 OLED BKF Core i7 13th Gen 16GB,1TB SSD,8GB Graphics, Win 11H,16"OLED Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 356399226_BD-1756658809
+PRICE: ৳ 204,800
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=328410343 | category=gaming laptops
+PRODUCT: Lenovo LOQ Gaming (8) 13TH Gen Core i7 Laptop - 16GB RAM -512GB SSD -  15.6 Inch FHD Display -  NVIDIA GeForce RTX 4050 6GB GPU - FHD 1080p WebCam with E-shutter - Storm Grey - #82XV00L1LK
+CATEGORY: gaming laptops
+SKU: 328410343_BD-1602743366
+PRICE: ৳ 206,090
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=378216175 | category=gaming laptops
+PRODUCT: Acer Nitro AN515-58-79MU (NH.QFKSI.001) Intel 12th Gen i7-12700H 3.5 to 4.7GHz, 16GB, 1TB HDD, 512GB SSD, RTX3050TI 4GB Graphics, Win 11, 15.6 FHD IPS Laptop
+CATEGORY: gaming laptops
+SKU: 378216175_BD-1897181862
+PRICE: ৳ 171,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=316665352 | category=gaming laptops
+PRODUCT: Lenovo IdeaPad Gaming 3i Laptop: 12th Gen Intel Core i7 Processor - 16GB RAM, 512GB SSD, NVIDIA RTX 3050 Graphics, 16" Display
+CATEGORY: gaming laptops
+SKU: 316665352_BD-1434307437
+PRICE: ৳ 187,350
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=471636842 | category=gaming laptops
+PRODUCT: ASUS TUF Gaming A15 FA506NFR-HN004W Ryzen 7-7435HS 8GB RAM, 512GB SSD, RTX 2050 GPU,Win 11, 15.6 Inch FHD Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 471636842_BD-2268535114
+PRICE: ৳ 104,700
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=530709206 | category=gaming laptops
+PRODUCT: HP Victus 16-r1237TX (AP0Y8PA) Intel 14th Gen Core i5 14450HX 2.4 to 4.8GHz, 16GB LPDDR5, 512B SSD, 6GB RTX 3050, Win 11, 16.1 Inch IPS FHD Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 530709206_BD-2548612409
+PRICE: ৳ 145,099
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=354548625 | category=gaming laptops
+PRODUCT: Lenovo LOQ 15IRH8 (82XV00SGLK) 12th Gen Core-i5-12450H, 3.3GHz to 4.4GHz, 16GB, 512GB SSD, Win 11H, 15.6 FHD IPS Laptop
+CATEGORY: gaming laptops
+SKU: 354548625_BD-1739405981
+PRICE: ৳ 122,600
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=280330927 | category=gaming laptops
+PRODUCT: Gigabyte Aorus 5 SE4 12th Gen i7-12700H 2.3 to 4.7GHz,16GB, 512GB SSD, RTX3070 GDDR6 8GB,Windows 11, 15.6 Inch FHD IPS Gaming Laptop
+CATEGORY: gaming laptops
+SKU: 280330927_BD-1266237344
+PRICE: ৳ 247,000
+SOURCE: www_daraz_com_bd_gaming_laptops / products.json
+### DOC END
+### DOC START | id=327698849 | category=headphones headsets accessories
+PRODUCT: Tws fast  Genaration  Headphone Wireless Bluetooth  AAAAA
+CATEGORY: headphones headsets accessories
+SKU: 327698849_BD-2546167713
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=390008155 | category=headphones headsets accessories
+PRODUCT: (Only Cover) Transparent Earphone Case For Apple Airpods Pro and pro 2nd Gen Premium Earbuds Protective Cover
+CATEGORY: headphones headsets accessories
+SKU: 390008155_BD-1946390559
+PRICE: ৳ 99
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=416564479 | category=headphones headsets accessories
+PRODUCT: For Airpods_Pro 2 Silicone Soft Case- (Protective Headphone Case) - Maroon, Black, Blue, Grey,Green
+CATEGORY: headphones headsets accessories
+SKU: 416564479_BD-2047450770
+PRICE: ৳ 74
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=132484826 | category=headphones headsets accessories
+PRODUCT: 10pcs Silicone Rubber Earbud Tips - Replacement Earpads for Comfortable Fit
+CATEGORY: headphones headsets accessories
+SKU: 132484826_BD-1053524915
+PRICE: ৳ 89
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=530190748 | category=headphones headsets accessories
+PRODUCT: Premium AirPods Case Cover – Multiple Designs & Colors – High Quality Silicone & PU Leather Variants – Shockproof – Compatible with AirPods 1/2/Pro
+CATEGORY: headphones headsets accessories
+SKU: 530190748_BD-2546889953
+PRICE: ৳ 133
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=326060763 | category=headphones headsets accessories
+PRODUCT: Tws wireless bluetooth headphone 1fast genaration AAAAAA
+CATEGORY: headphones headsets accessories
+SKU: 326060763_BD-1570502823
+PRICE: ৳ 329
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=325660468 | category=headphones headsets accessories
+PRODUCT: Silicone Rubber Earbuds Tips, Eartips, Earpad 5 pairs
+CATEGORY: headphones headsets accessories
+SKU: 325660468_BD-1564673432
+PRICE: ৳ 89
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=475445624 | category=headphones headsets accessories
+PRODUCT: Case Cover for airpods pro with touchscreen Silicone soft 360 protection case for A9 Pro Max - touchscreen airpods pro with metal hanging clip
+CATEGORY: headphones headsets accessories
+SKU: 475445624_BD-2287278368
+PRICE: ৳ 170
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=511374892 | category=headphones headsets accessories
+PRODUCT: 3 in 1 headphone / earphone and keyboard stand holder
+CATEGORY: headphones headsets accessories
+SKU: 511374892_BD-2454796227
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=475457645 | category=headphones headsets accessories
+PRODUCT: Case Cover for airpods pro with touchscreen Silicone soft 360 protection case for A9 Pro Max - touchscreen airpods pro with metal hanging clip
+CATEGORY: headphones headsets accessories
+SKU: 475457645_BD-2287281316
+PRICE: ৳ 159
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=332652636 | category=headphones headsets accessories
+PRODUCT: Headphone Tula Silicone Rubber Earbuds Tips, , Earpad 2 Size 10 ps
+CATEGORY: headphones headsets accessories
+SKU: 332652636_BD-1620113779
+PRICE: ৳ 66
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=529600073 | category=headphones headsets accessories
+PRODUCT: For Airpods_Pro 2 Silicone Soft Case- (Protective Headphone Case)
+CATEGORY: headphones headsets accessories
+SKU: 529600073_BD-2545950074
+PRICE: ৳ 49
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=322733595 | category=headphones headsets accessories
+PRODUCT: For Airpods Pro Protective Cover for Apple Airpods 3 Bluetooth Headset
+CATEGORY: headphones headsets accessories
+SKU: 322733595_BD-1523262984
+PRICE: ৳ 125
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=553174330 | category=headphones headsets accessories
+PRODUCT: For Airpods_Pro 2 Silicone Soft Case- (Protective Headphone Case) -  Black, Blue best cover on daraz choice
+CATEGORY: headphones headsets accessories
+SKU: 553174330_BD-2585774757
+PRICE: ৳ 88
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=331285308 | category=headphones headsets accessories
+PRODUCT: M25 7.1 2.4G bluetooth auricular LED Display gaming in-ear ecouteur Wireless Ohrhorer Kopfhorer earphone earbuds With Powerbank
+CATEGORY: headphones headsets accessories
+SKU: 331285308_BD-1667389403
+PRICE: ৳ 485
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=387388488 | category=headphones headsets accessories
+PRODUCT: AirPods 1st/2nd generation protective silicone case
+CATEGORY: headphones headsets accessories
+SKU: 387388488_BD-2558961374
+PRICE: ৳ 195
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=336156093 | category=headphones headsets accessories
+PRODUCT: High Quality Airpods Pro Silicone Case With For Apple Logo ( Only Cover ) - Airpods Pro Case
+CATEGORY: headphones headsets accessories
+SKU: 336156093_BD-1637058552
+PRICE: ৳ 120
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=124092527 | category=headphones headsets accessories
+PRODUCT: KZ Earphone Bag Storage Box Pouch
+CATEGORY: headphones headsets accessories
+SKU: 124092527_BD-1044383961
+PRICE: ৳ 145
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=513191883 | category=headphones headsets accessories
+PRODUCT: (Only Cover) Silicone Case For Airpods A9 pro Touch Screen Display Protective Cover
+CATEGORY: headphones headsets accessories
+SKU: 513191883_BD-2464351251
+PRICE: ৳ 80
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=477093436 | category=headphones headsets accessories
+PRODUCT: For Airdods 2 i12 i11 buds air inpods 12 Protective Cover (only cover)
+CATEGORY: headphones headsets accessories
+SKU: 477093436_BD-2299139250
+PRICE: ৳ 49
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=351880690 | category=headphones headsets accessories
+PRODUCT: Transparent (Only Cover) Earphone Case Airpods Pro and Airpods pro 2nd Gen Case - EarPods Covers Shock Proof Protective Cover For Apple AirPods Case
+CATEGORY: headphones headsets accessories
+SKU: 351880690_BD-1727400587
+PRICE: ৳ 92
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=511372781 | category=headphones headsets accessories
+PRODUCT: daily uses wooden headphone / earphone stand
+CATEGORY: headphones headsets accessories
+SKU: 511372781_BD-2454758199
+PRICE: ৳ 180
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=541375380 | category=headphones headsets accessories
+PRODUCT: Vairal cover AirPods Pro Case Cover Silicone Protective Ultra Slim AirPod 3 BD china orgnial
+CATEGORY: headphones headsets accessories
+SKU: 541375380_BD-2560655386
+PRICE: ৳ 89
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=132154366 | category=headphones headsets accessories
+PRODUCT: Wooden Headphones Holder ICHH001, MDF Wood Stand for AirPods Pro, Gaming, Office, and Dormitory Use
+CATEGORY: headphones headsets accessories
+SKU: 132154366_BD-1052910553
+PRICE: ৳ 410
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=539997044 | category=headphones headsets accessories
+PRODUCT: ‎BOROMAXX BX38 Wireless Neckband 40H Backup 200MAH Battery Deep Bass | Noise Canceling Bluetooth Headset
+‎
+‎
+‎Boromaxx bx38 ওয়্যারলেস নেকব্যান্ড 40h ব্যাকআপ 200mah ব্যাটারি ডিপ বেইস গোলমাল ব্লুটুথ হেডসেট বাতিল করে
+CATEGORY: headphones headsets accessories
+SKU: 539997044_BD-2556689108
+PRICE: ৳ 499
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=454154682 | category=headphones headsets accessories
+PRODUCT: (Only Cover) For Apple (Airpods Pro/ pro 2nd Gen) Premium Earbuds Protective Cover (Headphone not included)
+CATEGORY: headphones headsets accessories
+SKU: 454154682_BD-2180190701
+PRICE: ৳ 199
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=234570110 | category=headphones headsets accessories
+PRODUCT: Usb Charging Data Cable For Wire Protection Cover 16M Data Cable Winder Data Cord Protector Cable Organizer Charging Cable Protector
+CATEGORY: headphones headsets accessories
+SKU: 234570110_BD-1418069141
+PRICE: ৳ 140
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=547595975 | category=headphones headsets accessories
+PRODUCT: For Airpods_Pro 2 Silicone Soft Case- (Protective Headphone Case)
+CATEGORY: headphones headsets accessories
+SKU: 547595975_BD-2578219729
+PRICE: ৳ 96
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=473985067 | category=headphones headsets accessories
+PRODUCT: Airpods Pro  Silicone Soft Case Protective Case 1st gen/2nd gen aipods pro cover selicon cover
+CATEGORY: headphones headsets accessories
+SKU: 473985067_BD-2276184388
+PRICE: ৳ 99
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=475478480 | category=headphones headsets accessories
+PRODUCT: Case Cover for airpods pro with touchscreen Silicone soft 360 protection case for A9 Pro Max - touchscreen airpods pro with metal hanging clip
+CATEGORY: headphones headsets accessories
+SKU: 475478480_BD-2287239371
+PRICE: ৳ 170
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=112674261 | category=headphones headsets accessories
+PRODUCT: KZ Compact EVA Earphone Storage Box Shockproof Travel Pouch 88x68x41mm
+CATEGORY: headphones headsets accessories
+SKU: 112674261_BD-1029642106
+PRICE: ৳ 150
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=318582092 | category=headphones headsets accessories
+PRODUCT: For Airpods Pro Protective Cover for Apple Airpods 3 Bluetooth Headset
+CATEGORY: headphones headsets accessories
+SKU: 318582092_BD-1453382342
+PRICE: ৳ 125
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=526911569 | category=headphones headsets accessories
+PRODUCT: KZ Earphone Case Bags Headphone Earbuds Bag Storage Carrying Pouch PU Box
+CATEGORY: headphones headsets accessories
+SKU: 526911569_BD-2538813302
+PRICE: ৳ 150
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=526799352 | category=headphones headsets accessories
+PRODUCT: For Airpods_Pro & Pro 2 Silicone Soft Case- (Protective Headphone Case) - By Audio Plus
+CATEGORY: headphones headsets accessories
+SKU: 526799352_BD-2538042437
+PRICE: ৳ 99
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=325466936 | category=headphones headsets accessories
+PRODUCT: iPOWER Soft Silicone Replacement Eartips Pain Reducing & Anti-Slip Ear Tips  Pack of 1 (5Pairs - 10Pcs) (Black)
+CATEGORY: headphones headsets accessories
+SKU: 325466936_BD-1561215729
+PRICE: ৳ 89
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=328309588 | category=headphones headsets accessories
+PRODUCT: AirPods Pro 2 Magnetic PU Leather Case with Hook for Apple
+CATEGORY: headphones headsets accessories
+SKU: 328309588_BD-1602192246
+PRICE: ৳ 165
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=385958986 | category=headphones headsets accessories
+PRODUCT: AirPods Pro Magnet Leather PU Case with Hook For apple Air Pods Pro
+CATEGORY: headphones headsets accessories
+SKU: 385958986_BD-1926152064
+PRICE: ৳ 159
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=485362851 | category=headphones headsets accessories
+PRODUCT: Silicone Wireless Bluetooth Headphones Sports Headphone Lanyard Prevents Loss
+CATEGORY: headphones headsets accessories
+SKU: 485362851_BD-2346209465
+PRICE: ৳ 85
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=207153126 | category=headphones headsets accessories
+PRODUCT: KZ Wired Earphone Cable for TRN-MT1: "C" Pin - Enhanced audio experience, durable, secure connection-Upgrade now
+CATEGORY: headphones headsets accessories
+SKU: 207153126_BD-1963877565
+PRICE: ৳ 390
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=345124245 | category=headphones headsets accessories
+PRODUCT: Silicone Protective Cover For Moondrop Space Travel
+CATEGORY: headphones headsets accessories
+SKU: 345124245_BD-1687195881
+PRICE: ৳ 220
+SOURCE: www_daraz_com_bd_headphones_headsets_accessories / products.json
+### DOC END
+### DOC START | id=530331684 | category=keyboards gaming
+PRODUCT: MEMO FS02 Silver Fiber Finger Sleeve Gaming 1 Pair- Silver Size 2
+CATEGORY: keyboards gaming
+SKU: 530331684_BD-2547053564
+PRICE: ৳ 380
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=319470531 | category=keyboards gaming
+PRODUCT: Gaming Keyboard White Color G21 RGB Lighting Keyboard - Elevate Gaming Setup With Stylish White Rgb Gaming Keyboard For PC /Laptop/Computer/Mobile
+CATEGORY: keyboards gaming
+SKU: 319470531_BD-1466392800
+PRICE: ৳ 740
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=108178646 | category=keyboards gaming
+PRODUCT: 3 Colour Backlit Wireless Mini Keyboard With Touchpad Mouse- Gaming - Rechargeable - Wireless Mouse Keyboard COMBO For Android TV Box /  PC / Laptop
+CATEGORY: keyboards gaming
+SKU: 108178646_BD-1023818851
+PRICE: ৳ 499
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=505202502 | category=keyboards gaming
+PRODUCT: JEDEL-K500 Suspended USB Gaming Keyboard With Color Backlight
+CATEGORY: keyboards gaming
+SKU: 505202502_BD-2437253071
+PRICE: ৳ 620
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=184127293 | category=keyboards gaming
+PRODUCT: Gaming Keyboard Rgb Lighting T-Wolf T20 Gaming Keyboard - Elevate Your Gaming Experience With Dynamic Rgb Lighting Effects
+CATEGORY: keyboards gaming
+SKU: 184127293_BD-1128852655
+PRICE: ৳ 842
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=384933840 | category=keyboards gaming
+PRODUCT: New 3 in 1 Bluetooth Gaming Keyboard Mouse Converter Combo Support For Android & IOS PC PUBG Mobile Game Accessories
+CATEGORY: keyboards gaming
+SKU: 384933840_BD-2579867099
+PRICE: ৳ 1,899
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=545896517 | category=keyboards gaming
+PRODUCT: GEARBEST 6 in 1 Mobile Gaming Combo Update Version WITH 3D GLASS
+CATEGORY: keyboards gaming
+SKU: 545896517_BD-2568091829
+PRICE: ৳ 1,999
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=278566153 | category=keyboards gaming
+PRODUCT: Rgb Keyboard Backlit Gaming Keyboard Twolf T20 Rgb Lighting - Illuminate Your Gaming Setup With Vibrant Colors
+CATEGORY: keyboards gaming
+SKU: 278566153_BD-1261031298
+PRICE: ৳ 833
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=330496710 | category=keyboards gaming
+PRODUCT: RGB Pro Gaming Keyboard with Bangla Layout: Illuminate Your Gaming Experience-a Unique Choice For Your Needs
+CATEGORY: keyboards gaming
+SKU: 330496710_BD-1610423387
+PRICE: ৳ 735
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=549124618 | category=keyboards gaming
+PRODUCT: M1 PRO 5 in 1 RGB Mobile Game Keyboard Mouse Combo Pack MK500
+CATEGORY: keyboards gaming
+SKU: 549124618_BD-2581700189
+PRICE: ৳ 990
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=532731619 | category=keyboards gaming
+PRODUCT: Mobile gaming keyboard Mk500
+CATEGORY: keyboards gaming
+SKU: 532731619_BD-2549708889
+PRICE: ৳ 2,053
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=505400619 | category=keyboards gaming
+PRODUCT: Gamwing Mix SE Mouse & Keyboard Comverter & Combo Pack for Android Mobile Games
+CATEGORY: keyboards gaming
+SKU: 505400619_BD-2578920527
+PRICE: ৳ 799
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=526884413 | category=keyboards gaming
+PRODUCT: Mini Colorful RGB Backlit One-Handed Gaming Keyboard Game Comfortable Left Hand Game Keypad and Mouse
+CATEGORY: keyboards gaming
+SKU: 526884413_BD-2538562769
+PRICE: ৳ 899
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=199256403 | category=keyboards gaming
+PRODUCT: AULA F2058 RGB BACKLIGHT MECHANICAL GAMING KEYBOARD MULTIMEDIA KNOW SOFTWARE CONTROL WRIST REST ANTI GHOSTING
+CATEGORY: keyboards gaming
+SKU: 199256403_BD-1146630132
+PRICE: ৳ 2,788
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=534630008 | category=keyboards gaming
+PRODUCT: Gamwing X8 Professional Gaming Handle Keyboard Mouse Converter Adaptor Set with Smart Recoil Control for Android Mobile Phone
+CATEGORY: keyboards gaming
+SKU: 534630008_BD-2551192724
+PRICE: ৳ 799
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=280317825 | category=keyboards gaming
+PRODUCT: Mechanical Keyboard With RGB Backlit HP GK400F Mechanical Switch Gaming Keyboard RGB Keyboard
+CATEGORY: keyboards gaming
+SKU: 280317825_BD-1266214504
+PRICE: ৳ 2,421
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=347963747 | category=keyboards gaming
+PRODUCT: JEDEL K500+ USB Gaming Keyboard With RGB Lighting
+CATEGORY: keyboards gaming
+SKU: 347963747_BD-1704768063
+PRICE: ৳ 715
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=350734463 | category=keyboards gaming
+PRODUCT: JEDEL K500 USB Gaming Keyboard With RGB Lighting
+CATEGORY: keyboards gaming
+SKU: 350734463_BD-1718892630
+PRICE: ৳ 599
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=543644257 | category=keyboards gaming
+PRODUCT: USB keyboard, an optical mouse, and a USB hub. It also highlights a "FREE OTG" (On-The-Go) adapter and positions the entire package as a "gaming combo pack".
+CATEGORY: keyboards gaming
+SKU: 543644257_BD-2565760150
+PRICE: ৳ 750
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=104114846 | category=keyboards gaming
+PRODUCT: Mini Keyboard With Touchpad Mouse - A Backlit Keyboard - 3 Colour Switchable RGB Keyboard Handheld Portable Wireless Keyboard 2.4 GHz
+CATEGORY: keyboards gaming
+SKU: 104114846_BD-1018846832
+PRICE: ৳ 532
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=320435937 | category=keyboards gaming
+PRODUCT: PUBG /FREEFIRE RGB Gaming Keyboard
+CATEGORY: keyboards gaming
+SKU: 320435937_BD-1628079221
+PRICE: ৳ 899
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=530207282 | category=keyboards gaming
+PRODUCT: One Handed Gaming Keyboard Rgb Backlit 35 Keys Portable Mini Gaming Keypad Ergonomic Game Controller For Pc Gamer, USB, Black
+CATEGORY: keyboards gaming
+SKU: 530207282_BD-2546927442
+PRICE: ৳ 1,200
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=314594488 | category=keyboards gaming
+PRODUCT: Rgb Lighting Pro Gaming Keyboard Df001 - Illuminate Your Gaming Setup With This Rgb Gaming Keyboard
+CATEGORY: keyboards gaming
+SKU: 314594488_BD-1414626476
+PRICE: ৳ 770
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=128282964 | category=keyboards gaming
+PRODUCT: FANTECH K614L Fighter III RGB Membrane Gaming Keyboards 26 Keys & Anti-ghosting 104 Keys For Gaming Game
+CATEGORY: keyboards gaming
+SKU: 128282964_BD-1048190482
+PRICE: ৳ 1,499
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=530190741 | category=keyboards gaming
+PRODUCT: PUBG/FREEFIRE RGB Gaming Keyboard one hand gaming keyboard
+CATEGORY: keyboards gaming
+SKU: 530190741_BD-2546887742
+PRICE: ৳ 750
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=186356122 | category=keyboards gaming
+PRODUCT: Gaming Keyboard Rgb Lighting G21 - Elevate Your Gaming Setup With Stylish Backlit Keyboard - Perfect For Gamers
+CATEGORY: keyboards gaming
+SKU: 186356122_BD-1132821741
+PRICE: ৳ 882
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=316814644 | category=keyboards gaming
+PRODUCT: Techdeal RGB Lighting PRO GAMING KEYBOARD with Bangla key
+CATEGORY: keyboards gaming
+SKU: 316814644_BD-1434836370
+PRICE: ৳ 749
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=543787135 | category=keyboards gaming
+PRODUCT: Gaming keyboard with LED backlight
+CATEGORY: keyboards gaming
+SKU: 543787135_BD-2566389988
+PRICE: ৳ 950
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=339755176 | category=keyboards gaming
+PRODUCT: One Handed Gaming Keyboard Rgb Backlit 35 Keys Portable Mini Gaming Keypad Ergonomic Game Controller For Pc Gamer, USB, Black
+CATEGORY: keyboards gaming
+SKU: 339755176_BD-1663893189
+PRICE: ৳ 750
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=319450729 | category=keyboards gaming
+PRODUCT: Combo Offer Keyboard + Mouse+ USB Hub
+CATEGORY: keyboards gaming
+SKU: 319450729_BD-1719477602
+PRICE: ৳ 694
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=316536405 | category=keyboards gaming
+PRODUCT: Gaming  Keyboard and Mouse Gaming Combo with Backlight Lighting | Full RGB Support
+CATEGORY: keyboards gaming
+SKU: 316536405_BD-1432702422
+PRICE: ৳ 950
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=313178471 | category=keyboards gaming
+PRODUCT: RGB PRO GAMING KEYBOARD With Led Key and Bangla
+CATEGORY: keyboards gaming
+SKU: 313178471_BD-1404143412
+PRICE: ৳ 750
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=316048585 | category=keyboards gaming
+PRODUCT: Havit KB876L USB Multi-Function Backlit Gaming Keyboard
+CATEGORY: keyboards gaming
+SKU: 316048585_BD-1429333930
+PRICE: ৳ 1,397
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=125286654 | category=keyboards gaming
+PRODUCT: I8-B Wireless Backlit Mini Keyboard With Touchpad Mouse - Versatile Wireless Keyboard Combo For Various Devices
+CATEGORY: keyboards gaming
+SKU: 125286654_BD-1045454292
+PRICE: ৳ 522
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=533457529 | category=keyboards gaming
+PRODUCT: T-Wolf T20 Wired RGB Gaming Keyboard
+CATEGORY: keyboards gaming
+SKU: 533457529_BD-2550028455
+PRICE: ৳ 845
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=505190836 | category=keyboards gaming
+PRODUCT: JEDEL-K500+ USB Colorful Backlight Gaming Keyboard With RGB Lighting
+CATEGORY: keyboards gaming
+SKU: 505190836_BD-2437216770
+PRICE: ৳ 640
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=286821299 | category=keyboards gaming
+PRODUCT: FANTECH MK876V2 SUMI EDITION TKL RGB Gradient Mechanical Keyboard Blue/Red Switch 25 Keys Anti-Ghosting.
+CATEGORY: keyboards gaming
+SKU: 286821299_BD-1285151226
+PRICE: ৳ 2,790
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=519285139 | category=keyboards gaming
+PRODUCT: Jedel K601 Single Hand RGB Gaming Keyboard
+CATEGORY: keyboards gaming
+SKU: 519285139_BD-2497428824
+PRICE: ৳ 715
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=100037253 | category=keyboards gaming
+PRODUCT: RGB Gaming Keyboard TWolf T20 Wired Semi Mechanical Membrane Keyboard With Mechanical Look And Feel RGB backlit keycaps full size keyboard
+CATEGORY: keyboards gaming
+SKU: 100037253_BD-1013861248
+PRICE: ৳ 772
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=446227988 | category=keyboards gaming
+PRODUCT: Paket Keyboard Gaming Single Hand RGB 5in1 Divipard Keyboard Gaming
+CATEGORY: keyboards gaming
+SKU: 446227988_BD-2136399162
+PRICE: ৳ 1,978
+SOURCE: www_daraz_com_bd_keyboards_gaming / products.json
+### DOC END
+### DOC START | id=324190342 | category=laptops
+PRODUCT: Hp G6 Laptop Core i5 gen 8 ram 8gb SSd 256 gb fullfresh body Look like new conditions  (Used)
+CATEGORY: laptops
+SKU: 324190342_BD-1554367470
+PRICE: ৳ 32,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=351896953 | category=laptops
+PRODUCT: Qbits Sigma X2 Laptop Intel® Core™ i5-1240P (1.70 GHz to 4.40 GHz 12 MB Cache) with 16 GB RAM and 500GB M.2 WD NVMe SSD
+CATEGORY: laptops
+SKU: 351896953_BD-1727524929
+PRICE: ৳ 64,999
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=290964754 | category=laptops
+PRODUCT: Walton Walpad 8G RAM	4GB Storage 64GB Display 8 inch IPS Quad Core Processor
+CATEGORY: laptops
+SKU: 290964754_BD-1294999941
+PRICE: ৳ 8,999
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=323881491 | category=laptops
+PRODUCT: Hp Laptop G3 1040 Ram 8gb ssd 256 gb 6th gen 14" display akdom full fresh ( used)
+CATEGORY: laptops
+SKU: 323881491_BD-1556733597
+PRICE: ৳ 23,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=332299991 | category=laptops
+PRODUCT: CHUWI HeroBook Plus Intel Celeron N4020 15.6 inch Laptop 8G+256G Gray color two years warranty
+CATEGORY: laptops
+SKU: 332299991_BD-1619295140
+PRICE: ৳ 27,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=323885381 | category=laptops
+PRODUCT: Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)
+CATEGORY: laptops
+SKU: 323885381_BD-1573748746
+PRICE: ৳ 22,999
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=530893382 | category=laptops
+PRODUCT: Lenovo thinkpad x390 core i5 gen 8th Ram 8gb ssd 256gb 13" display (used)
+CATEGORY: laptops
+SKU: 530893382_BD-2548861242
+PRICE: ৳ 39,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=323933944 | category=laptops
+PRODUCT: HP Laptop 15-R211TU gen 5th core i5 Ram 8gb Ssd 120 gb 2.2 GHz 15.6" LED (used)
+CATEGORY: laptops
+SKU: 323933944_BD-1552875736
+PRICE: ৳ 25,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=325048276 | category=laptops
+PRODUCT: Laptop lititude Model 3310 core i3 gen8 Ram 8gb ssd 128gb display 14" (used)
+CATEGORY: laptops
+SKU: 325048276_BD-1602721054
+PRICE: ৳ 25,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=557158267 | category=laptops
+PRODUCT: Walton 14.1" HD Laptop  PRELUDE A9400
+CATEGORY: laptops
+SKU: 557158267_BD-2590580780
+PRICE: ৳ 30,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=220920765 | category=laptops
+PRODUCT: Dell Vostro 14 3400 11th Gen i3-1115G4 3 to 4.1GHz, 4GB, 1TB HDD, 14 Inch HD Laptop
+CATEGORY: laptops
+SKU: 220920765_BD-1167987521
+PRICE: ৳ 50,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=533463775 | category=laptops
+PRODUCT: Lenovo thinkpad t430 Lenovo	Thinkpad T430	
+Core i5-3320M	
+500/8	
+14" (1366x768)
+CATEGORY: laptops
+SKU: 533463775_BD-2550027945
+PRICE: ৳ 21,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=335950158 | category=laptops
+PRODUCT: Chuwi HeroBook Pro 14.1 Inch Celeron N4020 1.1 to 2.8GHz, 8GB, 256GB, Win11 Laptop
+CATEGORY: laptops
+SKU: 335950158_BD-1635109868
+PRICE: ৳ 38,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=530469265 | category=laptops
+PRODUCT: Walton Prelude N41 Pro 8GB RAM 256GB SSD Intel Gemini Lake Quad-Core Processor 14 INCH FHD DISPLAY  LAPTOP
+CATEGORY: laptops
+SKU: 530469265_BD-2547673959
+PRICE: ৳ 25,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=308563340 | category=laptops
+PRODUCT: Dell Vostro 3400 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 1TB HDD,128GB NVMe, 14 Inch HD Laptop
+CATEGORY: laptops
+SKU: 308563340_BD-1384060141
+PRICE: ৳ 52,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=557149580 | category=laptops
+PRODUCT: Chuwi MiniBook X 2 in 1 (12th Gen Standard) Intel Core N150 12GB RAM, 512GB SSD 10.5 Inch FHD+ WUXGA Display Grey Laptop
+CATEGORY: laptops
+SKU: 557149580_BD-2590590293
+PRICE: ৳ 59,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=540741752 | category=laptops
+PRODUCT: Walton Walpad 8G RAM 4GB Storage 64GB Display 8 inch IPS Octa Core Processor With Flip Cover
+CATEGORY: laptops
+SKU: 540741752_BD-2558736213
+PRICE: ৳ 9,750
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=333006706 | category=laptops
+PRODUCT: Qbits Sigma X2 Laptop Intel® Core™ i5-1240P (1.70 GHz to 4.40 GHz 12 MB Cache) with 16 GB RAM and 1TB M.2 WD NVMe SSD
+CATEGORY: laptops
+SKU: 333006706_BD-1622141245
+PRICE: ৳ 69,999
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=539160050 | category=laptops
+PRODUCT: Walton Prelude N41 Pro Celeron Intel Gemini Lake Quad-Core 1.10 GHz up to 2.60 GHz, 8GB DDR4, 256GB SSD, 14.1 Inch FHD Laptop
+CATEGORY: laptops
+SKU: 539160050_BD-2554953857
+PRICE: ৳ 26,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=222577195 | category=laptops
+PRODUCT: Lenovo IdeaPad 3 (82KT00QCIN-3Y) AMD Ryzen 5 5500U 2.1 to 4GHz, 8GB, 512GB SSD, Win11H,14Inch FHD Laptop
+CATEGORY: laptops
+SKU: 222577195_BD-1168960169
+PRICE: ৳ 73,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=275894655 | category=laptops
+PRODUCT: Dell Vostro 14 3400 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 1TB HDD, 14 Inch HD Laptop
+CATEGORY: laptops
+SKU: 275894655_BD-1254210633
+PRICE: ৳ 49,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=323269520 | category=laptops
+PRODUCT: HP 250 G9 Intel Core i5 12th Gen 8GB RAM 512GB SSD 15.6-inch FHD Display Laptop
+CATEGORY: laptops
+SKU: 323269520_BD-1539555398
+PRICE: ৳ 72,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=536000041 | category=laptops
+PRODUCT: Lenovo IdeaPad Slim 3i (8) (83EQ004JLK) 12th Gen Core-i5 Laptop
+CATEGORY: laptops
+SKU: 536000041_BD-2552665980
+PRICE: ৳ 71,220
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=327676746 | category=laptops
+PRODUCT: Xiaomi RedmiBook Pro 14 Ryzen 7 5700U 14" Laptop
+CATEGORY: laptops
+SKU: 327676746_BD-1598955744
+PRICE: ৳ 70,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=321733486 | category=laptops
+PRODUCT: HP ProBook 450 G9 Intel Core i5 12th gen 8GB Ram 512GB SSD 15.6 Inch FHD Display Laptop
+CATEGORY: laptops
+SKU: 321733486_BD-1498545907
+PRICE: ৳ 97,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=337007815 | category=laptops
+PRODUCT: Infinix InBook X2 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11 Home, 14 Inch FHD Laptop
+CATEGORY: laptops
+SKU: 337007815_BD-1907601892
+PRICE: ৳ 63,700
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=327342224 | category=laptops
+PRODUCT: HP 250 G9 12th Gen Core i3-1215U 3.3 to 4.4GHz, 8GB RAM, 256GB SSD, 15.6 Inch FHD Laptop
+CATEGORY: laptops
+SKU: 327342224_BD-1597345681
+PRICE: ৳ 60,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=527026945 | category=laptops
+PRODUCT: HP 250 G8 (5C3R7PA) Intel Celeron N4020 1.1 to 2.8GHz, 8GB RAM, 512GB SSD, Win 11, 15.6 Inch FHD Dark Ash Silver Laptop
+CATEGORY: laptops
+SKU: 527026945_BD-2539782044
+PRICE: ৳ 41,199
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=202094300 | category=laptops
+PRODUCT: Dell Inspiron 15 5502 11th Gen i5-1135G7 2.4 to 4.2GHz, 8GB RAM, 512GB SSD, 15.6 Inch FHD Laptop
+CATEGORY: laptops
+SKU: 202094300_BD-1149698041
+PRICE: ৳ 82,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=523940450 | category=laptops
+PRODUCT: HP 15-fd0292TU (A0MW3PA) Intel Core i5-1334U 13th Gen, 1.30 to 4.60 GHz, 8GGB SSD, Windows 11, 15.6 Inch FHD Display Moonlight Blue Laptop
+CATEGORY: laptops
+SKU: 523940450_BD-2528302502
+PRICE: ৳ 77,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=353049774 | category=laptops
+PRODUCT: Lenovo IdeaPad Slim 3i 15IRH8(83EM000MLK) Intel Core i5 13420H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop
+CATEGORY: laptops
+SKU: 353049774_BD-1733095255
+PRICE: ৳ 66,300
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=236690127 | category=laptops
+PRODUCT: HP 15s-du3561TU Intel Core i5-1135G7 2.4 to 4.2 GHz, 8 GB DDR4, 1 TB HDD, Win11 Home, 15.6"FHD Laptop
+CATEGORY: laptops
+SKU: 236690127_BD-1180102279
+PRICE: ৳ 70,900
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=455335459 | category=laptops
+PRODUCT: (New)HAWEEL Laptop leeve Cae Zipper
+CATEGORY: laptops
+SKU: 455335459_BD-2185216894
+PRICE: ৳ 1,758
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=391924951 | category=laptops
+PRODUCT: ASUS Vivobook 15 (X1504VA-NJ263W) 13TH Gen Core i7 16GB RAM 512GB SSD Laptop
+CATEGORY: laptops
+SKU: 391924951_BD-1955694102
+PRICE: ৳ 117,200
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=336998657 | category=laptops
+PRODUCT: Infinix InBook Y2 Plus 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11, 15.6 Inch FHD Laptop
+CATEGORY: laptops
+SKU: 336998657_BD-1907606852
+PRICE: ৳ 60,600
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=324188528 | category=laptops
+PRODUCT: Hp G5 Laptop Core i5 gen 8 ram 8gb SSd 256 gb (Used)
+CATEGORY: laptops
+SKU: 324188528_BD-1554368102
+PRICE: ৳ 39,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=530169285 | category=laptops
+PRODUCT: HP ProBooK 445 G8 Ryzen 7-5800U
+CATEGORY: laptops
+SKU: 530169285_BD-2546914115
+PRICE: ৳ 46,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=486987024 | category=laptops
+PRODUCT: Dell Inspiron 15 3520 Core i5 1235U 12th Gen 3.3 to 4.4GHz, 8GB , 512GB SSD, Free Dos, 15.6" FHD Carbon Black Laptop
+CATEGORY: laptops
+SKU: 486987024_BD-2355124854
+PRICE: ৳ 70,500
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=317801966 | category=laptops
+PRODUCT: Acer Extensa EX215-54-37AH 11th Gen i3-1115G4 3 to 4.1GHz, 4GB, 1TB, 15.6 FHD Laptop
+CATEGORY: laptops
+SKU: 317801966_BD-1914773233
+PRICE: ৳ 53,000
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=537136124 | category=laptops
+PRODUCT: Lenovo IdeaPad Slim 3i 82H802M6IN 11th Gen Core i7 8GB RAM 512GB SSD 15.6" FHD Laptop
+CATEGORY: laptops
+SKU: 537136124_BD-2552843418
+PRICE: ৳ 83,130
+SOURCE: www_daraz_com_bd_laptops / products.json
+### DOC END
+### DOC START | id=528128362 | category=macbooks
+PRODUCT: MacBook Air M4 13.6" [16/256GB] (2025)
+CATEGORY: macbooks
+SKU: 528128362_BD-2542801590
+PRICE: ৳ 118,799
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=478722990 | category=macbooks
+PRODUCT: Mackbook AIR M1  13'' 8/256
+CATEGORY: macbooks
+SKU: 478722990_BD-2303322649
+PRICE: ৳ 92,299
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352666243 | category=macbooks
+PRODUCT: Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB RAM, 512GB SSD, 14.2 Inch Liquid Retina XDR Laptop (Late 2023)
+CATEGORY: macbooks
+SKU: 352666243_BD-1733037150
+PRICE: ৳ 297,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352645071 | category=macbooks
+PRODUCT: Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB, 512GB SSD, 14.2" Liquid Retina XDR Laptop (Late 2023)
+CATEGORY: macbooks
+SKU: 352645071_BD-1733037218
+PRICE: ৳ 294,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352458168 | category=macbooks
+PRODUCT: Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB RAM, 512GB SSD, 14.2 Inch Liquid Retina XDR Laptop (Late 2023)
+CATEGORY: macbooks
+SKU: 352458168_BD-1732558066
+PRICE: ৳ 220,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=351909245 | category=macbooks
+PRODUCT: Apple MacBook Air MGN63 (Late 2020) M1 Chip 2.06-3.8GHz, 8GB, 256GB SSD, 13.3 Inch Retina IPS Laptop
+CATEGORY: macbooks
+SKU: 351909245_BD-1897493071
+PRICE: ৳ 111,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352441099 | category=macbooks
+PRODUCT: Apple MacBook Air MLXW3 M2 Chip 2.42 to 3.48GHz, 8GB RAM, 256GB SSD, 13.6 Inch Retina IPS Laptop (Late 2022)
+CATEGORY: macbooks
+SKU: 352441099_BD-1732476112
+PRICE: ৳ 153,500
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352436414 | category=macbooks
+PRODUCT: Apple MacBook Air MLXW3 M2 Chip 2.42 to 3.48GHz, 8GB, 256GB SSD, 13.6" Retina IPS Laptop (Late 2022)
+CATEGORY: macbooks
+SKU: 352436414_BD-1732463806
+PRICE: ৳ 153,200
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352454372 | category=macbooks
+PRODUCT: Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB, 512GB SSD, 14.2" Liquid Retina XDR Laptop (Late 2023)
+CATEGORY: macbooks
+SKU: 352454372_BD-1732552971
+PRICE: ৳ 218,500
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=351899545 | category=macbooks
+PRODUCT: Apple MacBook Air MGN63 M1 Chip 2.06-3.8GHz, 8GB, 256GB SSD, 13.3" Retina IPS Laptop (Late 2020)
+CATEGORY: macbooks
+SKU: 351899545_BD-1727582735
+PRICE: ৳ 111,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=351907499 | category=macbooks
+PRODUCT: Apple MacBook Air MGN63 M1 Chip 2.06-3.8GHz, 8GB RAM, 256GB SSD, 13.3Inch Retina IPS Laptop (Late 2020)
+CATEGORY: macbooks
+SKU: 351907499_BD-1727589513
+PRICE: ৳ 111,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=537757633 | category=macbooks
+PRODUCT: Apple MacBook pro
+CATEGORY: macbooks
+SKU: 537757633_BD-2553280989
+PRICE: ৳ 25,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352503895 | category=macbooks
+PRODUCT: Apple MacBook Pro MRX33 (Late 2023) M3 Pro Chip 2.8 to 4.06GHz, 18GB, 512GB SSD, 14.2 Inch Liquid Retina XDR Laptop
+CATEGORY: macbooks
+SKU: 352503895_BD-1897455241
+PRICE: ৳ 295,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352447340 | category=macbooks
+PRODUCT: Apple MacBook Pro MTL73 (Late 2023) M3 Chip 2.75 to 4.05GHz, 8GB, 512GB SSD, 14.2 Inch Liquid Retina XDR Laptop
+CATEGORY: macbooks
+SKU: 352447340_BD-1897482567
+PRICE: ৳ 219,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352437822 | category=macbooks
+PRODUCT: Apple MacBook Air MLXW3 (Late 2022) M2 Chip 2.42 to 3.48GHz, 8GB, 256GB SSD, 13.6 Inch Retina IPS Laptop
+CATEGORY: macbooks
+SKU: 352437822_BD-1897493153
+PRICE: ৳ 153,300
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=345303200 | category=macbooks
+PRODUCT: MacBook Air 13’’ 2020 M1 (8/256 GB)
+CATEGORY: macbooks
+SKU: 345303200_BD-1692369524
+PRICE: ৳ 89,999
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352431600 | category=macbooks
+PRODUCT: Apple MacBook Air MLXW3 M2 Chip 2.42 to 3.48GHz, 8GB, 256GB SSD, 13.6 Inch Retina IPS Laptop (Late 2022)
+CATEGORY: macbooks
+SKU: 352431600_BD-1732463804
+PRICE: ৳ 153,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352458091 | category=macbooks
+PRODUCT: Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB, 512GB SSD, 14.2 Inch Liquid Retina XDR Laptop (Late 2023)
+CATEGORY: macbooks
+SKU: 352458091_BD-1732541427
+PRICE: ৳ 218,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=345864354 | category=macbooks
+PRODUCT: MacBook Air 13.6’’ 2022 M2 (8/256GB)
+CATEGORY: macbooks
+SKU: 345864354_BD-1692369593
+PRICE: ৳ 102,499
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=528090922 | category=macbooks
+PRODUCT: MacBook Air M4 13.6" [16/512GB] (2025)
+CATEGORY: macbooks
+SKU: 528090922_BD-2542784929
+PRICE: ৳ 147,999
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=485957282 | category=macbooks
+PRODUCT: Mac Mini M4 Pro [24/512GB] (2024)
+CATEGORY: macbooks
+SKU: 485957282_BD-2349968660
+PRICE: ৳ 212,499
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=526624961 | category=macbooks
+PRODUCT: MacBook Air 13.6" 2024 M3 [16/256GB]
+CATEGORY: macbooks
+SKU: 526624961_BD-2537618346
+PRICE: ৳ 123,400
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=526499471 | category=macbooks
+PRODUCT: MacBook Pro 14" M4  [16/512]
+CATEGORY: macbooks
+SKU: 526499471_BD-2537222204
+PRICE: ৳ 212,200
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=351903728 | category=macbooks
+PRODUCT: Apple MacBook Air MGN63 M1 Chip 2.06-3.8GHz, 8GB, 256GB SSD, 13.3 Inch Retina IPS Laptop (Late 2020)
+CATEGORY: macbooks
+SKU: 351903728_BD-1727582651
+PRICE: ৳ 111,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=352572317 | category=macbooks
+PRODUCT: Apple MacBook Pro MRX33 M3 Pro Chip 2.8 to 4.06GHz, 18GB, 512GB SSD, 14.2 Inch Liquid Retina XDR Laptop (Late 2023)
+CATEGORY: macbooks
+SKU: 352572317_BD-1733037228
+PRICE: ৳ 293,000
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=345866383 | category=macbooks
+PRODUCT: MacBook Air 15" 2023 M2 (8/256GB)
+CATEGORY: macbooks
+SKU: 345866383_BD-1692372633
+PRICE: ৳ 153,999
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=345282664 | category=macbooks
+PRODUCT: MacBook Air 15" 2023 M2 (8/512GB)
+CATEGORY: macbooks
+SKU: 345282664_BD-1692401507
+PRICE: ৳ 167,999
+SOURCE: www_daraz_com_bd_macbooks / products.json
+### DOC END
+### DOC START | id=387088222 | category=mens chronograph
+PRODUCT: POEDAGAR 930 Men's New Luxury Luminous Date Week Stainless Steel Quartz Watch For Men
+CATEGORY: mens chronograph
+SKU: 387088222_BD-1930028435
+PRICE: ৳ 699
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=338378478 | category=mens chronograph
+PRODUCT: olevs leather waterproof quartz fashion watch for men
+CATEGORY: mens chronograph
+SKU: 338378478_BD-1653557925
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=326153870 | category=mens chronograph
+PRODUCT: LED Digital Fashionable Luxury Silicone Band Sports Colourful Belt Watch for Men
+CATEGORY: mens chronograph
+SKU: 326153870_BD-1572745302
+PRICE: ৳ 109
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=281485036 | category=mens chronograph
+PRODUCT: Black Analog Watch For Men
+CATEGORY: mens chronograph
+SKU: 281485036_BD-1812455267
+PRICE: ৳ 175
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=529134526 | category=mens chronograph
+PRODUCT: Inspired by CN Inspired by MEN  8301 Men’s PU Leather Quartz Waterproof Watch For Men's
+CATEGORY: mens chronograph
+SKU: 529134526_BD-2545218741
+PRICE: ৳ 388
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=368380161 | category=mens chronograph
+PRODUCT: Men Leather Analoge Quartz Fashion Watch for Men
+CATEGORY: mens chronograph
+SKU: 368380161_BD-1839289822
+PRICE: ৳ 199
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=368377006 | category=mens chronograph
+PRODUCT: Ole_vs Top Luxury Stainless Steel Analog quartz fashionable watch for men
+CATEGORY: mens chronograph
+SKU: 368377006_BD-1839284226
+PRICE: ৳ 302
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=535401390 | category=mens chronograph
+PRODUCT: Arabic Watch Waterproof Men's Quartz Watch Black PC Plastic watch for men - Aura Arabic Watch - Black
+CATEGORY: mens chronograph
+SKU: 535401390_BD-2552093922
+PRICE: ৳ 320
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=435642729 | category=mens chronograph
+PRODUCT: BINBOND 1236 Men's Classic Style Quartz Luminous Watch For Men
+CATEGORY: mens chronograph
+SKU: 435642729_BD-2110712186
+PRICE: ৳ 469
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=368384956 | category=mens chronograph
+PRODUCT: O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch
+CATEGORY: mens chronograph
+SKU: 368384956_BD-1839324706
+PRICE: ৳ 480
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=408740293 | category=mens chronograph
+PRODUCT: Lasika Men's Digital Sports Watch Waterproof Wrist Watches for Men with Stopwatch Alarm #157
+CATEGORY: mens chronograph
+SKU: 408740293_BD-2260454041
+PRICE: ৳ 330
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=331963696 | category=mens chronograph
+PRODUCT: TRSOYE new luxury fashion leather belt wrist-watche for men
+CATEGORY: mens chronograph
+SKU: 331963696_BD-1617597320
+PRICE: ৳ 329
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=286374194 | category=mens chronograph
+PRODUCT: New  Watch For Girls Men
+CATEGORY: mens chronograph
+SKU: 286374194_BD-1538760728
+PRICE: ৳ 89
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=339043801 | category=mens chronograph
+PRODUCT: New LED Watch That Looks Like The T800 is For Everyone Black , Sky Blue, Red, Ash, Orange. - Watch For Men
+CATEGORY: mens chronograph
+SKU: 339043801_BD-1950906072
+PRICE: ৳ 150
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=368369866 | category=mens chronograph
+PRODUCT: Ole_vs Top Luxury Stainless Steel Analog quartz fashionable watch for men
+CATEGORY: mens chronograph
+SKU: 368369866_BD-1839290867
+PRICE: ৳ 350
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=321101487 | category=mens chronograph
+PRODUCT: Men's Casual Digital Fashion Watch 3ATM Waterproof Quartz Watches Leather Strap Luminous Pointers Wrist Watches with 3 Adjustable Dial
+CATEGORY: mens chronograph
+SKU: 321101487_BD-1489374146
+PRICE: ৳ 390
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=294787107 | category=mens chronograph
+PRODUCT: Buterfly Fashionable Watch For Women+Box - Watch For Women
+CATEGORY: mens chronograph
+SKU: 294787107_BD-1304223127
+PRICE: ৳ 290
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=241033368 | category=mens chronograph
+PRODUCT: 1Pcs-Magnetic Watch For Girls - Watch For Women
+CATEGORY: mens chronograph
+SKU: 241033368_BD-1184467027
+PRICE: ৳ 99
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=156860908 | category=mens chronograph
+PRODUCT: New fashionable handwabs for women + free box
+CATEGORY: mens chronograph
+SKU: 156860908_BD-1086826360
+PRICE: ৳ 349
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=427242380 | category=mens chronograph
+PRODUCT: Poedagar 996L Luxury Watch for Men Sports Leather Men's Watches Waterproof Luminous Chronograph Men Quartz Watches - Watch For Men - Watch - Men Watch
+CATEGORY: mens chronograph
+SKU: 427242380_BD-2077775896
+PRICE: ৳ 350
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=537751930 | category=mens chronograph
+PRODUCT: New Black Arabic aura watch
+CATEGORY: mens chronograph
+SKU: 537751930_BD-2578320168
+PRICE: ৳ 330
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=266494990 | category=mens chronograph
+PRODUCT: New Fashionable stainless analogue Hand watches for men's - Watch
+CATEGORY: mens chronograph
+SKU: 266494990_BD-2567846530
+PRICE: ৳ 155
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=328406900 | category=mens chronograph
+PRODUCT: New  European and American fashionable Stailnless Steel Men's Quartz Watch For men-2
+CATEGORY: mens chronograph
+SKU: 328406900_BD-1622020353
+PRICE: ৳ 529
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=407285492 | category=mens chronograph
+PRODUCT: TRSOYE new luxury fashion leather belt wrist-watche for men
+CATEGORY: mens chronograph
+SKU: 407285492_BD-2018185683
+PRICE: ৳ 220
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=335911296 | category=mens chronograph
+PRODUCT: Inspired by SK 1787 rotation wheel stainless steel clock for men - Elegant and Refined - Modern Vibe - Express Style
+CATEGORY: mens chronograph
+SKU: 335911296_BD-1679834001
+PRICE: ৳ 788
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=526394738 | category=mens chronograph
+PRODUCT: New POEDAGAR 930 Men's New Luxury Luminous Date Week Stainless Steel Quartz Watch For Men
+CATEGORY: mens chronograph
+SKU: 526394738_BD-2536805182
+PRICE: ৳ 630
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=368378104 | category=mens chronograph
+PRODUCT: CURREN 8123 Analog Watch for Men - Black - Watch For Men
+CATEGORY: mens chronograph
+SKU: 368378104_BD-1839285512
+PRICE: ৳ 150
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=556647143 | category=mens chronograph
+PRODUCT: Olevs 9931 New luxury Fashion stainless steel Men Watch
+CATEGORY: mens chronograph
+SKU: 556647143_BD-2588637667
+PRICE: ৳ 424
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=324394484 | category=mens chronograph
+PRODUCT: TRSOYE new luxury fashion leather belt wrist-watche for men only Family Tuch
+CATEGORY: mens chronograph
+SKU: 324394484_BD-1677704236
+PRICE: ৳ 399
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=344148024 | category=mens chronograph
+PRODUCT: New Fashionable Analogue Watch with Date Hand - Men's Watches
+CATEGORY: mens chronograph
+SKU: 344148024_BD-1680041588
+PRICE: ৳ 399
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=259828451 | category=mens chronograph
+PRODUCT: Lavish indulgent Fashionable Watch Silicone Band Quartz Analog Wrist Watch For Men - Watch For Men - Iconic Style
+CATEGORY: mens chronograph
+SKU: 259828451_BD-1238136628
+PRICE: ৳ 159
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=318627420 | category=mens chronograph
+PRODUCT: skmei 1787 stainless steel watch for men
+CATEGORY: mens chronograph
+SKU: 318627420_BD-1857869680
+PRICE: ৳ 398
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=223713154 | category=mens chronograph
+PRODUCT: Round Strap Luxury Ladies Watch Girls Watch For Women - Watch For Women
+CATEGORY: mens chronograph
+SKU: 223713154_BD-1169653235
+PRICE: ৳ 185
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=217915921 | category=mens chronograph
+PRODUCT: Digital Watch Waterproof 30M Fashion Women's Watch for Men's Sports Waterproof Simple Silicone Electronic Watch for Men
+CATEGORY: mens chronograph
+SKU: 217915921_BD-1165833135
+PRICE: ৳ 89
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=349119178 | category=mens chronograph
+PRODUCT: New 2024 Popular Trsoye luxury fashion leather belt wrist-watch for men's
+CATEGORY: mens chronograph
+SKU: 349119178_BD-1714978281
+PRICE: ৳ 390
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=545518802 | category=mens chronograph
+PRODUCT: Arabic Aura Watch (Premium Quality) White Men Watch
+CATEGORY: mens chronograph
+SKU: 545518802_BD-2567721487
+PRICE: ৳ 319
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=274895819 | category=mens chronograph
+PRODUCT: Binbond 1236 men Watch stainless steel waterproof quartz movement wrist-watch
+CATEGORY: mens chronograph
+SKU: 274895819_BD-2554151133
+PRICE: ৳ 999
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=327989083 | category=mens chronograph
+PRODUCT: SKMEI 1971 Multiple Time Digital Analog Watch Black
+CATEGORY: mens chronograph
+SKU: 327989083_BD-1600347370
+PRICE: ৳ 750
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=350919890 | category=mens chronograph
+PRODUCT: Ole_vs 9931 luxury fashion waterproof stainless steel imported quartz movement ladies wristwatch for women
+CATEGORY: mens chronograph
+SKU: 350919890_BD-1721025332
+PRICE: ৳ 499
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=319071496 | category=mens chronograph
+PRODUCT: TRSOYE new luxury fashion leather belt wrist-watche for men only Dokhina Fashion-BD
+CATEGORY: mens chronograph
+SKU: 319071496_BD-1690844354
+PRICE: ৳ 390
+SOURCE: www_daraz_com_bd_mens_chronograph / products.json
+### DOC END
+### DOC START | id=337632644 | category=mens polo shirts
+PRODUCT: NEW Stylish Premium Quality Fashionable POLO Shirt  For Men
+CATEGORY: mens polo shirts
+SKU: 337632644_BD-1886339693
+PRICE: ৳ 223
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=383324577 | category=mens polo shirts
+PRODUCT: NEW Stylish POLO SHIRT Premium Quality Fashionable  For Men
+CATEGORY: mens polo shirts
+SKU: 383324577_BD-2019655601
+PRICE: ৳ 245
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=345184414 | category=mens polo shirts
+PRODUCT: premium quality cotton polo t shirt for men-Polo T shirt
+CATEGORY: mens polo shirts
+SKU: 345184414_BD-1687730930
+PRICE: ৳ 325
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=383327270 | category=mens polo shirts
+PRODUCT: NEW Stylish POLO SHIRT Premium Quality Fashionable  For Men
+CATEGORY: mens polo shirts
+SKU: 383327270_BD-2514519546
+PRICE: ৳ 249
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=365701826 | category=mens polo shirts
+PRODUCT: sports polo tshirt for summer
+CATEGORY: mens polo shirts
+SKU: 365701826_BD-2592217186
+PRICE: ৳ 290
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=510671870 | category=mens polo shirts
+PRODUCT: Combo  pack 2 pic NEW Stylish Premium Quality Fashionable POLO Shirt  For Men
+CATEGORY: mens polo shirts
+SKU: 510671870_BD-2451628971
+PRICE: ৳ 480
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=365705129 | category=mens polo shirts
+PRODUCT: summer polo t shirt for men
+CATEGORY: mens polo shirts
+SKU: 365705129_BD-2592217165
+PRICE: ৳ 290
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=407981016 | category=mens polo shirts
+PRODUCT: Stylish Premium Quality Summer Polo Shirt for Men - Classic Design Suitable for All Seasons
+CATEGORY: mens polo shirts
+SKU: 407981016_BD-2018775728
+PRICE: ৳ 199
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=337594349 | category=mens polo shirts
+PRODUCT: NEW Stylish Premium Quality Fashionable POLO Shirt  For Men
+CATEGORY: mens polo shirts
+SKU: 337594349_BD-1886389023
+PRICE: ৳ 249
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=347704168 | category=mens polo shirts
+PRODUCT: white pk poloshirt for men
+CATEGORY: mens polo shirts
+SKU: 347704168_BD-1701353660
+PRICE: ৳ 199
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=393757376 | category=mens polo shirts
+PRODUCT: Premium Trendy Stylist Design Men's Polo Shirt - Casual Elegance for All Seasons - Effortless Style for Everyday Wear
+CATEGORY: mens polo shirts
+SKU: 393757376_BD-1961063274
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=337583822 | category=mens polo shirts
+PRODUCT: NEW Stylish Premium Quality Fashionable POLO Shirt  For Men
+CATEGORY: mens polo shirts
+SKU: 337583822_BD-1647161388
+PRICE: ৳ 249
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=337631704 | category=mens polo shirts
+PRODUCT: NEW Stylish Premium Quality Fashionable POLO Shirt  For Men
+CATEGORY: mens polo shirts
+SKU: 337631704_BD-1843230347
+PRICE: ৳ 249
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=521903217 | category=mens polo shirts
+PRODUCT: Eid Special Fashionable Cotton Polo Shirt For Men - Polo Shirt
+CATEGORY: mens polo shirts
+SKU: 521903217_BD-2515424637
+PRICE: ৳ 309
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=393776197 | category=mens polo shirts
+PRODUCT: Premium Trendy Stylist Design Men's Polo Shirt - Casual Elegance for All Seasons - Effortless Style for Everyday Wear
+CATEGORY: mens polo shirts
+SKU: 393776197_BD-1961074471
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=393742333 | category=mens polo shirts
+PRODUCT: Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt,,
+CATEGORY: mens polo shirts
+SKU: 393742333_BD-1961007931
+PRICE: ৳ 349
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=367072121 | category=mens polo shirts
+PRODUCT: Premium Quality Men's Polo Shirt - Elevate Your Wardrobe with Casual Style - Timeless Appeal for Any Occasion
+CATEGORY: mens polo shirts
+SKU: 367072121_BD-1829749654
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=367048645 | category=mens polo shirts
+PRODUCT: Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt
+CATEGORY: mens polo shirts
+SKU: 367048645_BD-1829622291
+PRICE: ৳ 349
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=346022941 | category=mens polo shirts
+PRODUCT: Best quality cotton polo t-shirt for men-Polo T shirt
+CATEGORY: mens polo shirts
+SKU: 346022941_BD-1693175254
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=343770812 | category=mens polo shirts
+PRODUCT: Best quality cotton pk polo shirt for men-polo shirt
+CATEGORY: mens polo shirts
+SKU: 343770812_BD-1677013552
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=429519068 | category=mens polo shirts
+PRODUCT: Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt
+CATEGORY: mens polo shirts
+SKU: 429519068_BD-2083787663
+PRICE: ৳ 349
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=338727771 | category=mens polo shirts
+PRODUCT: premium Quality polo shirt For men's
+CATEGORY: mens polo shirts
+SKU: 338727771_BD-1786074210
+PRICE: ৳ 259
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=529669991 | category=mens polo shirts
+PRODUCT: Men's polo shirt in mulberry silk fabric
+CATEGORY: mens polo shirts
+SKU: 529669991_BD-2546307696
+PRICE: ৳ 268
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=265528634 | category=mens polo shirts
+PRODUCT: Black poli Cotton polo for men
+CATEGORY: mens polo shirts
+SKU: 265528634_BD-1237279204
+PRICE: ৳ 182
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=368295334 | category=mens polo shirts
+PRODUCT: RELIVE Original Premium Summer Polo T-shirt soft and comfortable mesh Fabric t shart for man stylish and printed polo T shart
+CATEGORY: mens polo shirts
+SKU: 368295334_BD-1838605401
+PRICE: ৳ 430
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=546061061 | category=mens polo shirts
+PRODUCT: New Men's Business Casual Short Sleeved Shirt with Badge Solid Color Polo Shirt Fashionable Breathable Comfortable Versatile Top
+CATEGORY: mens polo shirts
+SKU: 546061061_BD-2568435932
+PRICE: ৳ 1,453
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=368305419 | category=mens polo shirts
+PRODUCT: RELIVE Original Premium Summer Polo T-shirt soft and comfortable mesh Fabric t shart for man stylish and printed polo T shart
+CATEGORY: mens polo shirts
+SKU: 368305419_BD-2549730344
+PRICE: ৳ 450
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=367045492 | category=mens polo shirts
+PRODUCT: Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt
+CATEGORY: mens polo shirts
+SKU: 367045492_BD-2521622550
+PRICE: ৳ 349
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=220490894 | category=mens polo shirts
+PRODUCT: Stylish Polo New T-Shirt - Comfortable and Soft Wear Ideal for All Seasons
+CATEGORY: mens polo shirts
+SKU: 220490894_BD-1242667964
+PRICE: ৳ 290
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=393741775 | category=mens polo shirts
+PRODUCT: Premium Trendy Stylist Design Men's Polo Shirt - Casual Elegance for All Seasons - Effortless Style for Everyday Wear
+CATEGORY: mens polo shirts
+SKU: 393741775_BD-1961065508
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=135878009 | category=mens polo shirts
+PRODUCT: Combo Pack of 4 Classic Fit Performance Polo T-Shirt For Man
+CATEGORY: mens polo shirts
+SKU: 135878009_BD-1057938079
+PRICE: ৳ 799
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=303270401 | category=mens polo shirts
+PRODUCT: Premium  classic Cotton Polo t-Shirt For Men polo- Shirt - Polo T Shirt
+CATEGORY: mens polo shirts
+SKU: 303270401_BD-1351174397
+PRICE: ৳ 199
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=199414994 | category=mens polo shirts
+PRODUCT: Mesh Premium Polo Shirt for Men - Experience Comfort and Style with this Premium Quality Polo Shirt
+CATEGORY: mens polo shirts
+SKU: 199414994_BD-1147124380
+PRICE: ৳ 390
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=391816800 | category=mens polo shirts
+PRODUCT: premium Quality polo shirt For men's
+CATEGORY: mens polo shirts
+SKU: 391816800_BD-1955052003
+PRICE: ৳ 280
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=347707200 | category=mens polo shirts
+PRODUCT: poloshirt for men premium quality
+CATEGORY: mens polo shirts
+SKU: 347707200_BD-1701361526
+PRICE: ৳ 199
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=367067710 | category=mens polo shirts
+PRODUCT: Premium Quality Men's Polo Shirt - Elevate Your Wardrobe with Casual Style - Timeless Appeal for Any Occasion
+CATEGORY: mens polo shirts
+SKU: 367067710_BD-1829749510
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=538712601 | category=mens polo shirts
+PRODUCT: polo t shirt for men - best polo in summer
+CATEGORY: mens polo shirts
+SKU: 538712601_BD-2591022926
+PRICE: ৳ 250
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=135218314 | category=mens polo shirts
+PRODUCT: Sky blue Polo JPN T-shirt for man-20-Polo T shirt - Polo T Shirt
+CATEGORY: mens polo shirts
+SKU: 135218314_BD-1437324512
+PRICE: ৳ 250
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=367043748 | category=mens polo shirts
+PRODUCT: NEW Stylish Premium Quality Fashionable POLO Shirt For Men
+CATEGORY: mens polo shirts
+SKU: 367043748_BD-1829644090
+PRICE: ৳ 289
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=393740467 | category=mens polo shirts
+PRODUCT: Trendy Fashionable Cotton Polo Shirt For Men - Polo T-Shirt
+CATEGORY: mens polo shirts
+SKU: 393740467_BD-1961006379
+PRICE: ৳ 349
+SOURCE: www_daraz_com_bd_mens_polo_shirts / products.json
+### DOC END
+### DOC START | id=347609148 | category=mens sneakers
+PRODUCT: Versatile -Hot Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men- Avant-garde Any Color
+CATEGORY: mens sneakers
+SKU: 347609148_BD-1726995500
+PRICE: ৳ 447
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=316411162 | category=mens sneakers
+PRODUCT: Sneakers Men Casual Shoes Men Fashion Sneakers Light Weight - Experience Feather-Like Comfort
+CATEGORY: mens sneakers
+SKU: 316411162_BD-1434646360
+PRICE: ৳ 480
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=318526898 | category=mens sneakers
+PRODUCT: High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable
+CATEGORY: mens sneakers
+SKU: 318526898_BD-1453105356
+PRICE: ৳ 385
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=296108564 | category=mens sneakers
+PRODUCT: Rubber shoe  Rain shoe  UA Under Armour  Full rubber Loafer  Running Shoe  Handicraft Shop
+CATEGORY: mens sneakers
+SKU: 296108564_BD-2039103027
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=345989247 | category=mens sneakers
+PRODUCT: Hot Collection Stylish and Fashionable Low Top Summer and Winter Exclusive Converse Sneakers for Men - Comfortable and Suitable for All Seasons
+CATEGORY: mens sneakers
+SKU: 345989247_BD-1693070384
+PRICE: ৳ 508
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=416591028 | category=mens sneakers
+PRODUCT: Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Sneakers for Men
+CATEGORY: mens sneakers
+SKU: 416591028_BD-2047490473
+PRICE: ৳ 372
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=329703509 | category=mens sneakers
+PRODUCT: Blue White And Red Color Paint Casual Sneakers Canvas Shoes For Men Lightweight Breathable And Comfortable Shoes For Walking M17 - Stylish and Comfortable Sneakers
+CATEGORY: mens sneakers
+SKU: 329703509_BD-1607274154
+PRICE: ৳ 350
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=208951501 | category=mens sneakers
+PRODUCT: High-Quality Sneakers Men Casual Shoes - Stylish And Lightweight Footwear For Men -On Design For Convenience
+CATEGORY: mens sneakers
+SKU: 208951501_BD-1159133956
+PRICE: ৳ 313
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=416482935 | category=mens sneakers
+PRODUCT: Stylish and Fashionable Winter and Summer Sneakers for Men
+CATEGORY: mens sneakers
+SKU: 416482935_BD-2047413947
+PRICE: ৳ 410
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=392124662 | category=mens sneakers
+PRODUCT: Versatile -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Avant-garde
+CATEGORY: mens sneakers
+SKU: 392124662_BD-1956070760
+PRICE: ৳ 510
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=347762802 | category=mens sneakers
+PRODUCT: New Collection Fashionable Black blue And Gra Color PREMIUM Quality Sneakers Canvas shoes For Men C001
+CATEGORY: mens sneakers
+SKU: 347762802_BD-1703060969
+PRICE: ৳ 399
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=453281157 | category=mens sneakers
+PRODUCT: New Trendy Premium Quality Black Blue And Grey Color CANADIAN Canvas Sneakers Shoes For Men M6060
+CATEGORY: mens sneakers
+SKU: 453281157_BD-2170251645
+PRICE: ৳ 469
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=338058261 | category=mens sneakers
+PRODUCT: New Trendy Fashionable Black Grey Blue and Khaki Color Korean Canvas Sneakers Shoes for Men Slip On Casual Shoes
+CATEGORY: mens sneakers
+SKU: 338058261_BD-1651123603
+PRICE: ৳ 350
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=292578368 | category=mens sneakers
+PRODUCT: Sneakers Converse For Men 5G - Shoe For Boys - White Shoes - Walk in Ultimate Style
+CATEGORY: mens sneakers
+SKU: 292578368_BD-1299888437
+PRICE: ৳ 339
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=453210475 | category=mens sneakers
+PRODUCT: New Trendy Premium Quality Black Blue And Grey Color CANADIAN Canvas Sneakers Shoes For Men M6060
+CATEGORY: mens sneakers
+SKU: 453210475_BD-2169744062
+PRICE: ৳ 469
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=341056457 | category=mens sneakers
+PRODUCT: Unning Sneakers White Color Shoes Casual Lace-Up Winter And Summer Men'S Shoes - Shoes
+CATEGORY: mens sneakers
+SKU: 341056457_BD-1671168158
+PRICE: ৳ 319
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=432229221 | category=mens sneakers
+PRODUCT: FASHION 2024 Black Blue Grey And Cream Color Casual Canvas Sneakers Shoes For Men New Trendy And Lightweight Casual Loafer Shoes For Man
+CATEGORY: mens sneakers
+SKU: 432229221_BD-2097676427
+PRICE: ৳ 469
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=349040341 | category=mens sneakers
+PRODUCT: Indispensable-Quality And Durability-New Collection Black And White Color TopME Canvas Sneakers Shoes For Men Stylish And Comfortable Shoes For Summer M37
+CATEGORY: mens sneakers
+SKU: 349040341_BD-1714377059
+PRICE: ৳ 499
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=298793534 | category=mens sneakers
+PRODUCT: High-Quality Sports Sneakers Men Casual Shoes Fashionable Sneakers Flyknit Lightweight Slip-On - Stay Stylish And Comfortable With Qualityful Sneakers
+CATEGORY: mens sneakers
+SKU: 298793534_BD-1483768052
+PRICE: ৳ 494
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=341066336 | category=mens sneakers
+PRODUCT: Indispensable -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Innovative
+CATEGORY: mens sneakers
+SKU: 341066336_BD-1675862607
+PRICE: ৳ 505
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=351323481 | category=mens sneakers
+PRODUCT: Indispensable-Quality And Durability-Stylish Blue And Green Color SUPERAR Sports Sneakers Shoes For Men-Canvas Shoes For Summer M38
+CATEGORY: mens sneakers
+SKU: 351323481_BD-1722796743
+PRICE: ৳ 540
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=298867343 | category=mens sneakers
+PRODUCT: Hot Collection Stylish and Fashionable Low Top Winter and Summer Exclusive Converse Sneakers for Men - Comfortable and Suitable for All Seasons
+CATEGORY: mens sneakers
+SKU: 298867343_BD-1327289189
+PRICE: ৳ 498
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=326976327 | category=mens sneakers
+PRODUCT: Indispensable Hot Collection Stylish Low Top Sneakers for Men - Innovative - Comfortable All Seasons
+CATEGORY: mens sneakers
+SKU: 326976327_BD-1678255409
+PRICE: ৳ 570
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=341062108 | category=mens sneakers
+PRODUCT: New Lamborghini Sneaker Men Casual shoes - Shoes For Men
+CATEGORY: mens sneakers
+SKU: 341062108_BD-1671159600
+PRICE: ৳ 419
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=349308082 | category=mens sneakers
+PRODUCT: Indispensable-Quality And Durability-New Collection Black And White Color TopME Canvas Sneakers Shoes For Men Stylish And Comfortable Shoes For Summer M37
+CATEGORY: mens sneakers
+SKU: 349308082_BD-1729678023
+PRICE: ৳ 498
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=316205610 | category=mens sneakers
+PRODUCT: White Green And Red Color Full And Half Casual Canvas Sneakers Shoes For Men - Low Top Type - Perfect for Walking M12 - Comfortable
+CATEGORY: mens sneakers
+SKU: 316205610_BD-1430441608
+PRICE: ৳ 299
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=336177629 | category=mens sneakers
+PRODUCT: Indispensable -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Innovative
+CATEGORY: mens sneakers
+SKU: 336177629_BD-1637116621
+PRICE: ৳ 499
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=323365608 | category=mens sneakers
+PRODUCT: New Collection Black Green And Grey Color SPANISH Casual Sneakers Canvas Shoes For Men Comfortable And Lightweight Shoe For Walking M18
+CATEGORY: mens sneakers
+SKU: 323365608_BD-1540460902
+PRICE: ৳ 430
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=224101803 | category=mens sneakers
+PRODUCT: Sneakers for men white plain lace up trendy model classic shoes. - Shoes For Men
+CATEGORY: mens sneakers
+SKU: 224101803_BD-2527994590
+PRICE: ৳ 380
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=324232744 | category=mens sneakers
+PRODUCT: Stylish Black And Blue Color Winter Canvas Sneakers for Men
+CATEGORY: mens sneakers
+SKU: 324232744_BD-2349306990
+PRICE: ৳ 329
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=347184256 | category=mens sneakers
+PRODUCT: Brand New Uniquw Design Multicolore Love Sneakers for Men-Black And White
+CATEGORY: mens sneakers
+SKU: 347184256_BD-1697559198
+PRICE: ৳ 525
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=314469708 | category=mens sneakers
+PRODUCT: Versatile -Hot Collection Stylish And Fashionable Winter And Summer Exclusive High-Top Sneakers Converse Shoes For Men- Avant-garde
+CATEGORY: mens sneakers
+SKU: 314469708_BD-1413087592
+PRICE: ৳ 549
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=317916576 | category=mens sneakers
+PRODUCT: Loafer Styles' Rubber Sole Water-Proof and Wind-Proof Low Top Shoes For Men - Comfortable All Seasons
+CATEGORY: mens sneakers
+SKU: 317916576_BD-1447797125
+PRICE: ৳ 406
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=222827079 | category=mens sneakers
+PRODUCT: New Collection 2024 Better Choice Stylish And Fashionable Exclusive Sneakers For Men
+CATEGORY: mens sneakers
+SKU: 222827079_BD-1451668039
+PRICE: ৳ 499
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=382964977 | category=mens sneakers
+PRODUCT: New Collection New Trendy Blue White And Red Color PAINT Casual Sneakers Canvas Shoes For Men Lightweight Breathable And Comfortable Shoes For Walking M17
+CATEGORY: mens sneakers
+SKU: 382964977_BD-1918717081
+PRICE: ৳ 350
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=313806627 | category=mens sneakers
+PRODUCT: Premium New Collection Better Choice Stylish and Fashionable Exclusive Low Top Sneakers Converse for Men - Comfortable and Suitable for All Seasons
+CATEGORY: mens sneakers
+SKU: 313806627_BD-1407631056
+PRICE: ৳ 546
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=535143721 | category=mens sneakers
+PRODUCT: Men's Waterproof Loafers – Unique Style, Rubber Sole, Windproof for Summer & Winter – Black
+CATEGORY: mens sneakers
+SKU: 535143721_BD-2551950922
+PRICE: ৳ 364
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=416593024 | category=mens sneakers
+PRODUCT: Black & Khaki Cotton Fabrics Sneaker Shoes Slip-Ons & Sneakers for Men
+CATEGORY: mens sneakers
+SKU: 416593024_BD-2047497383
+PRICE: ৳ 335
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=330576453 | category=mens sneakers
+PRODUCT: Sneakers High Neck Mid for men Golden Black Shoes for Men - Shoes For Men
+CATEGORY: mens sneakers
+SKU: 330576453_BD-1610916242
+PRICE: ৳ 599
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=324439574 | category=mens sneakers
+PRODUCT: Fashionable Shoes for Men - Low Maintenance and Authentic Style - Comfortable and Durable Footwear - Stylish and Elegent
+CATEGORY: mens sneakers
+SKU: 324439574_BD-1552791516
+PRICE: ৳ 355
+SOURCE: www_daraz_com_bd_mens_sneakers / products.json
+### DOC END
+### DOC START | id=269939820 | category=mens sports football shirts and merchandise
+PRODUCT: B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey
+CATEGORY: mens sports football shirts and merchandise
+SKU: 269939820_BD-1322979567
+PRICE: ৳ 260
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=229293802 | category=mens sports football shirts and merchandise
+PRODUCT: New Balance Short Sleeve Polo Jersey for Men - Half Sleeve Polo T Shirt - Polo Jersey
+CATEGORY: mens sports football shirts and merchandise
+SKU: 229293802_BD-2553472050
+PRICE: ৳ 340
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=365683300 | category=mens sports football shirts and merchandise
+PRODUCT: Ac milan new home kit half sleeves jersey 2025/26
+CATEGORY: mens sports football shirts and merchandise
+SKU: 365683300_BD-2590592630
+PRICE: ৳ 339
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=424124764 | category=mens sports football shirts and merchandise
+PRODUCT: Japan Special Authentic Kit 2024 New Jersey Football Jersey Short Sleep Jersey Premium Quality Jersey Collar Jersey
+CATEGORY: mens sports football shirts and merchandise
+SKU: 424124764_BD-2070161080
+PRICE: ৳ 340
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=417313099 | category=mens sports football shirts and merchandise
+PRODUCT: B-d Short Sleeve Thai Premium Football Jersey For Men - Banglades Fan Jersey 2025/26
+CATEGORY: mens sports football shirts and merchandise
+SKU: 417313099_BD-2542860159
+PRICE: ৳ 380
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=416776573 | category=mens sports football shirts and merchandise
+PRODUCT: REALMADRID GOOD QUALITY HOME KIT NEW JERSEY
+CATEGORY: mens sports football shirts and merchandise
+SKU: 416776573_BD-2154171443
+PRICE: ৳ 350
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=269537498 | category=mens sports football shirts and merchandise
+PRODUCT: Brazil Short Sleeve Jersey 2025/26 Football Jersey For Man - Half Sleeve - Brazil Jersey 2025
+CATEGORY: mens sports football shirts and merchandise
+SKU: 269537498_BD-1241251304
+PRICE: ৳ 260
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=530775026 | category=mens sports football shirts and merchandise
+PRODUCT: Messi Thai Premium Football Jersey For Man - Half Sleeve T Shirt - Argentina Football Jersey 2025
+CATEGORY: mens sports football shirts and merchandise
+SKU: 530775026_BD-2558958409
+PRICE: ৳ 380
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=420257881 | category=mens sports football shirts and merchandise
+PRODUCT: club Jersey 2025/26 half sleeve thai premium
+CATEGORY: mens sports football shirts and merchandise
+SKU: 420257881_BD-2246714819
+PRICE: ৳ 389
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=275452355 | category=mens sports football shirts and merchandise
+PRODUCT: Argentina Home Thai Premium Football Jersey for Men - Argentina Football Jersey 2025
+CATEGORY: mens sports football shirts and merchandise
+SKU: 275452355_BD-1437664557
+PRICE: ৳ 350
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=318015264 | category=mens sports football shirts and merchandise
+PRODUCT: Japan Short Sleeve Football Jersey for Man - Half Sleeve T Shirt - Japan Jersey 2025-26
+CATEGORY: mens sports football shirts and merchandise
+SKU: 318015264_BD-2172488165
+PRICE: ৳ 249
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=268417593 | category=mens sports football shirts and merchandise
+PRODUCT: Bangladesh World Cup Jersey - Bangladesh Full Sleeve Polo Jersey For Men - Bangladesh Cricket Jersey 2025/26
+CATEGORY: mens sports football shirts and merchandise
+SKU: 268417593_BD-2158600328
+PRICE: ৳ 310
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=421352947 | category=mens sports football shirts and merchandise
+PRODUCT: club New Jersey 2025/26 half sleeve Thai premium
+CATEGORY: mens sports football shirts and merchandise
+SKU: 421352947_BD-2581697124
+PRICE: ৳ 389
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=319301851 | category=mens sports football shirts and merchandise
+PRODUCT: Jersey T Shirt For Men Super China Mesh Fabric
+CATEGORY: mens sports football shirts and merchandise
+SKU: 319301851_BD-1464857137
+PRICE: ৳ 180
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=555716977 | category=mens sports football shirts and merchandise
+PRODUCT: Japan Anime Short Sleeve Jersey 2025/2026 Thai Premium Football Jersey for Men - Half Sleeve - Japan Anime Jersey 2025
+CATEGORY: mens sports football shirts and merchandise
+SKU: 555716977_BD-2587548761
+PRICE: ৳ 349
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=290580341 | category=mens sports football shirts and merchandise
+PRODUCT: Japan Thai Premium Polo Football Jersey For Men - Half Sleeve Polo T Shirt - Japan Football Jersey 2025-26
+CATEGORY: mens sports football shirts and merchandise
+SKU: 290580341_BD-1293984237
+PRICE: ৳ 350
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=542302039 | category=mens sports football shirts and merchandise
+PRODUCT: Messi Short Sleeve Football Jersey For Man - Half Sleeve T Shirt - Argentina Football Jersey 2025
+CATEGORY: mens sports football shirts and merchandise
+SKU: 542302039_BD-2561406526
+PRICE: ৳ 250
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=345460206 | category=mens sports football shirts and merchandise
+PRODUCT: Real madrid new home kit full sleeves jersey 25/26
+CATEGORY: mens sports football shirts and merchandise
+SKU: 345460206_BD-2590480842
+PRICE: ৳ 369
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=459643092 | category=mens sports football shirts and merchandise
+PRODUCT: Real madrid new 3rd kit half sleeves jersey 25/26
+CATEGORY: mens sports football shirts and merchandise
+SKU: 459643092_BD-2586764389
+PRICE: ৳ 333
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=363918087 | category=mens sports football shirts and merchandise
+PRODUCT: Argentina new home kit full sleeves  jersey  2025/26
+CATEGORY: mens sports football shirts and merchandise
+SKU: 363918087_BD-2589554433
+PRICE: ৳ 379
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=530136663 | category=mens sports football shirts and merchandise
+PRODUCT: FC Barcelona Jersey - Player Edition Jersey - FC Barcelona FCB Football Club - Home/Away Kit - Special Fans Version Jersey Club Jersey 2024/25  - Short Sleeve - New Football Jersey - Premium
+CATEGORY: mens sports football shirts and merchandise
+SKU: 530136663_BD-2546831798
+PRICE: ৳ 359
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=271213103 | category=mens sports football shirts and merchandise
+PRODUCT: B-d Premium Short Sleeve Collar Banglades Fan Jersey for Man - Half Sleeve Polo T Shirt - Jersey 2025/2026
+CATEGORY: mens sports football shirts and merchandise
+SKU: 271213103_BD-2538067000
+PRICE: ৳ 380
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=327786750 | category=mens sports football shirts and merchandise
+PRODUCT: Palestine Short Sleeve Football Jersey For Men - Half Sleeve T Shirt - Palestine Football Jersey
+CATEGORY: mens sports football shirts and merchandise
+SKU: 327786750_BD-2543843292
+PRICE: ৳ 259
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=320717728 | category=mens sports football shirts and merchandise
+PRODUCT: liverpool new home kit 25/26 jersey half sleeves
+CATEGORY: mens sports football shirts and merchandise
+SKU: 320717728_BD-2586774557
+PRICE: ৳ 335
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=430164445 | category=mens sports football shirts and merchandise
+PRODUCT: Barcelona 23/24 Season Home Kit/Jersey
+CATEGORY: mens sports football shirts and merchandise
+SKU: 430164445_BD-2086107011
+PRICE: ৳ 300
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=297207191 | category=mens sports football shirts and merchandise
+PRODUCT: FC Barcelona Jersey - Player Edition Jersey - FC Barcelona FCB Football Club - Home/Away Kit - Special Fans Version Jersey Club Jersey 2024/25 - Thai Fabrics - Short Sleeve - New Football Jersey - UEFA Champions League 2024 Design - Premium
+CATEGORY: mens sports football shirts and merchandise
+SKU: 297207191_BD-2557516430
+PRICE: ৳ 348
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=472158263 | category=mens sports football shirts and merchandise
+PRODUCT: Portugal Short Sleeve Foodball Jersey-2024-2025
+CATEGORY: mens sports football shirts and merchandise
+SKU: 472158263_BD-2269638146
+PRICE: ৳ 270
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=302894619 | category=mens sports football shirts and merchandise
+PRODUCT: B-d Short sleeve Football Jersey for Man - Half Sleeve - Banglades Fan Jersey
+CATEGORY: mens sports football shirts and merchandise
+SKU: 302894619_BD-1348728900
+PRICE: ৳ 260
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=245014271 | category=mens sports football shirts and merchandise
+PRODUCT: Real Madrid Short Sleeve Football Jersey For Men - Real Madrid Jersey 2024/25
+CATEGORY: mens sports football shirts and merchandise
+SKU: 245014271_BD-1798891488
+PRICE: ৳ 249
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=268123216 | category=mens sports football shirts and merchandise
+PRODUCT: B-D Jersey - Football Short sleeve Jersey for Man - Banglades Fan Jersey
+CATEGORY: mens sports football shirts and merchandise
+SKU: 268123216_BD-1240211326
+PRICE: ৳ 260
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=336076043 | category=mens sports football shirts and merchandise
+PRODUCT: Ronaldo Short Sleeve Football Jersey For Man - Half Sleeve T Shirt - Portugal Football Jersey 2025
+CATEGORY: mens sports football shirts and merchandise
+SKU: 336076043_BD-1635893069
+PRICE: ৳ 250
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=313618233 | category=mens sports football shirts and merchandise
+PRODUCT: Juventus Jersey 2025/2026 Short Sleeve Football Jersey For Men - Half Sleeve T-Shirt - Juventus Football Jersey 2025
+CATEGORY: mens sports football shirts and merchandise
+SKU: 313618233_BD-1406321199
+PRICE: ৳ 250
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=303876756 | category=mens sports football shirts and merchandise
+PRODUCT: Man City Jersey - Player Edition Jersey - Man City Football Club - Home/Away Kit - Special Fans Version Club Jersey 2024/25 - Thai Fabrics - Short Sleeve - New Football Jersey - UEFA Champions League 2024 Design - Premium
+CATEGORY: mens sports football shirts and merchandise
+SKU: 303876756_BD-2557661999
+PRICE: ৳ 348
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=282673923 | category=mens sports football shirts and merchandise
+PRODUCT: Brazil Football Jersey Half Sleeve Polo T-Shirt for Men
+CATEGORY: mens sports football shirts and merchandise
+SKU: 282673923_BD-1295126432
+PRICE: ৳ 199
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=474794546 | category=mens sports football shirts and merchandise
+PRODUCT: Barcelona Short Sleeve Football Jersey 2025-26
+CATEGORY: mens sports football shirts and merchandise
+SKU: 474794546_BD-2282492873
+PRICE: ৳ 270
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=264042539 | category=mens sports football shirts and merchandise
+PRODUCT: Barcelona Jersey 2025/2026 Thai Premium Football Jersey For Men - Half Sleeve Polo Jersey - Barcelona Football Jersey 2025
+CATEGORY: mens sports football shirts and merchandise
+SKU: 264042539_BD-1427498110
+PRICE: ৳ 350
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=441698281 | category=mens sports football shirts and merchandise
+PRODUCT: Barcelona new home kit half sleeves 25/26
+CATEGORY: mens sports football shirts and merchandise
+SKU: 441698281_BD-2119355348
+PRICE: ৳ 339
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=363664822 | category=mens sports football shirts and merchandise
+PRODUCT: Ac milan new home kit 24/25 half sleeves
+CATEGORY: mens sports football shirts and merchandise
+SKU: 363664822_BD-2035902031
+PRICE: ৳ 339
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=423500024 | category=mens sports football shirts and merchandise
+PRODUCT: Japan Anime Full Sleeve Jersey 2025/26 Thai Premium Football Jersey For Men - Long Sleeve - Japan Anime Jersey 2025
+CATEGORY: mens sports football shirts and merchandise
+SKU: 423500024_BD-2067162167
+PRICE: ৳ 370
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=335988584 | category=mens sports football shirts and merchandise
+PRODUCT: Al Hilal Jersey - Full Sleeve Collar al-hilal Jersey for Man - Football Jersey
+CATEGORY: mens sports football shirts and merchandise
+SKU: 335988584_BD-1635294504
+PRICE: ৳ 350
+SOURCE: www_daraz_com_bd_mens_sports_football_shirts_and_merchandise / products.json
+### DOC END
+### DOC START | id=332614008 | category=smart watches
+PRODUCT: T900 ULTRA Smartwatch 2.09" Hd Screen Bluetooth Calling Pedometer Hear Rate Blood Pressure Sleeep Sports Watch For Mobile
+CATEGORY: smart watches
+SKU: 332614008_BD-2544915423
+PRICE: ৳ 577
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=332911291 | category=smart watches
+PRODUCT: T900 Ultra Smartwatch – Fitness Tracking, Notifications & Long Battery - HD Display, Fitness Tracker, Waterproof, Heart Rate Monitor, Bluetooth Calling For Apple Watch
+CATEGORY: smart watches
+SKU: 332911291_BD-2542840601
+PRICE: ৳ 557
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=420294996 | category=smart watches
+PRODUCT: Y80 Ultra Smart Watch 8+1 Strap Touch Screen
+CATEGORY: smart watches
+SKU: 420294996_BD-2062210641
+PRICE: ৳ 915
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=434350319 | category=smart watches
+PRODUCT: New LED P8 Digital Watch Band Fashion numbers Sports Kids LED Electronic Watch - P8DW
+CATEGORY: smart watches
+SKU: 434350319_BD-2285693467
+PRICE: ৳ 172
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=358998506 | category=smart watches
+PRODUCT: T900/T800 Ultra 2 HD Big Screen Smart Watch 1.99 inch Bluetooth Call Heart Rate Sports Waterproof Wireless Charging Smartwatch for Men Women
+CATEGORY: smart watches
+SKU: 358998506_BD-1771732447
+PRICE: ৳ 589
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=551005454 | category=smart watches
+PRODUCT: Y80 Ultra Smartwatch with 8 Strap bluetooth Calling Smartwatch 2.02" Display
+CATEGORY: smart watches
+SKU: 551005454_BD-2583692848
+PRICE: ৳ 795
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=541355230 | category=smart watches
+PRODUCT: T900 Ultra 2 Full Touch Screen Smart Watch - Bluetooth Calls & Smart Features Heart Rate Monitor Large Display Upgraded VERSION
+CATEGORY: smart watches
+SKU: 541355230_BD-2591280133
+PRICE: ৳ 529
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=334948554 | category=smart watches
+PRODUCT: T900 Ultra 2 Men Smart Watch 2.3" HD Screen Bluetooth Calling Pedometer Heart Rate Blood Pressure Sleep Sports Watch for iPhone & Andriod Phone.
+CATEGORY: smart watches
+SKU: 334948554_BD-2559374113
+PRICE: ৳ 550
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=465138405 | category=smart watches
+PRODUCT: S10 Max Laxasfit Smart Watch 2.29 Inch AMOLED Display NFC Bluetooth Call Wireless Charging
+CATEGORY: smart watches
+SKU: 465138405_BD-2234366925
+PRICE: ৳ 1,099
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=505012828 | category=smart watches
+PRODUCT: 2024 New T-900 Smart Watch for Men/Women (49 mm 2.19 inch HD Display , Full Touch, Bluetooth 5.3 ,support Heart Rate Monitor, Sport Fitness ,Bluetooth Call )
+CATEGORY: smart watches
+SKU: 505012828_BD-2436543941
+PRICE: ৳ 599
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=454187380 | category=smart watches
+PRODUCT: New D116+ Waterproof Smart Sports Watch - Bracelets & Fitness Tracker
+CATEGORY: smart watches
+SKU: 454187380_BD-2180193717
+PRICE: ৳ 240
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=423972351 | category=smart watches
+PRODUCT: Laxasfit S9 Pro Smart Watch Bluetooth Voice Calling Full Screen Smartwatch
+CATEGORY: smart watches
+SKU: 423972351_BD-2068749786
+PRICE: ৳ 899
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=529998509 | category=smart watches
+PRODUCT: DT900 Ultra 9 Smart Watch (Strap 7+1 cover ) Smart Watch 2.06 inch Full HD Display Screen For Men & Women Whit Wireless Charger By Pucxo
+CATEGORY: smart watches
+SKU: 529998509_BD-2546790540
+PRICE: ৳ 1,399
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=528719835 | category=smart watches
+PRODUCT: Y80 Ultra Smartwatch with Airpods ( strap 8+1 Cover )  Bluetooth Headphone  TWS Fitness Tracker, Heart Rate & Blood Pressure Monitor, Waterproof, Bluetooth Connectivity, Long Battery Life  premium Quality  By Gadget -X
+CATEGORY: smart watches
+SKU: 528719835_BD-2543320556
+PRICE: ৳ 1,699
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=547920599 | category=smart watches
+PRODUCT: T900 Ultra Smart watch (2.09inch HD Big Screen, Magnetic Wireless Charging,Smart Watch, Bluetooth Call Sleep Monitor, Wristwatch
+CATEGORY: smart watches
+SKU: 547920599_BD-2579917744
+PRICE: ৳ 479
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=553365765 | category=smart watches
+PRODUCT: Y80 Ultra Smart Wireless Charging Watch with 8 Straps Stylish Fitness Tracker Bluetooth 5.0 Health Monitor IP68 Waterproof Touchscreen
+CATEGORY: smart watches
+SKU: 553365765_BD-2586100078
+PRICE: ৳ 790
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=534641045 | category=smart watches
+PRODUCT: S10 Max Laxasfit Smart Watch 2.29 Inch AMOLED Display NFC Bluetooth Call Wireless Charging
+CATEGORY: smart watches
+SKU: 534641045_BD-2551230208
+PRICE: ৳ 844
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=542428724 | category=smart watches
+PRODUCT: T900 ULTRA Smartwatch 2.09" Hd Screen Bluetooth Calling Pedometer Hear Rate Blood Pressure Sleeep Sports Watch For Mobile Smartwatch For Men
+CATEGORY: smart watches
+SKU: 542428724_BD-2591299118
+PRICE: ৳ 579
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=529986722 | category=smart watches
+PRODUCT: DT900 Ultra 9 Smart Watch (Strap 7+1 cover ) Smart Watch 2.06 inch Full HD Display Screen For Men & Women Whit Wireless Charger By Pucko  Gadget
+CATEGORY: smart watches
+SKU: 529986722_BD-2546800319
+PRICE: ৳ 999
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=534548597 | category=smart watches
+PRODUCT: DT900 Ultra 9 Smart Watch (Strap 7+1 cover ) ( Golden Color Edition ) Smart Watch 2.06 inch Full HD Display Screen For Men & Women Whit Wireless Charger By Gadget-X
+CATEGORY: smart watches
+SKU: 534548597_BD-2551170699
+PRICE: ৳ 1,490
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=419407047 | category=smart watches
+PRODUCT: Y80 Ultra (8+1) Straps Smart Wireless Charging Watch
+CATEGORY: smart watches
+SKU: 419407047_BD-2061561364
+PRICE: ৳ 919
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=368372570 | category=smart watches
+PRODUCT: Silicon New Fashion Touch LED Sports Watch
+CATEGORY: smart watches
+SKU: 368372570_BD-1839293609
+PRICE: ৳ 105
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=543322374 | category=smart watches
+PRODUCT: S10 Max Laxasfit Smart Watch 2.29" AMOLED Display NFC Series 10 Bluetooth Smart Watch
+CATEGORY: smart watches
+SKU: 543322374_BD-2563756892
+PRICE: ৳ 999
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=355844586 | category=smart watches
+PRODUCT: G63 Smart Light Sound Machine Fast Charging Alarm Clock
+CATEGORY: smart watches
+SKU: 355844586_BD-1750779511
+PRICE: ৳ 599
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=505043426 | category=smart watches
+PRODUCT: High-Performance - Y80 Ultra Smart Watch (8 + 1 Cover) in Germany) - Reliable Accessory - Easy to Use - Dreamy Deals (1 Protective cover )
+CATEGORY: smart watches
+SKU: 505043426_BD-2436623223
+PRICE: ৳ 1,299
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=540813532 | category=smart watches
+PRODUCT: Y80 Ultra Smartwatch With 8 Strap
+CATEGORY: smart watches
+SKU: 540813532_BD-2558950740
+PRICE: ৳ 759
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=552985145 | category=smart watches
+PRODUCT: T900 Ultra 2 Full Touch Screen Smart Watch - Bluetooth Calls & Smart Features Heart Rate Monitor Large Display Upgraded VERSION
+CATEGORY: smart watches
+SKU: 552985145_BD-2585588578
+PRICE: ৳ 444
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=537838486 | category=smart watches
+PRODUCT: Watch X Laxasfit Double Strap Smart Watch 2.29 Inch AMOLED Display Bluetooth Call Wireless Charging Smart Watch
+CATEGORY: smart watches
+SKU: 537838486_BD-2553405332
+PRICE: ৳ 949
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=368379664 | category=smart watches
+PRODUCT: Silicon New Fashion Touch LED Sports Watch
+CATEGORY: smart watches
+SKU: 368379664_BD-1839338123
+PRICE: ৳ 105
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=311023141 | category=smart watches
+PRODUCT: Timack® i7Pro Max IWO13 PRO Smart Watch 1.8 inch high-definition Screen Bluetooth Call Heart Rate Sleep Monitor Fitness Watch for Men Women IP67 Waterproof Smartwatch
+CATEGORY: smart watches
+SKU: 311023141_BD-1395454851
+PRICE: ৳ 699
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=367305781 | category=smart watches
+PRODUCT: KW19 MAX Smart Watch
+CATEGORY: smart watches
+SKU: 367305781_BD-1831803057
+PRICE: ৳ 1,120
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=533467976 | category=smart watches
+PRODUCT: Y80 Ultra Smartwatch with 8+1 Strap & Cover | Fitness Tracker, Heart Rate & BP Monitor | Waterproof | Long Battery Life
+CATEGORY: smart watches
+SKU: 533467976_BD-2550069142
+PRICE: ৳ 800
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=504874161 | category=smart watches
+PRODUCT: D116 Plus Smart watch Bracelets Fitness Tracker by Pick A Gadget
+CATEGORY: smart watches
+SKU: 504874161_BD-2531392993
+PRICE: ৳ 499
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=372315016 | category=smart watches
+PRODUCT: Y80 Ultra Smart Wireless Charging Watch 8 Straps
+CATEGORY: smart watches
+SKU: 372315016_BD-1867048529
+PRICE: ৳ 989
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=311024482 | category=smart watches
+PRODUCT: Timack® New Smartwatch s7 Ultra Screen Multi-Function Men Sports Fitness 5.3 Bluetooth Call Music Waterproof Health Smartwatch
+CATEGORY: smart watches
+SKU: 311024482_BD-2556294689
+PRICE: ৳ 1,499
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=420196394 | category=smart watches
+PRODUCT: Smartwatch Dz09 Touch Screen SIM TF card SD Card Camera Call smart watch v8
+CATEGORY: smart watches
+SKU: 420196394_BD-2057333690
+PRICE: ৳ 950
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=526791247 | category=smart watches
+PRODUCT: D18 Smart Watch Heart Rate Monitor Men's Women's Smartwatch Round Fitness Digital Watches for Men Women Band Bracelet by MartOne
+CATEGORY: smart watches
+SKU: 526791247_BD-2546859140
+PRICE: ৳ 349
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=550198894 | category=smart watches
+PRODUCT: K10 Ultra SIM Support Smartwatch – 2.1” HD Touchscreen Wireless Charging, Bluetooth Calling, Music Playback, Heart Rate Monitor, 380-500mAh Battery, Water-Resistant, Built-in Storage, Sports Modes
+CATEGORY: smart watches
+SKU: 550198894_BD-2590379207
+PRICE: ৳ 1,234
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=529638596 | category=smart watches
+PRODUCT: D116 Plus Smart Watch Bracelets Fitness Tracker By Mart One
+CATEGORY: smart watches
+SKU: 529638596_BD-2546268207
+PRICE: ৳ 383
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=550981913 | category=smart watches
+PRODUCT: T900 Ultra 2 Smartwatch – 2.19” TFT Full Touch Screen, Bluetooth Calling, Heart Rate & Blood Pressure Monitor, Sleep & Fitness Tracker, 180mAh Battery, Wireless Charging, iOS & Android Compatibility, Unisex Smart Watch Upgraded VERSION
+CATEGORY: smart watches
+SKU: 550981913_BD-2583683367
+PRICE: ৳ 543
+SOURCE: www_daraz_com_bd_smart_watches / products.json
+### DOC END
+### DOC START | id=529225489 | category=smartphones
+PRODUCT: Realme Note 60x - (4GB + 64GB)
+CATEGORY: smartphones
+SKU: 529225489_BD-2545745705
+PRICE: ৳ 10,249
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=537454654 | category=smartphones
+PRODUCT: Vmax note 14 4G Smart Feature Phone android Version Video call support
+CATEGORY: smartphones
+SKU: 537454654_BD-2553318069
+PRICE: ৳ 5,490
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=545526612 | category=smartphones
+PRODUCT: Realme Note 70 4/128GB | 6.7" 90Hz Display | 6300 mAh Massive Battery | 13/5MP Camera | Drop & Water Resistance
+CATEGORY: smartphones
+SKU: 545526612_BD-2567649456
+PRICE: ৳ 12,159
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=525899327 | category=smartphones
+PRODUCT: Motorola Moto G05 (4+64GB)
+CATEGORY: smartphones
+SKU: 525899327_BD-2534749043
+PRICE: ৳ 12,499
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=525403209 | category=smartphones
+PRODUCT: Walton Primo S8 Mini (6+64GB) Official
+CATEGORY: smartphones
+SKU: 525403209_BD-2532443197
+PRICE: ৳ 9,999
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=466516250 | category=smartphones
+PRODUCT: Symphony ATOM 5 (8GB*/64GB) | 6.74” HD+ IPS | Side-Mounted Fingerprint & Face Unlock | 5000mAh Battery | 52MP & 5MP Camera
+CATEGORY: smartphones
+SKU: 466516250_BD-2242430633
+PRICE: ৳ 7,999
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=531144210 | category=smartphones
+PRODUCT: realme C71 6GB/128GB | 6300mAh Battery + 45W Fast Charge | 120Hz & IP64 Dust & Water Resistance
+CATEGORY: smartphones
+SKU: 531144210_BD-2549231467
+PRICE: ৳ 14,910
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=547915712 | category=smartphones
+PRODUCT: HONOR Pad X7 WIFI (4GB+64GB) |  8.7" 90Hz Display | Snapdragon 680 | 8+5 MP Camera | 7020 mAh Battery
+CATEGORY: smartphones
+SKU: 547915712_BD-2579899870
+PRICE: ৳ 12,060
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=541503751 | category=smartphones
+PRODUCT: Infinix Hot 60 Pro+ 8GB/128GB | 256GB (Official)
+CATEGORY: smartphones
+SKU: 541503751_BD-2561057922
+PRICE: ৳ 21,799
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=545485972 | category=smartphones
+PRODUCT: Realme Note 70 4/64GB | 6.7" 90Hz Display | 6300 mAh Massive Battery | 13/5MP Camera | Drop & Water Resistance
+CATEGORY: smartphones
+SKU: 545485972_BD-2567598667
+PRICE: ৳ 11,229
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=541385433 | category=smartphones
+PRODUCT: TECNO Spark 40 Pro 8GB/128GB (Official)
+CATEGORY: smartphones
+SKU: 541385433_BD-2560685944
+PRICE: ৳ 19,599
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=526782727 | category=smartphones
+PRODUCT: itel Power 70 (6+128GB) Official
+CATEGORY: smartphones
+SKU: 526782727_BD-2537921741
+PRICE: ৳ 10,989
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=530390783 | category=smartphones
+PRODUCT: OnePlus Nord N30 SE 5G | 128GB ROM + 4GB RAM | 6.72" FHD+ 90Hz | 33W SUPERVOOC Fast Charge | 50 & 8 MP Camera
+CATEGORY: smartphones
+SKU: 530390783_BD-2547373162
+PRICE: ৳ 15,949
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=315862296 | category=smartphones
+PRODUCT: Smile Q9 Victory (RAM-3GB/ROM-32GB)3700mAH  Mobile Phone
+CATEGORY: smartphones
+SKU: 315862296_BD-1428179882
+PRICE: ৳ 4,499
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=539368317 | category=smartphones
+PRODUCT: OnePlus Nord CE5 5G 8GB/256GB
+CATEGORY: smartphones
+SKU: 539368317_BD-2555360500
+PRICE: ৳ 33,459
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=466395972 | category=smartphones
+PRODUCT: Samsung Galaxy A06 (4+64GB) Official
+CATEGORY: smartphones
+SKU: 466395972_BD-2581994420
+PRICE: ৳ 11,999
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=315617794 | category=smartphones
+PRODUCT: Imam i10 Daffodil (RAM-4GB/ROM-64GB)3900mAH Big Battery Mobile Phone
+CATEGORY: smartphones
+SKU: 315617794_BD-1426630957
+PRICE: ৳ 5,199
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=531107293 | category=smartphones
+PRODUCT: vivo Y19s Pro - 6GB RAM - 128GB ROM - 6000mAH Battery - 50MP Rear Camera - 90Hz Display - Anti Drop Design
+CATEGORY: smartphones
+SKU: 531107293_BD-2549151551
+PRICE: ৳ 15,591
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=530487486 | category=smartphones
+PRODUCT: Linnex LX 4G Android 3.5" (3/32GB) Touch Smart Feature Phone
+CATEGORY: smartphones
+SKU: 530487486_BD-2547753609
+PRICE: ৳ 4,499
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=463734952 | category=smartphones
+PRODUCT: Walton NEXG N74 8GB Rapid Ram and 128GB Rom (Official)
+CATEGORY: smartphones
+SKU: 463734952_BD-2224445081
+PRICE: ৳ 10,598
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=526913368 | category=smartphones
+PRODUCT: Symphony Max 10 6GB/32GB
+CATEGORY: smartphones
+SKU: 526913368_BD-2538804665
+PRICE: ৳ 7,399
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=531149120 | category=smartphones
+PRODUCT: realme C71 4GB/128GB | 6300mAh Battery + 45W Fast Charge | 120Hz & IP64 Dust & Water Resistance
+CATEGORY: smartphones
+SKU: 531149120_BD-2549239048
+PRICE: ৳ 13,999
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=529229392 | category=smartphones
+PRODUCT: Realme C75x - IPS LCD - 6.67 Inches Display - 6GB RAM 128GB ROM - 50MP Rear Camera - 5MP Front Camera - Dual SIM - 5600mAh Battery
+CATEGORY: smartphones
+SKU: 529229392_BD-2545768076
+PRICE: ৳ 16,590
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=521910413 | category=smartphones
+PRODUCT: Xiaomi Redmi Note 12 5G (6+128GB)
+CATEGORY: smartphones
+SKU: 521910413_BD-2572171543
+PRICE: ৳ 16,999
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=539391172 | category=smartphones
+PRODUCT: OnePlus Nord 5 5G 12GB/512GB
+CATEGORY: smartphones
+SKU: 539391172_BD-2555360429
+PRICE: ৳ 50,129
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=525079348 | category=smartphones
+PRODUCT: Honor X5b Plus (4+128GB)
+CATEGORY: smartphones
+SKU: 525079348_BD-2531394598
+PRICE: ৳ 10,999
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=546024971 | category=smartphones
+PRODUCT: Xaiomi Redmi 13 (8 + 256gb) ডিসপ্লে: 6.67'' AMOLED,120hz, 33w ফাস্ট চার্জিং সহ 5000mah
+CATEGORY: smartphones
+SKU: 546024971_BD-2581187152
+PRICE: ৳ 15,999
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=526707879 | category=smartphones
+PRODUCT: Vivo Y29 (6+128GB) Official
+CATEGORY: smartphones
+SKU: 526707879_BD-2537714750
+PRICE: ৳ 19,899
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=541539002 | category=smartphones
+PRODUCT: Infinix Hot 60i 8GB/256GB (Official)
+CATEGORY: smartphones
+SKU: 541539002_BD-2561041970
+PRICE: ৳ 16,399
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=523944936 | category=smartphones
+PRODUCT: Galaxy A16 -5G 8/256
+CATEGORY: smartphones
+SKU: 523944936_BD-2528507275
+PRICE: ৳ 25,499
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=535852493 | category=smartphones
+PRODUCT: HONOR X5b Plus 8GB(4GB+4GB)GB+128GB Massive Storage 5200mAh Long-lasting Battery 50MP AI Ultra-clear Camera Side Fingerprint Power Button - 1 year warranty
+CATEGORY: smartphones
+SKU: 535852493_BD-2552447338
+PRICE: ৳ 12,049
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=466475209 | category=smartphones
+PRODUCT: Samsung Galaxy A06 (6+128GB) Official
+CATEGORY: smartphones
+SKU: 466475209_BD-2581973744
+PRICE: ৳ 14,999
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=526912465 | category=smartphones
+PRODUCT: Symphony Helio 100 (16GB/256GB)
+CATEGORY: smartphones
+SKU: 526912465_BD-2538804668
+PRICE: ৳ 19,699
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=463529667 | category=smartphones
+PRODUCT: Motorola G45 [8/128GB]
+CATEGORY: smartphones
+SKU: 463529667_BD-2222272733
+PRICE: ৳ 19,599
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=354269985 | category=smartphones
+PRODUCT: Symphony Innova 30 (8GB/128GB)
+CATEGORY: smartphones
+SKU: 354269985_BD-1736305803
+PRICE: ৳ 11,999
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=323691546 | category=smartphones
+PRODUCT: iphone 15- 128/256/512GB (USA-LL/A) Smartphone
+CATEGORY: smartphones
+SKU: 323691546_BD-1693679857
+PRICE: ৳ 92,999
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=528801913 | category=smartphones
+PRODUCT: Xiaomi Redmi A5 (4+64GB) Official
+CATEGORY: smartphones
+SKU: 528801913_BD-2543677044
+PRICE: ৳ 10,989
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=355749326 | category=smartphones
+PRODUCT: Benco S1 Pro (8/256GB) Smartphone
+CATEGORY: smartphones
+SKU: 355749326_BD-1749682790
+PRICE: ৳ 15,290
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=543677756 | category=smartphones
+PRODUCT: M Horse M 16 Pro Max Smartphone
+CATEGORY: smartphones
+SKU: 543677756_BD-2566035754
+PRICE: ৳ 10,990
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=529957545 | category=smartphones
+PRODUCT: Realme C75x (6+128GB) 6.67 Inches DIsplay  | 5600 mAh -Official
+CATEGORY: smartphones
+SKU: 529957545_BD-2546724138
+PRICE: ৳ 17,989
+SOURCE: www_daraz_com_bd_smartphones / products.json
+### DOC END
+### DOC START | id=486151441 | category=tablets
+PRODUCT: Galaxy Tab A9 [Wi-Fi + Cell]
+CATEGORY: tablets
+SKU: 486151441_BD-2351550580
+PRICE: ৳ 15,499
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=486082989 | category=tablets
+PRODUCT: Galaxy Tab A9+ [ Wi-Fi + Cell ]
+CATEGORY: tablets
+SKU: 486082989_BD-2351620263
+PRICE: ৳ 25,200
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=478774420 | category=tablets
+PRODUCT: I Pad 10th Gen 64GB Wifi
+CATEGORY: tablets
+SKU: 478774420_BD-2303194452
+PRICE: ৳ 41,999
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=540122683 | category=tablets
+PRODUCT: 5Star Tab BD14  BIG   10* inch IPS Display
+CATEGORY: tablets
+SKU: 540122683_BD-2556969891
+PRICE: ৳ 12,990
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=526855998 | category=tablets
+PRODUCT: iPad 11th Gen WiFi
+CATEGORY: tablets
+SKU: 526855998_BD-2538514053
+PRICE: ৳ 47,999
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=540141334 | category=tablets
+PRODUCT: 5Star Tab BD13  BIG 7* inch IPS Display
+CATEGORY: tablets
+SKU: 540141334_BD-2556964924
+PRICE: ৳ 9,990
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=373875736 | category=tablets
+PRODUCT: 15 Tablet 11015 Tablet 110
+CATEGORY: tablets
+SKU: 373875736_BD-1869753230
+PRICE: ৳ 2,322
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=540122679 | category=tablets
+PRODUCT: 5Star Tab BD14  BIG   10* inch IPS Display
+CATEGORY: tablets
+SKU: 540122679_BD-2556978427
+PRICE: ৳ 12,990
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=524911763 | category=tablets
+PRODUCT: Redmi Pad SE
+CATEGORY: tablets
+SKU: 524911763_BD-2530798344
+PRICE: ৳ 22,499
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=539218842 | category=tablets
+PRODUCT: Xiaomi Redmi Pad 2 WiFi [8/256GB]
+CATEGORY: tablets
+SKU: 539218842_BD-2555275243
+PRICE: ৳ 26,800
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=478842121 | category=tablets
+PRODUCT: Ipad Pro M4 13'' - Wifi
+CATEGORY: tablets
+SKU: 478842121_BD-2303389002
+PRICE: ৳ 163,199
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=542401144 | category=tablets
+PRODUCT: OnePlus Pad Lite 11 Inch (6+128GB)- Aero Blue
+CATEGORY: tablets
+SKU: 542401144_BD-2561748855
+PRICE: ৳ 27,999
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=528214534 | category=tablets
+PRODUCT: Tab S9 FE [6/128] WiFi
+CATEGORY: tablets
+SKU: 528214534_BD-2542958739
+PRICE: ৳ 37,999
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=340339179 | category=tablets
+PRODUCT: 5Star Tab BD28, 8* Big IPS Display
+CATEGORY: tablets
+SKU: 340339179_BD-2308478449
+PRICE: ৳ 9,990
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=321468801 | category=tablets
+PRODUCT: Samsung Galaxy Tab S8 ultra (12/256GB) 14.6 inch -office
+CATEGORY: tablets
+SKU: 321468801_BD-1625398497
+PRICE: ৳ 119,000
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=526976195 | category=tablets
+PRODUCT: Xiaomi pad - 7
+CATEGORY: tablets
+SKU: 526976195_BD-2539118311
+PRICE: ৳ 41,499
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=541085190 | category=tablets
+PRODUCT: Redmi Pad 2 8/256 Wifi - Global
+CATEGORY: tablets
+SKU: 541085190_BD-2559602740
+PRICE: ৳ 27,999
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=541086079 | category=tablets
+PRODUCT: Redmi Pad 2 8/256 Cellular - Global
+CATEGORY: tablets
+SKU: 541086079_BD-2559628561
+PRICE: ৳ 29,199
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=345286192 | category=tablets
+PRODUCT: iPad 10th Gen WiFi
+CATEGORY: tablets
+SKU: 345286192_BD-1688810596
+PRICE: ৳ 43,499
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=345257418 | category=tablets
+PRODUCT: iPad 9th Gen WiFi
+CATEGORY: tablets
+SKU: 345257418_BD-1688813244
+PRICE: ৳ 37,999
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=434519880 | category=tablets
+PRODUCT: 5 Star tab bd28, 8" IPS display
+CATEGORY: tablets
+SKU: 434519880_BD-2108274581
+PRICE: ৳ 12,990
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=320189175 | category=tablets
+PRODUCT: 5Star Tab BD28, 8" IPS Display
+CATEGORY: tablets
+SKU: 320189175_BD-1482654192
+PRICE: ৳ 12,990
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=526714739 | category=tablets
+PRODUCT: Xiaomi Pad 7
+CATEGORY: tablets
+SKU: 526714739_BD-2537723461
+PRICE: ৳ 42,999
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=478720811 | category=tablets
+PRODUCT: I Pad 9th Gen 64GB Wifi
+CATEGORY: tablets
+SKU: 478720811_BD-2303258037
+PRICE: ৳ 37,799
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=478720985 | category=tablets
+PRODUCT: I pad Air 6 128GB Wifi
+CATEGORY: tablets
+SKU: 478720985_BD-2303181522
+PRICE: ৳ 79,399
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=522022864 | category=tablets
+PRODUCT: HONOR Pad X9 [4/128GB] - Official
+CATEGORY: tablets
+SKU: 522022864_BD-2516074655
+PRICE: ৳ 22,999
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=522042029 | category=tablets
+PRODUCT: Honor Pad X8a - Official
+CATEGORY: tablets
+SKU: 522042029_BD-2516107375
+PRICE: ৳ 17,999
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=525999771 | category=tablets
+PRODUCT: iPad Mini 6 WiFi
+CATEGORY: tablets
+SKU: 525999771_BD-2535089000
+PRICE: ৳ 51,999
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=496128386 | category=tablets
+PRODUCT: Alldocube iPlay60 Mini Turbo 8.4inch Snapdragon 6Gen 1 Tablet Android14 8GB+8GB virtual memory RAM+128GB ROM Widevine L1
+CATEGORY: tablets
+SKU: 496128386_BD-2392094987
+PRICE: ৳ 18,667
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=526624376 | category=tablets
+PRODUCT: Xiaomi Redmi Pad SE (8/256GB)
+CATEGORY: tablets
+SKU: 526624376_BD-2537428777
+PRICE: ৳ 22,999
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=526725997 | category=tablets
+PRODUCT: OnePlus Pad 2 [12/256GB] - Official
+CATEGORY: tablets
+SKU: 526725997_BD-2537868457
+PRICE: ৳ 59,200
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=457705117 | category=tablets
+PRODUCT: iPad Air M2 11" (2024)
+CATEGORY: tablets
+SKU: 457705117_BD-2196349662
+PRICE: ৳ 77,499
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=345299545 | category=tablets
+PRODUCT: iPad Pro 12.9" M2 256GB WiFi
+CATEGORY: tablets
+SKU: 345299545_BD-1688844431
+PRICE: ৳ 152,499
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=524746167 | category=tablets
+PRODUCT: Xiaomi Pad 5 Pro [6/256GB]
+CATEGORY: tablets
+SKU: 524746167_BD-2530199219
+PRICE: ৳ 46,499
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=531275662 | category=tablets
+PRODUCT: Galaxy Tab S9 FE Plus [8/128GB] WiFi
+CATEGORY: tablets
+SKU: 531275662_BD-2549414018
+PRICE: ৳ 62,900
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=530213872 | category=tablets
+PRODUCT: iPad Mini 7 WiFi
+CATEGORY: tablets
+SKU: 530213872_BD-2546967815
+PRICE: ৳ 61,600
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=347757405 | category=tablets
+PRODUCT: Xiaomi Pad 6 (8/256GB)
+CATEGORY: tablets
+SKU: 347757405_BD-1703025107
+PRICE: ৳ 36,850
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=345297290 | category=tablets
+PRODUCT: iPad Pro 11 Inch M2 256GB WiFi
+CATEGORY: tablets
+SKU: 345297290_BD-1688834726
+PRICE: ৳ 122,200
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+### DOC START | id=554482868 | category=tablets
+PRODUCT: Honor Pad 10 [8/256GB] WiFi Official
+CATEGORY: tablets
+SKU: 554482868_BD-2586891704
+PRICE: ৳ 40,299
+SOURCE: www_daraz_com_bd_tablets / products.json
+### DOC END
+
+SUMMARY: 506 products from 13 categories.
