@@ -1,12 +1,18 @@
+# This workflow automates the entire data pipeline:
+# 1. Scrapes Daraz for product data.
+# 2. Scrapes StarTech for product data.
+# 3. Combines both into a single corpus file.
+# 4. Commits the new data back to the repository.
 name: Scheduled Data Pipeline
 
 on:
-  # 1. Allows you to run this manually from the "Actions" tab
+  # Allows you to run this workflow manually from the Actions tab in GitHub
   workflow_dispatch:
   
-  # 2. Runs on a schedule
+  # Runs automatically on a schedule
   schedule:
-    # Runs "at minute 0 past every 3rd hour" (e.g., 00:00, 03:00, 06:00 UTC)
+    # This cron expression means "at minute 0 past every 6th hour"
+    # (e.g., at 00:00, 06:00, 12:00, 18:00 UTC)
     - cron: '0 */6 * * *'
 
 jobs:
@@ -14,54 +20,55 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Check out repository
+      - name: Check out repository code
         uses: actions/checkout@v4
+
+      # CRITICAL STEP: Pull the latest changes from the remote branch first.
+      # This prevents "non-fast-forward" errors if commits were made while
+      # the Action was preparing to run. We use --rebase to keep a clean history.
+      - name: Pull latest changes from remote
+        run: git pull origin main --rebase
 
       - name: Set up Python 3.10
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
+          cache: 'pip' # Speeds up dependency installation on subsequent runs
 
-      - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
       
-      - name: Crawl4ai Setup
-        run: |
-          crawl4ai-setup
+      - name: Setting up Crawl4ai
+        run: crawl4ai-setup
 
-      - name: Run Scraper
+      - name: Install Playwright browser dependencies
+        run: playwright install --with-deps chromium 
+
+      - name: Run Daraz Scraper (daraz_scraper.py)
         env:
-          # Get the API key from your repo's secrets
+          # Use secrets for sensitive API keys
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: |
-          python main.py
-      
+        run: python daraz_scraper.py
+
       - name: Run StarTech Scraper (startech_scraper.py)
         env:
-          # Add Firecrawl key as a secret in repo settings
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }} 
-        run: |
-          python startech_scraper.py
+        run: python startech_scraper.py
 
-      - name: Build Combined RAG Corpus
-        run: |
-          # Use the new combined script (create this file next)
-          python build_combined_corpus.py
-      
-      # Pull the latest main branch
-      - name: Pull latest changes from remote
-        run: git pull origin main --rebase # Use rebase to avoid merge commits
+      - name: Build Combined RAG Corpus (build_combined_corpus.py)
+        run: python build_combined_corpus.py 
 
+      # This action automatically commits and pushes the generated files.
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
+          # The message for the automatic commit
           commit_message: "Auto: Update combined product corpus"
-          # --- 👇 UPDATE FILE PATTERN ---
-          file_pattern: "out/combined_corpus.* result/*/*.json startech_products.csv" 
-          # --- 👆 ---
+          
+          # The files and directories to commit. This covers all outputs.
+          file_pattern: "out/combined_corpus.md result startech_products.csv" 
+          
+          # The user identity for the commit
           commit_user_name: GitHub Actions Bot
           commit_user_email: actions@github.com
-          commit_author: GitHub Actions Bot <actions@github.com>
-          # Add push options to handle potential force pushes cleanly
-          push_options: '--force --force-with-lease'
+
