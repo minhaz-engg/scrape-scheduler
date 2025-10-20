@@ -7338,5 +7338,786 @@
         }
       ]
     }
+  },
+  {
+    "data_qa_locator": "product-item",
+    "data_tracking": "product-card",
+    "data_sku_simple": "345859042_BD-1692285750",
+    "data_item_id": "345859042",
+    "data_listno": "36",
+    "data_utlogmap": "{\"listno\":36,\"pageIndex\":1,\"pvid\":\"88fac72ff1b8571442ed484690bdc279\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"345859042\",\"x_object_id\":\"345859042\",\"x_object_type\":\"item\"}",
+    "data_aplus_ae": "37",
+    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i36.563e2fabvZfbeq",
+    "data_aplus_clk": "x37_23dd4e29",
+    "image_url": "data:image/png;base64,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",
+    "product_detail_url": "//www.daraz.com.bd/products/sk-1787-i345859042.html",
+    "product_name": "Inspired by SK 1787 Adjust Wheel Creative Fashion Men Stainless Steel Watch Watch -Lamon - Watch",
+    "price": "৳ 498",
+    "detail_url": "https://www.daraz.com.bd/products/sk-1787-i345859042.html",
+    "detail": {
+      "url": "https://www.daraz.com.bd/products/sk-1787-i345859042.html",
+      "name": "Inspired by SK 1787 Adjust Wheel Creative Fashion Men Stainless Steel Watch Watch -Lamon - Watch",
+      "brand": "No Brand",
+      "price": {
+        "display": "৳ 498",
+        "value": 498.0,
+        "original_display": "৳ 1,265",
+        "original_value": 1265.0,
+        "discount_display": "-61%",
+        "discount_percent": 61.0
+      },
+      "rating": {
+        "average": 4.3,
+        "count": 182,
+        "raw": "Ratings 182"
+      },
+      "images": [
+        "https://img.drz.lazcdn.com/static/bd/p/34cc91cc14c536fe55be7228151333fb.jpg_720x720q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/34cc91cc14c536fe55be7228151333fb.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/4103fd3e0302bc630eceef84ffc59796.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/a998ee803fe1290db5db2f9054022439.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/9981941859ecde49a40ef0e367299e78.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/ac7951c2318fd1cd2b1b63db625eb93b.jpg_120x120q80.jpg",
+        "https://static-01.daraz.com.bd/p/ac7951c2318fd1cd2b1b63db625eb93b.jpg"
+      ],
+      "colors": [
+        "Black",
+        "Green",
+        "Red",
+        "White",
+        "Yellow"
+      ],
+      "sizes": [],
+      "delivery_options": [
+        {
+          "title": "Standard Delivery",
+          "time": "Guaranteed by 22-27 Oct",
+          "fee": "৳ 70"
+        },
+        {
+          "title": "Cash on Delivery Available",
+          "time": null,
+          "fee": null
+        }
+      ],
+      "return_and_warranty": [
+        "7 Days Returns",
+        "Warranty not available"
+      ],
+      "seller": {
+        "name": "GOD GIFT- 2",
+        "link": "https://www.daraz.com.bd/shop/3p04zwvk/?itemId=345859042&channelSource=pdp",
+        "metrics": {
+          "Positive Seller Ratings": "82%",
+          "Ship on Time": "100%",
+          "Chat Response Rate": "Not enough data"
+        }
+      },
+      "details": {
+        "highlights": [],
+        "description_text": "Brand Name :SK Frequency length : 22cm Style : Fashion and casual movement : QUARTZ Certificate : CE Water Resistant Depth : 5Bar clamp type : Concealed push-button clasp Origin : CN (origin) Case Material : alloy fish condition : 11mm Contact window material type : Hardlex Crystal Watches Item type : quartz watches Boxes & Cases Material : without package Frequency material type : STAINLESS STEEL contact diameter : 43mm Model Number : 1787 Bandwidth : 43mm disc shape : ROUND Brand Name : Skmei Frequency length : 22cm Style : Fashion and casual movement : QUARTZ Certificate : CE Water Resistant Depth : 5Bar clamp type : Concealed push-button clasp Origin : CN (origin) Case Material : alloy #watch Brand Name : SKFrequency length : 22cmStyle : Fashion and casualmovement : QUARTZCertificate : CEWater Resistant Depth : 5Barclamp type : Concealed push-button claspOrigin : CN (origin)Case Material : alloyfish condition : 11mmContact window material type : Hardlex Crystal WatchesItem type : quartz watchesBoxes & Cases Material : without packageFrequency material type : STAINLESS STEELcontact diameter : 43mmModel Number : 1787Bandwidth : 43mmdisc shape : ROUNDBrand Name : SkmeiFrequency length : 22cmStyle : Fashion and casualmovement : QUARTZCertificate : CEWater Resistant Depth : 5Barclamp type : Concealed push-button claspOrigin : CN (origin)Case Material : alloy#watch",
+        "description_html": null,
+        "specifications": [],
+        "whats_in_the_box": null,
+        "raw_text": "Brand Name :SK Frequency length : 22cm Style : Fashion and casual movement : QUARTZ Certificate : CE Water Resistant Depth : 5Bar clamp type : Concealed push-button clasp Origin : CN (origin) Case Material : alloy fish condition : 11mm Contact window material type : Hardlex Crystal Watches Item type : quartz watches Boxes & Cases Material : without package Frequency material type : STAINLESS STEEL contact diameter : 43mm Model Number : 1787 Bandwidth : 43mm disc shape : ROUND Brand Name : Skmei Frequency length : 22cm Style : Fashion and casual movement : QUARTZ Certificate : CE Water Resistant Depth : 5Bar clamp type : Concealed push-button clasp Origin : CN (origin) Case Material : alloy #watch Brand Name : SKFrequency length : 22cmStyle : Fashion and casualmovement : QUARTZCertificate : CEWater Resistant Depth : 5Barclamp type : Concealed push-button claspOrigin : CN (origin)Case Material : alloyfish condition : 11mmContact window material type : Hardlex Crystal WatchesItem type : quartz watchesBoxes & Cases Material : without packageFrequency material type : STAINLESS STEELcontact diameter : 43mmModel Number : 1787Bandwidth : 43mmdisc shape : ROUNDBrand Name : SkmeiFrequency length : 22cmStyle : Fashion and casualmovement : QUARTZCertificate : CEWater Resistant Depth : 5Barclamp type : Concealed push-button claspOrigin : CN (origin)Case Material : alloy#watch"
+      },
+      "variants": [
+        {
+          "color": "Black",
+          "price": {
+            "display": "৳ 498",
+            "value": 498.0,
+            "original_display": "৳ 1,265",
+            "original_value": 1265.0,
+            "discount_display": "-61%",
+            "discount_percent": 61.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/ac7951c2318fd1cd2b1b63db625eb93b.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/34cc91cc14c536fe55be7228151333fb.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4103fd3e0302bc630eceef84ffc59796.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a998ee803fe1290db5db2f9054022439.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/9981941859ecde49a40ef0e367299e78.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/ac7951c2318fd1cd2b1b63db625eb93b.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Green",
+          "price": {
+            "display": "৳ 498",
+            "value": 498.0,
+            "original_display": "৳ 1,265",
+            "original_value": 1265.0,
+            "discount_display": "-61%",
+            "discount_percent": 61.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/daa8d73bde66f412d98c526801eb1b14.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/34cc91cc14c536fe55be7228151333fb.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4103fd3e0302bc630eceef84ffc59796.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a998ee803fe1290db5db2f9054022439.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/9981941859ecde49a40ef0e367299e78.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/ac7951c2318fd1cd2b1b63db625eb93b.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/daa8d73bde66f412d98c526801eb1b14.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Red",
+          "price": {
+            "display": "৳ 498",
+            "value": 498.0,
+            "original_display": "৳ 1,265",
+            "original_value": 1265.0,
+            "discount_display": "-61%",
+            "discount_percent": 61.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/b20062f4fc1f176417d370f8c2263ee6.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/34cc91cc14c536fe55be7228151333fb.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4103fd3e0302bc630eceef84ffc59796.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a998ee803fe1290db5db2f9054022439.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/9981941859ecde49a40ef0e367299e78.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/ac7951c2318fd1cd2b1b63db625eb93b.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/b20062f4fc1f176417d370f8c2263ee6.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "White",
+          "price": {
+            "display": "৳ 498",
+            "value": 498.0,
+            "original_display": "৳ 1,265",
+            "original_value": 1265.0,
+            "discount_display": "-61%",
+            "discount_percent": 61.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/1f215bca4ce79836aef4f1f7d7e1987d.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/34cc91cc14c536fe55be7228151333fb.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4103fd3e0302bc630eceef84ffc59796.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a998ee803fe1290db5db2f9054022439.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/9981941859ecde49a40ef0e367299e78.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/ac7951c2318fd1cd2b1b63db625eb93b.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/1f215bca4ce79836aef4f1f7d7e1987d.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Yellow",
+          "price": {
+            "display": "৳ 498",
+            "value": 498.0,
+            "original_display": "৳ 1,265",
+            "original_value": 1265.0,
+            "discount_display": "-61%",
+            "discount_percent": 61.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/73d9c3a395d07ea5ccee7e4747ddd9a3.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/34cc91cc14c536fe55be7228151333fb.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4103fd3e0302bc630eceef84ffc59796.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a998ee803fe1290db5db2f9054022439.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/9981941859ecde49a40ef0e367299e78.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/ac7951c2318fd1cd2b1b63db625eb93b.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/73d9c3a395d07ea5ccee7e4747ddd9a3.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        }
+      ]
+    }
+  },
+  {
+    "data_qa_locator": "product-item",
+    "data_tracking": "product-card",
+    "data_sku_simple": "324501437_BD-1553129111",
+    "data_item_id": "324501437",
+    "data_listno": "37",
+    "data_utlogmap": "{\"listno\":37,\"pageIndex\":1,\"pvid\":\"88fac72ff1b8571442ed484690bdc279\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"324501437\",\"x_object_id\":\"324501437\",\"x_object_type\":\"item\"}",
+    "data_aplus_ae": "38",
+    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i37.563e2fabvZfbeq",
+    "data_aplus_clk": "x38_1f457be6",
+    "image_url": "data:image/png;base64,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",
+    "product_detail_url": "//www.daraz.com.bd/products/cn8-pu-i324501437.html",
+    "product_name": "CN8 PU Leather Analog Best Watch for Men&Boy",
+    "price": "৳ 164",
+    "detail_url": "https://www.daraz.com.bd/products/cn8-pu-i324501437.html",
+    "detail": {
+      "url": "https://www.daraz.com.bd/products/cn8-pu-i324501437.html",
+      "name": "CN8 PU Leather Analog Best Watch for Men&Boy",
+      "brand": "No Brand",
+      "price": {
+        "display": "৳ 164",
+        "value": 164.0,
+        "original_display": "৳ 499",
+        "original_value": 499.0,
+        "discount_display": "-67%",
+        "discount_percent": 67.0
+      },
+      "rating": {
+        "average": 4.6,
+        "count": 57,
+        "raw": "Ratings 57"
+      },
+      "images": [
+        "https://img.drz.lazcdn.com/static/bd/p/a119e21e3f3869720579d00b6263d6bb.jpg_720x720q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/a119e21e3f3869720579d00b6263d6bb.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/4183f8c5021dcae1c7a079f189e6e4c7.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/1b5163eef6c61314c776e6c6bf202423.jpg_120x120q80.jpg",
+        "https://static-01.daraz.com.bd/p/4183f8c5021dcae1c7a079f189e6e4c7.jpg"
+      ],
+      "colors": [
+        "Black",
+        "Brown"
+      ],
+      "sizes": [],
+      "delivery_options": [
+        {
+          "title": "Standard Delivery",
+          "time": "Guaranteed by 22-27 Oct",
+          "fee": "৳ 70"
+        },
+        {
+          "title": "Cash on Delivery Available",
+          "time": null,
+          "fee": null
+        }
+      ],
+      "return_and_warranty": [
+        "7 Days Returns",
+        "Warranty not available"
+      ],
+      "seller": {
+        "name": "Sayma Store B D",
+        "link": "https://www.daraz.com.bd/shop/quuufovw/?itemId=324501437&channelSource=pdp",
+        "metrics": {
+          "Positive Seller Ratings": "88%",
+          "Ship on Time": "100%",
+          "Chat Response Rate": "Not enough data"
+        }
+      },
+      "details": {
+        "highlights": [],
+        "description_text": "Product Type: Analog Watch Gender: Men Dial color: Black & White Band Material Type: PU Leather Case Shape: Round Band Size: Men’s Standard Display Type: Analog Condition: Brand New Well Quality Product Type: Analog WatchGender: MenDial color: Black & WhiteBand Material Type: PU LeatherCase Shape: RoundBand Size: Men’s StandardDisplay Type: AnalogCondition: Brand NewWell Quality",
+        "description_html": null,
+        "specifications": [],
+        "whats_in_the_box": null,
+        "raw_text": "Product Type: Analog Watch Gender: Men Dial color: Black & White Band Material Type: PU Leather Case Shape: Round Band Size: Men’s Standard Display Type: Analog Condition: Brand New Well Quality Product Type: Analog WatchGender: MenDial color: Black & WhiteBand Material Type: PU LeatherCase Shape: RoundBand Size: Men’s StandardDisplay Type: AnalogCondition: Brand NewWell Quality"
+      },
+      "variants": [
+        {
+          "color": "Black",
+          "price": {
+            "display": "৳ 164",
+            "value": 164.0,
+            "original_display": "৳ 499",
+            "original_value": 499.0,
+            "discount_display": "-67%",
+            "discount_percent": 67.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/1b5163eef6c61314c776e6c6bf202423.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a119e21e3f3869720579d00b6263d6bb.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4183f8c5021dcae1c7a079f189e6e4c7.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/1b5163eef6c61314c776e6c6bf202423.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Brown",
+          "price": {
+            "display": "৳ 164",
+            "value": 164.0,
+            "original_display": "৳ 499",
+            "original_value": 499.0,
+            "discount_display": "-67%",
+            "discount_percent": 67.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/4183f8c5021dcae1c7a079f189e6e4c7.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a119e21e3f3869720579d00b6263d6bb.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4183f8c5021dcae1c7a079f189e6e4c7.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/1b5163eef6c61314c776e6c6bf202423.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        }
+      ]
+    }
+  },
+  {
+    "data_qa_locator": "product-item",
+    "data_tracking": "product-card",
+    "data_sku_simple": "350919890_BD-1721025332",
+    "data_item_id": "350919890",
+    "data_listno": "38",
+    "data_utlogmap": "{\"listno\":38,\"pageIndex\":1,\"pvid\":\"88fac72ff1b8571442ed484690bdc279\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"350919890\",\"x_object_id\":\"350919890\",\"x_object_type\":\"item\"}",
+    "data_aplus_ae": "39",
+    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i38.563e2fabvZfbeq",
+    "data_aplus_clk": "x39_43f55bb6",
+    "image_url": "data:image/png;base64,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",
+    "product_detail_url": "//www.daraz.com.bd/products/ole_vs-9931-luxury-fashion-waterproof-stainless-steel-imported-quartz-movement-ladies-wristwatch-for-women-i350919890.html",
+    "product_name": "Ole_vs 9931 luxury fashion waterproof stainless steel imported quartz movement ladies wristwatch for women",
+    "price": "৳ 499",
+    "detail_url": "https://www.daraz.com.bd/products/ole_vs-9931-luxury-fashion-waterproof-stainless-steel-imported-quartz-movement-ladies-wristwatch-for-women-i350919890.html",
+    "detail": {
+      "url": "https://www.daraz.com.bd/products/ole_vs-9931-luxury-fashion-waterproof-stainless-steel-imported-quartz-movement-ladies-wristwatch-for-women-i350919890.html",
+      "name": "Ole_vs 9931 luxury fashion waterproof stainless steel imported quartz movement ladies wristwatch for women",
+      "brand": "No Brand",
+      "price": {
+        "display": "৳ 599",
+        "value": 599.0,
+        "original_display": "৳ 1,999",
+        "original_value": 1999.0,
+        "discount_display": "-70%",
+        "discount_percent": 70.0
+      },
+      "rating": {
+        "average": 4.3,
+        "count": 36,
+        "raw": "Ratings 36"
+      },
+      "images": [
+        "https://img.drz.lazcdn.com/static/bd/p/e83ed351ef250b744d6a2d34c4024505.jpg_720x720q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/e83ed351ef250b744d6a2d34c4024505.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/721ebb18c82fc198ef2c80cd5728fa37.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/a39f147fcf20476635b7c25a1768145d.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/410bd489f1ae663a8c8e58d0be2908c6.jpg_120x120q80.jpg",
+        "https://static-01.daraz.com.bd/p/a39f147fcf20476635b7c25a1768145d.jpg"
+      ],
+      "colors": [
+        "Silver toton White",
+        "Silver toton Blue",
+        "Silver toton Black"
+      ],
+      "sizes": [],
+      "delivery_options": [
+        {
+          "title": "Standard Delivery",
+          "time": "Guaranteed by 22-27 Oct",
+          "fee": "৳ 70"
+        },
+        {
+          "title": "Cash on Delivery Available",
+          "time": null,
+          "fee": null
+        }
+      ],
+      "return_and_warranty": [
+        "7 Days Returns",
+        "Warranty not available"
+      ],
+      "seller": {
+        "name": "Family Tuch",
+        "link": "https://www.daraz.com.bd/shop/family-tuch/?itemId=350919890&channelSource=pdp",
+        "metrics": {
+          "Positive Seller Ratings": "83%",
+          "Ship on Time": "100%",
+          "Chat Response Rate": "Not enough data"
+        }
+      },
+      "details": {
+        "highlights": [],
+        "description_text": "Olevs -9931 model Dail size : 27mm Dail thickness : 9mm Strap width : 13mm Watch length : 190mm Gender : women Movement : Quartz Material : Stainless steel Style : Fashion & sports &casual & formal Waterproof : 30m, suitable for home use such as hand washing, rain protection, face washing Function : Time, date Olevs -9931 modelDail size : 27mmDail thickness : 9mmStrap width : 13mmWatch length : 190mmGender : womenMovement : QuartzMaterial : Stainless steelStyle : Fashion & sports &casual & formalWaterproof : 30m, suitable for home use such as hand washing, rain protection, face washingFunction : Time, date",
+        "description_html": null,
+        "specifications": [],
+        "whats_in_the_box": null,
+        "raw_text": "Olevs -9931 model Dail size : 27mm Dail thickness : 9mm Strap width : 13mm Watch length : 190mm Gender : women Movement : Quartz Material : Stainless steel Style : Fashion & sports &casual & formal Waterproof : 30m, suitable for home use such as hand washing, rain protection, face washing Function : Time, date Olevs -9931 modelDail size : 27mmDail thickness : 9mmStrap width : 13mmWatch length : 190mmGender : womenMovement : QuartzMaterial : Stainless steelStyle : Fashion & sports &casual & formalWaterproof : 30m, suitable for home use such as hand washing, rain protection, face washingFunction : Time, date"
+      },
+      "variants": [
+        {
+          "color": "Silver toton White",
+          "price": {
+            "display": "৳ 599",
+            "value": 599.0,
+            "original_display": "৳ 1,999",
+            "original_value": 1999.0,
+            "discount_display": "-70%",
+            "discount_percent": 70.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/721ebb18c82fc198ef2c80cd5728fa37.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/e83ed351ef250b744d6a2d34c4024505.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/721ebb18c82fc198ef2c80cd5728fa37.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a39f147fcf20476635b7c25a1768145d.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/410bd489f1ae663a8c8e58d0be2908c6.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Silver toton Blue",
+          "price": {
+            "display": "৳ 499",
+            "value": 499.0,
+            "original_display": "৳ 1,999",
+            "original_value": 1999.0,
+            "discount_display": "-75%",
+            "discount_percent": 75.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/a39f147fcf20476635b7c25a1768145d.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/e83ed351ef250b744d6a2d34c4024505.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/721ebb18c82fc198ef2c80cd5728fa37.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a39f147fcf20476635b7c25a1768145d.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/410bd489f1ae663a8c8e58d0be2908c6.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Silver toton Black",
+          "price": {
+            "display": "৳ 599",
+            "value": 599.0,
+            "original_display": "৳ 1,999",
+            "original_value": 1999.0,
+            "discount_display": "-70%",
+            "discount_percent": 70.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/e83ed351ef250b744d6a2d34c4024505.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/e83ed351ef250b744d6a2d34c4024505.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/721ebb18c82fc198ef2c80cd5728fa37.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a39f147fcf20476635b7c25a1768145d.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/410bd489f1ae663a8c8e58d0be2908c6.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        }
+      ]
+    }
+  },
+  {
+    "data_qa_locator": "product-item",
+    "data_tracking": "product-card",
+    "data_sku_simple": "274895819_BD-2554151133",
+    "data_item_id": "274895819",
+    "data_listno": "39",
+    "data_utlogmap": "{\"listno\":39,\"pageIndex\":1,\"pvid\":\"88fac72ff1b8571442ed484690bdc279\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"274895819\",\"x_object_id\":\"274895819\",\"x_object_type\":\"item\"}",
+    "data_aplus_ae": "40",
+    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i39.563e2fabvZfbeq",
+    "data_aplus_clk": "x40_24149246",
+    "image_url": "data:image/png;base64,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",
+    "product_detail_url": "//www.daraz.com.bd/products/binbond-1236-men-watch-luxury-fashion-stainless-steel-waterproof-quartz-movement-wrist-watch-i274895819.html",
+    "product_name": "Binbond 1236 men Watch stainless steel waterproof quartz movement wrist-watch",
+    "price": "৳ 999",
+    "detail_url": "https://www.daraz.com.bd/products/binbond-1236-men-watch-luxury-fashion-stainless-steel-waterproof-quartz-movement-wrist-watch-i274895819.html",
+    "detail": {
+      "url": "https://www.daraz.com.bd/products/binbond-1236-men-watch-luxury-fashion-stainless-steel-waterproof-quartz-movement-wrist-watch-i274895819.html",
+      "name": "Binbond 1236 men Watch stainless steel waterproof quartz movement wrist-watch",
+      "brand": "No Brand",
+      "price": {
+        "display": "৳ 1,299",
+        "value": 1299.0,
+        "original_display": "৳ 2,999",
+        "original_value": 2999.0,
+        "discount_display": "-57%",
+        "discount_percent": 57.0
+      },
+      "rating": {
+        "average": 3.8,
+        "count": 20,
+        "raw": "Ratings 20"
+      },
+      "images": [
+        "https://img.lazcdn.com/g/tps/tfs/TB13MLwbOLaK1RjSZFxXXamPFXa-300-200.png",
+        "https://img.drz.lazcdn.com/g/kf/S29a2ffa3387a4cf3afb3065083832e6ed.png_720x720q80.png",
+        "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+        "https://img.drz.lazcdn.com/static/bd/p/d7ac3477a12878c399d3a1fad1b93fa3.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/6a9c9ef52a9a5a4a8d0e0c8ccb9e8f99.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/4935d893f167679244e53a37ff254ed9.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/dd353e16735c5fbd98e04539661f9d97.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/dd7388dd0efbcae461cfea4cbae7eb43.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/0e9578ed35ca8a2cf4a109fc1257f6d2.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/2e657da01bb921b0662ebf2eaf036268.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/75617a4acd0d63fec7ec978db3478758.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/36063b90c60eb6a61f5997d3d06dc5eb.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/eb1ab2cb460479f507af15826edc086f.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/ad1d879a4cf56624051e9c6d55ec6456.jpg_120x120q80.jpg",
+        "https://static-01.daraz.com.bd/p/36063b90c60eb6a61f5997d3d06dc5eb.jpg"
+      ],
+      "colors": [
+        "Full Black",
+        "TT-Black",
+        "TT-White",
+        "TT-Green",
+        "Two Tone Black",
+        "Two Tone Green",
+        "Two Tone White",
+        "Two Tone Blue",
+        "Full Golden"
+      ],
+      "sizes": [],
+      "delivery_options": [
+        {
+          "title": "Standard Delivery",
+          "time": "Guaranteed by 22-27 Oct",
+          "fee": "৳ 70"
+        },
+        {
+          "title": "Cash on Delivery Available",
+          "time": null,
+          "fee": null
+        }
+      ],
+      "return_and_warranty": [
+        "7 Days Returns",
+        "Warranty not available"
+      ],
+      "seller": {
+        "name": "Top10 E-Gallery",
+        "link": "https://www.daraz.com.bd/shop/top10-e-gallery/?itemId=274895819&channelSource=pdp",
+        "metrics": {
+          "Positive Seller Ratings": "80%",
+          "Ship on Time": "100%",
+          "Chat Response Rate": "Not enough data"
+        }
+      },
+      "details": {
+        "highlights": [],
+        "description_text": "Binbond 1236 men Watch luxury fashion stainless steel waterproof quartz movement wrist-watchBrand:BINBONDWarranty Period:1 YearColour:Blue & SilverWaterproof5 ATM FeaturesCase Thickness : 12mmBand Width : 22mmBand Material Type : Stainless SteelCase Shape : RoundDial Window Material Type : HardlexProduct Code1236WaterproofYesBand MaterialStainless steelWarranty TypeService Warranty",
+        "description_html": null,
+        "specifications": [],
+        "whats_in_the_box": null,
+        "raw_text": "Binbond 1236 men Watch luxury fashion stainless steel waterproof quartz movement wrist-watchBrand:BINBONDWarranty Period:1 YearColour:Blue & SilverWaterproof5 ATM FeaturesCase Thickness : 12mmBand Width : 22mmBand Material Type : Stainless SteelCase Shape : RoundDial Window Material Type : HardlexProduct Code1236WaterproofYesBand MaterialStainless steelWarranty TypeService Warranty"
+      },
+      "variants": [
+        {
+          "color": "Full Black",
+          "price": {
+            "display": "৳ 999",
+            "value": 999.0,
+            "original_display": "৳ 2,999",
+            "original_value": 2999.0,
+            "discount_display": "-67%",
+            "discount_percent": 67.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/6d426ca0efee6cc1bc4c6c8a682a5f61.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/d7ac3477a12878c399d3a1fad1b93fa3.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/6a9c9ef52a9a5a4a8d0e0c8ccb9e8f99.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4935d893f167679244e53a37ff254ed9.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd353e16735c5fbd98e04539661f9d97.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd7388dd0efbcae461cfea4cbae7eb43.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0e9578ed35ca8a2cf4a109fc1257f6d2.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2e657da01bb921b0662ebf2eaf036268.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/75617a4acd0d63fec7ec978db3478758.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/36063b90c60eb6a61f5997d3d06dc5eb.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/eb1ab2cb460479f507af15826edc086f.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/ad1d879a4cf56624051e9c6d55ec6456.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "TT-Black",
+          "price": {
+            "display": "৳ 1,199",
+            "value": 1199.0,
+            "original_display": "৳ 2,999",
+            "original_value": 2999.0,
+            "discount_display": "-60%",
+            "discount_percent": 60.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/fbd574ef0ca9f5dd3fb2696c61d0aa9f.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/d7ac3477a12878c399d3a1fad1b93fa3.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/6a9c9ef52a9a5a4a8d0e0c8ccb9e8f99.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4935d893f167679244e53a37ff254ed9.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd353e16735c5fbd98e04539661f9d97.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd7388dd0efbcae461cfea4cbae7eb43.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0e9578ed35ca8a2cf4a109fc1257f6d2.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2e657da01bb921b0662ebf2eaf036268.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/75617a4acd0d63fec7ec978db3478758.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/fbd574ef0ca9f5dd3fb2696c61d0aa9f.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "TT-White",
+          "price": {
+            "display": "৳ 1,199",
+            "value": 1199.0,
+            "original_display": "৳ 2,999",
+            "original_value": 2999.0,
+            "discount_display": "-60%",
+            "discount_percent": 60.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/f49b459ff2baec46d8ddd6645b2ede1a.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/d7ac3477a12878c399d3a1fad1b93fa3.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/6a9c9ef52a9a5a4a8d0e0c8ccb9e8f99.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4935d893f167679244e53a37ff254ed9.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd353e16735c5fbd98e04539661f9d97.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd7388dd0efbcae461cfea4cbae7eb43.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0e9578ed35ca8a2cf4a109fc1257f6d2.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2e657da01bb921b0662ebf2eaf036268.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/75617a4acd0d63fec7ec978db3478758.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/f49b459ff2baec46d8ddd6645b2ede1a.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/b4fd5d1948ebfe5454b929b456803cdf.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "TT-Green",
+          "price": {
+            "display": "৳ 1,199",
+            "value": 1199.0,
+            "original_display": "৳ 2,999",
+            "original_value": 2999.0,
+            "discount_display": "-60%",
+            "discount_percent": 60.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/a60b41374acb51f835ef3eb2c86842df.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/d7ac3477a12878c399d3a1fad1b93fa3.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/6a9c9ef52a9a5a4a8d0e0c8ccb9e8f99.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4935d893f167679244e53a37ff254ed9.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd353e16735c5fbd98e04539661f9d97.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd7388dd0efbcae461cfea4cbae7eb43.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0e9578ed35ca8a2cf4a109fc1257f6d2.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2e657da01bb921b0662ebf2eaf036268.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/75617a4acd0d63fec7ec978db3478758.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a60b41374acb51f835ef3eb2c86842df.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2995ebda771f0a2b859a80a4325e7125.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Two Tone Black",
+          "price": {
+            "display": "৳ 1,299",
+            "value": 1299.0,
+            "original_display": "৳ 2,999",
+            "original_value": 2999.0,
+            "discount_display": "-57%",
+            "discount_percent": 57.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/e0fca902a6288edc77b16d57183a5b00.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/d7ac3477a12878c399d3a1fad1b93fa3.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/6a9c9ef52a9a5a4a8d0e0c8ccb9e8f99.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4935d893f167679244e53a37ff254ed9.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd353e16735c5fbd98e04539661f9d97.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd7388dd0efbcae461cfea4cbae7eb43.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0e9578ed35ca8a2cf4a109fc1257f6d2.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2e657da01bb921b0662ebf2eaf036268.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/75617a4acd0d63fec7ec978db3478758.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/e0fca902a6288edc77b16d57183a5b00.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/ad1d879a4cf56624051e9c6d55ec6456.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/fbd574ef0ca9f5dd3fb2696c61d0aa9f.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Two Tone Green",
+          "price": {
+            "display": "৳ 1,299",
+            "value": 1299.0,
+            "original_display": "৳ 2,999",
+            "original_value": 2999.0,
+            "discount_display": "-57%",
+            "discount_percent": 57.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/a60b41374acb51f835ef3eb2c86842df.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/d7ac3477a12878c399d3a1fad1b93fa3.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/6a9c9ef52a9a5a4a8d0e0c8ccb9e8f99.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4935d893f167679244e53a37ff254ed9.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd353e16735c5fbd98e04539661f9d97.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd7388dd0efbcae461cfea4cbae7eb43.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0e9578ed35ca8a2cf4a109fc1257f6d2.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2e657da01bb921b0662ebf2eaf036268.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/75617a4acd0d63fec7ec978db3478758.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/a60b41374acb51f835ef3eb2c86842df.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2995ebda771f0a2b859a80a4325e7125.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Two Tone White",
+          "price": {
+            "display": "৳ 1,299",
+            "value": 1299.0,
+            "original_display": "৳ 2,999",
+            "original_value": 2999.0,
+            "discount_display": "-57%",
+            "discount_percent": 57.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/2e657da01bb921b0662ebf2eaf036268.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/d7ac3477a12878c399d3a1fad1b93fa3.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/6a9c9ef52a9a5a4a8d0e0c8ccb9e8f99.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4935d893f167679244e53a37ff254ed9.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd353e16735c5fbd98e04539661f9d97.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd7388dd0efbcae461cfea4cbae7eb43.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0e9578ed35ca8a2cf4a109fc1257f6d2.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2e657da01bb921b0662ebf2eaf036268.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/75617a4acd0d63fec7ec978db3478758.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/ad1d879a4cf56624051e9c6d55ec6456.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/f49b459ff2baec46d8ddd6645b2ede1a.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Two Tone Blue",
+          "price": {
+            "display": "৳ 1,299",
+            "value": 1299.0,
+            "original_display": "৳ 2,999",
+            "original_value": 2999.0,
+            "discount_display": "-57%",
+            "discount_percent": 57.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/d7ac3477a12878c399d3a1fad1b93fa3.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/d7ac3477a12878c399d3a1fad1b93fa3.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/6a9c9ef52a9a5a4a8d0e0c8ccb9e8f99.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4935d893f167679244e53a37ff254ed9.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd353e16735c5fbd98e04539661f9d97.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd7388dd0efbcae461cfea4cbae7eb43.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0e9578ed35ca8a2cf4a109fc1257f6d2.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2e657da01bb921b0662ebf2eaf036268.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/75617a4acd0d63fec7ec978db3478758.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/36063b90c60eb6a61f5997d3d06dc5eb.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/eb1ab2cb460479f507af15826edc086f.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/ad1d879a4cf56624051e9c6d55ec6456.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Full Golden",
+          "price": {
+            "display": "৳ 1,299",
+            "value": 1299.0,
+            "original_display": "৳ 2,999",
+            "original_value": 2999.0,
+            "discount_display": "-57%",
+            "discount_percent": 57.0
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/2aa61669f4abff3b1c61d57a9c937923.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/d7ac3477a12878c399d3a1fad1b93fa3.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/6a9c9ef52a9a5a4a8d0e0c8ccb9e8f99.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4935d893f167679244e53a37ff254ed9.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd353e16735c5fbd98e04539661f9d97.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/dd7388dd0efbcae461cfea4cbae7eb43.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0e9578ed35ca8a2cf4a109fc1257f6d2.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2e657da01bb921b0662ebf2eaf036268.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/75617a4acd0d63fec7ec978db3478758.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2aa61669f4abff3b1c61d57a9c937923.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/ad1d879a4cf56624051e9c6d55ec6456.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        }
+      ]
+    }
   }
 ]
