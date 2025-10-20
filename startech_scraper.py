@@ -204,6 +204,13 @@ if __name__ == "__main__":
         "https://www.startech.com.bd/component/graphics-card",
         "https://www.startech.com.bd/component/motherboard",
         "https://www.startech.com.bd/networking/router",
+        "https://www.startech.com.bd/monitor/",
+        "https://www.startech.com.bd/starlink/",
+        "https://www.startech.com.bd/drone/",
+        "https://www.startech.com.bd/gimbal/",
+        "https://www.startech.com.bd/television-startech/",
+        "https://www.startech.com.bd/wifi-camera/",
+        "https://www.startech.com.bd/gadget/smart-watch/",
         
         # Add as many category links as you want here
     ]

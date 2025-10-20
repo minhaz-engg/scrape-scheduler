@@ -674,6 +674,7 @@ async def main():
         "https://www.daraz.com.bd/smart-watches/",
         "https://www.daraz.com.bd/smartphones/",
         "https://www.daraz.com.bd/tablets/",
+        
     ]
     # link = "https://www.daraz.com.bd/mini-cameras/"
     for link in list_category_links:
