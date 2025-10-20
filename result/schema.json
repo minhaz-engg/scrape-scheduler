@@ -1,0 +1,45 @@
+{
+  "name": "Daraz Product Listing",
+  "baseSelector": "div[data-qa-locator=\"product-item\"]",
+  "baseFields": [
+    {
+      "name": "data_sku_simple",
+      "type": "attribute",
+      "attribute": "data-sku-simple"
+    },
+    {
+      "name": "data_item_id",
+      "type": "attribute",
+      "attribute": "data-item-id"
+    },
+    {
+      "name": "data_listno",
+      "type": "attribute",
+      "attribute": "data-listno"
+    }
+  ],
+  "fields": [
+    {
+      "name": "product_image_url",
+      "selector": "img[type=\"product\"]",
+      "type": "attribute",
+      "attribute": "src"
+    },
+    {
+      "name": "product_detail_url",
+      "selector": "a[data-spm-anchor-id]",
+      "type": "attribute",
+      "attribute": "href"
+    },
+    {
+      "name": "product_title",
+      "selector": ".RfADt a",
+      "type": "text"
+    },
+    {
+      "name": "product_price",
+      "selector": ".aBrP0 span",
+      "type": "text"
+    }
+  ]
+}

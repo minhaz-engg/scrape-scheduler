@@ -5,7 +5,16 @@
 **DocID:** `daraz_369372786`
 **Source:** Daraz  
 **Category:** gaming controllers
-**Price:** ৳ 1,399
+**Price:** ৳ 1,299
+
+---
+
+
+## FANTECH REVOLVER GP12 Gamepad Wired PC Game Controller Joystick Dual Vibration For Windows PC PS3 Playstation Android  
+**DocID:** `daraz_176198169`
+**Source:** Daraz  
+**Category:** gaming controllers
+**Price:** ৳ 1,750
 
 ---
 
@@ -19,11 +28,11 @@
 ---
 
 
-## FANTECH REVOLVER GP12 Gamepad Wired PC Game Controller Joystick Dual Vibration For Windows PC PS3 Playstation Android  
-**DocID:** `daraz_176198169`
+## UCOM PC Dual Shock UCom Wired Game Controller Gaming Joypad Joystick USB Gamepad Joy stick Game pad Joy pad For Win7/ XP For PC Laptop  
+**DocID:** `daraz_530376014`
 **Source:** Daraz  
 **Category:** gaming controllers
-**Price:** ৳ 1,750
+**Price:** ৳ 520
 
 ---
 
@@ -46,11 +55,11 @@
 ---
 
 
-## UCOM PC Dual Shock UCom Wired Game Controller Gaming Joypad Joystick USB Gamepad Joy stick Game pad Joy pad For Win7/ XP For PC Laptop  
-**DocID:** `daraz_530376014`
+## Ucom PC Vibration Joypad, a wired USB gaming controller for PCs  
+**DocID:** `daraz_530973155`
 **Source:** Daraz  
 **Category:** gaming controllers
-**Price:** ৳ 520
+**Price:** ৳ 550
 
 ---
 
@@ -64,20 +73,11 @@
 ---
 
 
-## PS4 Dual shock 4 Wireless Controller for PS4  
-**DocID:** `daraz_404557772`
+## PlayStation 3 Dualshock 3 (PS3) Wireless Controller- Black  
+**DocID:** `daraz_189732406`
 **Source:** Daraz  
 **Category:** gaming controllers
-**Price:** ৳ 1,499
-
----
-
-
-## Ucom PC Vibration Joypad, a wired USB gaming controller for PCs  
-**DocID:** `daraz_530973155`
-**Source:** Daraz  
-**Category:** gaming controllers
-**Price:** ৳ 550
+**Price:** ৳ 930
 
 ---
 
@@ -91,11 +91,11 @@
 ---
 
 
-## PlayStation 3 Dualshock 3 (PS3) Wireless Controller- Black  
-**DocID:** `daraz_189732406`
+## PS4 Dual shock 4 Wireless Controller for PS4  
+**DocID:** `daraz_404557772`
 **Source:** Daraz  
 **Category:** gaming controllers
-**Price:** ৳ 930
+**Price:** ৳ 1,499
 
 ---
 
@@ -127,6 +127,15 @@
 ---
 
 
+## USB Wireless Game Controller For Android Phone And PC  
+**DocID:** `daraz_529130216`
+**Source:** Daraz  
+**Category:** gaming controllers
+**Price:** ৳ 1,299
+
+---
+
+
 ## Sony PS2 Dual Shock 2/Wired Controller for Playstation 2  
 **DocID:** `daraz_208120056`
 **Source:** Daraz  
@@ -141,6 +150,15 @@
 **Source:** Daraz  
 **Category:** gaming controllers
 **Price:** ৳ 1,500
+
+---
+
+
+## 2.4G Wireless Gamepad For PS3/TV Box/ Android Phone PC Joystick For Super Console X Pro Game Controller For PS3 accessories  
+**DocID:** `daraz_543261376`
+**Source:** Daraz  
+**Category:** gaming controllers
+**Price:** ৳ 1,290
 
 ---
 
@@ -163,20 +181,11 @@
 ---
 
 
-## USB Wireless Game Controller For Android Phone And PC  
-**DocID:** `daraz_529130216`
+## Wireless Game Controller Gamepad For TV Box PC Android Phone  
+**DocID:** `daraz_387571957`
 **Source:** Daraz  
 **Category:** gaming controllers
 **Price:** ৳ 1,299
-
----
-
-
-## 2.4G Wireless Gamepad For PS3/TV Box/ Android Phone PC Joystick For Super Console X Pro Game Controller For PS3 accessories  
-**DocID:** `daraz_543261376`
-**Source:** Daraz  
-**Category:** gaming controllers
-**Price:** ৳ 1,290
 
 ---
 
@@ -190,11 +199,11 @@
 ---
 
 
-## Wireless Game Controller Gamepad For TV Box PC Android Phone  
-**DocID:** `daraz_387571957`
+## Sony PS2 DualShock 2 Controller  
+**DocID:** `daraz_208124730`
 **Source:** Daraz  
 **Category:** gaming controllers
-**Price:** ৳ 1,299
+**Price:** ৳ 580
 
 ---
 
@@ -208,11 +217,11 @@
 ---
 
 
-## Sony PS2 DualShock 2 Controller  
-**DocID:** `daraz_208124730`
+## PS2 Dual Shock 2/Wired Controller for Playstation 2  
+**DocID:** `daraz_208109759`
 **Source:** Daraz  
 **Category:** gaming controllers
-**Price:** ৳ 580
+**Price:** ৳ 555
 
 ---
 
@@ -222,15 +231,6 @@
 **Source:** Daraz  
 **Category:** gaming controllers
 **Price:** ৳ 1,159
-
----
-
-
-## PS2 Dual Shock 2/Wired Controller for Playstation 2  
-**DocID:** `daraz_208109759`
-**Source:** Daraz  
-**Category:** gaming controllers
-**Price:** ৳ 555
 
 ---
 
@@ -253,15 +253,6 @@
 ---
 
 
-## for PS5 Game Controller Silicone Protective Cover for PS5 Non-Slip Handle Cover  
-**DocID:** `daraz_257693963`
-**Source:** Daraz  
-**Category:** gaming controllers
-**Price:** ৳ 539
-
----
-
-
 ## UCOM PC Dual Vibration Wired Game Controller Gaming Joypad Joystick USB Gamepad Joystick Gamepad Joypad For Win7/ XP For PC Laptop Vibration Gamepads  
 **DocID:** `daraz_505251214`
 **Source:** Daraz  
@@ -271,11 +262,11 @@
 ---
 
 
-## PS4 Controller Same as PS5 Controller for PS4, PC & Mobile  
-**DocID:** `daraz_220322741`
+## for PS5 Game Controller Silicone Protective Cover for PS5 Non-Slip Handle Cover  
+**DocID:** `daraz_257693963`
 **Source:** Daraz  
 **Category:** gaming controllers
-**Price:** ৳ 2,450
+**Price:** ৳ 539
 
 ---
 
@@ -294,6 +285,15 @@
 **Source:** Daraz  
 **Category:** gaming controllers
 **Price:** ৳ 493
+
+---
+
+
+## PS4 Controller Same as PS5 Controller for PS4, PC & Mobile  
+**DocID:** `daraz_220322741`
+**Source:** Daraz  
+**Category:** gaming controllers
+**Price:** ৳ 2,450
 
 ---
 
@@ -357,726 +357,6 @@
 **Source:** Daraz  
 **Category:** gaming controllers
 **Price:** ৳ 1,499
-
----
-
-
-## PlayStation 3 Dualshock 3 Wireless Controller- Black  
-**DocID:** `daraz_189724593`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## HAVIT HV-G92 USB with Vibration Gamepad  
-**DocID:** `daraz_238814235`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Qualitied TMR Electromagnetic Hall Effect Joystick Replacement 3D Analog Stick for DualSense Controller for PS5  
-**DocID:** `daraz_551046754`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Fantech WGP15 EOS Pro Wireless Multi-Platform Gamepad Controller With Build in Audio Port Console  
-**DocID:** `daraz_383941230`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## T48 Wireless Game Controller Joystick for PlayStation 4 PS4 Slim PC Gamepad Gaming Joypad  
-**DocID:** `daraz_531411960`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PS5 Media Remote  
-**DocID:** `daraz_214961674`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## ps4 controller wireless  
-**DocID:** `daraz_556275852`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PS4 Controller Blue  
-**DocID:** `daraz_114346842`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Mobile Phone Game Controller Joystick Mobile Game Peripherals Game Controller Applicable to Most Models JS68 Burst (One Pair)  
-**DocID:** `daraz_534523561`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Wireless Controller Gamepad 2.4G USB TV Game Stick 10000 Games  
-**DocID:** `daraz_529184533`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Cooling Fan for Ps5 Console Temperature Exhauster USB External Cooler Fan for PS5 Digital Edition / Ultra HD Console  
-**DocID:** `daraz_203700871`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## WS2812B SK6812RGB SK6812RGBW Bluetooth SP110E Mini Controller, Support ALL LED Strip/Module Light/Panel/String, IOS/Android App 1024 Pixels DC5V-12V  
-**DocID:** `daraz_123791813`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 2 pcs - PS4 Dual shock 4 Wireless Controller for PS4  
-**DocID:** `daraz_430795966`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Suitable for Switch Joy con Switch OLED and Switch Lite joystick replacement cap thumb grip  
-**DocID:** `daraz_546114009`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## FANTECH GP15L ORION EOS LITE Multi-Platform Gamepad, Wired Gaming Controller Joystick, Hall-Effect Trigger/RGB Sticks Supports PC/Steam, Switch, PS3, Android, Tesla Vehicles, Cloud Gaming/Game Pass  
-**DocID:** `daraz_349033460`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## FANTECH WGP13 2.4G Wireless Gamepad For Windows PC,PS3 Turbo Vibration Control Joystick  
-**DocID:** `daraz_218681879`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PS5 DualSense Charging Station(null)  
-**DocID:** `daraz_187730332`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Wireless Game Controller  
-**DocID:** `daraz_387588936`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Hall Effect Joysticks for PS5 Controller, 3D Analog Sensor Wheel Thumbsticks Replacement for PlayStation 5 Controller  
-**DocID:** `daraz_551036036`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## FANTECH GP15 VEGA-EOS Multi-Platform-Gamepad Wired Gaming Controller-Joystick-Hall-Effect Trigger RGB Sticks Supports PC Steam  
-**DocID:** `daraz_376335337`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 2pcs Replacement Hall Effect Joystick For Switch OLED Switch Lite Joycon Analog Thumb Stick For Analog Thumb Stick Repair Parts  
-**DocID:** `daraz_551019907`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## FANTECH WGP13S SUPER MAXFIT Multi-Platform Gamepad Android PC PS Gamepad Wireless Shooter-III Joystick Duel Mode USB Type C  
-**DocID:** `daraz_499247335`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Joysticks Replacement for PS4 Controller,4 Pack Hall Effect 3D Analog Sensor Joysticks Module for PlayStation 4 Controller  
-**DocID:** `daraz_551099594`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Fantech WGP13 Shooter II Gaming Controller  
-**DocID:** `daraz_303760235`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Havit HV-G92 Gamepad  
-**DocID:** `daraz_215123759`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## HAVIT HV-G92 Gamepad  
-**DocID:** `daraz_161504013`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Wireless Bluetooth Media Button Remote Controller Car Motorcycle Bike Steering Wheel Music Play Remote for Phone Tablet  
-**DocID:** `daraz_250306124`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## FANTECH WGP14 NOVA Multi-Platform GamePad Anty-Drift Hall Effect Stic Customizable Macro Rear Triggers Motion Sensor Gaming Gamers Controller For PS3, PS4, IOS, Android & Windows 22 buttons.  
-**DocID:** `daraz_322647595`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## gaming controller Revolver GP 12 game pad wired pc game controller  
-**DocID:** `daraz_332352484`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## FANTECH WGP14V2 PRO NOVA Wireless Multi-Platform Gamepad Controller Joystick For PS4 PC  
-**DocID:** `daraz_376582004`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## For ROG Ally Joystick Replacement 1 Pair Game Handheld Controller Joystick Repair For Asus Rog Ally Accessories  
-**DocID:** `daraz_551056754`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Metal Replacement Joysticks Grip Swap Joysticks for Xbox One Elite Series 2 Metal Joysticks Replacement Mod Swap Joysticks  
-**DocID:** `daraz_552255862`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PS4 DualSense CFI-ZCT1G Wireless Controller Gamepad  
-**DocID:** `daraz_515139288`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## FANTECH WGP16 NOVA II WIRELESS MULTI-PLATFORM GAMEPAD Gaming Gamers Controller BLACK  
-**DocID:** `daraz_540138954`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Wireless Gamepad Controller Black Wireless Gamepad Controller for Nintendo Switch/Lite/OLED, Switch Game Controller with LED Light/Wakeup/Turbo  
-**DocID:** `daraz_316651011`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## premium quality ps4 controller -v2  
-**DocID:** `daraz_511823341`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Logitech G Logitech Extreme 3D Pro Joystick Playstation Black Silver Gaming Accessories (Joystick, Playstation, Wired, USB 1.1)  
-**DocID:** `daraz_335082784`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PS5 Dualsense controller(null)  
-**DocID:** `daraz_164442247`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PS5 Controller Galactic Purple  
-**DocID:** `daraz_328815371`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PS5 Controller DualSence - White  
-**DocID:** `daraz_168680906`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 【3C VictoryEagle】（Fast delivery）Solar Controller,Solar With Dual USB Port 12V/24V MPPT/PWM Auto AdjustabEL  
-**DocID:** `daraz_343274576`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PS4 Official Org. controller Black color  
-**DocID:** `daraz_123645610`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PS5 Controller DualSence - Cosmic RED  
-**DocID:** `daraz_202436219`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PS5 Controller DualSence - Black  
-**DocID:** `daraz_202433473`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 20PCS for 3D Analog Joystick Thumb Stick for Switch Pro/ ONE/ Game Controller Joystick Potentiometer, Easy to Use  
-**DocID:** `daraz_535133985`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PlayStation ps4 DualSense Wireless Controller - MULTICOLOR  
-**DocID:** `daraz_467655574`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Sony_PS4 Dual shock 4 Wireless Controller  
-**DocID:** `daraz_467653602`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## G21 Mobile Phone Game Trigger for Gaming Controller  
-**DocID:** `daraz_479168005`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Mobile Wireless W10 Gamepad Controller Remote Joystick for iPhone Android  
-**DocID:** `daraz_156768358`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 【Clearance Markdowns】 Green Leaf Cool Skin Sticker for PS3 Controller Playstation Remote Controller  
-**DocID:** `daraz_543025017`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 2.4GHz Wireless Game Controller - High - Precision Buttons, Dual - Mode for Android TV Box & Windows PC  
-**DocID:** `daraz_551058063`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 2.4G Wireless Gamepad For PS3/TV Box/ Android Phone PC Joystick For Super Console X Pro Game Controller For PS3 accessories  
-**DocID:** `daraz_551083240`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Hall Electromagnetic Stick No Drifting Hall Effect Joystick Higher Sensitivity Hall Thumb Stick for Nintendo Switch/OLED/Lite  
-**DocID:** `daraz_546209688`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Game Steering Wheel for Smartphones, for Mobile of Valor B  
-**DocID:** `daraz_528407356`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## LANJUE L3000 Sirius USB Joystick Gamepad Controller For PC and Laptop  
-**DocID:** `daraz_538137372`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 【Must-Have Gadgets】 GEN GAME Controller Gamepad Remote For S3 / S5 /S6 Tetuo  
-**DocID:** `daraz_543019099`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Wireless Game Controller Gamepad For TV Box PC Android Phone  
-**DocID:** `daraz_388136151`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 2pcs Fingertips For PUBG PS5 PS4 Games Press Touch Screen Sensitive Touch Gaming Finger Glove Sleeve Breathable Gaming Accessories  
-**DocID:** `daraz_543045494`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## X3 Bluetooth Game Controller Gamepad for PC Mobile Phone  
-**DocID:** `daraz_548264391`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## G21 Mobile Phone Game Trigger for Gaming Controller L1 R1 Alloy Key Button for Android Gamepad Joystick  
-**DocID:** `daraz_416924546`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## PSP Analog Joystick 1piece Analog Joystick Thumb Stick Replacement For Sony PSP 3000 Console Controller  
-**DocID:** `daraz_532661030`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 【FUPANG】COOLMOON RGB Lighting Music Controller Chassis Fan Desktop Chassis Fan Controller RF Remote  
-**DocID:** `daraz_369127584`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## L3000 Double Shock Gaming Controller  
-**DocID:** `daraz_323464533`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 【Discount】 Usb Wired Gaming Joypad For Computer Controller Gamepad Console Gamepad Joystick Remote Controller Replacement  
-**DocID:** `daraz_543024436`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## V8 Bluetooth Wireless Game Controller (iOS/Android/PC/TV Compatible) mobile game free fire pubg call of duty FIFA  
-**DocID:** `daraz_556954957`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 【COOL】 New G21 For Phone Android Game Controller Game Trigger Gamepad Joystick Key Button Hudduo  
-**DocID:** `daraz_543470299`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 2PCS Gaming Trigger for L1R1 for Android Phone(B)  
-**DocID:** `daraz_554381959`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 【Be worth】 Gamepad Telescopic Joystick for PS4 Phone Stretching Joystick 5.0 Game Controller for IOS Android PUBG Switch  
-**DocID:** `daraz_543014202`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## BSP-D9 Mobile Phone Stretch Game Controller Wireless Bluetooth PC Tablet For Switch/PS3/PS4 Dual Hall Somatosensory Controller  
-**DocID:** `daraz_552287822`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Joystick Copy Sanwa arcade Joystick Para Pc Command, Raspberry Pi, DIY Contramaterial, Neo Geo Arcade Game  
-**DocID:** `daraz_549092911`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 2pcs Fingertips For PUBG PS5 PS4 Games Press Touch Screen Sensitive Touch Gaming Finger Glove Sleeve Breathable Gaming Accessori  
-**DocID:** `daraz_533362220`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 1pair Silicone Thumb Grip For P5/ P4 Game Controller Heightening Cap For P5 Joystick Game Controller Accessories Rocker Cap 2pcs  
-**DocID:** `daraz_556154224`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Havit HV-G69 USB with Vibration Gamepad  
-**DocID:** `daraz_356077896`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## 【Stylish】 Ps 2 Controller 2.4ghz Remote Gamepad Ps 1 Control Classic Gaming Joystick Retro Video Game Console Accessories Joypad  
-**DocID:** `daraz_543006849`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## GAMINJA 4-in 1Game Joystick With 3M USB Cable TURBO Games Console Rocker Arcade Station For Nintendo Switch Android TV PS3 PC  
-**DocID:** `daraz_546154533`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## for Mobile Game Controller X8 Mobile Phone Game Button Smartphone Mechanical Buttons Game Trigger  
-**DocID:** `daraz_428520893`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Sensitive Phone Game Trigger for Phone Gaming 4 Finger Trigger L1 R1 Aim Keys Game Controller Sensitive Phone Game Trigger  
-**DocID:** `daraz_475603995`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## pubg mobile free fire game controller V8 Bluetooth Wireless Game Controller (iOS/Android/PC/TV Compatible  
-**DocID:** `daraz_556970427`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## LANJUE L3000 USB 2.0 Wired Gamepad Joystick Controller – 2 Axis 12 Buttons, Dual Vibration, Plug & Play – PC, Laptop Gaming Accessory  
-**DocID:** `daraz_529619980`
-**Source:** Daraz  
-**Category:** gaming controllers
-
-
----
-
-
-## Mobile Controller Gamepad For Tablet Trigger Fire Button Aim Key Mobile Games Grip Handle L1R1 Joystick- Mobile Triggers  
-**DocID:** `daraz_539402939`
-**Source:** Daraz  
-**Category:** gaming controllers
-
 
 ---
 
@@ -1441,740 +721,11 @@
 ---
 
 
-## Lenovo Legion S7 (82K800DKIN) Ryzen 7 5800H 3.2 to 4.4GHz, 16GB, 1TB SSD, GTX 3060 6GB, Win11H,15.6Inch WQHD Gaming Laptop  
-**DocID:** `daraz_226074176`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo Yoga Slim 7 Carbon 14ACN6 Ryzen 7 5800U MX450 2GB Graphics 14" 2.8K OLED Display Laptop  
-**DocID:** `daraz_279950227`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo IdeaPad 3 15ARH7 #82SB00PLIN# Ryzen 5 7535HS 3.3 to 4.55GHz, 8GB, 512GB SSD, RTX 4050 GDDR6 6GB, Win 11, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_325532315`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP Victus 15-FA1093DX Intel Core i5 13th Gen RTX™ 3050 6GB Graphics 15.6″ FHD Laptop  
-**DocID:** `daraz_320811581`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP OMEN 16-c0456AX Ryzen 9 5900H 3.1GHz Up to 4.6GHz, 16GB, 1TB SSD, RTX 3070 8GB Graphics, 16.1" FHD Gaming Laptop (5B859PA)  
-**DocID:** `daraz_312724545`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo LOQ Gaming 9 83DV00HKLK 13th Gen Core i5 RTX 4050 6GB 15.6" FHD 144Hz 16GB RAM 512GB SSD Gaming Laptop  
-**DocID:** `daraz_537138067`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo IdeaPad Slim 5i Pro #82L9009YIN# 11th Gen i5-11300H 3.1 to 4.4GHz, 16GB, 512GB, MX450 2GB, Win 11 Home, 16 WQXGA IPS Laptop  
-**DocID:** `daraz_270387955`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Acer Predator Helios Neo 16 PHN16-71-553K (NH.QLTSI.001) 13th Gen i5-13500HX 3.5 to 4.7GHz, 16GB, 512GB SSD, RTX4050 6GB, WIN 11, 16 Inch WQXGA Gaming Laptop  
-**DocID:** `daraz_323278624`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo LOQ (E) AI POWERED Gaming (9) (83LK004JLK) 12th Gen Core i5 16GB RAM 512GB SSD RTX 3050 Gaming Laptop  
-**DocID:** `daraz_535982511`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Acer Aspire 7 A715-76G-59U9 12th Gen Core i5-12450H 3.3 to 4.4 GHz, 8GB, 512GB SSD, GTX1650 4GB, 15.6 Inch FHD IPS, WIN 11 Gaming Laptop  
-**DocID:** `daraz_356736863`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte AORUS 16X AKG Intel Core i7 14650HX 16GB RAM, 1TB SSD 16 Inch 2.5K QHD WQXGA Gaming Laptop  
-**DocID:** `daraz_357022820`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP Victus 16-r1237TX (AP0Y8PA) Intel 14th Gen Core i5 14450HX 2.4 to 4.8GHz, 16GB LPDDR5, 512B SSD, 6GB RTX 3050, Win 11, 16.1 Inch IPS FHD Gaming Laptop  
-**DocID:** `daraz_530711132`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Acer Predator Helios Neo 16 PHN16-71-747H (NH.QLTSI.002) 13th Gen i7-13700HX 3.7 to 5GHz, 16GB, 512GB SSD, RTX4050 6GB, WIN 11, 16 Inch WQXGA Gaming Laptop  
-**DocID:** `daraz_323280754`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo IdeaPad 3 15ARH7 #82SB00PMIN# Ryzen 7 7735HS 3.2 to 4.75GHz, 16GB, 512GB SSD, RTX 3050 GDDR6 6GB, Win 11, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_325549029`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 MF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB , 512GB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_318812818`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Asus vivo book Core i5 gen 12th Ram 16gb Ssd 512gb Good looking herd working akdom full fresh conditions matro 4/5 mas used hoycha  
-**DocID:** `daraz_527016936`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo IdeaPad 3 15ARH7 #82SB00PKIN# Ryzen 7 7735HS 3.2 to 4.75GHz, 16GB, 512GB SSD, RTX 4050 GDDR6 6GB, Win 11, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_325514898`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## ASUS TUF Gaming A15 FA506NCR-HN003W Ryzen 7 7435HS 8GB RAM 512GB SSD 15.6-inch FHD Laptop  
-**DocID:** `daraz_536008778`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Acer Aspire 5 A515-57G (UN.K9TSI.002) Intel i5-1240P 3.3 to 4.4 GHz, 16GB, 512GB SSD, 15.6" FHD Gaming Laptop  
-**DocID:** `daraz_313696896`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Acer Aspire 7 A715-76G-59U9 12th Gen Core i5-12450H 3.3 to 4.4 GHz, 8GB, 512GB SSD, GTX1650 4GB, 15.6 Inch FHD IPS, WIN 11 Gaming Laptop  
-**DocID:** `daraz_356466348`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 MF5 12th Gen i7-13620H 2.40 To 4.90GHz, 16GB , 1TB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_356179676`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo IdeaPad Gaming 3 #82K201AWIN-3Y# AMD Ryzen 5 5600H 3.3 to 4.2GHz, 8GB, 256GB SSD+ 1TB HDD, GTX1650 4GB, Win11H,15.6Inch FHD Gaming Laptop  
-**DocID:** `daraz_222553601`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo LOQ 15IAX9 (83GS006LLK) 12th Gen i5-12450HX 3.1 to 4.4GHz, 16GB DDR5, 512GB SSD, RTX2050 4GB, Win 11, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_523506479`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP VICTUS 15-FB1013 AMD Ryzen 5 7535HS 8GB RAM 512GB SSD 4GB RTX2050 15.6" FHD IPS Gaming Laptop  
-**DocID:** `daraz_347844293`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Dell Inspiron 15 5510 11th Gen Core i7-11370H 3.3 to 4.8GHz, 8GB, 512GB SSD, Win10, 15.6 FHD Gaming Laptop  
-**DocID:** `daraz_275388567`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP Victus 16-r1237TX (AP0Y8PA) Intel 14th Gen Core i5 14450HX 2.4 to 4.8GHz, 16GB LPDDR5, 512B SSD, 6GB RTX 3050, Win 11, 16.1 Inch IPS FHD Gaming Laptop  
-**DocID:** `daraz_530703506`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP LAPTOP 250 G9 I3-12 GEN 8GB RAM 512GB SSD 15.6 DISPLAY  
-**DocID:** `daraz_476163214`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Vivobook 15 M1505YA(L1097W)  AMD Ryzen 5 8GB RAM 512GB SSD 15.6Inch OLED FHD Laptop  
-**DocID:** `daraz_325008655`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP Victus 15-FB1013 AMD Ryzen 5 7535HS 8GB RAM 512GB SSD 4GB RTX2050 15.6" FHD IPS Gaming Laptop  
-**DocID:** `daraz_347831319`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Asus TUF Gaming A15 FA506NCR (HN003W) Ryzen 7-7435HS 3.1 to 4.50GHz, 8GB, 512GB SSD, RTX 3050 4GB, Win 11, 15.6 Inch FHD Laptop  
-**DocID:** `daraz_541089730`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo V15 Gen4 15.6' FHD Business Laptop, AMD Ryzen 5 7520U Processor 16GB LPDDR5 RAM 256GB PCIe SSD ,2gb graphics  
-**DocID:** `daraz_496326263`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Asus TUF Gaming A15 FA506NCR (HN003W) Ryzen 7-7435HS 3.1 to 4.50GHz, 8GB, 512GB SSD, RTX 3050 4GB, Win 11, 15.6 Inch FHD Laptop  
-**DocID:** `daraz_541110105`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP Victus Gaming 16-d0678TX 11th Gen i5-11400H 2.6 To 4.4 GHz, 16GB, 512GB SSD, RTX 3050 4GB, Windows 11 Home, 16.1 FHD Laptop  
-**DocID:** `daraz_259976116`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo LOQ 15IRH8 (82XV00S5LK) 12th Gen Core-i5-12450H 3.3GHz to 4.4GHz,16GB,512GB SSD, Win 11H,15.6 FHD IPS Laptop  
-**DocID:** `daraz_354470315`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## ASUS TUF Gaming A15 FA506NFR-HN004W Ryzen 7-7435HS 8GB RAM, 512GB SSD, RTX 2050 GPU,Win 11, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_471706582`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## ASUS TUF Gaming A15 FA506NFR-HN004W Ryzen 7-7435HS 8GB RAM, 512GB SSD, RTX 2050 GPU,Win 11, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_471700911`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP 255 G9 AMD Ryzen 3 5425U 15 6 Inch FHD Laptop  
-**DocID:** `daraz_322643400`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 KF5 13th Gen i7-13620H 4.9GHz, 16GB , 512GB SSD, 15.6 Inch FHD IPS Gaming Laptop  
-**DocID:** `daraz_356197022`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## ASUS TUF Gaming A15 FA507NV | 2024 Model | 15.6” FHD 144Hz Display Gaming Laptop ( R7-7435HS, 16GB, 512GB SSD, RTX 4060 8GB )  
-**DocID:** `daraz_557072427`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 KF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB, 512GB SSD, RTX4060 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_318833022`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo IdeaPad 3 15ARH7 (82SB00PKIN) Ryzen 7 7735HS 3.2 to 4.75GHz, 16GB, 512GB SSD, RTX 4050 GDDR6 6GB, Win 11, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_325526296`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP ProBook 440 G9 12th Gen Intel Core i5 8GB RAM 512GB SSD 2GB Graphics 14 Inch FHD Display Silver Laptop  
-**DocID:** `daraz_322028011`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## MSI Thin 15 | 2024 Model | 15.6″ FHD 144Hz Display Gaming Laptop ( i5-13420H, 16GB, 512GB SSD, RTX 4060 8GB, W11 )  
-**DocID:** `daraz_557057806`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo LOQ AI Powered Gaming (9) (83DV00VBLK) 13th Gen Core i7 24GB RAM 512GB SSD RTX 3050 Gaming Laptop  
-**DocID:** `daraz_536006507`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 KF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB, 512GB SSD, RTX4060 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_318833027`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo IdeaPad Gaming 3i 15IHU6 Core-i7 11th Gen Laptop - 16GB RAM - 256GB SSD + 1TB HDD - GeForce GTX 1650 4GB GDDR6 Graphics - 15.6-Inch Display #82K100WFIN-3Y  
-**DocID:** `daraz_269208631`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 MF5 13th Gen i7-13620H 2.40 To 4.90GHz, 16GB , 1TB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_356181724`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo LOQ 15IAX9 (83GS006LLK) 12th Gen i5-12450HX 3.1 to 4.4GHz, 16GB DDR5, 512GB SSD, RTX2050 4GB, Win 11, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_523543105`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo IdeaPad Gaming 3 16IAH7 (82SA00B0IN) 12th Gen Core i5-12450H 3.3 to 4.4GHz, 16GB, 512GB SSD, RTX3050 4GB, Win 11 Home, 16" WUXGA IPS Laptop  
-**DocID:** `daraz_316760875`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 MF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB , 512GB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_318816478`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo IdeaPad 5 Pro 16ACH6 (82L500C6IN) - AMD Ryzen 7 5800H -16GB- 512GB SSD -NVIDIA GeForce GTX 1650 4GB GDDR6- -16" WQXGA - WIN11H - Storm Grey  
-**DocID:** `daraz_274278883`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo IdeaPad 3 15ARH7 (82SB00PLIN) Ryzen 5 7535HS 3.3 to 4.55GHz, 8GB, 512GB SSD, RTX 4050 GDDR6 6GB, Win 11, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_325524934`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 MF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB , 512GB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_318821229`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 KF5 13th Gen i7-13620H 4.9GHz, 16GB , 512GB SSD, 15.6 Inch FHD IPS Gaming Laptop  
-**DocID:** `daraz_356194061`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 KF5 13th Gen i7-13620H 4.9GHz, 16GB , 512GB SSD, 15.6 Inch FHD IPS Gaming Laptop  
-**DocID:** `daraz_356183858`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Acer Nitro V15 || 15.6-inch FHD 165Hz Gaming Laptop ( i5-13420H, 16GB, 1TB SSD, RTX 4060 8GB, W11 )  
-**DocID:** `daraz_557079175`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 KF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB, 512GB SSD, RTX4060 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_318826357`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## MSI Katana 15 HX B14WGK | 2025 Model | 15.6″ FHD Display 144Hz Gaming Laptop ( i7-14650HX, 16GB, 512GB SSD, RTX5070 8GB )  
-**DocID:** `daraz_557083078`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP Elite Dragonfly Core i5 8th Gen 8GB RAM 13.3" Touch  
-**DocID:** `daraz_557029733`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## ASUS TUF Gaming A15 FA506NFR-HN004W Ryzen 7 7435HS 8GB RAM 512GB SSD RTX 2050 GPU Gaming Laptop  
-**DocID:** `daraz_537138110`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## ASUS TUF Gaming A15 FA506NFR-HN004W Ryzen 7-7435HS 8GB RAM, 512GB SSD, RTX 2050 GPU,Win 11, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_471731278`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte AERO 16 OLED BKF Core i7 13th Gen 16GB,1TB SSD,8GB Graphics, Win 11H,16"OLED Gaming Laptop  
-**DocID:** `daraz_356409611`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 MF5 13th Gen i7-13620H 2.40 To 4.90GHz, 16GB , 1TB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_356180748`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte G5 MF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB , 512GB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_328835869`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Acer Nitro 5 AN515-58-74EF (NH.QHYSI.001) 12th Gen i7-12700H, 2.5 to 4.7 GHz, 16GB, 1TB SSD, RTX3060 6GB, WIN 11, 15.6 Inch QHD IPS Gaming Laptop  
-**DocID:** `daraz_322995642`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Gigabyte Gaming G5 MF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB , 512GB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
-**DocID:** `daraz_318820231`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Acer Gaming Aspire 7 A715-42G-R2NE Ryzen 5 5500U 2.1 to 4GHz, 8GB, 512GB SSD, GTX 1650 4GB, W11, 15.6 FHD IPS Laptop  
-**DocID:** `daraz_261446726`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP Victus 15 Core i5 12th Gen RTX 3050 15.6" [16/512GB] Gaming Laptop  
-**DocID:** `daraz_528788955`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## ASUS ROG Strix G15 G513IM Ryzen 7 4800H 16GB Gaming Laptop - 16GB DDR4 RAM - 512GB M.2 NVMe SSD - RTX 3060 6GB GDDR6 Graphics - 15.6-inch WQHD Display - Eclipse Gray #G513IM-HQ168W  
-**DocID:** `daraz_274569611`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP OMEN Core i7 13th Gen RTX 4060 16.1" 165Hz Gaming Laptop [16GB/1TB]  
-**DocID:** `daraz_526035078`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Dell Alienware M18 R2 Core i9 RTX 4080 32GB RAM 1TB SSD 18" Gaming Laptop  
-**DocID:** `daraz_526726502`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP Victus Gaming 16-e0347AX AMD Ryzen 5-5600H 3.3 to 4.2GHz, 8GB, 512GB SSD, GeForce RTX 3050 4GB, Windows 11 Home, 16.1Inch FHD Laptop  
-**DocID:** `daraz_259996091`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Acer Nitro 5 15.6 Inch AG 144Hz FHD IPS Display AN515-44 And N20C1 Acer Nitro 5 Laptop Screen Display Panel  
-**DocID:** `daraz_526713936`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo LOQ 151RX9 Core i5 13th Gen RTX 3050 15.6" 144Hz [12/512GB] Gaming Laptop  
-**DocID:** `daraz_530200991`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## HP Victus Gaming 16-e0347AX AMD Ryzen 5-5600H 3.3 to 4.2GHz, 8GB, 512GB SSD, GeForce RTX 3050 4GB, Windows 11 Home, 16.1 FHD Laptop  
-**DocID:** `daraz_259995103`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## MSI RAIDER 14VGG-GE68HX 240HZ DISPLAY 16GAMING LAPTOP 14TH GEN INTEL CORE I9-14900HX GE FORCE RTX 4070 8GB 32GB DDR5 RAM 1TB SSD  
-**DocID:** `daraz_491684012`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Symphony PD1 4G phone WiFi Youtube Hotspot Supported  
-**DocID:** `daraz_273658285`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## ASUS TUF Gaming F15 FX506HC Core i5 11TH Gen 8Gb Ram 4GB Graphics Gaming Laptop  
-**DocID:** `daraz_186780516`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## ASUS TUF Gaming A15 FA506NF-HN042W Ryzen 5-7535HS 8GB RAM 512GB SSD RTX2050 4GB GFX 15.6 Inch 144Hz Gaming Laptop  
-**DocID:** `daraz_390048872`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
-## Lenovo LOQ 15ARP9 Ryzen 5 RTX 3050 15.6" 144Hz [12/512GB] Gaming Laptop  
-**DocID:** `daraz_528821052`
-**Source:** Daraz  
-**Category:** gaming laptops
-
-
----
-
-
 ## Tws fast  Genaration  Headphone Wireless Bluetooth  AAAAA  
 **DocID:** `daraz_327698849`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 299
-
----
-
-
-## (Only Cover) Transparent Earphone Case For Apple Airpods Pro and pro 2nd Gen Premium Earbuds Protective Cover  
-**DocID:** `daraz_390008155`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 99
+**Price:** ৳ 246
 
 ---
 
@@ -2188,11 +739,11 @@
 ---
 
 
-## 10pcs Silicone Rubber Earbud Tips - Replacement Earpads for Comfortable Fit  
-**DocID:** `daraz_132484826`
+## Tws wireless bluetooth headphone 1fast genaration AAAAAA  
+**DocID:** `daraz_326060763`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 89
+**Price:** ৳ 329
 
 ---
 
@@ -2206,15 +757,6 @@
 ---
 
 
-## Tws wireless bluetooth headphone 1fast genaration AAAAAA  
-**DocID:** `daraz_326060763`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 329
-
----
-
-
 ## Silicone Rubber Earbuds Tips, Eartips, Earpad 5 pairs  
 **DocID:** `daraz_325660468`
 **Source:** Daraz  
@@ -2224,11 +766,47 @@
 ---
 
 
+## 10pcs Silicone Rubber Earbud Tips - Replacement Earpads for Comfortable Fit  
+**DocID:** `daraz_132484826`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+**Price:** ৳ 89
+
+---
+
+
+## (Only Cover) Transparent Earphone Case For Apple Airpods Pro and pro 2nd Gen Premium Earbuds Protective Cover  
+**DocID:** `daraz_390008155`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+**Price:** ৳ 99
+
+---
+
+
 ## Case Cover for airpods pro with touchscreen Silicone soft 360 protection case for A9 Pro Max - touchscreen airpods pro with metal hanging clip  
-**DocID:** `daraz_475445624`
+**DocID:** `daraz_475478480`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
 **Price:** ৳ 170
+
+---
+
+
+## Case Cover for airpods pro with touchscreen Silicone soft 360 protection case for A9 Pro Max - touchscreen airpods pro with metal hanging clip  
+**DocID:** `daraz_475457645`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+**Price:** ৳ 159
+
+---
+
+
+## For Airpods_Pro 2 Silicone Soft Case- (Protective Headphone Case) -  Black, Blue best cover on daraz choice  
+**DocID:** `daraz_553174330`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+**Price:** ৳ 88
 
 ---
 
@@ -2243,19 +821,10 @@
 
 
 ## Case Cover for airpods pro with touchscreen Silicone soft 360 protection case for A9 Pro Max - touchscreen airpods pro with metal hanging clip  
-**DocID:** `daraz_475457645`
+**DocID:** `daraz_475445624`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 159
-
----
-
-
-## Headphone Tula Silicone Rubber Earbuds Tips, , Earpad 2 Size 10 ps  
-**DocID:** `daraz_332652636`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 66
+**Price:** ৳ 170
 
 ---
 
@@ -2269,20 +838,11 @@
 ---
 
 
-## For Airpods Pro Protective Cover for Apple Airpods 3 Bluetooth Headset  
-**DocID:** `daraz_322733595`
+## Headphone Tula Silicone Rubber Earbuds Tips, , Earpad 2 Size 10 ps  
+**DocID:** `daraz_332652636`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 125
-
----
-
-
-## For Airpods_Pro 2 Silicone Soft Case- (Protective Headphone Case) -  Black, Blue best cover on daraz choice  
-**DocID:** `daraz_553174330`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 88
+**Price:** ৳ 66
 
 ---
 
@@ -2296,29 +856,11 @@
 ---
 
 
-## AirPods 1st/2nd generation protective silicone case  
-**DocID:** `daraz_387388488`
+## Vairal cover AirPods Pro Case Cover Silicone Protective Ultra Slim AirPod 3 BD china orgnial  
+**DocID:** `daraz_541375380`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 195
-
----
-
-
-## High Quality Airpods Pro Silicone Case With For Apple Logo ( Only Cover ) - Airpods Pro Case  
-**DocID:** `daraz_336156093`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 120
-
----
-
-
-## KZ Earphone Bag Storage Box Pouch  
-**DocID:** `daraz_124092527`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 145
+**Price:** ৳ 89
 
 ---
 
@@ -2332,20 +874,20 @@
 ---
 
 
+## AirPods Pro-2 Magnet Leather PU Case with Hook For apple  
+**DocID:** `daraz_485664246`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+**Price:** ৳ 179
+
+---
+
+
 ## For Airdods 2 i12 i11 buds air inpods 12 Protective Cover (only cover)  
 **DocID:** `daraz_477093436`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
 **Price:** ৳ 49
-
----
-
-
-## Transparent (Only Cover) Earphone Case Airpods Pro and Airpods pro 2nd Gen Case - EarPods Covers Shock Proof Protective Cover For Apple AirPods Case  
-**DocID:** `daraz_351880690`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 92
 
 ---
 
@@ -2359,41 +901,29 @@
 ---
 
 
-## Vairal cover AirPods Pro Case Cover Silicone Protective Ultra Slim AirPod 3 BD china orgnial  
-**DocID:** `daraz_541375380`
+## For Airpods Pro Protective Cover for Apple Airpods 3 Bluetooth Headset  
+**DocID:** `daraz_322733595`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 89
+**Price:** ৳ 125
 
 ---
 
 
-## Wooden Headphones Holder ICHH001, MDF Wood Stand for AirPods Pro, Gaming, Office, and Dormitory Use  
-**DocID:** `daraz_132154366`
+## KZ Earphone Bag Storage Box Pouch  
+**DocID:** `daraz_124092527`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 410
+**Price:** ৳ 145
 
 ---
 
 
-## ‎BOROMAXX BX38 Wireless Neckband 40H Backup 200MAH Battery Deep Bass | Noise Canceling Bluetooth Headset
-‎
-‎
-‎Boromaxx bx38 ওয়্যারলেস নেকব্যান্ড 40h ব্যাকআপ 200mah ব্যাটারি ডিপ বেইস গোলমাল ব্লুটুথ হেডসেট বাতিল করে  
-**DocID:** `daraz_539997044`
+## For Airpods_Pro & Pro 2 Silicone Soft Case- (Protective Headphone Case) - By Audio Plus  
+**DocID:** `daraz_526799352`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 499
-
----
-
-
-## (Only Cover) For Apple (Airpods Pro/ pro 2nd Gen) Premium Earbuds Protective Cover (Headphone not included)  
-**DocID:** `daraz_454154682`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 199
+**Price:** ৳ 99
 
 ---
 
@@ -2416,6 +946,15 @@
 ---
 
 
+## AirPods 1st/2nd generation protective silicone case  
+**DocID:** `daraz_387388488`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+**Price:** ৳ 195
+
+---
+
+
 ## Airpods Pro  Silicone Soft Case Protective Case 1st gen/2nd gen aipods pro cover selicon cover  
 **DocID:** `daraz_473985067`
 **Source:** Daraz  
@@ -2425,20 +964,11 @@
 ---
 
 
-## Case Cover for airpods pro with touchscreen Silicone soft 360 protection case for A9 Pro Max - touchscreen airpods pro with metal hanging clip  
-**DocID:** `daraz_475478480`
+## Airpods Case For Airpods_Pro 2 Silicone Soft Case- (Protective Headphone Case)  Soft Silicone Case for Apple Airpods Pro Wireless Headset Case for AirPods Pro Charging Box Solid Color Fashion Earphones Case  
+**DocID:** `daraz_549058601`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 170
-
----
-
-
-## KZ Compact EVA Earphone Storage Box Shockproof Travel Pouch 88x68x41mm  
-**DocID:** `daraz_112674261`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 150
+**Price:** ৳ 83
 
 ---
 
@@ -2452,29 +982,11 @@
 ---
 
 
-## KZ Earphone Case Bags Headphone Earbuds Bag Storage Carrying Pouch PU Box  
-**DocID:** `daraz_526911569`
+## Airpods Pro / Airpods Pro 2nd Gen silicone Case with for apple (only cover)  
+**DocID:** `daraz_540990678`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 150
-
----
-
-
-## For Airpods_Pro & Pro 2 Silicone Soft Case- (Protective Headphone Case) - By Audio Plus  
-**DocID:** `daraz_526799352`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 99
-
----
-
-
-## iPOWER Soft Silicone Replacement Eartips Pain Reducing & Anti-Slip Ear Tips  Pack of 1 (5Pairs - 10Pcs) (Black)  
-**DocID:** `daraz_325466936`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 89
+**Price:** ৳ 140
 
 ---
 
@@ -2488,11 +1000,11 @@
 ---
 
 
-## AirPods Pro Magnet Leather PU Case with Hook For apple Air Pods Pro  
-**DocID:** `daraz_385958986`
+## Wooden Headphones Holder ICHH001, MDF Wood Stand for AirPods Pro, Gaming, Office, and Dormitory Use  
+**DocID:** `daraz_132154366`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 159
+**Price:** ৳ 410
 
 ---
 
@@ -2506,47 +1018,11 @@
 ---
 
 
-## KZ Wired Earphone Cable for TRN-MT1: "C" Pin - Enhanced audio experience, durable, secure connection-Upgrade now  
-**DocID:** `daraz_207153126`
+## iPOWER Soft Silicone Replacement Eartips Pain Reducing & Anti-Slip Ear Tips  Pack of 1 (5Pairs - 10Pcs) (Black)  
+**DocID:** `daraz_325466936`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
-**Price:** ৳ 390
-
----
-
-
-## Silicone Protective Cover For Moondrop Space Travel  
-**DocID:** `daraz_345124245`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-**Price:** ৳ 220
-
----
-
-
-## AirPods Pro-2 Magnet Leather PU Case with Hook For apple  
-**DocID:** `daraz_485664246`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-
-
----
-
-
-## Airpods Case For Airpods_Pro 2 Silicone Soft Case- (Protective Headphone Case)  Soft Silicone Case for Apple Airpods Pro Wireless Headset Case for AirPods Pro Charging Box Solid Color Fashion Earphones Case  
-**DocID:** `daraz_549058601`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-
-
----
-
-
-## Airpods Pro / Airpods Pro 2nd Gen silicone Case with for apple (only cover)  
-**DocID:** `daraz_540990678`
-**Source:** Daraz  
-**Category:** headphones headsets accessories
-
+**Price:** ৳ 89
 
 ---
 
@@ -2555,7 +1031,55 @@
 **DocID:** `daraz_496931064`
 **Source:** Daraz  
 **Category:** headphones headsets accessories
+**Price:** ৳ 105
 
+---
+
+
+## KZ Compact EVA Earphone Storage Box Shockproof Travel Pouch 88x68x41mm  
+**DocID:** `daraz_112674261`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+**Price:** ৳ 150
+
+---
+
+
+## (Only Cover) For Apple (Airpods Pro/ pro 2nd Gen) Premium Earbuds Protective Cover (Headphone not included)  
+**DocID:** `daraz_454154682`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+**Price:** ৳ 199
+
+---
+
+
+## ‎BOROMAXX BX38 Wireless Neckband 40H Backup 200MAH Battery Deep Bass | Noise Canceling Bluetooth Headset
+‎
+‎
+‎Boromaxx bx38 ওয়্যারলেস নেকব্যান্ড 40h ব্যাকআপ 200mah ব্যাটারি ডিপ বেইস গোলমাল ব্লুটুথ হেডসেট বাতিল করে  
+**DocID:** `daraz_539997044`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+**Price:** ৳ 499
+
+---
+
+
+## KZ Earphone Case Bags Headphone Earbuds Bag Storage Carrying Pouch PU Box  
+**DocID:** `daraz_526911569`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+**Price:** ৳ 150
+
+---
+
+
+## KZ Wired Earphone Cable for TRN-MT1: "C" Pin - Enhanced audio experience, durable, secure connection-Upgrade now  
+**DocID:** `daraz_207153126`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+**Price:** ৳ 390
 
 ---
 
@@ -2578,33 +1102,6 @@
 ---
 
 
-## 3 Colour Backlit Wireless Mini Keyboard With Touchpad Mouse- Gaming - Rechargeable - Wireless Mouse Keyboard COMBO For Android TV Box /  PC / Laptop  
-**DocID:** `daraz_108178646`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 499
-
----
-
-
-## JEDEL-K500 Suspended USB Gaming Keyboard With Color Backlight  
-**DocID:** `daraz_505202502`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 620
-
----
-
-
-## Gaming Keyboard Rgb Lighting T-Wolf T20 Gaming Keyboard - Elevate Your Gaming Experience With Dynamic Rgb Lighting Effects  
-**DocID:** `daraz_184127293`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 842
-
----
-
-
 ## New 3 in 1 Bluetooth Gaming Keyboard Mouse Converter Combo Support For Android & IOS PC PUBG Mobile Game Accessories  
 **DocID:** `daraz_384933840`
 **Source:** Daraz  
@@ -2623,29 +1120,29 @@
 ---
 
 
+## 3 Colour Backlit Wireless Mini Keyboard With Touchpad Mouse- Gaming - Rechargeable - Wireless Mouse Keyboard COMBO For Android TV Box /  PC / Laptop  
+**DocID:** `daraz_108178646`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 499
+
+---
+
+
+## Gaming Keyboard Rgb Lighting T-Wolf T20 Gaming Keyboard - Elevate Your Gaming Experience With Dynamic Rgb Lighting Effects  
+**DocID:** `daraz_184127293`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 842
+
+---
+
+
 ## Rgb Keyboard Backlit Gaming Keyboard Twolf T20 Rgb Lighting - Illuminate Your Gaming Setup With Vibrant Colors  
 **DocID:** `daraz_278566153`
 **Source:** Daraz  
 **Category:** keyboards gaming
 **Price:** ৳ 833
-
----
-
-
-## RGB Pro Gaming Keyboard with Bangla Layout: Illuminate Your Gaming Experience-a Unique Choice For Your Needs  
-**DocID:** `daraz_330496710`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 735
-
----
-
-
-## M1 PRO 5 in 1 RGB Mobile Game Keyboard Mouse Combo Pack MK500  
-**DocID:** `daraz_549124618`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 990
 
 ---
 
@@ -2668,20 +1165,20 @@
 ---
 
 
-## Mini Colorful RGB Backlit One-Handed Gaming Keyboard Game Comfortable Left Hand Game Keypad and Mouse  
-**DocID:** `daraz_526884413`
+## M1 PRO 5 in 1 RGB Mobile Game Keyboard Mouse Combo Pack MK500  
+**DocID:** `daraz_549124618`
 **Source:** Daraz  
 **Category:** keyboards gaming
-**Price:** ৳ 899
+**Price:** ৳ 990
 
 ---
 
 
-## AULA F2058 RGB BACKLIGHT MECHANICAL GAMING KEYBOARD MULTIMEDIA KNOW SOFTWARE CONTROL WRIST REST ANTI GHOSTING  
-**DocID:** `daraz_199256403`
+## JEDEL-K500 Suspended USB Gaming Keyboard With Color Backlight  
+**DocID:** `daraz_505202502`
 **Source:** Daraz  
 **Category:** keyboards gaming
-**Price:** ৳ 2,788
+**Price:** ৳ 620
 
 ---
 
@@ -2695,74 +1192,11 @@
 ---
 
 
-## Mechanical Keyboard With RGB Backlit HP GK400F Mechanical Switch Gaming Keyboard RGB Keyboard  
-**DocID:** `daraz_280317825`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 2,421
-
----
-
-
-## JEDEL K500+ USB Gaming Keyboard With RGB Lighting  
-**DocID:** `daraz_347963747`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 715
-
----
-
-
-## JEDEL K500 USB Gaming Keyboard With RGB Lighting  
-**DocID:** `daraz_350734463`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 599
-
----
-
-
-## USB keyboard, an optical mouse, and a USB hub. It also highlights a "FREE OTG" (On-The-Go) adapter and positions the entire package as a "gaming combo pack".  
-**DocID:** `daraz_543644257`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 750
-
----
-
-
-## Mini Keyboard With Touchpad Mouse - A Backlit Keyboard - 3 Colour Switchable RGB Keyboard Handheld Portable Wireless Keyboard 2.4 GHz  
-**DocID:** `daraz_104114846`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 532
-
----
-
-
-## PUBG /FREEFIRE RGB Gaming Keyboard  
-**DocID:** `daraz_320435937`
+## Mini Colorful RGB Backlit One-Handed Gaming Keyboard Game Comfortable Left Hand Game Keypad and Mouse  
+**DocID:** `daraz_526884413`
 **Source:** Daraz  
 **Category:** keyboards gaming
 **Price:** ৳ 899
-
----
-
-
-## One Handed Gaming Keyboard Rgb Backlit 35 Keys Portable Mini Gaming Keypad Ergonomic Game Controller For Pc Gamer, USB, Black  
-**DocID:** `daraz_530207282`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 1,200
-
----
-
-
-## Rgb Lighting Pro Gaming Keyboard Df001 - Illuminate Your Gaming Setup With This Rgb Gaming Keyboard  
-**DocID:** `daraz_314594488`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 770
 
 ---
 
@@ -2776,8 +1210,8 @@
 ---
 
 
-## PUBG/FREEFIRE RGB Gaming Keyboard one hand gaming keyboard  
-**DocID:** `daraz_530190741`
+## USB keyboard, an optical mouse, and a USB hub. It also highlights a "FREE OTG" (On-The-Go) adapter and positions the entire package as a "gaming combo pack".  
+**DocID:** `daraz_543644257`
 **Source:** Daraz  
 **Category:** keyboards gaming
 **Price:** ৳ 750
@@ -2785,11 +1219,65 @@
 ---
 
 
-## Gaming Keyboard Rgb Lighting G21 - Elevate Your Gaming Setup With Stylish Backlit Keyboard - Perfect For Gamers  
-**DocID:** `daraz_186356122`
+## RGB Pro Gaming Keyboard with Bangla Layout: Illuminate Your Gaming Experience-a Unique Choice For Your Needs  
+**DocID:** `daraz_330496710`
 **Source:** Daraz  
 **Category:** keyboards gaming
-**Price:** ৳ 882
+**Price:** ৳ 735
+
+---
+
+
+## AULA F2058 RGB BACKLIGHT MECHANICAL GAMING KEYBOARD MULTIMEDIA KNOW SOFTWARE CONTROL WRIST REST ANTI GHOSTING  
+**DocID:** `daraz_199256403`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 2,788
+
+---
+
+
+## Mechanical Keyboard With RGB Backlit HP GK400F Mechanical Switch Gaming Keyboard RGB Keyboard  
+**DocID:** `daraz_280317825`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 2,421
+
+---
+
+
+## Mini Keyboard With Touchpad Mouse - A Backlit Keyboard - 3 Colour Switchable RGB Keyboard Handheld Portable Wireless Keyboard 2.4 GHz  
+**DocID:** `daraz_104114846`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 532
+
+---
+
+
+## One Handed Gaming Keyboard Rgb Backlit 35 Keys Portable Mini Gaming Keypad Ergonomic Game Controller For Pc Gamer, USB, Black  
+**DocID:** `daraz_530207282`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 1,200
+
+---
+
+
+## PUBG /FREEFIRE RGB Gaming Keyboard  
+**DocID:** `daraz_320435937`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 899
+
+---
+
+
+## JEDEL K500 USB Gaming Keyboard With RGB Lighting  
+**DocID:** `daraz_350734463`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 599
 
 ---
 
@@ -2803,11 +1291,47 @@
 ---
 
 
-## Gaming keyboard with LED backlight  
-**DocID:** `daraz_543787135`
+## JEDEL K500+ USB Gaming Keyboard With RGB Lighting  
+**DocID:** `daraz_347963747`
 **Source:** Daraz  
 **Category:** keyboards gaming
-**Price:** ৳ 950
+**Price:** ৳ 715
+
+---
+
+
+## Rgb Lighting Pro Gaming Keyboard Df001 - Illuminate Your Gaming Setup With This Rgb Gaming Keyboard  
+**DocID:** `daraz_314594488`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 770
+
+---
+
+
+## Gaming Keyboard Rgb Lighting G21 - Elevate Your Gaming Setup With Stylish Backlit Keyboard - Perfect For Gamers  
+**DocID:** `daraz_186356122`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 882
+
+---
+
+
+## FANTECH MK876V2 SUMI EDITION TKL RGB Gradient Mechanical Keyboard Blue/Red Switch 25 Keys Anti-Ghosting.  
+**DocID:** `daraz_286821299`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 2,790
+
+---
+
+
+## T-Wolf T20 Wired RGB Gaming Keyboard  
+**DocID:** `daraz_533457529`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 845
 
 ---
 
@@ -2821,11 +1345,20 @@
 ---
 
 
-## Combo Offer Keyboard + Mouse+ USB Hub  
-**DocID:** `daraz_319450729`
+## PUBG/FREEFIRE RGB Gaming Keyboard one hand gaming keyboard  
+**DocID:** `daraz_530190741`
 **Source:** Daraz  
 **Category:** keyboards gaming
-**Price:** ৳ 694
+**Price:** ৳ 750
+
+---
+
+
+## Gaming keyboard with LED backlight  
+**DocID:** `daraz_543787135`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 950
 
 ---
 
@@ -2835,15 +1368,6 @@
 **Source:** Daraz  
 **Category:** keyboards gaming
 **Price:** ৳ 950
-
----
-
-
-## RGB PRO GAMING KEYBOARD With Led Key and Bangla  
-**DocID:** `daraz_313178471`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 750
 
 ---
 
@@ -2866,38 +1390,20 @@
 ---
 
 
-## T-Wolf T20 Wired RGB Gaming Keyboard  
-**DocID:** `daraz_533457529`
+## Combo Offer Keyboard + Mouse+ USB Hub  
+**DocID:** `daraz_319450729`
 **Source:** Daraz  
 **Category:** keyboards gaming
-**Price:** ৳ 845
+**Price:** ৳ 694
 
 ---
 
 
-## JEDEL-K500+ USB Colorful Backlight Gaming Keyboard With RGB Lighting  
-**DocID:** `daraz_505190836`
+## RGB PRO GAMING KEYBOARD With Led Key and Bangla  
+**DocID:** `daraz_313178471`
 **Source:** Daraz  
 **Category:** keyboards gaming
-**Price:** ৳ 640
-
----
-
-
-## FANTECH MK876V2 SUMI EDITION TKL RGB Gradient Mechanical Keyboard Blue/Red Switch 25 Keys Anti-Ghosting.  
-**DocID:** `daraz_286821299`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 2,790
-
----
-
-
-## Jedel K601 Single Hand RGB Gaming Keyboard  
-**DocID:** `daraz_519285139`
-**Source:** Daraz  
-**Category:** keyboards gaming
-**Price:** ৳ 715
+**Price:** ৳ 750
 
 ---
 
@@ -2911,11 +1417,20 @@
 ---
 
 
-## Paket Keyboard Gaming Single Hand RGB 5in1 Divipard Keyboard Gaming  
-**DocID:** `daraz_446227988`
+## JEDEL-K500+ USB Colorful Backlight Gaming Keyboard With RGB Lighting  
+**DocID:** `daraz_505190836`
 **Source:** Daraz  
 **Category:** keyboards gaming
-**Price:** ৳ 1,978
+**Price:** ৳ 640
+
+---
+
+
+## Jedel K601 Single Hand RGB Gaming Keyboard  
+**DocID:** `daraz_519285139`
+**Source:** Daraz  
+**Category:** keyboards gaming
+**Price:** ৳ 715
 
 ---
 
@@ -2924,7 +1439,7 @@
 **DocID:** `daraz_529582205`
 **Source:** Daraz  
 **Category:** keyboards gaming
-
+**Price:** ৳ 690
 
 ---
 
@@ -2951,7 +1466,7 @@
 **DocID:** `daraz_290964754`
 **Source:** Daraz  
 **Category:** laptops
-**Price:** ৳ 8,999
+**Price:** ৳ 9,750
 
 ---
 
@@ -4003,6 +2518,15 @@ Core i5-3320M
 ---
 
 
+## Fabric Canvas Strap Casual Cool Sport Round Dial Wrist Watch for men - Watch For Men - Watch - Watch For Men - Watch - ঘড়ি  
+**DocID:** `daraz_368371480`
+**Source:** Daraz  
+**Category:** mens chronograph
+**Price:** ৳ 155
+
+---
+
+
 ## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
 **DocID:** `daraz_337632644`
 **Source:** Daraz  
@@ -4021,38 +2545,11 @@ Core i5-3320M
 ---
 
 
-## premium quality cotton polo t shirt for men-Polo T shirt  
-**DocID:** `daraz_345184414`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 325
-
----
-
-
 ## NEW Stylish POLO SHIRT Premium Quality Fashionable  For Men  
 **DocID:** `daraz_383327270`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 249
-
----
-
-
-## sports polo tshirt for summer  
-**DocID:** `daraz_365701826`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 290
-
----
-
-
-## Combo  pack 2 pic NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
-**DocID:** `daraz_510671870`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 480
 
 ---
 
@@ -4066,11 +2563,38 @@ Core i5-3320M
 ---
 
 
+## sports polo tshirt for summer  
+**DocID:** `daraz_365701826`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 290
+
+---
+
+
 ## Stylish Premium Quality Summer Polo Shirt for Men - Classic Design Suitable for All Seasons  
 **DocID:** `daraz_407981016`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 199
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
+**DocID:** `daraz_337583822`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 249
+
+---
+
+
+## Combo  pack 2 pic NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
+**DocID:** `daraz_510671870`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 480
 
 ---
 
@@ -4094,19 +2618,10 @@ Core i5-3320M
 
 
 ## Premium Trendy Stylist Design Men's Polo Shirt - Casual Elegance for All Seasons - Effortless Style for Everyday Wear  
-**DocID:** `daraz_393757376`
+**DocID:** `daraz_393776197`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 299
-
----
-
-
-## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
-**DocID:** `daraz_337583822`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 249
 
 ---
 
@@ -4120,29 +2635,20 @@ Core i5-3320M
 ---
 
 
+## premium quality cotton polo t shirt for men-Polo T shirt  
+**DocID:** `daraz_345184414`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 325
+
+---
+
+
 ## Eid Special Fashionable Cotton Polo Shirt For Men - Polo Shirt  
 **DocID:** `daraz_521903217`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 309
-
----
-
-
-## Premium Trendy Stylist Design Men's Polo Shirt - Casual Elegance for All Seasons - Effortless Style for Everyday Wear  
-**DocID:** `daraz_393776197`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 299
-
----
-
-
-## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt,,  
-**DocID:** `daraz_393742333`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 349
 
 ---
 
@@ -4156,38 +2662,11 @@ Core i5-3320M
 ---
 
 
-## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
-**DocID:** `daraz_367048645`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 349
-
----
-
-
 ## Best quality cotton polo t-shirt for men-Polo T shirt  
 **DocID:** `daraz_346022941`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 299
-
----
-
-
-## Best quality cotton pk polo shirt for men-polo shirt  
-**DocID:** `daraz_343770812`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 299
-
----
-
-
-## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
-**DocID:** `daraz_429519068`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 349
 
 ---
 
@@ -4201,20 +2680,11 @@ Core i5-3320M
 ---
 
 
-## Men's polo shirt in mulberry silk fabric  
-**DocID:** `daraz_529669991`
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_367048645`
 **Source:** Daraz  
 **Category:** mens polo shirts
-**Price:** ৳ 268
-
----
-
-
-## Black poli Cotton polo for men  
-**DocID:** `daraz_265528634`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 182
+**Price:** ৳ 349
 
 ---
 
@@ -4228,11 +2698,92 @@ Core i5-3320M
 ---
 
 
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt,,  
+**DocID:** `daraz_393742333`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
+
+---
+
+
+## Black poli Cotton polo for men  
+**DocID:** `daraz_265528634`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 182
+
+---
+
+
+## Premium Trendy Stylist Design Men's Polo Shirt - Casual Elegance for All Seasons - Effortless Style for Everyday Wear  
+**DocID:** `daraz_393757376`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Men's polo shirt in mulberry silk fabric  
+**DocID:** `daraz_529669991`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 268
+
+---
+
+
 ## New Men's Business Casual Short Sleeved Shirt with Badge Solid Color Polo Shirt Fashionable Breathable Comfortable Versatile Top  
 **DocID:** `daraz_546061061`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 1,453
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
+**DocID:** `daraz_378162644`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 249
+
+---
+
+
+## Combo Pack of 4 Classic Fit Performance Polo T-Shirt For Man  
+**DocID:** `daraz_135878009`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 799
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_429487688`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
+
+---
+
+
+## Premium Trendy Stylist Design Men's Polo Shirt - Casual Elegance for All Seasons - Effortless Style for Everyday Wear  
+**DocID:** `daraz_393741775`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## poloshirt for men premium quality  
+**DocID:** `daraz_347707200`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
 
 ---
 
@@ -4255,17 +2806,8 @@ Core i5-3320M
 ---
 
 
-## Stylish Polo New T-Shirt - Comfortable and Soft Wear Ideal for All Seasons  
-**DocID:** `daraz_220490894`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 290
-
----
-
-
-## Premium Trendy Stylist Design Men's Polo Shirt - Casual Elegance for All Seasons - Effortless Style for Everyday Wear  
-**DocID:** `daraz_393741775`
+## Premium Quality Men's Polo Shirt - Elevate Your Wardrobe with Casual Style - Timeless Appeal for Any Occasion  
+**DocID:** `daraz_367067710`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 299
@@ -4273,11 +2815,11 @@ Core i5-3320M
 ---
 
 
-## Combo Pack of 4 Classic Fit Performance Polo T-Shirt For Man  
-**DocID:** `daraz_135878009`
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T-Shirt  
+**DocID:** `daraz_393740467`
 **Source:** Daraz  
 **Category:** mens polo shirts
-**Price:** ৳ 799
+**Price:** ৳ 349
 
 ---
 
@@ -4291,11 +2833,20 @@ Core i5-3320M
 ---
 
 
-## Mesh Premium Polo Shirt for Men - Experience Comfort and Style with this Premium Quality Polo Shirt  
-**DocID:** `daraz_199414994`
+## polo t shirt for men - best polo in summer  
+**DocID:** `daraz_538712601`
 **Source:** Daraz  
 **Category:** mens polo shirts
-**Price:** ৳ 390
+**Price:** ৳ 250
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_429519068`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
 
 ---
 
@@ -4309,29 +2860,11 @@ Core i5-3320M
 ---
 
 
-## poloshirt for men premium quality  
-**DocID:** `daraz_347707200`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 199
-
----
-
-
-## Premium Quality Men's Polo Shirt - Elevate Your Wardrobe with Casual Style - Timeless Appeal for Any Occasion  
-**DocID:** `daraz_367067710`
+## Best quality cotton pk polo shirt for men-polo shirt  
+**DocID:** `daraz_343770812`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 299
-
----
-
-
-## polo t shirt for men - best polo in summer  
-**DocID:** `daraz_538712601`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 250
 
 ---
 
@@ -4354,47 +2887,11 @@ Core i5-3320M
 ---
 
 
-## Trendy Fashionable Cotton Polo Shirt For Men - Polo T-Shirt  
-**DocID:** `daraz_393740467`
-**Source:** Daraz  
-**Category:** mens polo shirts
-**Price:** ৳ 349
-
----
-
-
-## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
-**DocID:** `daraz_378162644`
-**Source:** Daraz  
-**Category:** mens polo shirts
-
-
----
-
-
-## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
-**DocID:** `daraz_429487688`
-**Source:** Daraz  
-**Category:** mens polo shirts
-
-
----
-
-
 ## Versatile -Hot Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men- Avant-garde Any Color  
 **DocID:** `daraz_347609148`
 **Source:** Daraz  
 **Category:** mens sneakers
 **Price:** ৳ 447
-
----
-
-
-## Sneakers Men Casual Shoes Men Fashion Sneakers Light Weight - Experience Feather-Like Comfort  
-**DocID:** `daraz_316411162`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 480
 
 ---
 
@@ -4417,29 +2914,20 @@ Core i5-3320M
 ---
 
 
+## Sneakers Men Casual Shoes Men Fashion Sneakers Light Weight - Experience Feather-Like Comfort  
+**DocID:** `daraz_316411162`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 480
+
+---
+
+
 ## Hot Collection Stylish and Fashionable Low Top Summer and Winter Exclusive Converse Sneakers for Men - Comfortable and Suitable for All Seasons  
 **DocID:** `daraz_345989247`
 **Source:** Daraz  
 **Category:** mens sneakers
 **Price:** ৳ 508
-
----
-
-
-## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Sneakers for Men  
-**DocID:** `daraz_416591028`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 372
-
----
-
-
-## Blue White And Red Color Paint Casual Sneakers Canvas Shoes For Men Lightweight Breathable And Comfortable Shoes For Walking M17 - Stylish and Comfortable Sneakers  
-**DocID:** `daraz_329703509`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 350
 
 ---
 
@@ -4453,20 +2941,11 @@ Core i5-3320M
 ---
 
 
-## Stylish and Fashionable Winter and Summer Sneakers for Men  
-**DocID:** `daraz_416482935`
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Sneakers for Men  
+**DocID:** `daraz_416591028`
 **Source:** Daraz  
 **Category:** mens sneakers
-**Price:** ৳ 410
-
----
-
-
-## Versatile -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Avant-garde  
-**DocID:** `daraz_392124662`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 510
+**Price:** ৳ 372
 
 ---
 
@@ -4481,10 +2960,37 @@ Core i5-3320M
 
 
 ## New Trendy Premium Quality Black Blue And Grey Color CANADIAN Canvas Sneakers Shoes For Men M6060  
+**DocID:** `daraz_453210475`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 469
+
+---
+
+
+## Versatile -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Avant-garde  
+**DocID:** `daraz_392124662`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 510
+
+---
+
+
+## New Trendy Premium Quality Black Blue And Grey Color CANADIAN Canvas Sneakers Shoes For Men M6060  
 **DocID:** `daraz_453281157`
 **Source:** Daraz  
 **Category:** mens sneakers
 **Price:** ৳ 469
+
+---
+
+
+## Blue White And Red Color Paint Casual Sneakers Canvas Shoes For Men Lightweight Breathable And Comfortable Shoes For Walking M17 - Stylish and Comfortable Sneakers  
+**DocID:** `daraz_329703509`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 350
 
 ---
 
@@ -4498,20 +3004,11 @@ Core i5-3320M
 ---
 
 
-## Sneakers Converse For Men 5G - Shoe For Boys - White Shoes - Walk in Ultimate Style  
-**DocID:** `daraz_292578368`
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_416482935`
 **Source:** Daraz  
 **Category:** mens sneakers
-**Price:** ৳ 339
-
----
-
-
-## New Trendy Premium Quality Black Blue And Grey Color CANADIAN Canvas Sneakers Shoes For Men M6060  
-**DocID:** `daraz_453210475`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 469
+**Price:** ৳ 393
 
 ---
 
@@ -4530,33 +3027,6 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens sneakers
 **Price:** ৳ 469
-
----
-
-
-## Indispensable-Quality And Durability-New Collection Black And White Color TopME Canvas Sneakers Shoes For Men Stylish And Comfortable Shoes For Summer M37  
-**DocID:** `daraz_349040341`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 499
-
----
-
-
-## High-Quality Sports Sneakers Men Casual Shoes Fashionable Sneakers Flyknit Lightweight Slip-On - Stay Stylish And Comfortable With Qualityful Sneakers  
-**DocID:** `daraz_298793534`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 494
-
----
-
-
-## Indispensable -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Innovative  
-**DocID:** `daraz_341066336`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 505
 
 ---
 
@@ -4588,6 +3058,15 @@ Core i5-3320M
 ---
 
 
+## Indispensable-Quality And Durability-New Collection Black And White Color TopME Canvas Sneakers Shoes For Men Stylish And Comfortable Shoes For Summer M37  
+**DocID:** `daraz_349308082`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 498
+
+---
+
+
 ## New Lamborghini Sneaker Men Casual shoes - Shoes For Men  
 **DocID:** `daraz_341062108`
 **Source:** Daraz  
@@ -4597,11 +3076,11 @@ Core i5-3320M
 ---
 
 
-## Indispensable-Quality And Durability-New Collection Black And White Color TopME Canvas Sneakers Shoes For Men Stylish And Comfortable Shoes For Summer M37  
-**DocID:** `daraz_349308082`
+## High-Quality Sports Sneakers Men Casual Shoes Fashionable Sneakers Flyknit Lightweight Slip-On - Stay Stylish And Comfortable With Qualityful Sneakers  
+**DocID:** `daraz_298793534`
 **Source:** Daraz  
 **Category:** mens sneakers
-**Price:** ৳ 498
+**Price:** ৳ 494
 
 ---
 
@@ -4616,19 +3095,19 @@ Core i5-3320M
 
 
 ## Indispensable -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Innovative  
-**DocID:** `daraz_336177629`
+**DocID:** `daraz_341066336`
 **Source:** Daraz  
 **Category:** mens sneakers
-**Price:** ৳ 499
+**Price:** ৳ 505
 
 ---
 
 
-## New Collection Black Green And Grey Color SPANISH Casual Sneakers Canvas Shoes For Men Comfortable And Lightweight Shoe For Walking M18  
-**DocID:** `daraz_323365608`
+## Indispensable-Quality And Durability-New Collection Black And White Color TopME Canvas Sneakers Shoes For Men Stylish And Comfortable Shoes For Summer M37  
+**DocID:** `daraz_349040341`
 **Source:** Daraz  
 **Category:** mens sneakers
-**Price:** ৳ 430
+**Price:** ৳ 499
 
 ---
 
@@ -4642,20 +3121,11 @@ Core i5-3320M
 ---
 
 
-## Stylish Black And Blue Color Winter Canvas Sneakers for Men  
-**DocID:** `daraz_324232744`
+## Sneakers Converse For Men 5G - Shoe For Boys - White Shoes - Walk in Ultimate Style  
+**DocID:** `daraz_292578368`
 **Source:** Daraz  
 **Category:** mens sneakers
-**Price:** ৳ 329
-
----
-
-
-## Brand New Uniquw Design Multicolore Love Sneakers for Men-Black And White  
-**DocID:** `daraz_347184256`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 525
+**Price:** ৳ 339
 
 ---
 
@@ -4669,20 +3139,11 @@ Core i5-3320M
 ---
 
 
-## Loafer Styles' Rubber Sole Water-Proof and Wind-Proof Low Top Shoes For Men - Comfortable All Seasons  
-**DocID:** `daraz_317916576`
+## Brand New Uniquw Design Multicolore Love Sneakers for Men-Black And White  
+**DocID:** `daraz_347184256`
 **Source:** Daraz  
 **Category:** mens sneakers
-**Price:** ৳ 406
-
----
-
-
-## New Collection 2024 Better Choice Stylish And Fashionable Exclusive Sneakers For Men  
-**DocID:** `daraz_222827079`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 499
+**Price:** ৳ 525
 
 ---
 
@@ -4696,15 +3157,6 @@ Core i5-3320M
 ---
 
 
-## Premium New Collection Better Choice Stylish and Fashionable Exclusive Low Top Sneakers Converse for Men - Comfortable and Suitable for All Seasons  
-**DocID:** `daraz_313806627`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 546
-
----
-
-
 ## Men's Waterproof Loafers – Unique Style, Rubber Sole, Windproof for Summer & Winter – Black  
 **DocID:** `daraz_535143721`
 **Source:** Daraz  
@@ -4714,11 +3166,47 @@ Core i5-3320M
 ---
 
 
+## New Collection Black Green And Grey Color SPANISH Casual Sneakers Canvas Shoes For Men Comfortable And Lightweight Shoe For Walking M18  
+**DocID:** `daraz_323365608`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 430
+
+---
+
+
+## New Collection 2024 Better Choice Stylish And Fashionable Exclusive Sneakers For Men  
+**DocID:** `daraz_222827079`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 499
+
+---
+
+
+## Loafer Styles' Rubber Sole Water-Proof and Wind-Proof Low Top Shoes For Men - Comfortable All Seasons  
+**DocID:** `daraz_317916576`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 406
+
+---
+
+
 ## Black & Khaki Cotton Fabrics Sneaker Shoes Slip-Ons & Sneakers for Men  
 **DocID:** `daraz_416593024`
 **Source:** Daraz  
 **Category:** mens sneakers
-**Price:** ৳ 335
+**Price:** ৳ 336
+
+---
+
+
+## Premium New Collection Better Choice Stylish and Fashionable Exclusive Low Top Sneakers Converse for Men - Comfortable and Suitable for All Seasons  
+**DocID:** `daraz_313806627`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 546
 
 ---
 
@@ -4732,20 +3220,11 @@ Core i5-3320M
 ---
 
 
-## Fashionable Shoes for Men - Low Maintenance and Authentic Style - Comfortable and Durable Footwear - Stylish and Elegent  
-**DocID:** `daraz_324439574`
-**Source:** Daraz  
-**Category:** mens sneakers
-**Price:** ৳ 355
-
----
-
-
 ## Lotto Durable Casual Shoe for Men  
 **DocID:** `daraz_288557186`
 **Source:** Daraz  
 **Category:** mens sneakers
-
+**Price:** ৳ 774
 
 ---
 
@@ -4754,7 +3233,7 @@ Core i5-3320M
 **DocID:** `daraz_296106968`
 **Source:** Daraz  
 **Category:** mens sneakers
-
+**Price:** ৳ 298
 
 ---
 
@@ -4763,7 +3242,7 @@ Core i5-3320M
 **DocID:** `daraz_337607198`
 **Source:** Daraz  
 **Category:** mens sneakers
-
+**Price:** ৳ 520
 
 ---
 
@@ -4786,20 +3265,20 @@ Core i5-3320M
 ---
 
 
+## Bangladesh World Cup Jersey - Bangladesh Full Sleeve Polo Jersey For Men - Bangladesh Cricket Jersey 2025/26  
+**DocID:** `daraz_268417593`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 310
+
+---
+
+
 ## Ac milan new home kit full & half sleeves jersey 2025/26  
 **DocID:** `daraz_365683300`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 339
-
----
-
-
-## Japan Special Authentic Kit 2024 New Jersey Football Jersey Short Sleep Jersey Premium Quality Jersey Collar Jersey  
-**DocID:** `daraz_424124764`
-**Source:** Daraz  
-**Category:** mens sports football shirts and merchandise
-**Price:** ৳ 340
 
 ---
 
@@ -4822,11 +3301,11 @@ Core i5-3320M
 ---
 
 
-## Brazil Short Sleeve Jersey 2025/26 Football Jersey For Man - Half Sleeve - Brazil Jersey 2025  
-**DocID:** `daraz_269537498`
+## club New Jersey 2025/26 half sleeve Thai premium  
+**DocID:** `daraz_421352947`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
-**Price:** ৳ 260
+**Price:** ৳ 389
 
 ---
 
@@ -4836,6 +3315,42 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 380
+
+---
+
+
+## Brazil Short Sleeve Jersey 2025/26 Football Jersey For Man - Half Sleeve - Brazil Jersey 2025  
+**DocID:** `daraz_269537498`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Japan Special Authentic Kit 2024 New Jersey Football Jersey Short Sleep Jersey Premium Quality Jersey Collar Jersey  
+**DocID:** `daraz_424124764`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 340
+
+---
+
+
+## Japan Short Sleeve Football Jersey for Man - Half Sleeve T Shirt - Japan Jersey 2025-26  
+**DocID:** `daraz_318015264`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 249
+
+---
+
+
+## Brazil Football Jersey Half Sleeve Polo T-Shirt for Men  
+**DocID:** `daraz_282673923`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 199
 
 ---
 
@@ -4858,29 +3373,11 @@ Core i5-3320M
 ---
 
 
-## Japan Short Sleeve Football Jersey for Man - Half Sleeve T Shirt - Japan Jersey 2025-26  
-**DocID:** `daraz_318015264`
+## Japan Anime Short Sleeve Jersey 2025/2026 Thai Premium Football Jersey for Men - Half Sleeve - Japan Anime Jersey 2025  
+**DocID:** `daraz_555716977`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
-**Price:** ৳ 249
-
----
-
-
-## Bangladesh World Cup Jersey - Bangladesh Full Sleeve Polo Jersey For Men - Bangladesh Cricket Jersey 2025/26  
-**DocID:** `daraz_268417593`
-**Source:** Daraz  
-**Category:** mens sports football shirts and merchandise
-**Price:** ৳ 310
-
----
-
-
-## club New Jersey 2025/26 half sleeve Thai premium  
-**DocID:** `daraz_421352947`
-**Source:** Daraz  
-**Category:** mens sports football shirts and merchandise
-**Price:** ৳ 389
+**Price:** ৳ 349
 
 ---
 
@@ -4894,11 +3391,20 @@ Core i5-3320M
 ---
 
 
-## Japan Anime Short Sleeve Jersey 2025/2026 Thai Premium Football Jersey for Men - Half Sleeve - Japan Anime Jersey 2025  
-**DocID:** `daraz_555716977`
+## B-d Short sleeve Football Jersey for Man - Half Sleeve - Banglades Fan Jersey  
+**DocID:** `daraz_302894619`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
-**Price:** ৳ 349
+**Price:** ৳ 260
+
+---
+
+
+## Messi Short Sleeve Football Jersey For Man - Half Sleeve T Shirt - Argentina Football Jersey 2025  
+**DocID:** `daraz_542302039`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 295
 
 ---
 
@@ -4908,24 +3414,6 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 350
-
----
-
-
-## Messi Short Sleeve Football Jersey For Man - Half Sleeve T Shirt - Argentina Football Jersey 2025  
-**DocID:** `daraz_542302039`
-**Source:** Daraz  
-**Category:** mens sports football shirts and merchandise
-**Price:** ৳ 250
-
----
-
-
-## Real madrid new home kit full sleeves jersey 25/26  
-**DocID:** `daraz_345460206`
-**Source:** Daraz  
-**Category:** mens sports football shirts and merchandise
-**Price:** ৳ 369
 
 ---
 
@@ -4957,11 +3445,11 @@ Core i5-3320M
 ---
 
 
-## B-d Premium Short Sleeve Collar Banglades Fan Jersey for Man - Half Sleeve Polo T Shirt - Jersey 2025/2026  
-**DocID:** `daraz_271213103`
+## Barcelona 23/24 Season Home Kit/Jersey  
+**DocID:** `daraz_430164445`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
-**Price:** ৳ 380
+**Price:** ৳ 300
 
 ---
 
@@ -4975,29 +3463,20 @@ Core i5-3320M
 ---
 
 
-## liverpool new home kit 25/26 jersey half sleeves  
-**DocID:** `daraz_320717728`
+## B-d Premium Short Sleeve Collar Banglades Fan Jersey for Man - Half Sleeve Polo T Shirt - Jersey 2025/2026  
+**DocID:** `daraz_271213103`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
-**Price:** ৳ 335
+**Price:** ৳ 380
 
 ---
 
 
-## Barcelona 23/24 Season Home Kit/Jersey  
-**DocID:** `daraz_430164445`
+## Real madrid new home kit full sleeves jersey 25/26  
+**DocID:** `daraz_345460206`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
-**Price:** ৳ 300
-
----
-
-
-## FC Barcelona Jersey - Player Edition Jersey - FC Barcelona FCB Football Club - Home/Away Kit - Special Fans Version Jersey Club Jersey 2024/25 - Thai Fabrics - Short Sleeve - New Football Jersey - UEFA Champions League 2024 Design - Premium  
-**DocID:** `daraz_297207191`
-**Source:** Daraz  
-**Category:** mens sports football shirts and merchandise
-**Price:** ৳ 348
+**Price:** ৳ 369
 
 ---
 
@@ -5011,20 +3490,11 @@ Core i5-3320M
 ---
 
 
-## B-d Short sleeve Football Jersey for Man - Half Sleeve - Banglades Fan Jersey  
-**DocID:** `daraz_302894619`
+## Ronaldo Short Sleeve Football Jersey For Man - Half Sleeve T Shirt - Portugal Football Jersey 2025  
+**DocID:** `daraz_336076043`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
-**Price:** ৳ 260
-
----
-
-
-## Real Madrid Short Sleeve Football Jersey For Men - Real Madrid Jersey 2024/25  
-**DocID:** `daraz_245014271`
-**Source:** Daraz  
-**Category:** mens sports football shirts and merchandise
-**Price:** ৳ 249
+**Price:** ৳ 250
 
 ---
 
@@ -5038,11 +3508,29 @@ Core i5-3320M
 ---
 
 
-## Ronaldo Short Sleeve Football Jersey For Man - Half Sleeve T Shirt - Portugal Football Jersey 2025  
-**DocID:** `daraz_336076043`
+## liverpool new home kit 25/26 jersey half sleeves  
+**DocID:** `daraz_320717728`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
-**Price:** ৳ 250
+**Price:** ৳ 335
+
+---
+
+
+## FC Barcelona Jersey - Player Edition Jersey - FC Barcelona FCB Football Club - Home/Away Kit - Special Fans Version Jersey Club Jersey 2024/25 - Thai Fabrics - Short Sleeve - New Football Jersey - UEFA Champions League 2024 Design - Premium  
+**DocID:** `daraz_297207191`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 348
+
+---
+
+
+## Real Madrid Short Sleeve Football Jersey For Men - Real Madrid Jersey 2024/25  
+**DocID:** `daraz_245014271`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 249
 
 ---
 
@@ -5065,20 +3553,11 @@ Core i5-3320M
 ---
 
 
-## Brazil Football Jersey Half Sleeve Polo T-Shirt for Men  
-**DocID:** `daraz_282673923`
+## Ac milan new home kit 24/25 half sleeves  
+**DocID:** `daraz_363664822`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
-**Price:** ৳ 199
-
----
-
-
-## Barcelona Short Sleeve Football Jersey 2025-26  
-**DocID:** `daraz_474794546`
-**Source:** Daraz  
-**Category:** mens sports football shirts and merchandise
-**Price:** ৳ 270
+**Price:** ৳ 339
 
 ---
 
@@ -5094,15 +3573,6 @@ Core i5-3320M
 
 ## Barcelona new home kit half sleeves 25/26  
 **DocID:** `daraz_441698281`
-**Source:** Daraz  
-**Category:** mens sports football shirts and merchandise
-**Price:** ৳ 339
-
----
-
-
-## Ac milan new home kit 24/25 half sleeves  
-**DocID:** `daraz_363664822`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 339
@@ -5132,7 +3602,7 @@ Core i5-3320M
 **DocID:** `daraz_328094794`
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
-
+**Price:** ৳ 350
 
 ---
 
@@ -5164,20 +3634,11 @@ Core i5-3320M
 ---
 
 
-## New LED P8 Digital Watch Band Fashion numbers Sports Kids LED Electronic Watch - P8DW  
-**DocID:** `daraz_434350319`
+## T900 Ultra 2 Full Touch Screen Smart Watch - Bluetooth Calls & Smart Features Heart Rate Monitor Large Display Upgraded VERSION  
+**DocID:** `daraz_541355230`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 172
-
----
-
-
-## T900/T800 Ultra 2 HD Big Screen Smart Watch 1.99 inch Bluetooth Call Heart Rate Sports Waterproof Wireless Charging Smartwatch for Men Women  
-**DocID:** `daraz_358998506`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 589
+**Price:** ৳ 529
 
 ---
 
@@ -5191,29 +3652,47 @@ Core i5-3320M
 ---
 
 
-## T900 Ultra 2 Full Touch Screen Smart Watch - Bluetooth Calls & Smart Features Heart Rate Monitor Large Display Upgraded VERSION  
-**DocID:** `daraz_541355230`
+## T900/T800 Ultra 2 HD Big Screen Smart Watch 1.99 inch Bluetooth Call Heart Rate Sports Waterproof Wireless Charging Smartwatch for Men Women  
+**DocID:** `daraz_358998506`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 529
+**Price:** ৳ 589
 
 ---
 
 
-## T900 Ultra 2 Men Smart Watch 2.3" HD Screen Bluetooth Calling Pedometer Heart Rate Blood Pressure Sleep Sports Watch for iPhone & Andriod Phone.  
-**DocID:** `daraz_334948554`
+## New LED P8 Digital Watch Band Fashion numbers Sports Kids LED Electronic Watch - P8DW  
+**DocID:** `daraz_434350319`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 550
+**Price:** ৳ 172
+
+---
+
+
+## T900 Ultra Smart watch (2.09inch HD Big Screen, Magnetic Wireless Charging,Smart Watch, Bluetooth Call Sleep Monitor, Wristwatch  
+**DocID:** `daraz_547920599`
+**Source:** Daraz  
+**Category:** smart watches
+**Price:** ৳ 498
 
 ---
 
 
 ## S10 Max Laxasfit Smart Watch 2.29 Inch AMOLED Display NFC Bluetooth Call Wireless Charging  
-**DocID:** `daraz_465138405`
+**DocID:** `daraz_534641045`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 1,099
+**Price:** ৳ 844
+
+---
+
+
+## Y80 Ultra Smart Wireless Charging Watch with 8 Straps Stylish Fitness Tracker Bluetooth 5.0 Health Monitor IP68 Waterproof Touchscreen  
+**DocID:** `daraz_553365765`
+**Source:** Daraz  
+**Category:** smart watches
+**Price:** ৳ 790
 
 ---
 
@@ -5223,15 +3702,6 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** smart watches
 **Price:** ৳ 599
-
----
-
-
-## New D116+ Waterproof Smart Sports Watch - Bracelets & Fitness Tracker  
-**DocID:** `daraz_454187380`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 240
 
 ---
 
@@ -5263,29 +3733,11 @@ Core i5-3320M
 ---
 
 
-## T900 Ultra Smart watch (2.09inch HD Big Screen, Magnetic Wireless Charging,Smart Watch, Bluetooth Call Sleep Monitor, Wristwatch  
-**DocID:** `daraz_547920599`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 479
-
----
-
-
-## Y80 Ultra Smart Wireless Charging Watch with 8 Straps Stylish Fitness Tracker Bluetooth 5.0 Health Monitor IP68 Waterproof Touchscreen  
-**DocID:** `daraz_553365765`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 790
-
----
-
-
 ## S10 Max Laxasfit Smart Watch 2.29 Inch AMOLED Display NFC Bluetooth Call Wireless Charging  
-**DocID:** `daraz_534641045`
+**DocID:** `daraz_465138405`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 844
+**Price:** ৳ 1,099
 
 ---
 
@@ -5295,6 +3747,24 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** smart watches
 **Price:** ৳ 579
+
+---
+
+
+## S10 Max Laxasfit Smart Watch 2.29" AMOLED Display NFC Series 10 Bluetooth Smart Watch  
+**DocID:** `daraz_543322374`
+**Source:** Daraz  
+**Category:** smart watches
+**Price:** ৳ 999
+
+---
+
+
+## New D116+ Waterproof Smart Sports Watch - Bracelets & Fitness Tracker  
+**DocID:** `daraz_454187380`
+**Source:** Daraz  
+**Category:** smart watches
+**Price:** ৳ 240
 
 ---
 
@@ -5317,47 +3787,11 @@ Core i5-3320M
 ---
 
 
-## Y80 Ultra (8+1) Straps Smart Wireless Charging Watch  
-**DocID:** `daraz_419407047`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 919
-
----
-
-
 ## Silicon New Fashion Touch LED Sports Watch  
 **DocID:** `daraz_368372570`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 105
-
----
-
-
-## S10 Max Laxasfit Smart Watch 2.29" AMOLED Display NFC Series 10 Bluetooth Smart Watch  
-**DocID:** `daraz_543322374`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 999
-
----
-
-
-## G63 Smart Light Sound Machine Fast Charging Alarm Clock  
-**DocID:** `daraz_355844586`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 599
-
----
-
-
-## High-Performance - Y80 Ultra Smart Watch (8 + 1 Cover) in Germany) - Reliable Accessory - Easy to Use - Dreamy Deals (1 Protective cover )  
-**DocID:** `daraz_505043426`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 1,299
+**Price:** ৳ 88
 
 ---
 
@@ -5371,11 +3805,11 @@ Core i5-3320M
 ---
 
 
-## T900 Ultra 2 Full Touch Screen Smart Watch - Bluetooth Calls & Smart Features Heart Rate Monitor Large Display Upgraded VERSION  
-**DocID:** `daraz_552985145`
+## KW19 MAX Smart Watch  
+**DocID:** `daraz_367305781`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 444
+**Price:** ৳ 1,120
 
 ---
 
@@ -5389,42 +3823,6 @@ Core i5-3320M
 ---
 
 
-## Silicon New Fashion Touch LED Sports Watch  
-**DocID:** `daraz_368379664`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 105
-
----
-
-
-## Timack® i7Pro Max IWO13 PRO Smart Watch 1.8 inch high-definition Screen Bluetooth Call Heart Rate Sleep Monitor Fitness Watch for Men Women IP67 Waterproof Smartwatch  
-**DocID:** `daraz_311023141`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 699
-
----
-
-
-## KW19 MAX Smart Watch  
-**DocID:** `daraz_367305781`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 1,120
-
----
-
-
-## Y80 Ultra Smartwatch with 8+1 Strap & Cover | Fitness Tracker, Heart Rate & BP Monitor | Waterproof | Long Battery Life  
-**DocID:** `daraz_533467976`
-**Source:** Daraz  
-**Category:** smart watches
-**Price:** ৳ 800
-
----
-
-
 ## D116 Plus Smart watch Bracelets Fitness Tracker by Pick A Gadget  
 **DocID:** `daraz_504874161`
 **Source:** Daraz  
@@ -5434,20 +3832,29 @@ Core i5-3320M
 ---
 
 
-## Y80 Ultra Smart Wireless Charging Watch 8 Straps  
-**DocID:** `daraz_372315016`
+## High-Performance - Y80 Ultra Smart Watch (8 + 1 Cover) in Germany) - Reliable Accessory - Easy to Use - Dreamy Deals (1 Protective cover )  
+**DocID:** `daraz_505043426`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 989
+**Price:** ৳ 1,299
 
 ---
 
 
-## Timack® New Smartwatch s7 Ultra Screen Multi-Function Men Sports Fitness 5.3 Bluetooth Call Music Waterproof Health Smartwatch  
-**DocID:** `daraz_311024482`
+## Y80 Ultra Smartwatch with 8+1 Strap & Cover | Fitness Tracker, Heart Rate & BP Monitor | Waterproof | Long Battery Life  
+**DocID:** `daraz_533467976`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 1,499
+**Price:** ৳ 743
+
+---
+
+
+## Silicon New Fashion Touch LED Sports Watch  
+**DocID:** `daraz_368379664`
+**Source:** Daraz  
+**Category:** smart watches
+**Price:** ৳ 87
 
 ---
 
@@ -5461,20 +3868,38 @@ Core i5-3320M
 ---
 
 
-## D18 Smart Watch Heart Rate Monitor Men's Women's Smartwatch Round Fitness Digital Watches for Men Women Band Bracelet by MartOne  
-**DocID:** `daraz_526791247`
+## Timack® New Smartwatch s7 Ultra Screen Multi-Function Men Sports Fitness 5.3 Bluetooth Call Music Waterproof Health Smartwatch  
+**DocID:** `daraz_311024482`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 349
+**Price:** ৳ 1,499
 
 ---
 
 
-## K10 Ultra SIM Support Smartwatch – 2.1” HD Touchscreen Wireless Charging, Bluetooth Calling, Music Playback, Heart Rate Monitor, 380-500mAh Battery, Water-Resistant, Built-in Storage, Sports Modes  
-**DocID:** `daraz_550198894`
+## Zeblaze Btalk 3 Pro Smart Watch Ultra HD AMOLED Display Hi-Fi Bluetooth Calling Health and Fitness Tracking Smartwatch  
+**DocID:** `daraz_420342363`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 1,234
+**Price:** ৳ 2,580
+
+---
+
+
+## T900 Ultra 2 Full Touch Screen Smart Watch - Bluetooth Calls & Smart Features Heart Rate Monitor Large Display Upgraded VERSION  
+**DocID:** `daraz_552985145`
+**Source:** Daraz  
+**Category:** smart watches
+**Price:** ৳ 444
+
+---
+
+
+## Y80 Ultra (8+1) Straps Smart Wireless Charging Watch  
+**DocID:** `daraz_419407047`
+**Source:** Daraz  
+**Category:** smart watches
+**Price:** ৳ 919
 
 ---
 
@@ -5488,20 +3913,11 @@ Core i5-3320M
 ---
 
 
-## T900 Ultra 2 Smartwatch – 2.19” TFT Full Touch Screen, Bluetooth Calling, Heart Rate & Blood Pressure Monitor, Sleep & Fitness Tracker, 180mAh Battery, Wireless Charging, iOS & Android Compatibility, Unisex Smart Watch Upgraded VERSION  
-**DocID:** `daraz_550981913`
+## G63 Smart Light Sound Machine Fast Charging Alarm Clock  
+**DocID:** `daraz_355844586`
 **Source:** Daraz  
 **Category:** smart watches
-**Price:** ৳ 543
-
----
-
-
-## Zeblaze Btalk 3 Pro Smart Watch Ultra HD AMOLED Display Hi-Fi Bluetooth Calling Health and Fitness Tracking Smartwatch  
-**DocID:** `daraz_420342363`
-**Source:** Daraz  
-**Category:** smart watches
-
+**Price:** ৳ 599
 
 ---
 
@@ -5510,7 +3926,7 @@ Core i5-3320M
 **DocID:** `daraz_367721212`
 **Source:** Daraz  
 **Category:** smart watches
-
+**Price:** ৳ 1,800
 
 ---
 
@@ -5519,7 +3935,25 @@ Core i5-3320M
 **DocID:** `daraz_557046952`
 **Source:** Daraz  
 **Category:** smart watches
+**Price:** ৳ 490
 
+---
+
+
+## Timack® i7Pro Max IWO13 PRO Smart Watch 1.8 inch high-definition Screen Bluetooth Call Heart Rate Sleep Monitor Fitness Watch for Men Women IP67 Waterproof Smartwatch  
+**DocID:** `daraz_311023141`
+**Source:** Daraz  
+**Category:** smart watches
+**Price:** ৳ 699
+
+---
+
+
+## D18 Smart Watch Heart Rate Monitor Men's Women's Smartwatch Round Fitness Digital Watches for Men Women Band Bracelet by MartOne  
+**DocID:** `daraz_526791247`
+**Source:** Daraz  
+**Category:** smart watches
+**Price:** ৳ 349
 
 ---
 
@@ -5528,7 +3962,7 @@ Core i5-3320M
 **DocID:** `daraz_550997563`
 **Source:** Daraz  
 **Category:** smart watches
-
+**Price:** ৳ 550
 
 ---
 
@@ -5560,20 +3994,20 @@ Core i5-3320M
 ---
 
 
-## Motorola Moto G05 (4+64GB)  
-**DocID:** `daraz_525899327`
-**Source:** Daraz  
-**Category:** smartphones
-**Price:** ৳ 12,499
-
----
-
-
 ## Walton Primo S8 Mini (6+64GB) Official  
 **DocID:** `daraz_525403209`
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 9,999
+
+---
+
+
+## Motorola Moto G05 (4+64GB)  
+**DocID:** `daraz_525899327`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,499
 
 ---
 
@@ -5596,20 +4030,20 @@ Core i5-3320M
 ---
 
 
-## HONOR Pad X7 WIFI (4GB+64GB) |  8.7" 90Hz Display | Snapdragon 680 | 8+5 MP Camera | 7020 mAh Battery  
-**DocID:** `daraz_547915712`
-**Source:** Daraz  
-**Category:** smartphones
-**Price:** ৳ 12,060
-
----
-
-
 ## Infinix Hot 60 Pro+ 8GB/128GB | 256GB (Official)  
 **DocID:** `daraz_541503751`
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 21,799
+
+---
+
+
+## HONOR Pad X7 WIFI (4GB+64GB) |  8.7" 90Hz Display | Snapdragon 680 | 8+5 MP Camera | 7020 mAh Battery  
+**DocID:** `daraz_547915712`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,060
 
 ---
 
@@ -5632,20 +4066,20 @@ Core i5-3320M
 ---
 
 
-## itel Power 70 (6+128GB) Official  
-**DocID:** `daraz_526782727`
-**Source:** Daraz  
-**Category:** smartphones
-**Price:** ৳ 10,989
-
----
-
-
 ## OnePlus Nord N30 SE 5G | 128GB ROM + 4GB RAM | 6.72" FHD+ 90Hz | 33W SUPERVOOC Fast Charge | 50 & 8 MP Camera  
 **DocID:** `daraz_530390783`
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 15,949
+
+---
+
+
+## itel Power 70 (6+128GB) Official  
+**DocID:** `daraz_526782727`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,989
 
 ---
 
@@ -5691,15 +4125,6 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 15,591
-
----
-
-
-## Linnex LX 4G Android 3.5" (3/32GB) Touch Smart Feature Phone  
-**DocID:** `daraz_530487486`
-**Source:** Daraz  
-**Category:** smartphones
-**Price:** ৳ 4,499
 
 ---
 
@@ -5897,16 +4322,7 @@ Core i5-3320M
 **DocID:** `daraz_525069557`
 **Source:** Daraz  
 **Category:** smartphones
-
-
----
-
-
-## TECNO Spark Go 2 4GB Ram and 64GB Rom (official)  
-**DocID:** `daraz_539209813`
-**Source:** Daraz  
-**Category:** smartphones
-
+**Price:** ৳ 7,799
 
 ---
 
