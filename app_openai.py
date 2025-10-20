@@ -665,9 +665,18 @@ if go and query.strip():
         st.warning("No results matched your query/filters.")
         st.stop()
 
-    colL, colR = st.columns([0.55, 0.45], gap="large")
+    # --- START OF MODIFICATION ---
+    # We removed the st.columns() and will display the answer first.
+    
+    st.subheader("Answer")
+    messages = _build_messages(query, results)
+    try:
+        st.write_stream(stream_answer(model, messages, temperature=temperature))
+    except Exception as e:
+        st.error(f"OpenAI error: {e}")
 
-    with colL:
+    # Now, we put the "Top matches" inside a closed st.expander
+    with st.expander("View Top Matches (Context Used)", expanded=False):
         st.subheader("Top matches")
         for i, (chunk, score) in enumerate(results, 1):
             meta_bits = []
@@ -686,14 +695,8 @@ if go and query.strip():
             )
             with st.expander("View chunk"):
                 st.write(chunk.text)
-
-    with colR:
-        st.subheader("Answer")
-        messages = _build_messages(query, results)
-        try:
-            st.write_stream(stream_answer(model, messages, temperature=temperature))
-        except Exception as e:
-            st.error(f"OpenAI error: {e}")
+    
+    # --- END OF MODIFICATION ---
 
     # Export matched items as JSON
     export_rows = []
