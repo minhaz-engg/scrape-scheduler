@@ -361,6 +361,726 @@
 ---
 
 
+## PlayStation 3 Dualshock 3 Wireless Controller- Black  
+**DocID:** `daraz_189724593`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## HAVIT HV-G92 USB with Vibration Gamepad  
+**DocID:** `daraz_238814235`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Qualitied TMR Electromagnetic Hall Effect Joystick Replacement 3D Analog Stick for DualSense Controller for PS5  
+**DocID:** `daraz_551046754`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Fantech WGP15 EOS Pro Wireless Multi-Platform Gamepad Controller With Build in Audio Port Console  
+**DocID:** `daraz_383941230`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## T48 Wireless Game Controller Joystick for PlayStation 4 PS4 Slim PC Gamepad Gaming Joypad  
+**DocID:** `daraz_531411960`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PS5 Media Remote  
+**DocID:** `daraz_214961674`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## ps4 controller wireless  
+**DocID:** `daraz_556275852`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PS4 Controller Blue  
+**DocID:** `daraz_114346842`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Mobile Phone Game Controller Joystick Mobile Game Peripherals Game Controller Applicable to Most Models JS68 Burst (One Pair)  
+**DocID:** `daraz_534523561`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Wireless Controller Gamepad 2.4G USB TV Game Stick 10000 Games  
+**DocID:** `daraz_529184533`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Cooling Fan for Ps5 Console Temperature Exhauster USB External Cooler Fan for PS5 Digital Edition / Ultra HD Console  
+**DocID:** `daraz_203700871`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## WS2812B SK6812RGB SK6812RGBW Bluetooth SP110E Mini Controller, Support ALL LED Strip/Module Light/Panel/String, IOS/Android App 1024 Pixels DC5V-12V  
+**DocID:** `daraz_123791813`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 2 pcs - PS4 Dual shock 4 Wireless Controller for PS4  
+**DocID:** `daraz_430795966`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Suitable for Switch Joy con Switch OLED and Switch Lite joystick replacement cap thumb grip  
+**DocID:** `daraz_546114009`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## FANTECH GP15L ORION EOS LITE Multi-Platform Gamepad, Wired Gaming Controller Joystick, Hall-Effect Trigger/RGB Sticks Supports PC/Steam, Switch, PS3, Android, Tesla Vehicles, Cloud Gaming/Game Pass  
+**DocID:** `daraz_349033460`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## FANTECH WGP13 2.4G Wireless Gamepad For Windows PC,PS3 Turbo Vibration Control Joystick  
+**DocID:** `daraz_218681879`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PS5 DualSense Charging Station(null)  
+**DocID:** `daraz_187730332`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Wireless Game Controller  
+**DocID:** `daraz_387588936`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Hall Effect Joysticks for PS5 Controller, 3D Analog Sensor Wheel Thumbsticks Replacement for PlayStation 5 Controller  
+**DocID:** `daraz_551036036`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## FANTECH GP15 VEGA-EOS Multi-Platform-Gamepad Wired Gaming Controller-Joystick-Hall-Effect Trigger RGB Sticks Supports PC Steam  
+**DocID:** `daraz_376335337`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 2pcs Replacement Hall Effect Joystick For Switch OLED Switch Lite Joycon Analog Thumb Stick For Analog Thumb Stick Repair Parts  
+**DocID:** `daraz_551019907`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## FANTECH WGP13S SUPER MAXFIT Multi-Platform Gamepad Android PC PS Gamepad Wireless Shooter-III Joystick Duel Mode USB Type C  
+**DocID:** `daraz_499247335`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Joysticks Replacement for PS4 Controller,4 Pack Hall Effect 3D Analog Sensor Joysticks Module for PlayStation 4 Controller  
+**DocID:** `daraz_551099594`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Fantech WGP13 Shooter II Gaming Controller  
+**DocID:** `daraz_303760235`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Havit HV-G92 Gamepad  
+**DocID:** `daraz_215123759`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## HAVIT HV-G92 Gamepad  
+**DocID:** `daraz_161504013`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Wireless Bluetooth Media Button Remote Controller Car Motorcycle Bike Steering Wheel Music Play Remote for Phone Tablet  
+**DocID:** `daraz_250306124`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## FANTECH WGP14 NOVA Multi-Platform GamePad Anty-Drift Hall Effect Stic Customizable Macro Rear Triggers Motion Sensor Gaming Gamers Controller For PS3, PS4, IOS, Android & Windows 22 buttons.  
+**DocID:** `daraz_322647595`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## gaming controller Revolver GP 12 game pad wired pc game controller  
+**DocID:** `daraz_332352484`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## FANTECH WGP14V2 PRO NOVA Wireless Multi-Platform Gamepad Controller Joystick For PS4 PC  
+**DocID:** `daraz_376582004`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## For ROG Ally Joystick Replacement 1 Pair Game Handheld Controller Joystick Repair For Asus Rog Ally Accessories  
+**DocID:** `daraz_551056754`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Metal Replacement Joysticks Grip Swap Joysticks for Xbox One Elite Series 2 Metal Joysticks Replacement Mod Swap Joysticks  
+**DocID:** `daraz_552255862`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PS4 DualSense CFI-ZCT1G Wireless Controller Gamepad  
+**DocID:** `daraz_515139288`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## FANTECH WGP16 NOVA II WIRELESS MULTI-PLATFORM GAMEPAD Gaming Gamers Controller BLACK  
+**DocID:** `daraz_540138954`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Wireless Gamepad Controller Black Wireless Gamepad Controller for Nintendo Switch/Lite/OLED, Switch Game Controller with LED Light/Wakeup/Turbo  
+**DocID:** `daraz_316651011`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## premium quality ps4 controller -v2  
+**DocID:** `daraz_511823341`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Logitech G Logitech Extreme 3D Pro Joystick Playstation Black Silver Gaming Accessories (Joystick, Playstation, Wired, USB 1.1)  
+**DocID:** `daraz_335082784`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PS5 Dualsense controller(null)  
+**DocID:** `daraz_164442247`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PS5 Controller Galactic Purple  
+**DocID:** `daraz_328815371`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PS5 Controller DualSence - White  
+**DocID:** `daraz_168680906`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 【3C VictoryEagle】（Fast delivery）Solar Controller,Solar With Dual USB Port 12V/24V MPPT/PWM Auto AdjustabEL  
+**DocID:** `daraz_343274576`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PS4 Official Org. controller Black color  
+**DocID:** `daraz_123645610`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PS5 Controller DualSence - Cosmic RED  
+**DocID:** `daraz_202436219`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PS5 Controller DualSence - Black  
+**DocID:** `daraz_202433473`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 20PCS for 3D Analog Joystick Thumb Stick for Switch Pro/ ONE/ Game Controller Joystick Potentiometer, Easy to Use  
+**DocID:** `daraz_535133985`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PlayStation ps4 DualSense Wireless Controller - MULTICOLOR  
+**DocID:** `daraz_467655574`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Sony_PS4 Dual shock 4 Wireless Controller  
+**DocID:** `daraz_467653602`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## G21 Mobile Phone Game Trigger for Gaming Controller  
+**DocID:** `daraz_479168005`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Mobile Wireless W10 Gamepad Controller Remote Joystick for iPhone Android  
+**DocID:** `daraz_156768358`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 【Clearance Markdowns】 Green Leaf Cool Skin Sticker for PS3 Controller Playstation Remote Controller  
+**DocID:** `daraz_543025017`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 2.4GHz Wireless Game Controller - High - Precision Buttons, Dual - Mode for Android TV Box & Windows PC  
+**DocID:** `daraz_551058063`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 2.4G Wireless Gamepad For PS3/TV Box/ Android Phone PC Joystick For Super Console X Pro Game Controller For PS3 accessories  
+**DocID:** `daraz_551083240`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Hall Electromagnetic Stick No Drifting Hall Effect Joystick Higher Sensitivity Hall Thumb Stick for Nintendo Switch/OLED/Lite  
+**DocID:** `daraz_546209688`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Game Steering Wheel for Smartphones, for Mobile of Valor B  
+**DocID:** `daraz_528407356`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## LANJUE L3000 Sirius USB Joystick Gamepad Controller For PC and Laptop  
+**DocID:** `daraz_538137372`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 【Must-Have Gadgets】 GEN GAME Controller Gamepad Remote For S3 / S5 /S6 Tetuo  
+**DocID:** `daraz_543019099`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Wireless Game Controller Gamepad For TV Box PC Android Phone  
+**DocID:** `daraz_388136151`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 2pcs Fingertips For PUBG PS5 PS4 Games Press Touch Screen Sensitive Touch Gaming Finger Glove Sleeve Breathable Gaming Accessories  
+**DocID:** `daraz_543045494`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## X3 Bluetooth Game Controller Gamepad for PC Mobile Phone  
+**DocID:** `daraz_548264391`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## G21 Mobile Phone Game Trigger for Gaming Controller L1 R1 Alloy Key Button for Android Gamepad Joystick  
+**DocID:** `daraz_416924546`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## PSP Analog Joystick 1piece Analog Joystick Thumb Stick Replacement For Sony PSP 3000 Console Controller  
+**DocID:** `daraz_532661030`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 【FUPANG】COOLMOON RGB Lighting Music Controller Chassis Fan Desktop Chassis Fan Controller RF Remote  
+**DocID:** `daraz_369127584`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## L3000 Double Shock Gaming Controller  
+**DocID:** `daraz_323464533`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 【Discount】 Usb Wired Gaming Joypad For Computer Controller Gamepad Console Gamepad Joystick Remote Controller Replacement  
+**DocID:** `daraz_543024436`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## V8 Bluetooth Wireless Game Controller (iOS/Android/PC/TV Compatible) mobile game free fire pubg call of duty FIFA  
+**DocID:** `daraz_556954957`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 【COOL】 New G21 For Phone Android Game Controller Game Trigger Gamepad Joystick Key Button Hudduo  
+**DocID:** `daraz_543470299`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 2PCS Gaming Trigger for L1R1 for Android Phone(B)  
+**DocID:** `daraz_554381959`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 【Be worth】 Gamepad Telescopic Joystick for PS4 Phone Stretching Joystick 5.0 Game Controller for IOS Android PUBG Switch  
+**DocID:** `daraz_543014202`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## BSP-D9 Mobile Phone Stretch Game Controller Wireless Bluetooth PC Tablet For Switch/PS3/PS4 Dual Hall Somatosensory Controller  
+**DocID:** `daraz_552287822`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Joystick Copy Sanwa arcade Joystick Para Pc Command, Raspberry Pi, DIY Contramaterial, Neo Geo Arcade Game  
+**DocID:** `daraz_549092911`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 2pcs Fingertips For PUBG PS5 PS4 Games Press Touch Screen Sensitive Touch Gaming Finger Glove Sleeve Breathable Gaming Accessori  
+**DocID:** `daraz_533362220`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 1pair Silicone Thumb Grip For P5/ P4 Game Controller Heightening Cap For P5 Joystick Game Controller Accessories Rocker Cap 2pcs  
+**DocID:** `daraz_556154224`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Havit HV-G69 USB with Vibration Gamepad  
+**DocID:** `daraz_356077896`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## 【Stylish】 Ps 2 Controller 2.4ghz Remote Gamepad Ps 1 Control Classic Gaming Joystick Retro Video Game Console Accessories Joypad  
+**DocID:** `daraz_543006849`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## GAMINJA 4-in 1Game Joystick With 3M USB Cable TURBO Games Console Rocker Arcade Station For Nintendo Switch Android TV PS3 PC  
+**DocID:** `daraz_546154533`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## for Mobile Game Controller X8 Mobile Phone Game Button Smartphone Mechanical Buttons Game Trigger  
+**DocID:** `daraz_428520893`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Sensitive Phone Game Trigger for Phone Gaming 4 Finger Trigger L1 R1 Aim Keys Game Controller Sensitive Phone Game Trigger  
+**DocID:** `daraz_475603995`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## pubg mobile free fire game controller V8 Bluetooth Wireless Game Controller (iOS/Android/PC/TV Compatible  
+**DocID:** `daraz_556970427`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## LANJUE L3000 USB 2.0 Wired Gamepad Joystick Controller – 2 Axis 12 Buttons, Dual Vibration, Plug & Play – PC, Laptop Gaming Accessory  
+**DocID:** `daraz_529619980`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
+## Mobile Controller Gamepad For Tablet Trigger Fire Button Aim Key Mobile Games Grip Handle L1R1 Joystick- Mobile Triggers  
+**DocID:** `daraz_539402939`
+**Source:** Daraz  
+**Category:** gaming controllers
+
+
+---
+
+
 ## Lenovo LOQ AI Powered Gaming (9) (83DV00K0LK) 13th Gen Core i7 16GB RAM 512GB SSD RTX 3050 Gaming Laptop  
 **DocID:** `daraz_535974587`
 **Source:** Daraz  
@@ -3157,6 +3877,42 @@ Core i5-3320M
 ---
 
 
+## Inspired by curren belt men women CN 8301 Sports Watch Luxury Brand Military Watches Male Analog Date Quartz Watch Men Casual Leather Wrist Watch  
+**DocID:** `daraz_327152290`
+**Source:** Daraz  
+**Category:** mens chronograph
+
+
+---
+
+
+## New LED watch for Men  
+**DocID:** `daraz_249574416`
+**Source:** Daraz  
+**Category:** mens chronograph
+
+
+---
+
+
+## O'levs 9931 New Business Quartz Watch For Men Luxury Diamond Dial Waterproof Stainless Steel Strap Men Wristwatch  
+**DocID:** `daraz_368378420`
+**Source:** Daraz  
+**Category:** mens chronograph
+
+
+---
+
+
+## 2858 European And American Fashion Waterproof Luxury Men'S Quartz Watch - Watch For Men  
+**DocID:** `daraz_331463214`
+**Source:** Daraz  
+**Category:** mens chronograph
+
+
+---
+
+
 ## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
 **DocID:** `daraz_337632644`
 **Source:** Daraz  
@@ -4953,6 +5709,15 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 17,989
+
+---
+
+
+## ZTE Blade A35 (4+64GB)  
+**DocID:** `daraz_525069557`
+**Source:** Daraz  
+**Category:** smartphones
+
 
 ---
 
