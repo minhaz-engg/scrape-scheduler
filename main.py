@@ -37,37 +37,23 @@ RESULT_DIR.mkdir(exist_ok=True)
 SCHEMA_FILE = RESULT_DIR / "schema.json"
 
 # ---------- Tunables ----------
-# MAX_RETRIES = 5
-# MIN_NEW_PER_PAGE = 1
-# RETRY_BACKOFF_BASE = 1.5
-# ADD_CACHE_BUST = True
-# ---------- Tunables ----------
-MAX_RETRIES = 8
+MAX_RETRIES = 5
 MIN_NEW_PER_PAGE = 1
-RETRY_BACKOFF_BASE = 2.5  # ⬅️ INCREASED
+RETRY_BACKOFF_BASE = 1.5
 ADD_CACHE_BUST = True
 SAVE_ONLY_UNIQUE = True
 PRODUCTS_PER_PAGE = 40
 PAGE_PARAM = "page"
 
-# # Pacing & block-handling
-# PAGE_PAUSE_RANGE = (1.8, 3.8)
-# ATTEMPT_JITTER = 0.3
-# BLOCK_COOLDOWN_RANGE = (35, 75)
-
-# # Detail enrichment
-# ENRICH_WITH_DETAIL = True
-# DETAIL_CONCURRENCY = 3                # keep polite; bump carefully
-# DETAIL_SLEEP_RANGE = (0.25, 0.65)     # small jitter between detail jobs
 # Pacing & block-handling
-PAGE_PAUSE_RANGE = (3.0, 6.0)         # ⬅️ INCREASED
+PAGE_PAUSE_RANGE = (1.8, 3.8)
 ATTEMPT_JITTER = 0.3
 BLOCK_COOLDOWN_RANGE = (35, 75)
 
 # Detail enrichment
 ENRICH_WITH_DETAIL = True
 DETAIL_CONCURRENCY = 3                # keep polite; bump carefully
-DETAIL_SLEEP_RANGE = (1.5, 3.0)       # ⬅️ INCREASED
+DETAIL_SLEEP_RANGE = (0.25, 0.65)     # small jitter between detail jobs
 # ------------------------------
 
 
@@ -174,22 +160,13 @@ async def detect_total_pages(crawler: AsyncWebCrawler, category_url: str) -> int
     url = category_url
     if ADD_CACHE_BUST:
         url = set_query_param(url, "_v", str(int(time.time() * 1000)))
-    # try:
-    #     results: List[CrawlResult] = await crawler.arun(
-    #         url=url,
-    #         config=simple_config,
-    #         js_code="""await new Promise(r => setTimeout(r, 700));""",
-    #         wait_for="css:body",
-    #     )
-    # Define the selectors that mean the product list has loaded
-    PRODUCT_LIST_SELECTORS = "css:.gridItem, .product-item, [data-qa-locator='product-item'], .Bm3ON"
-
+    
     try:
         results: List[CrawlResult] = await crawler.arun(
             url=url,
             config=simple_config,
-            js_code=js_seq_for_detection, 
-            wait_for=PRODUCT_LIST_SELECTORS, # ⬅️ THIS IS THE FIX
+            js_code="""await new Promise(r => setTimeout(r, 700));""",
+            wait_for="css:body",
         )
     except Exception as e:
         print(f"⚠️ Failed to fetch first page for total count: {e}")
@@ -337,17 +314,6 @@ async def crawl_once(
     page_idx: int,
     attempt: int,
 ) -> Tuple[List[dict], List[str]]:
-    # # Simulate more human-like viewing with incremental scrolls
-    # js_seq = """
-    #     const sleep = ms => new Promise(r => setTimeout(r, ms));
-    #     await sleep(800);
-    #     for (let y=0; y<=3; y++){
-    #         window.scrollBy(0, document.body.scrollHeight/3);
-    #         await sleep(500 + Math.floor(Math.random()*300));
-    #     }
-    #     window.scrollTo(0, 0);
-    #     await sleep(400);
-    # """
     # Simulate more human-like viewing with incremental scrolls
     js_seq = """
         const sleep = ms => new Promise(r => setTimeout(r, ms));
