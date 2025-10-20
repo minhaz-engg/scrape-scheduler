@@ -585,9 +585,12 @@ async def demo_css_structured_extraction_no_schema(link: str):
     async with AsyncWebCrawler(config=browser_config) as crawler:
         total_pages = await detect_total_pages(crawler, link)
         ################ for testing only ################
-        if total_pages >= 3:
-            print(f"Total pages {total_pages} > 3, limiting to 3 for testing.")
-            total_pages = 3
+        if total_pages == 1:
+            print("Total pages detected as 1, overriding to 2 for testing.")
+            total_pages = 2
+        elif total_pages >= 3:
+            print(f"Total pages {total_pages} >= 3, limiting to 2 for testing.")
+            total_pages = 2
         ##################################################
         urls = [build_page_url(link, page) for page in range(1, total_pages + 1)]
 
@@ -662,19 +665,19 @@ async def main():
     # any category/search URL
     list_category_links = [
         "https://www.daraz.com.bd/mens-sports-football-shirts-and-merchandise/",
-        "https://www.daraz.com.bd/mens-chronograph/",
+        # "https://www.daraz.com.bd/mens-chronograph/",
         "https://www.daraz.com.bd/mens-sneakers/",
         "https://www.daraz.com.bd/mens-polo-shirts/",
-        "https://www.daraz.com.bd/keyboards-gaming/",
-        "https://www.daraz.com.bd/gaming-controllers/",
-        "https://www.daraz.com.bd/headphones-headsets-accessories/",
+        # "https://www.daraz.com.bd/keyboards-gaming/",
+        # "https://www.daraz.com.bd/gaming-controllers/",
+        # "https://www.daraz.com.bd/headphones-headsets-accessories/",
         "https://www.daraz.com.bd/laptops/",
         "https://www.daraz.com.bd/gaming-laptops/",
         "https://www.daraz.com.bd/macbooks/",
-        "https://www.daraz.com.bd/smart-watches/",
+        # "https://www.daraz.com.bd/smart-watches/",
         "https://www.daraz.com.bd/smartphones/",
         "https://www.daraz.com.bd/tablets/",
-        
+
     ]
     # link = "https://www.daraz.com.bd/mini-cameras/"
     for link in list_category_links:
