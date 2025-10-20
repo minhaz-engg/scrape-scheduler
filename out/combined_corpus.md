@@ -2524,6 +2524,42 @@
 ---
 
 
+## AirPods Pro-2 Magnet Leather PU Case with Hook For apple  
+**DocID:** `daraz_485664246`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+
+
+---
+
+
+## Airpods Case For Airpods_Pro 2 Silicone Soft Case- (Protective Headphone Case)  Soft Silicone Case for Apple Airpods Pro Wireless Headset Case for AirPods Pro Charging Box Solid Color Fashion Earphones Case  
+**DocID:** `daraz_549058601`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+
+
+---
+
+
+## Airpods Pro / Airpods Pro 2nd Gen silicone Case with for apple (only cover)  
+**DocID:** `daraz_540990678`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+
+
+---
+
+
+## For airdops pro pro-2nd gen Protective Cover (only cover) for premium quality cover  
+**DocID:** `daraz_496931064`
+**Source:** Daraz  
+**Category:** headphones headsets accessories
+
+
+---
+
+
 ## MEMO FS02 Silver Fiber Finger Sleeve Gaming 1 Pair- Silver Size 2  
 **DocID:** `daraz_530331684`
 **Source:** Daraz  
@@ -2880,6 +2916,15 @@
 **Source:** Daraz  
 **Category:** keyboards gaming
 **Price:** ৳ 1,978
+
+---
+
+
+## JEDEL K500+ USB Gaming Keyboard With RGB Lighting  
+**DocID:** `daraz_529582205`
+**Source:** Daraz  
+**Category:** keyboards gaming
+
 
 ---
 
@@ -3913,6 +3958,42 @@ Core i5-3320M
 ---
 
 
+## OLE-VS 2858 European And American Fashionable Chronograph Stailnless Steel Quartz Watch For men-Watch {Fan Made or Replica}  
+**DocID:** `daraz_343890156`
+**Source:** Daraz  
+**Category:** mens chronograph
+
+
+---
+
+
+## Olevs 9931 Luxury Fashion Stainless Steel Unique Design Diamond Cutting Glass Wrist-Watche  
+**DocID:** `daraz_328729172`
+**Source:** Daraz  
+**Category:** mens chronograph
+
+
+---
+
+
+## New Aura Arabic Watch Men's Quartz Watch Black Carbon Plastic watch for men  
+**DocID:** `daraz_549007592`
+**Source:** Daraz  
+**Category:** mens chronograph
+
+
+---
+
+
+## New European and American fashionable Stailnless Steel Men's Quartz Watch For men  
+**DocID:** `daraz_323742104`
+**Source:** Daraz  
+**Category:** mens chronograph
+
+
+---
+
+
 ## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
 **DocID:** `daraz_337632644`
 **Source:** Daraz  
@@ -4269,6 +4350,24 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 349
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
+**DocID:** `daraz_378162644`
+**Source:** Daraz  
+**Category:** mens polo shirts
+
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_429487688`
+**Source:** Daraz  
+**Category:** mens polo shirts
+
 
 ---
 
@@ -4633,6 +4732,33 @@ Core i5-3320M
 ---
 
 
+## Lotto Durable Casual Shoe for Men  
+**DocID:** `daraz_288557186`
+**Source:** Daraz  
+**Category:** mens sneakers
+
+
+---
+
+
+## Rubber Shoe Running Shoe Waterproof Rain Shoe Anti-Slippery Full Rubber Boot Ayna Bari - Durable And Waterproof Shoes For Protection Against Rain And Slipping  
+**DocID:** `daraz_296106968`
+**Source:** Daraz  
+**Category:** mens sneakers
+
+
+---
+
+
+## New Best Sneaker Collection 2024 Better Choice Stylish And Fashionable Exclusive Sneakers For Men  
+**DocID:** `daraz_337607198`
+**Source:** Daraz  
+**Category:** mens sneakers
+
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -4993,6 +5119,15 @@ Core i5-3320M
 ---
 
 
+## Man-U Jersey 2025/2026 Thai Premium Polo Football Jersey for Man - Man-U Football Jersey 2025  
+**DocID:** `daraz_328094794`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+
+
+---
+
+
 ## T900 ULTRA Smartwatch 2.09" Hd Screen Bluetooth Calling Pedometer Hear Rate Blood Pressure Sleeep Sports Watch For Mobile  
 **DocID:** `daraz_332614008`
 **Source:** Daraz  
@@ -5349,6 +5484,42 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** smart watches
 **Price:** ৳ 543
+
+---
+
+
+## Zeblaze Btalk 3 Pro Smart Watch Ultra HD AMOLED Display Hi-Fi Bluetooth Calling Health and Fitness Tracking Smartwatch  
+**DocID:** `daraz_420342363`
+**Source:** Daraz  
+**Category:** smart watches
+
+
+---
+
+
+## Keqiwear KW19 Max Series 9 Smart watch  
+**DocID:** `daraz_367721212`
+**Source:** Daraz  
+**Category:** smart watches
+
+
+---
+
+
+## T900 Ultra 2 Full Touch Screen Smart Watch - Bluetooth Calls & Smart Features Heart Rate Monitor Large Display Upgraded VERSION  
+**DocID:** `daraz_557046952`
+**Source:** Daraz  
+**Category:** smart watches
+
+
+---
+
+
+## T900 Ultra 2 Full Touch Screen Smart Watch - Bluetooth Calls & Smart Features  
+**DocID:** `daraz_550997563`
+**Source:** Daraz  
+**Category:** smart watches
+
 
 ---
 
@@ -5715,6 +5886,15 @@ Core i5-3320M
 
 ## ZTE Blade A35 (4+64GB)  
 **DocID:** `daraz_525069557`
+**Source:** Daraz  
+**Category:** smartphones
+
+
+---
+
+
+## TECNO Spark Go 2 4GB Ram and 64GB Rom (official)  
+**DocID:** `daraz_539209813`
 **Source:** Daraz  
 **Category:** smartphones
 
