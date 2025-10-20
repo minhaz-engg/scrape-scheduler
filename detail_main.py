@@ -110,21 +110,18 @@ def scrape_product_detail(url: str) -> Optional[str]:
                 # ---------------------------------------------------
                 
                 print(f"      [Detail] Navigating to page...")
-                # 1. Use 'load' to wait for more resources (images, etc.)
-                page.goto(url, timeout=DETAIL_PAGE_TIMEOUT, wait_until='load')
+                page.goto(url, timeout=DETAIL_PAGE_TIMEOUT, wait_until='load') # ⬅️ Use 'load'
                 print(f"      [Detail] Page loaded for {url}. Waiting for dynamic content...")
 
                 # 2. Wait for a *specific element* that is loaded by JavaScript
-                # This is the most reliable way. We wait for the product title.
                 try:
-                    page.wait_for_selector('h1.pdp-mod-product-badge-title', timeout=10000) # Wait 10s
+                    # Wait for the product title to appear
+                    page.wait_for_selector('h1.pdp-mod-product-badge-title', timeout=10000) 
                     print(f"      [Detail] Dynamic content (title) appeared.")
                 except Exception as e:
-                    print(f"      [Detail] ⚠️ Waited 10s, but key element 'h1.pdp-mod-product-badge-title' not found. Page might be empty.")
-                    # We can let it continue, extract_product_details_from_page will just find nothing
+                    print(f"      [Detail] ⚠️ Waited 10s, but key element 'h1.pdp-mod-product-badge-title' not found.")
                 
-                # You can even remove the time.sleep() now, or keep a very short one.
-                time.sleep(0.5 + random.uniform(0, 0.5))
+                time.sleep(0.5 + random.uniform(0, 0.5)) # Keep a small jitter
                 # ---------------------------------------------------
 
                 # Optional: Add a specific wait after load if needed

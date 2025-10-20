@@ -37,9 +37,14 @@ RESULT_DIR.mkdir(exist_ok=True)
 SCHEMA_FILE = RESULT_DIR / "schema.json"
 
 # ---------- Tunables ----------
-MAX_RETRIES = 5
+# MAX_RETRIES = 5
+# MIN_NEW_PER_PAGE = 1
+# RETRY_BACKOFF_BASE = 1.5
+# ADD_CACHE_BUST = True
+# ---------- Tunables ----------
+MAX_RETRIES = 8
 MIN_NEW_PER_PAGE = 1
-RETRY_BACKOFF_BASE = 1.5
+RETRY_BACKOFF_BASE = 2.5  # ⬅️ INCREASED
 ADD_CACHE_BUST = True
 SAVE_ONLY_UNIQUE = True
 PRODUCTS_PER_PAGE = 40
@@ -176,12 +181,15 @@ async def detect_total_pages(crawler: AsyncWebCrawler, category_url: str) -> int
     #         js_code="""await new Promise(r => setTimeout(r, 700));""",
     #         wait_for="css:body",
     #     )
+    # Define the selectors that mean the product list has loaded
+    PRODUCT_LIST_SELECTORS = "css:.gridItem, .product-item, [data-qa-locator='product-item'], .Bm3ON"
+
     try:
         results: List[CrawlResult] = await crawler.arun(
             url=url,
             config=simple_config,
-            js_code="""await new Promise(r => setTimeout(r, 2000));""", # ⬅️ INCREASED
-            wait_for="css:body",
+            js_code=js_seq_for_detection, 
+            wait_for=PRODUCT_LIST_SELECTORS, # ⬅️ THIS IS THE FIX
         )
     except Exception as e:
         print(f"⚠️ Failed to fetch first page for total count: {e}")
