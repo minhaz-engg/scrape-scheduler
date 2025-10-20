@@ -2391,6 +2391,604 @@ Processor: 11th Gen Core i7-11800HMemory: 8GB DDR4Storage: 512GB M.2 NVMe SSDGPU
 ---
 
 
+## Lenovo IP 5 Pro (82L500L6IN-3Y) AMD Ryzen 7 5800H 3.2 to 4.4GHz, 16GB, 512GB SSD, GTX1650 4GB, Win11H, 16" WQXGA Laptop  
+**DocID:** `daraz_281141410`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ip-5-pro-82l500l6in-3y-amd-ryzen-7-5800h-32-to-44ghz-16gb-512gb-ssd-gtx1650-4gb-win11h-16-wqxga-laptop-i281141410.html
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IP 5 Pro (82L500L6IN-3Y) AMD Ryzen 7 5800H 3.2 to 4.4GHz, 16GB, 512GB SSD, GTX1650 4GB, Win11H, 16" WQXGA LaptopAMD Ryzen 7 5800H 3.2 to 4.4GHz, 8Cores, 16Threads, 4M L2 + 16M L3 Cache 16GB DDR4 RAM 512GB NVMe SSD 16" WQXGA (2560x1600) IPS Display NVIDIA GeForce GTX 1650 4GB GDDR6 Graphics Windows 11 Home 3 Years Official Warranty Specification:Brand: LenovoModel: IdeaPad 5 Pro 16ACH6Product No: 82L500L6IN-3YColor: Storm GreyProcessor: AMD Ryzen 7 5800H 3.2 to 4.4GHz, 8Cores, 16Threads, 4M L2 + 16M L3 CacheDisplay: 16" WQXGA (2560x1600) IPS 300nits Anti-glare, 60Hz, 100% sRGBMemory: 16GB Soldered DDR4 3200MHz RAMStorage: 512GB SSD M.2 2242 PCIe 3.0×4 NVMeGraphics: NVIDIA GeForce GTX 1650 4GB GDDR6 GraphicsOperating System: Windows 11 HomeBattery: 3 Cell 56.5WhAdapter: 65W Round Tip (2-pin, Wall-mount)Audio: 2x, ArrayKeyboard: Backlit, English KeyboardFingerprint Reader: Touch StyleWeb Cam: IR & 720p + ToF SensorWi-Fi: Up to WiFi 6 2x2 ax/ac/a/b/g/nBluetooth: Bluetooth 5.1USB (s): 2 x USB-A 3.1 Gen 1, 1x USB-C Gen 1 (power delivery, display port)HDMI: 1 x HDMI 1.4bAudio Jack Combo: 1 X 3.5mm StereoCard Reader: 4-in-1 Card ReaderDimensions (W x D x H): 356 x 251 x 16.9mmWeight: Starting at 2kgWarranty: 3 Years Warranty (Terms & condition Apply As Per Lenovo)
+
+---
+
+
+## Lenovo Legion S7 16IAH7 Core-i7 12th Gen Gaming Laptop - 16GB DDR5 RAM - 512GB M.2 NVMe SSD - RTX 3060 6GB GDDR6 Graphics - 16.0-inch Display #82TF009XIN [Get Surprise Gift]  
+**DocID:** `daraz_316667338`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-legion-16iah7-core-i7-12th-gen-16gb-ddr5-ram-512gb-m2-nvme-ssd-rtx-3060-6gb-gddr6-160-82tf009xin-i316667338.html
+**Price:** ৳ 288,180  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: Intel Core i7-12700H, 14C (6P + 8E) / 20T, P-core 2.3 / 4.7GHz, E-core 1.7 / 3.5GHz, 24MB Memory: 8GB Soldered DDR5-4800 + 8GB SO-DIMM DDR5-4800 Storage: 512GB SSD M.2 2280 PCIe 4.0x4 NVMe Graphics: NVIDIA GeForce RTX 3060 6GB GDDR6, Boost Clock 1605MHz, TGP 100W Display: 16" WQXGA (2560x1600) IPS 500nits Anti-glare, 100% sRGB, 165Hz, DisplayHDR 400, Dolby Vision, G-SYNC, Low Blue Light, High Gaming Performance Case Color: Onyx Grey Operating System: Windows 11 Home Single Language, English Battery: Integrated 99.99Wh Warranty: 2-Years (Battery + Adapter 1 Year)
+
+---
+
+
+## ASUS TUF Gaming F15 FA507RE #HF045W# AMD Ryzen 7 6800H 3.2 to 4.7GHz, 16 GB, 512GB SSD, Windows 11, 15.6 Inch FHD IPS Gaming Laptop  
+**DocID:** `daraz_268831262`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-gaming-f15-fa507re-hf045w-amd-ryzen-7-6800h-32-to-47ghz-16-gb-512gb-ssd-windows-11-156-inch-fhd-ips-gaming-laptop-i268831262.html
+**Price:** ৳ 182,700  
+**Rating:** 0.0/5
+
+**Description:**
+ASUS TUF Gaming F15 FA507RE #HF045W# AMD Ryzen 7 6800H 3.2 to 4.7GHz, 16 GB, 512GB SSD, Windows 11, 15.6 Inch FHD IPS Gaming LaptopAMD Ryzen 7 6800H 3.2 to 4.7GHz, 8 Cores, 16 Threads, 20 Mb Cache 16GB DDR5 RAM 512GB M.2 NVMe PCIe G3 SSD 15.6" Full HD (1920x1080) IPS Display NVIDIA RTX 3050Ti 4GB Graphics Windows 11 Home 2 Years Official Brand Warranty Specification:Brand: ASUSModel: F15 FA507REProduct No: HF045WColor: Mecha GrayProcessor: AMD Ryzen 7 6800H 3.2 to 4.7GHz,8 Cores, 16 Threads, 20 Mb Cache ProcessorDisplay: 15.6" Full HD 1920x1080 144Hz Display IPS LevelMemory: 16GB DDR5 RAMStorage: 512GB M.2 NVMe PCIe G3 SSDGraphics: NVIDIA RTX 3050Ti 4GBOperating System: Windows 11 HomeBattery: 56WHrs, 4S1P, 4-cell Li-ionAdapter: ø6.0, 200W AC Adapter, Output: 20V DC, 10A, 200W, Input: 100-240V AC, 50/60Hz universalAudio: 2 Speaker systemWebCam: 720P HD cameraWi-Fi: Wi-Fi 6 (802.11ax)Bluetooth: Bluetooth 5.2USB (s): 1x USB 3.2 (Gen 2) Type-C support DisplayPort / G-SYNC, 2x USB 3.2 (Gen 1) Type-AHDMI: 1x HDMILAN: 1x RJ45 LAN portAudio Jack: 1x 3.5mm Combo Audio JackExtra RAM Slot: Yes (Memory Max. upgradeable up to 32GB)Extra M.2 Slot: YesSupported SSD Type: M.2 SATA or NVMeDimensions (W x D x H): 35.4 x 25.1 x 2.24 ~ 2.49 cmWeight: 2.20 KgWarranty: 2 Years
+
+---
+
+
+## ASUS TUF Gaming F15 FX507ZC4-HN081W 12th Gen Intel Core i5-12500H 8GB RAM 512GB SSD RTX3050 4GB GFX Laptop  
+**DocID:** `daraz_343179136`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-gaming-f15-fx507zc4-hn081w-12th-gen-intel-core-i5-12500h-8gb-ram-512gb-ssd-rtx3050-4gb-gfx-laptop-i343179136.html
+**Price:** ৳ 127,800  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: 12th Gen Core i5-12500HMemory: 8GB DDR4Storage: 512GB M.2 NVMe SSDGPU: GeForce 3050 4GB GDDR6Display: 15.6-inch Full HDProcessor:Brand: IntelModel: Core i5-12500HFrequency: Up to 4.5 GHzCores: 12 (4 P-cores and 8 E-cores)Threads: 16CPU Cache: 18MBDisplay:Size: 15.6-inchAspect Ratio: 16:9Type: Value IPS-levelResolution: Full HD (1920 x 1080)Touch Screen: NoFeatures: Anti-glare display, Adaptive-Sync technologyBrightness: 250 NitsContrast: 1000:1NTSC: 45%Refresh Rate: 144HzAdobe: 47.34%SRGB: 62.50%Viewing Angle: 170Memory:Size: 8GBType: DDR4-3200 SO-DIMMUpgradeable: YesTotal RAM Slots: 2x SO-DIMM slotsMax Memory: 32GBSupport dual channel memoryStorage:Capacity: 512GBType: M.2 3.0 NVMe PCIe SSDExtra M.2 Slot: YesStorage Upgrade: Additional SSDs can be addedStorage Support: 2x M.2 slots (support either SATA or NVMe)Graphics:Model: NVIDIA GeForce RTX 3050Memory: 4GB GDDR6Type: DiscreteGraphic Wattage: 1790MHz* at 95W (1740MHz Boost Clock+50MHz OC, 80W+15W Dynamic Boost)Integrated Graphics: Intel Iris Xᵉ Graphics (Shared)Discrete/Optimus: MUX Switch + OptimusKeyboard and Touchpad:Type: Backlit Chiclet Keyboard 1-Zone RGBTouchPad: YesNumberPad: N/AWebCam:720P HD cameraAudio:Speaker: 2-speaker systemMicrophone: Built-in array microphoneAudio Features: AI noise-canceling technology, Dolby Atmos, Hi-Res certificationPorts:HDMI Port: 1x HDMI 2.0bUSB 3 Ports: 2x USB 3.2 Gen 1 Type-AHeadphone & Microphone Port: 1x 3.5mm Combo Audio JackUSB Type-C / Thunderbolt Port: 1x Thunderb …
+
+---
+
+
+## Acer Predator Helios 16 PH16-71 #QJQSI.004# 13th Gen i7-13700HX 3.7 to 5GHz, 32GB, 1TB SSD, RTX4060 8GB, WIN 11, 16 Inch WQXGA Gaming Laptop  
+**DocID:** `daraz_323277572`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Acer  
+**URL:** https://www.daraz.com.bd/products/acer-predator-helios-16-ph16-71-qjqsi004-13th-gen-i7-13700hx-37-to-5ghz-32gb-1tb-ssd-rtx4060-8gb-win-11-1-i323277572.html
+**Price:** ৳ 190,000  
+**Rating:** 0.0/5
+
+**Description:**
+Acer Predator Helios 16 PH16-71 #QJQSI.004# 13th Gen i7-13700HX 3.7 to 5GHz, 32GB, 1TB SSD, RTX4060 8GB, WIN 11, 16 Inch WQXGA Gaming LaptopIntel 13th Gen i7-13700HX 3.7 to 5GHz, 16 Core, 24 Thread, 30MB Cache Processor32GB DDR5 4800MHz RAM1TB PCIe NVMe Gen 4 SSD16 Inch WQXGA (2560 x 1600) IPS DisplayNVIDIA GeForce RTX4060 8GB GDDR6 GraphicsWindows 11 Home2 Years Official WarrantySpecification:Brand: AcerSeries: Predator HeliosModel: 16 PH16-71Part No: QJQSI.004Color: Abyssal BlackProcessor: Intel 13th Gen i7-13700HX 3.7 to 5GHz, 16 Core, 24 Thread, 30MB CacheMemory: 32GB DDR5 4800MHz RAMStorage: 1TB PCIe NVMe Gen 4 SSDDisplay: 16 Inch WQXGA (2560 x 1600) 240Hz, IPS DisplayGraphics: NVIDIA GeForce RTX4060 8GB GDDR6 GraphicsOperating System: Windows 11 HomeKeyboard: RGB-Backlit KeyboardTouchpad: Multi-Gesture TouchpadWebCam: 1080p HD WebcamAudio: Dual Built-in Microphone, internal SpeakersLAN: Killer Ethernet E2600Wi-Fi: Intel Killer Wireless Wi-Fi 6E 1675iBluetooth: Bluetooth 5.2USB(s): 1x USB 3.2 Gen 1, 1x USB 3.2 Gen 2, 1x USB 3.2 Gen 2, 2x Two USB Type-C (Thunderbolt 4)HDMI Port: 1 x HDMIRJ45 LAN : 1 x Ethernet (RJ-45)Multi Card Slot: MicroSD Card ReaderAudio Combo Jack: 1x Headphone & Microphone ComboBattery: 90 Wh 4-Cell Li-ion BatteryAdapter: 3-pin 330 W 5.5 PHY AC AdapterMemory Slot: 2 (Up to 64GB Max. RAM Support)Dimensions: 357 x 278 x 26.9mmWeight: 2.6 KgWarranty: 2 Years
+
+---
+
+
+## ASUS TUF Gaming A17 FA706ICB-HX076W AMD Ryzen 5-4600H 8GB RAM 512GB RTX 3050 4GB GFX 17.3 Inch Laptop  
+**DocID:** `daraz_350846122`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-gaming-a17-fa706icb-hx076w-amd-ryzen-5-4600h-8gb-ram-512gb-rtx-3050-4gb-gfx-173-inch-laptop-i350846122.html
+**Price:** ৳ 115,450  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: AMD Ryzen 5 4600H Mobile ProcessorMemory: DDR4 8GBStorage : 512GB PCIe 3.0 NVMe M.2 SSDGPU: NVIDIA GeForce RTX 3050 Laptop GPUDisplay: 17.3-inch FHD (1920 x 1080) 16:9Specifications:Brand: AsusModel: ASUS TUF Gaming A17Color: Graphite BlackDimensions (W x D x H): 39.9 x 26.8 x 2.33 ~ 2.48 cmWeight: 2.60 KgProcessor:Processor: AMD Ryzen™ 5 4600H Mobile Processor (6-core/12-thread, 11MB Cache, 4.0 GHz max boost)Chipset: N/ADiscrete/Optimus: OptimusGraphics:Graphics: NVIDIA® GeForce RTX™ 3050 Laptop GPUGraphic Memory: 4GB GDDR6IGPU: AMD Radeon™ GraphicsDisplay:Panel Size: 17.3-inchResolution: FHD (1920 x 1080) 16:9Refresh Rate: 144HzViewing Angle: 85/85/85/85Panel Tech: Value IPS-levelBrightness: 250nitsContrast: 1:800NTSC %: 45%SRGB %: 62.5%Adobe %: 47.34%Anti glare: Anti-glare displayAdaptive-Sync technology: Adaptive-SyncPantone: N/ASupport Dolby Vision HDR: N/AMemory:On-board memory: N/ADIMM Memory: 8GB DDR4-3200 SO-DIMMTotal System Memory: DDR4 8GBMemory Slot: 2x SO-DIMM slotsMemory Max.: 32GBMulti-channel memory technology: UpgradableStorage:System Storage: 512GB PCIe® 3.0 NVMe™ M.2 SSDM.2 slots support either SATA or NVMe: 2M.2 SSD Support List: "M.2 512GB PCIe SSD, M.2 1TB PCIe SSD"Expansion Slot (includes used): 2x DDR4 SO-DIMM slotsNetwork & Wireless Connectivity:LAN: 10/100/1000 MbpsWi-Fi/Bluetooth: Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth® 5.1 (*Bluetooth® version may change with OS version different.)I/O Ports:1x RJ45 LAN port3x USB 3.2 Gen 1 Type-A1 …
+
+---
+
+
+## Lenovo IdeaPad Gaming 3i 16IAH7 Core-i5 12th Gen Gaming Laptop - 16GB DDR4 RAM - 512GB M.2 NVMe SSD - RTX 3050 4GB GDDR6 Graphics - 16.0-inch Display #82SA00B0IN [Get Surprise Gift]  
+**DocID:** `daraz_316648993`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ideapad-3i-16iah7-core-i5-12th-16gb-ddr4-ram-512gb-m2-nvme-ssd-rtx-3050-4gb-gddr6-160-82sa00b0in-i316648993.html
+**Price:** ৳ 166,050  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: Intel Core i5-12450H, 8C (4P + 4E) / 12T, P-core 2.0 / 4.4GHz, E-core 1.5 / 3.3GHz, 12MB Memory: 2x 8GB SO-DIMM DDR4-3200 Storage: 512GB SSD M.2 2242 PCIe 4.0x4 NVMe Graphics: NVIDIA GeForce RTX 3050 4GB GDDR6, Boost Clock 1740MHz, TGP 85W Display: 16" WUXGA (1920x1200) IPS 350nits Anti-glare, 100% sRGB, 165Hz Case Color: Onyx Grey Operating System: Windows 11 Home Single Language, English Battery: Integrated 71Wh Warranty: 2 Years (Battery + Adapter 1 Year)
+
+---
+
+
+## Lenovo IdeaPad 3 (82KT00QCIN-3Y) AMD Ryzen 5 5500U 2.1 to 4GHz, 8GB, 512GB SSD, Win11H, 14" FHD Laptop  
+**DocID:** `daraz_279775937`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ideapad-3-82kt00qcin-3y-amd-ryzen-5-5500u-21-to-4ghz-8gb-512gb-ssd-win11h-14-fhd-laptop-i279775937.html
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IdeaPad 3 (82KT00QCIN-3Y) AMD Ryzen 5 5500U 2.1 to 4GHz, 8GB, 512GB SSD, Win11H, 14" FHD LaptopAMD Ryzen 5 5500U 2.1 to 4GHz, 6Cores, 12Threads, 3MB L2 + 8MB L3 Cache 8GB DDR4 RAM 512GB NVMe SSD 14" FHD (1920x1080) IPS Display Integrated AMD Radeon Graphics Windows 11 Home 3 Years Official Warranty Specification:Brand: LenovoModel: IdeaPad 3Product No: 82KT00QCIN-3YProcessor: AMD Ryzen 5 5500U 2.1 to 4GHz, 6Cores, 12Threads, 3MB L2 + 8MB L3 CacheDisplay: 14" FHD (1920x1080) IPS DisplayMemory: 8GB DDR4Storage: 512GB NVMe SSDGraphics: Integrated AMD Radeon GraphicsOperating System: Windows 11 HomeBattery: 3 Cell 45WhrAdapter: 65W Slim TipAudio: 2 x 1.5W speakers with Dolby AudioKeyboard: Backlit, EnglishWeb Cam: 720p with Privacy ShutterWi-Fi: Wi-Fi 6 802.11AX (2x2)Bluetooth: Bluetooth 5USB (s): USB-C 3.2 Gen 1, USB-A 3.2 Gen 1, USB-A 2.0HDMI: 1 x HDMIAudio Jack Combo: 1 X 3.5mm Jack Female StereoDimensions (W x D x H): 359.2 x 236.5 x 19.9mmWeight: 1.7kgWarranty: 3 Years
+
+---
+
+
+## PASSION gaming laptop BP5800 Intel® Core™ i5-8250U 1.60GHz up to 3.40GHz  
+**DocID:** `daraz_153552034`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/bp5800-i5-8250u-160ghz-340ghz-i153552034.html
+**Price:** ৳ 85,000  
+**Rating:** 0.0/5
+
+**Description:**
+Product details of PASSION BP5800 Intel® Core™ i5-8250U 1.60GHz up to 3.40GHz 39.62cm (15.6") High Definition (HD) Matte LED Panel Intel® Core™ i5-8250U 1.60GHz up to 3.40GHz, 6MB SmartCache 8th Generation Processor 1TB Hard Disk Drive (HDD), 5400rpm, 7mm 8GB DDR4 2400MHz RAM (Expandable up to 32GB) 802.11ac WLAN + BT 4.2 DVD multi M.2 SSD Supported Color: Gray CPU + ChipsetDisplay• 39.62cm (15.6") HD(1366x768) 16:9 panel, 3.2mmMemory• 8GB Dual channel DDR4• Two 260 pins SODIMM sockets, support DDR4 2400MHz (Real operation frequency depends on processor)• Expandable memory up to 32GB, depends on 4GB/8GB/16GB SODIMM ModuleVideo Controller• Intel® UHD Graphics 620- Dynamic frequency- Intel Dynamic Video Memory Technology- Microsoft DirectX® 12 compatibleStorage• 1TB HDD, 5400rpm, 7mm• One changeable 9.0 / 9.5 mm(H) DVD Writer ODD, SATA interfaceKeyboard and Pointing Device• Multi languages A4 size isolated keyboard with Bengali font (Bangladesh Layout)• Built in touch pad with Microsoft PTP multi-gesture and scrolling functionAudio• High Definition Audio• Built in microphone• Built in two speakersI/O Ports• 2 x USB 2.0 ports• 1 x USB 3.0 (USB3.1 Gen 1) port (Type A)• 1 x USB 3.1 port (Gen 2)(Type C)• 1 x external VGA port• 1 x HDMI™ output port (with HDCP)• 1 x Headphone jack• 1 x Microphone jack• 1 x RJ-45 LAN port• 1 x DC-in jackCard Reader• 6-in-1 Card reader- MMC / RSMMC- SD / mini SD / SDHC / SDXCSlots• Two M.2 card slots- 1st for WLAN Combo M.2 2230 Card with PCIe and USB …
+
+---
+
+
+## Lenovo IP Gaming 3i #81Y401ALIN# 10th Gen i5-10300H 2.5 to 4.5GHz, 8GB, 1TB, 256GB, GTX1650 4GB, Win10, 15.6FHD Laptop  
+**DocID:** `daraz_224044404`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ip-gaming-3i-81y401alin-10th-gen-i5-10300h-25-to-45ghz-8gb-1tb-256gb-gtx1650-4gb-win10-156fhd-laptop-i224044404.html
+**Price:** ৳ 89,600  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IP Gaming 3i #81Y401ALIN# 10th Gen i5-10300H 2.5 to 4.5GHz, 8GB, 1TB, 256GB, GTX1650 4GB, Win10, 15.6FHD LaptopIntel Core i5-10300H Processor 2.5 to 4.5GHz, 4Core, 8Thread, 8M Cache 8GB DDR4–2933 (Expandable upto 16GB) 1TB HDD 256GB NVME SSD NVIDIA GeForce GTX 1650 4GB GDDR6 15.6″ FHD (1920×1080) IPS 250nits Anti-glare, 120Hz 2 Years Warranty Specification-Brand: LenovoModel: IP Gaming 3iProduct No: 81Y401ALINProcessor: 10th Generation Intel Core i5-10300H Processor 2.5 to 4.5GHz, 4Core, 8Thread, 8M CacheMemory: 8GB DDR4 3200MHz RAMStorage: 1TB HDD + 256GB PCIe SSDGraphics: NVIDIA GTX1650 4GB DDR6 GraphicsDisplay: 15.6" FHD (1920 x 1080) IPS, Brightness: 250 nits, 120Hz Refresh Rate Aspect Ratio: 16:9 45% NTSCAdapter: 135W AC adapterBattery: 3 cell 45Wh batteryOperating System: Windows 10 HomeNetworking: 802.11ac (2x2)Bluetooth: 5.0Audio: Dolby Audio Stereo speakers 2 x 1.5W speakersWeb Cam: HD WebcamPorts & Connectors: 2 x USB 3.2 Gen 1 1 x USB 3.2 Gen 1 Type-C HDMI Headphone Ethernet RJ-45Color: BlackDimensions (W x D x H): 359 x 249.6 x 24.9 mmWeight: 2.2 kgWarranty: 2 Years Warranty
+
+---
+
+
+## MSI GF63 Thin 11UC 11th Gen Core i5-11400H 2.7 to 4.5GHz, 8GB, 512GB SSD, RTX3050 4GB Graphics, Win10H, 15.6 FHD Gaming Laptop  
+**DocID:** `daraz_232465788`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** MSI  
+**URL:** https://www.daraz.com.bd/products/msi-gf63-thin-11uc-11th-gen-core-i5-11400h-27-to-45ghz-8gb-512gb-ssd-rtx3050-4gb-graphics-win10h-156-fhd-gaming-laptop-i232465788.html
+**Price:** ৳ 98,000  
+**Rating:** 0.0/5
+
+**Description:**
+MSI GF63 Thin 11UC 11th Gen Core i5-11400H 2.7 to 4.5GHz, 8GB, 512GB SSD, RTX3050 4GB Graphics, Win10H, 15.6 FHD Gaming Laptop Intel Core i5-11400H 2.7 to 4.5GHz(12M Cache, 8 Core, 16 Threads) 8GB 3200MHz DDR4 Ram 512GB NVMe PCle Gen3x4 SSD 15.6" FHD (1920x1080) IPS Display RTX3050 Max-Q with GDDR6 4GB Graphics Windows 10 Home 2 Years Official National Warranty Specification:Brand: MSIModel: MSI GF63 Thin 11UCColor(s): BlackProcessor: Intel Core i5-11400H 2.7 to 4.5GHz(12M Cache, 8 Core, 16 Threads)Display: 15.6" FHD (1920x1080), 60Hz 45%NTSC IPS-LevelMemory: 8GB DDR4 3200MHz RAMStorage: 512GB NVMe PCIe Gen3x4 SSDGraphics: NVIDIA GeForce RTX 3050 Max-Q Laptop GPU 4GB GDDR6Chipset: HM570Operating System: Windows 10 HomeBattery: 3 cell , 51Whr Li-PolymerAdapter:120W adapterAudio: 2x Speakers 2WKeyboard: Red keyboard with Anti-Ghost key (99 Key)WebCam: 720p HD WebcamLAN: Gb LANWi-Fi: Intel Wi-Fi 6 AX201(2 x 2 ax)Bluetooth: Bluetooth 5.1USB (s): 1x Type-C USB 3.2 Gen 1,3x Type-A USB 3.2 Gen 1HDMI: 1x (4K @ 30Hz) HDMIAudio Jack Combo: 1x Mic-in/Headphone-out Combo Jack (1/8")Extra RAM Slot: YesSupported SSD Type: NVMe PCIe Gen3x4Dimensions (W x D x H): 14.13" x 9.99" x 0.85"Weight: 1.86KGWarranty: 2 Years Warranty
+
+---
+
+
+## Lenovo IP 5 Pro (82L500L5IN-3Y) AMD Ryzen 5 5600H 3.3 to 4.2, 16GB, 512GB SSD, Win11H, 16Inch WQXGA Laptop  
+**DocID:** `daraz_225959297`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ip-5-pro-82l500l5in-3y-amd-ryzen-5-5600h-33-to-42-16gb-512gb-ssd-win11h-16inch-wqxga-laptop-i225959297.html
+**Price:** ৳ 99,500  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IP 5 Pro (82L500L5IN-3Y) AMD Ryzen 5 5600H 3.3 to 4.2, 16GB, 512GB SSD, Win11H, 16Inch WQXGA Laptop AMD Ryzen 5 5600H 3.3 to 4.2GHz, 6Cores, 12Threads, 3MB L2 + 16MB L3 Cache 16GB DDR4 RAM 512GB NVMe SSD 16" WQXGA (2560x1600) IPS Display AMD Radeon Graphics Windows 11 Home 3 Years Official Warranty Specification: Brand: Lenovo Model: IdeaPad 5 Pro 116ACH6 Product No: 82L500L5IN-3Y Color: Storm Grey Processor: AMD Ryzen 5 5600H 3.3 to 4.2GHz, 6Cores, 12Threads, 3MB L2 + 16MB L3 Cache Memory: 16GB Soldered DDR4 3200MHz RAM Storage: 512GB SSD M.2 2242 PCIe 3.0×4 NVMe Display: 16" WQXGA (2560x1600) IPS 300nits Anti-glare, 60Hz, 100% sRGB Graphics: Integrated AMD Radeon Graphics Operating System: Windows 11 Home Battery: 3 Cell 56.5Wh Adapter: 65W Round Tip (2-pin, Wall-mount) Audio: 2x, Array Keyboard: Backlit, English Keyboard Fingerprint Reader: Touch Style Web Cam: IR & 720p + ToF Sensor Wi-Fi: Wi-Fi 6 Bluetooth: Bluetooth 5.1 USB (s): 2 x USB-A 3.1 Gen 1, 1x USB-C Gen 1 (power delivery, display port) HDMI: 1 x HDMI 1.4b Audio Jack Combo: 1 X 3.5mm Stereo Card Reader: 4-in-1 Card Reader Dimensions (W x D x H): 356 x 251 x 16.9mm Weight: 2.25kg Warranty: 3 Years Warranty (Terms & condition Apply As Per Lenovo)
+
+---
+
+
+## Lenovo IP 5 Pro (82L500L5IN-3Y) AMD Ryzen 5 5600H 3.3 to 4.2, 16GB, 512GB SSD, Win11H, 16" WQXGA Laptop  
+**DocID:** `daraz_281035288`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ip-5-pro-82l500l5in-3y-amd-ryzen-5-5600h-33-to-42-16gb-512gb-ssd-win11h-16-wqxga-laptop-i281035288.html
+**Price:** ৳ 99,700  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IP 5 Pro (82L500L5IN-3Y) AMD Ryzen 5 5600H 3.3 to 4.2, 16GB, 512GB SSD, Win11H, 16" WQXGA LaptopAMD Ryzen 5 5600H 3.3 to 4.2GHz, 6Cores, 12Threads, 3MB L2 + 16MB L3 Cache 16GB DDR4 RAM 512GB NVMe SSD 16" WQXGA (2560x1600) IPS Display AMD Radeon Graphics Windows 11 Home 3 Years Official Warranty
+
+---
+
+
+## Lenovo IP Gaming 3i #82K100KQIN# 11th Gen i5-11300H 3.1 to 4.4GHz, 8GB, 512GB SSD, RTX 3050 4GB, 15.6inch IPS Gaming Laptop  
+**DocID:** `daraz_252736098`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ip-gaming-3i-82k100kqin-11th-gen-i5-11300h-31-to-44ghz-8gb-512gb-ssd-rtx-3050-4gb-156inch-ips-gaming-laptop-i252736098.html
+**Price:** ৳ 103,200  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IP Gaming 3i #82K100KQIN# 11th Gen i5-11300H 3.1 to 4.4GHz, 8GB, 512GB SSD, RTX 3050 4GB, 15.6inch IPS Gaming Laptop 11th Gen Intel Core i5-11300H 3.1 to 4.4GHz, 4Core, 8Thread, 8MB Cache 8GB DDR4 3200MHz RAM 512GB M.2 2280 PCIe 3.0x4 NVMe SSD 15.6 inch (1920×1080) IPS Display NVIDIA GeForce RTX 3050 4GB GDDR6 Graphics Windows 10 Home 2 Years Official Branded Warranty Specification:Brand:LenovoModel:IP Gaming 3iProduct No:82K100KQINProcessor:11th Gen Intel Core i5-11300H 3.1 to 4.4GHz (4Core, 8Thread, 8MB Cache)Color:Shadow BlackMemory:8GB DDR4 3200MHz RAMStorage:512GB M.2 2280 PCIe 3.0x4 NVMeSSDGraphics:NVIDIA GeForce RTX 3050 4GB GDDR6GraphicsDisplay:15.6″ FHD (1920×1080) IPS 250nits Anti-glare, 120Hz, 45% NTSC, DC dimmerAdapter:170W Slim Tip (3-pin)Battery:45Wh batteryOperating System:Windows 10 HomeWi-Fi:Wi-Fi 6 11ax (2×2)Bluetooth:Bluetooth 5.0Audio:High Definition (HD) Audio, Realtek ALC3287 codecSpeakers:Stereo speakers, 2W x2, Nahimic AudioWeb Cam:720p with Camera ShutterPorts & Connectors:2x USB 3.2 Gen 1; 1x USB-C 3.2 Gen 1 (support data transfer only)HDMI:1x HDMI 2.0Ethernet:RJ-45Supported SSD Type:M.2 NVMeDimensions(W x D x H): 359 x 249.6 x 24.9 mmWeight:2.2 kgWarranty:2 Years
+
+---
+
+
+## Dell Inspiron 15 5510 11th Gen Core i7-11370H 3.3 to 4.8GHz, 8GB, 512GB SSD, Win10, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_275388559`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Dell  
+**URL:** https://www.daraz.com.bd/products/dell-inspiron-15-5510-11th-gen-core-i7-11370h-33-to-48ghz-8gb-512gb-ssd-win10-156-inch-fhd-gaming-laptop-i275388559.html
+**Price:** ৳ 104,300  
+**Rating:** 0.0/5
+
+**Description:**
+Dell Inspiron 15 5510 11th Gen Core i7-11370H 3.3 to 4.8GHz, 8GB, 512GB SSD, Win10, 15.6 Inch FHD Gaming LaptopIntel 11th Gen Core i7-11370H 3.3 to 4.8GHz, 4 Cores, 8 Threads, 12MB Cache 8GB DDR4 3200MHz RAM 512GB NVMe PCIe SSD 15.6-inch FHD (1920 x 1080) WVA Display Intel Iris Xe Graphics Windows 10 Home 2 Years Official Brand Warranty Specification:Brand: DellModel: Inspiron 15 5510Color: Mist Blue, SilverProcessor: Intel 11th Gen Core i7-11370H 3.3 to 4.8GHz, 4 Cores, 8 Threads, 12MB CacheMemory: 8GB DDR4 3200MHz RAMStorage: 512GB NVMe PCIe SSDDisplay: 15.6-inch (1920 x 1080) FHD Anti-glare LED Backlight Narrow Border WVA DisplayGraphics: Intel Iris Xe GraphicsOperating System: Windows 10 HomeMicrosoft Office: Microsoft Office HomeKeyboard: Backlit Keyboard with Numeric KeypadCamera: 720p at 30 fps HD camera, single-integrated microphoneAudio and Speakers: Stereo speakers, 2 W x 2 = 4 WBattery: 4 Cell Li-Po, 54WHrAdapter: 65WWi-Fi: Wi-Fi 6 2x2Bluetooth: Bluetooth 5.1USB(s): 2 x USB 3.2 Gen 1 Type-A; 1 x USB Type-CHDMI: 1 HDMI 1.4Audio Jack Combo: 1 x Headphone & Microphone Audio JackSlots: 1 SD Card slotDimensions (DxWxH): 356.06 x 228.90 x 14.59mmWeight: 1.75 kgWarranty: 2 Years (1 Year For Battery & Adapter)
+
+---
+
+
+## Acer Nitro 5 AN515-57-52QS 11th Gen i5-11400H 2.7 to 4.5GHz, 8GB, 256GB + 1TB, RTX 3050 4GB, 15.6Inch IPS Gaming Laptop  
+**DocID:** `daraz_225460271`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Acer  
+**URL:** https://www.daraz.com.bd/products/acer-nitro-5-an515-57-52qs-11th-gen-i5-11400h-27-to-45ghz-8gb-256gb-1tb-rtx-3050-4gb-156inch-ips-gaming-laptop-i225460271.html
+**Price:** ৳ 111,200  
+**Rating:** 0.0/5
+
+**Description:**
+Acer Nitro 5 AN515-57-52QS 11th Gen i5-11400H 2.7 to 4.5GHz, 8GB, 256GB + 1TB, RTX 3050 4GB, 15.6Inch IPS Gaming Laptop Intel Core i5-11400H Processor (12 T/ 6c, 12M Cache, 2.7 to 4.5GHz) 8GB 3200hz DDR4 RAM (Upgradeable 32GB) 256GB SSD + 1TB HDD 15.6" FHD (1920 x 1080) IPS 144Hz Display GeForce RTX 3050 4GB GDDR6 Graphics Windows 11 Home 2 Years Warranty
+
+---
+
+
+## MSI Katana GF66 12UC Intel Core i5 12450H 15.6 Inch FHD IP Display Black Gaming Laptop #12UC-893BD-BB51245H8GXXDX11EM  
+**DocID:** `daraz_314429977`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** MSI  
+**URL:** https://www.daraz.com.bd/products/msi-gf66-12uc-intel-core-i5-12450h-156-fhd-ip-i314429977.html
+**Price:** ৳ 112,900  
+**Rating:** 0.0/5
+
+**Description:**
+Brand MSIModel MSI Katana GF66 12UCLaptop Series KatanaPart No 12UC-893BD-BB51245H8GXXDX11EM Processor Brand IntelProcessor Type. Core i5Generation 12th (Intel)Processor Model Core i5 12450HProcessor Max Turbo Frequency 4.40GHzProcessor Core 8Processor Thread 12CPU Cache 12MB RAM 8GBInstalled RAM Details 1 x 8GB RemovableRAM Type DDR4RAM Bus (MHz) 3200 MHzTotal RAM Slot 2Empty/Expansion RAM Slot 1Max. RAM Support 32GB Storage 512GB SSDInstalled HDD Type No HDDHDD RPM No HDDInstalled SSD Type NVMe PCIe Graphics Chipset Nvidia RTX 3050Graphics Memory Accessibility DedicatedGraphics Memory 4GBGraphics Memory Type GDDR6 Display Size (Inch) 15.6Display Type FHD IPS LED DisplayDisplay Resolution Range Full HDDisplay Resolution 1920x1080Touch Screen NoDisplay Refresh Rate 144 Hz USB 2 Port 1 x Type-A USB 2.0USB 3 Port 2 x Type-A USB3.2 Gen 1USB C / Thunderbolt Port 1 x Type-C USB 3.2 Gen 1HDMI Port 1 LAN YesWiFi 802.11 ax Wi-Fi 6Bluetooth Bluetooth 5.2 Audio Properties 2 x 2W SpeakerSpeaker YesMicrophone. YesWebCam HD WebCam Num Key pad Yes (Numeric)Pointing Device TouchPad Operating System Win-11 Home Laptop Brand - MSI, Laptop Series - Katana, Laptop Model - MSI Katana GF66 12UC, Processor Brand - Intel, Processor Type - 12th (Intel), Processor Generation - Intel Core i5, Processor Model - Core i5 12450H, Processor Base Frequency - Not Specified, Processor Max Turbo Frequency - 4.40GHz, Processor Core - 8, Processor Thread - 12, Processor Cache - 12MB, Chipset - Not Specified, Dis …
+
+---
+
+
+## Lenovo IdeaPad 5 Pro 16ACH6 (82L500C6IN) - AMD Ryzen 7 5800H -16GB- 512GB SSD -NVIDIA GeForce GTX 1650 4GB GDDR6- -16" WQXGA - WIN11H - Storm Grey  
+**DocID:** `daraz_274278889`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ideapad-5-pro-16ach6-82l500c6in-amd-ryzen-7-5800h-16gb-512gb-ssd-nvidia-geforce-gtx-1650-4gb-gddr6-16-wqxga-win11h-storm-grey-i274278889.html
+**Price:** ৳ 122,100  
+**Rating:** 0.0/5
+
+**Description:**
+Key Point:Ryzen 7 5800H (3.2GHz Up to 4.4GHz, 8 Cores, 16 Threads) 16GB DDR4 RAM 512GB SSD NVMe 16" WQXGA (2560x1600) IPS LED Display 350nits Anti-glare NVIDIA GeForce GTX 1650 4GB GDDR6 Windows 11 Home Color Storm Grey 2 Years Official Brand Warranty Specifications:Brand: LenovoModel: Lenovo IdeaPad Slim 5 Pro 16ACH6Laptop Series: IdeaPadPart No: 82L500C6INProcessor: Ryzen 7 5800H (3.2GHz Up to 4.4GHz, 8 Cores, 16 Threads)Display: 16" WQXGA (2560x1600) IPS LED Display 350nits Anti-glareMemory: 16GB DDR4 RAM 3200MHzStorage: 512GB SSD NVMeGraphics: NVIDIA GeForce GTX 1650 4GB GDDR6 Operating System: Windows 11 HomeBattery: 4 Cell Battery; 75 Wh battery capacityAdapter: 95W power adapterAudio: 2 x 2W Dolby Atmos, Dual array micKeyboard: Back-lit; EnglishWeb Cam: HD WebcamWi-Fi: 802.11AX (2x2)Bluetooth: Bluetooth 5.1 USB (s): - USB 3 Port: 2 x USB Type-A- USB C / Thunderbolt Port: 1 x USB 3.2 Gen 2 Type-CHDMI: 1Audio Jack Combo: 1 x Headphone / mic comboDimensions (W x D x H): 356 x 251 x 18.4mmWeight: 1.9 kgWarranty: 2 Years Official Brand Warranty
+
+---
+
+
+## Lenovo IP 5 Pro (82L500L6IN-3Y) AMD Ryzen 7 5800H 3.2 to 4.4GHz, 16GB, 512GB SSD, GTX1650 4GB, Win11H, 16Inch WQXGA Laptop  
+**DocID:** `daraz_226037658`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ip-5-pro-82l500l6in-3y-amd-ryzen-7-5800h-32-to-44ghz-16gb-512gb-ssd-gtx1650-4gb-win11h-16inch-wqxga-laptop-i226037658.html
+**Price:** ৳ 123,500  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IP 5 Pro (82L500L6IN) AMD Ryzen 7 5800H 3.2 to 4.4GHz, 16GB, 512GB SSD, GTX1650 4GB, Win11H, 16Inch WQXGA Laptop AMD Ryzen 7 5800H 3.2 to 4.4GHz, 8Cores, 16Threads, 4M L2 + 16M L3 Cache 16GB DDR4 RAM 512GB NVMe SSD 16" WQXGA (2560x1600) IPS Display NVIDIA GeForce GTX 1650 4GB GDDR6 Graphics Windows 11 Home 3 Years Official Warranty Specification: Brand: Lenovo Model: IdeaPad 5 Pro 16ACH6 Product No: 82L500L6IN-3Y Color: Storm Grey Processor: AMD Ryzen 7 5800H 3.2 to 4.4GHz, 8Cores, 16Threads, 4M L2 + 16M L3 Cache Display: 16" WQXGA (2560x1600) IPS 300nits Anti-glare, 60Hz, 100% sRGB Memory: 16GB Soldered DDR4 3200MHz RAM Storage: 512GB SSD M.2 2242 PCIe 3.0×4 NVMe Graphics: NVIDIA GeForce GTX 1650 4GB GDDR6 Graphics Operating System: Windows 11 Home Battery: 3 Cell 56.5Wh Adapter: 65W Round Tip (2-pin, Wall-mount) Audio: 2x, Array Keyboard: Backlit, English Keyboard Fingerprint Reader: Touch Style Web Cam: IR & 720p + ToF Sensor Wi-Fi: Up to WiFi 6 2x2 ax/ac/a/b/g/n Bluetooth: Bluetooth 5.1 USB (s): 2 x USB-A 3.1 Gen 1, 1x USB-C Gen 1 (power delivery, display port) HDMI: 1 x HDMI 1.4b Audio Jack Combo: 1 X 3.5mm Stereo Card Reader: 4-in-1 Card Reader Dimensions (W x D x H): 356 x 251 x 16.9mm Weight: Starting at 2kg Warranty: 3 Years Warranty (Terms & condition Apply As Per Lenovo)
+
+---
+
+
+## Lenovo IdeaPad Slim 5i Pro #82L9009YIN# 11th Gen i5-11300H 3.1 to 4.4GHz, 16GB, 512GB, MX450 2GB, Win 11 Home, 16Inch WQXGA IPS Laptop  
+**DocID:** `daraz_270387959`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ideapad-slim-5i-pro-82l9009yin-11th-gen-i5-11300h-31-to-44ghz-16gb-512gb-mx450-2gb-win-11-home-16inch-wqxga-ips-laptop-i270387959.html
+**Price:** ৳ 124,300  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IdeaPad Slim 5i Pro #82L9009YIN# 11th Gen i5-11300H 3.1 to 4.4GHz, 16GB, 512GB, MX450 2GB, Win 11 Home, 16Inch WQXGA IPS LaptopIntel Core i5-11300H 3.1 to 4.4GHz (4 Cores, 8Threads, 8MB Cache) 16GB DDR4 3200MHz RAM 512GB M.2 NVME SSD 16" WQXGA (2560x1600) IPS Display NVIDIA MX450 GDDR6 2GB Graphics Windows 11 Home 3 Years Official Branded Warranty Specification:Brand: LenovoModel: IdeaPad Slim 5i ProProduct No: 82L9009YINColor: Storm GreyProcessor: Intel Core i5-11300H 3.1 to 4.4GHz (4 Cores, 8Threads, 8MB Cache)Display: 16" WQXGA (2560x1600) IPS 350nits Anti-glare, 120Hz, 100% sRGB, Low Blue LightMemory: 16GB DDR4 3200MHz RAMStorage: 512GB M.2 2242 PCIe 3.0×4 NVMe SSDGraphics: NVIDIA MX450 GDDR6 2GB GraphicsOperating System: Windows 11 HomeBattery: 75Wh BatteryAdapter: 95W USB-C (3-pin)Keyboard: Backlit, English (EU)Audio: High Definition (HD) Audio, Realtek ALC3287 codecSpeaker: Stereo speakers, 2W x2, optimized with Dolby AtmosWebCam: IR & 720p + ToF SensorCard Reader: 4-in-1 Card ReaderWi-Fi: Wi-Fi 6 11ax, 2x2Bluetooth: Bluetooth 5.1USB (s): 1x USB 3.2 Gen 1; 1x USB 3.2 Gen 1; 1x USB-C 2.0 ( Power Delivery 3.0); 1x Thunderbolt 4 (DisplayPort 1.4)HDMI: 1x HDMI 1.4bAudio Jack Combo: 1x Headphone / microphone combo jack (3.5mm)Supported Storage: One drive, up to 512GB M.2 2242 SSD or 1TB M.2 2280 SSDDimensions (W x D x H): 356 x 251 x 16.9-18.4 mmWeight: 1.9 kgWarranty: 3 Years
+
+---
+
+
+## HP Victus Gaming 16-d0678TX 11th Gen i5-11400H 2.6 To 4.4 GHz, 16GB, 512GB SSD, RTX 3050 4GB, Windows 11 Home, 16.1" FHD Laptop  
+**DocID:** `daraz_259974271`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-victus-gaming-16-d0678tx-11th-gen-i5-11400h-26-to-44-ghz-16gb-512gb-ssd-rtx-3050-4gb-windows-11-home-161-fhd-laptop-i259974271.html
+**Price:** ৳ 125,200  
+**Rating:** 0.0/5
+
+**Description:**
+HP Victus Gaming 16-d0678TX 11th Gen i5-11400H 2.6 To 4.4 GHz, 16GB, 512GB SSD, RTX 3050 4GB, Windows 11 Home, 16.1" FHD LaptopIntel 11th Gen i5-11400H 2.6 To 4.4 GHz, 6 Cores, 12 Threads, 12MB Cache 16GB DDR4-3200 MHz RAM 512GB PCIe NVMe M.2 SSD 16.1 Inch FHD (1920x1080) Display NVIDIA GeForce RTX 3050 4GB Graphics Windows 11 Home 2 Years Official Brand Warranty Specification:Brand: HPModel: 16-d0678TXProduct number: 5B869PAColor: Performance BlueProcessor: Intel 11th Gen i5-11400H 2.6 To 4.4 GHz, 6 Cores, 12 Threads, 12MB CacheChipset : Intel Integrated SoCMemory: 16GB DDR4-3200 MHz RAMStorage: 512GB PCIe NVMe M.2 SSDGraphics: NVIDIA GeForce RTX 3050 4GBDisplay: 16.1" diagonal, FHD (1920 x 1080),144 Hz, 7 ms response time, IPS, micro-edge, anti-glare, 300 nits, Low Blue Light, 300 nits, 100% sRGBOperating System: Windows 11 HomeAudio: Audio by B&O; Dual speakers; HP Audio BoostWeb Camera: HP Wide Vision 720p HD camera with integrated dual array digital microphonesWi-fi: Realtek Wi-Fi 6 (1x2)Bluetooth: Bluetooth 5.2Battery: 3-cell, 52.5 Whr Li-ionAdapter: 200 W Smart AC power adapterUSB(s): SuperSpeed USB Type-C 10Gbps signaling rate (DisplayPort 1.4, HP Sleep and Charge); 1 SuperSpeed USB Type-A 5Gbps signaling rate (HP Sleep and Charge); 2 SuperSpeed USB Type-A 5Gbps signaling rateHDMI Port: 1 HDMI 2.1Lan Port: 1 RJ-45Audio Jack: 1 Headphone/Microphone ComboExpansion Slots: 1 multi-format SD media card readerDimensions (W x D x H): 36 x 26 x 2.35 cmWeight: 2.46 kgWarranty: …
+
+---
+
+
+## ASUS TUF Gaming F15 FX507ZC4-HN081W 12th Gen Core-i5-12500H 8GB RAM 512GB SSD RTX3050 4GB GFX Gaming Laptop  
+**DocID:** `daraz_347746768`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-gaming-f15-fx507zc4-hn081w-12th-gen-core-i5-12500h-8gb-ram-512gb-ssd-rtx3050-4gb-gfx-gaming-laptop-i347746768.html
+**Price:** ৳ 127,900  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: 12th Gen Core i5-12500H Memory: 8GB DDR4 Storage: 512GB M.2 NVMe SSD GPU: GeForce 3050 4GB GDDR6 Display: 15.6-inch Full HDProcessor:Brand: IntelModel: Intel Core i5-12500HFrequency: Up to 4.5 GHzCores: 12 (4 P-cores and 8 E-cores)Threads: 16Cache: 18MBDisplay:Size: 15.6-inchAspect Ratio: 16:9Type: IPS-levelResolution: Full HD (1920 x 1080)Touch Screen: NoFeatures: Anti-glare, Adaptive-Sync technologyAdobe %: 47.34%Brightness: 250 nitsContrast: 1000:1NTSC %: 45%SRGB %: 62.50%Refresh Rate: 144HzViewing Angle: 170°RAM:Size: 8GBType: DDR4-3200 SO-DIMMUpgradeable: Yes (2x SO-DIMM slots, supports dual-channel memory)Max Memory: 32GBStorage:Capacity: 512GBType: M.2 3.0 NVMe PCIe SSDExtra M.2 Slot: YesStorage Upgrade: Additional SSDs can be addedStorage Support: 2x M.2 slots (support either SATA or NVMe)Graphics:NVIDIA GeForce RTX 3050 (4GB GDDR6)Intel Iris Xᵉ Graphics (Shared memory)Keyboard & Input:Type: Backlit Chiclet Keyboard 1-Zone RGBTouchPad: YesWebCam: 720P HD cameraMicrophone: Built-in array microphoneAudio Features: AI noise-canceling technology, Dolby Atmos, Hi-Res certificationPorts:HDMI Port: 1x HDMI 2.0bUSB 3 Port: 2x USB 3.2 Gen 1 Type-AHeadphone & Microphone Port: 1x 3.5mm Combo Audio JackUSB Type-C / Thunderbolt Port: 1x Thunderbolt 4 support DisplayPort, 1x USB 3.2 Gen 2 Type-C support DisplayPort / G-SYNCRJ45 LAN port: 1x RJ45 LAN portConnectivity:WiFi: Wi-Fi 6 (802.11ax) (Dual band) 2*2Bluetooth: Bluetooth 5.2Security:Security Chip: Trusted Platform M …
+
+---
+
+
+## ASUS TUF Gaming F15 FX507ZC4-HN081W Core-i5 12th Gen Gaming Laptop  
+**DocID:** `daraz_349332806`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-gaming-f15-fx507zc4-hn081w-core-i5-12th-gen-gaming-laptop-i349332806.html
+**Price:** ৳ 127,990  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: 12th Gen Core i5-12500HMemory: 8GB DDR4Storage: 512GB M.2 NVMe SSDGPU: GeForce 3050 4GB GDDR6Display: 15.6-inch Full HDSpecifications:Brand: AsusProcessor:Processor Brand: IntelProcessor Model: Intel Core i5-12500HProcessor Frequency: Up to 4.5 GHzProcessor Core: 12 cores (4 P-cores and 8 E-cores)Processor Thread: 16 ThreadsCPU Cache: 18MBDisplay:Display Size: 15.6-inchAspect Ratio: 16:9Display Type: Value IPS-levelDisplay Resolution: Full HD (1920 x 1080)Touch Screen: N/ADisplay Features:Anti-glare displayAdaptive-Sync technologyAdobe %: 47.34%Brightness: 250nitsContrast: 1000:1NTSC %: 45%Refresh Rate: 144HzSRGB %: 62.50%Viewing Angle: 170Memory:RAM: 8GBRAM Type: DDR4-3200 SO-DIMMUpgradeable: YesTotal RAM Slot: 2x SO-DIMM slots (Support dual-channel memory)Max Memory: 32GBStorage:Storage Capacity: 512GBStorage Type: M.2 3.0 NVMe PCIe SSDExtra M.2 Slot: YesStorage Upgrade: Additional SSDs can be addedStorage Support: 2x M.2 slots (support either SATA or NVMe)M.2 PCIe 512GBM.2 PCIe 1TBGraphics:Graphics Model: NVIDIA GeForce RTX 3050Graphics Memory: 4GBGraphics Type: GDDR6Graphic Wattage: 1790MHz* at 95W (1740MHz Boost Clock+50MHz OC, 80W+15W Dynamic Boost)Discrete/Optimus: MUX Switch + OptimusGraphics Model: Intel Iris Xᵉ GraphicsGraphics Memory: SharedKeyboard & TouchPad:Keyboard Type: Backlit Chiclet Keyboard 1-Zone RGBTouchPad: YesNumberPad: N/AWebCam & Audio:WebCam: 720P HD cameraSpeaker: 2-speaker systemMicrophone: Built-in array microphoneAudio Features:AI noi …
+
+---
+
+
+## ASUS TUF Gaming F15 FX507ZC4-HN081W 12th Gen Intel Core-i5-12500H 8GB RAM 512GB SSD RTX3050 4GB GFX 15.6 Inch FHD Laptop  
+**DocID:** `daraz_343252490`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-gaming-f15-fx507zc4-hn081w-12th-gen-intel-core-i5-12500h-8gb-ram-512gb-ssd-rtx3050-4gb-gfx-156-inch-fhd-laptop-i343252490.html
+**Price:** ৳ 127,990  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: 12th Gen Core i5-12500HMemory: 8GB DDR4Storage: 512GB M.2 NVMe SSDGPU: GeForce 3050 4GB GDDR6Display: 15.6-inch Full HDProcessor (CPU):Brand: IntelModel: Intel Core i5-1235UFrequency: Up to 4.4 GHzCores: 10 CoresThreads: 12 ThreadsCache: 12MBDisplay:Size: 15.6-inchResolution: Full HD (1920 x 1080) 16:9 aspect ratioType: IPS-level PanelFeatures: LED Backlit, Anti-glare display, TÜV Rheinland-certifiedBrightness: 250nitsRefresh Rate: 60HzColor Gamut: 45% NTSC color gamutMemory (RAM):Size: 8GB (Onboard)Type: DDR4Total RAM Slot: 1x DDR4 SO-DIMM slotStorage:Capacity: 512GBType: NVMe PCIe 3.0 SSDGraphics:Model: Intel UHD GraphicsGraphics Memory: SharedKeyboard and Touchpad:Type: Backlit Chiclet KeyboardTouchpad: Precision touchpadNumberPad: YesWebCam:Resolution: 720p HD cameraPrivacy Shutter: YesAudio:Speaker: Built-in speakerMicrophone: Built-in microphoneFeatures: SonicMaster with Cortana voice-recognition supportPorts:HDMI Port: 1x HDMI 1.4USB 2 Port: 1x USB 2.0 Type-AUSB 3 Port: 2x USB 3.2 Gen 1 Type-AHeadphone & Microphone Port: 1x 3.5mm Combo Audio JackUSB Type-C / Thunderbolt Port: 1x USB 3.2 Gen 1 Type-CConnectivity:WiFi: Wi-Fi 6 (802.11ax) (Dual band) 2*2Bluetooth: Bluetooth 5.3 Wireless CardSecurity:Fingerprint Sensor: YesSecurity Chip: Trusted Platform Module (Firmware TPM)Security Feature: Fingerprint sensor integrated with Touchpad, McAfee, BIOS Booting User Password Protection, BIOS setup user password, Camera Privacy ShutterOperating System:Windows 11 Home …
+
+---
+
+
+## ASUS TUF Gaming F15 FX507ZC4-HN081W 12th Gen Intel Core i5-12500H 8GB RAM 512GB SSD RTX3050 4GB GFX 15.6 Inch 144Hz FHD Laptop  
+**DocID:** `daraz_343238936`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-gaming-f15-fx507zc4-hn081w-12th-gen-intel-core-i5-12500h-8gb-ram-512gb-ssd-rtx3050-4gb-gfx-156-inch-144hz-fhd-laptop-i343238936.html
+**Price:** ৳ 128,100  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: 12th Gen Core i5-12500HMemory: 8GB DDR4Storage: 512GB M.2 NVMe SSDGPU: GeForce 3050 4GB GDDR6Display: 15.6-inch Full HDProcessor (CPU):Brand: IntelModel: Intel Core i5-1235UFrequency: Up to 4.4 GHzCores: 10 CoresThreads: 12 ThreadsCache: 12MBDisplay:Size: 15.6-inchResolution: Full HD (1920 x 1080) 16:9 aspect ratioType: IPS-level PanelFeatures: LED Backlit, Anti-glare display, TÜV Rheinland-certifiedBrightness: 250nitsRefresh Rate: 60HzColor Gamut: 45% NTSC color gamutMemory (RAM):Size: 8GB (Onboard)Type: DDR4Total RAM Slot: 1x DDR4 SO-DIMM slotStorage:Capacity: 512GBType: NVMe PCIe 3.0 SSDGraphics:Model: Intel UHD GraphicsGraphics Memory: SharedKeyboard and Touchpad:Type: Backlit Chiclet KeyboardTouchpad: Precision touchpadNumberPad: YesWebCam:Resolution: 720p HD cameraPrivacy Shutter: YesAudio:Speaker: Built-in speakerMicrophone: Built-in microphoneFeatures: SonicMaster with Cortana voice-recognition supportPorts:HDMI Port: 1x HDMI 1.4USB 2 Port: 1x USB 2.0 Type-AUSB 3 Port: 2x USB 3.2 Gen 1 Type-AHeadphone & Microphone Port: 1x 3.5mm Combo Audio JackUSB Type-C / Thunderbolt Port: 1x USB 3.2 Gen 1 Type-CConnectivity:WiFi: Wi-Fi 6 (802.11ax) (Dual band) 2*2Bluetooth: Bluetooth 5.3 Wireless CardSecurity:Fingerprint Sensor: YesSecurity Chip: Trusted Platform Module (Firmware TPM)Security Feature: Fingerprint sensor integrated with Touchpad, McAfee, BIOS Booting User Password Protection, BIOS setup user password, Camera Privacy ShutterOperating System:Windows 11 Home …
+
+---
+
+
+## MSI Katana GF66 12UC 12th Gen i7-12700H 1.7 to 4.7GHz, 8GB RAM, 512GB SSD, RTX3050 4GB, Win 11, 15.6 FHD Gaming Laptop  
+**DocID:** `daraz_227607904`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** MSI  
+**URL:** https://www.daraz.com.bd/products/msi-katana-gf66-12uc-12th-gen-i7-12700h-17-to-47ghz-8gb-ram-512gb-ssd-rtx3050-4gb-win-11-156-fhd-gaming-laptop-i227607904.html
+**Price:** ৳ 153,600  
+**Rating:** 0.0/5
+
+**Description:**
+MSI Katana GF66 12UC 12th Gen i7-12700H 1.7 to 4.7GHz, 8GB RAM, 512GB SSD, RTX3050 4GB, Win 11, 15.6 FHD Gaming Laptop Intel 12th Gen i7-12700H 1.7 to 4.7Ghz (24MB Cache, 14 C/ 20 T) 8GB 3200MHz DDR5 RAM 512GB NVMe PCIe Gen4x4 SSD 15.6" FHD (1920x1080), 144Hz, IPS-Level Display NVIDIA GeForce RTX3050 GDDR6 4GB Graphics Windows 11 Home 2 Years Warranty
+
+---
+
+
+## Acer Predator Helios Neo 16 PHN16-71-553K (NH.QLTSI.001) 13th Gen i5-13500HX 3.5 to 4.7GHz, 16GB RAM, 512GB SSD, RTX4050 6GB, WIN 11, 16 Inch WQXGA Gaming Laptop  
+**DocID:** `daraz_323276907`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Acer  
+**URL:** https://www.daraz.com.bd/products/acer-predator-helios-neo-16-phn16-71-553k-nhqltsi001-13th-gen-i5-13500hx-35-to-47ghz-16gb-ram-512gb-ssd-rtx4050-6gb-win-11-16-inch-wqxga-gaming-laptop-i323276907.html
+**Price:** ৳ 165,500  
+**Rating:** 0.0/5
+
+**Description:**
+Acer Predator Helios Neo 16 PHN16-71-553K (NH.QLTSI.001) 13th Gen i5-13500HX 3.5 to 4.7GHz, 16GB RAM, 512GB SSD, RTX4050 6GB, WIN 11, 16 Inch WQXGA Gaming LaptopIntel 13th Gen i5-13500HX 3.5 to 4.7GHz, 14 Core, 20 Thread, 24MB Cache16GB DDR5 4800MHz RAM512GB PCIe NVMe Gen 4 SSD16 Inch WQXGA (2560 x 1600) IPS DisplayNVIDIA GeForce RTX4050 6GB GDDR6 GraphicsWindows 11 Home2 Years Official WarrantySpecification:Brand: AcerSeries: Predator Helios NeoModel: 16 PHN16-71-553KPart No: NH.QLTSI.001Color: Obsidian BlackProcessor: Intel 13th Gen i5-13500HX 3.5 to 4.7GHz, 14 Core, 20 Thread, 24MB CacheMemory: 16GB DDR5 4800MHz RAMStorage: 512GB PCIe NVMe Gen 4 SSDDisplay: 16 Inch WQXGA (2560 x 1600) 165Hz, IPS DisplayGraphics: NVIDIA GeForce RTX4050 6GB GDDR6 GraphicsOperating System: Windows 11 HomeKeyboard: RGB-Backlit KeyboardTouchpad: Multi-Gesture TouchpadWebCam: HD WebcamAudio: Dual Built-in Microphone, internal SpeakersLAN: Killer Ethernet E2600Wi-Fi: Intel Killer Wireless Wi-Fi 6E 1675iBluetooth: Bluetooth 5.1USB(s): 1x USB 3.2 Gen, 1x USB 3.2 Gen 2, 2x USB Type-C (Thunderbolt 4)HDMI Port: 1 x HDMIRJ45 LAN : 1 x Ethernet (RJ-45)Audio Combo Jack: 1x Headphone & Microphone ComboBattery: 90 Wh 4-Cell Li-ion BatteryAdapter: 3-pin 330 W AC AdapterMemory Slot: 2 (Up to 64GB Max. RAM Support)Dimensions: 361 x 279 x 26.5mmWeight: 2.6 KgWarranty: 2 Years
+
+---
+
+
+## Dell Gaming G7 15 7500 10th Gen i7-10750H 2.6 to 5GHz, 16GB, 512GB SSD, RTX2060 6GB, W10, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_275394189`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Dell  
+**URL:** https://www.daraz.com.bd/products/dell-gaming-g7-15-7500-10th-gen-i7-10750h-26-to-5ghz-16gb-512gb-ssd-rtx2060-6gb-w10-156-inch-fhd-laptop-i275394189.html
+**Price:** ৳ 167,800  
+**Rating:** 0.0/5
+
+**Description:**
+Dell Gaming G7 15 7500 10th Gen i7-10750H 2.6 to 5GHz, 16GB, 512GB SSD, RTX2060 6GB, W10, 15.6 Inch FHD LaptopIntel Core i7-10750H 2.6 to 5GHz, 6 Cores, 12 Threads, 12M Cache 16GB (2 x 8GB) DDR4 2933MHz RAM 512GB M.2 PCIe NVMe SSD 15.6 inch FHD (1920 x 1080) Display NVIDIA GeForce RTX 2060 6GB GDDR6 Graphics Windows 10 Home 2 Years Official Warranty Specification:Brand: DellModel: Gaming G7 15 7500Color: BlackProcessor: Intel Core i7-10750H 2.6 to 5GHz, 6 Cores, 12 Threads, 12M CacheMemory: 16GB (2 x 8GB) DDR4 2933MHz RAMStorage: 512GB M.2 PCIe NVMe SSDDisplay: 15.6 inch FHD (1920 x 1080) 144Hz 300 nits WVA Anti-Glare LED, Narrow Border Backlit DisplayGraphics: NVIDIA GeForce RTX 2060 6GB GDDR6 GraphicsOperating System: Windows 10 HomeMicrosoft Office: Microsoft Office HomeKeyboard: Backlit Keyboard with Finger Print SensorCamera: 720p at 30 fps, HD cameraAudio and Speakers: Stereo speakers, 2 x 2.5W SpeakersBattery: 6 Cell, 86WhAdapter: 240 WattWi-Fi: Wi-Fi 6 AX1650 (2x2)Bluetooth: Bluetooth 5.1USB (s): 2 x USB 3.2; 1 x Thunderbolt 3 USB 3.2 Gen 2 Type-C; 1 x USB 3.2 Gen 1 with PowerShareHDMI: 1x HDMI 2.0 Card Reader: 1 x SD Card ReaderAudio Jack Combo: 1 x headset (headphone and microphone combo)Dimensions (DxWxH): 267.7mm x 357.2mm) x 18.3 mmWeight: 2.26 kgWarranty: 2 Years (1 Year For Battery & Adapter)
+
+---
+
+
+## ASUS TUF Gaming A15 FA507RE Ryzen 7 6800H Laptop - 16GB DDR5 RAM - 512GB NVMe M.2 SSD - RTX 3050 Ti 4GB GDDR6 GPU - Mecha Gray #FA507RE-HF045W  
+**DocID:** `daraz_273373667`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-a15-fa507re-7-6800h-16gb-ddr5-ram-512gb-nvme-m2-ssd-rtx-3050-ti-4gb-gddr6-gpu-fa507re-hf045w-i273373667.html
+**Price:** ৳ 171,510  
+**Rating:** 0.0/5
+
+**Description:**
+Marketing Name: ASUS TUF Gaming A15 Processor: AMD Ryzen™ 7 6800H Mobile Processor (8-core/16-thread, 20MB cache, up to 4.7 GHz max boost) Discrete/Optimus: MUX Switch + Optimus Total System Memory: 8GB DDR5-4800 SO-DIMM *2 DIMM Memory: 8GB DDR5-4800 SO-DIMM *2 Memory Max.: 32GB System Storage Installed: 512GB PCIe® 3.0 NVMe™ M.2 SSD M.2 slots support either SATA or NVMe: 2 M.2 SSD Support List: "M.2 512GB PCIe SSD; M.2 1TB PCIe SSD" Graphic: NVIDIA® GeForce RTX™ 3050 Ti Laptop GPU Graphic Wattage: 1745MHz* at 95W (1695MHz Boost Clock+50MHz OC, 80W+15W Dynamic Boost) Graphic Memory: 4GB GDDR6 IGPU: AMD Radeon™ Navi2 Graphics Panel Size: 15.6-inch Resolution: FHD (1920 x 1080) 16:9 Refresh Rate: 300Hz Viewing Angle: 170 Panel Tech: IPS-level Brightness: 300nits Contrast: 1000:1 NTSC %: 72% SRGB %: 100% Adobe %: 75.35% Anti glare: anti-glare display Adaptive-Sync technology: Adaptive-Sync Color: Mecha Gray LAN: 10/100/1000 Mbps Wi-Fi/Bluetooth: Wi-Fi 6(802.11ax) (Dual band) 2*2 + Bluetooth 5.2 (*BT version may change with OS upgrades.) 1x RJ45 LAN port 1x USB 3.2 Gen 1 Type-C 1x USB 3.2 Gen 1 Type-C support DisplayPort™ / G-SYNC 2x USB 3.2 Gen 1 Type-A Audio: 1x 3.5mm Combo Audio Jack Webcam: 720P HD camera Mic: Built-in array microphone Keyboard Type: Backlit Chiclet Keyboard 1-Zone RGB AI noise-canceling technology Dolby Atmos Hi-Res certification Operating System: Windows 11 Home Battery: 56WHrs, 4S1P, 4-cell Li-ion Power: ø6.0, 200W AC Adapter, Output: 20V DC, 10A, 200W, In …
+
+---
+
+
+## Asus TUF Gaming F15 FA507ZC #HF127W# 12th Gen i7-12700H 3.5 to 4.6GHz, 16 GB, 512GB SSD, RTX 3050 4GB, Windows 11, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_268907986`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-f15-fa507zc-hf127w-12th-gen-i7-12700h-35-ghz-16-gb-46-gb-ssd-rtx-512-4gb-windows-11-3050-fhd-i268907986.html
+**Price:** ৳ 189,800  
+**Rating:** 0.0/5
+
+**Description:**
+Asus TUF Gaming F15 FA507ZC #HF127W# 12th Gen i7-12700H 3.5 to 4.6GHz, 16 GB, 512GB SSD, RTX 3050 4GB, Windows 11, 15.6 Inch FHD Gaming LaptopIntel Core i7-12700H 3.5 to 4.6GHz, 14 Cores, 20 Threads, 24M Cache 16GB DDR4 RAM 512GB M.2 NVMe PCIe G3 SSD 15.6" Full HD (1920x1080) WV Display NVIDIA RTX 3050 4GB Graphics Windows 11 Home 2 Years Official Brand Warranty Specification:Brand: ASUSModel: F15 FA507ZCProduct No: HF127WColor: Jaeger GrayProcessor: Intel Core i7-12700H 3.5 to 4.6GHz, 14 Cores, 20 Threads, 24M CacheDisplay: 15.6 Inch (1920x1080) FHD Anti-Glare WV DisplayMemory: 16GB DDR4 RAMStorage: 512GB M.2 NVMe PCIe G3 SSDGraphics: NVIDIA RTX 3050 4GB GDDR6Operating System: Windows 11 HomeBattery: 56WHrs, 4-cell Li-ionAdapter: 200W AC AdapterAudio: Dolby Atmos, Hi-Res certification, AI noise-canceling technology, Built-in array microphone, 2-speaker systemWebCam: 720P HD cameraWi-Fi: Wi-Fi 6 (802.11ax)Bluetooth: Bluetooth 5.2USB (s): 2 x USB 3.2 Gen 1 Type-A; 1 x Thunderbolt 4, 1 x USB 3.2 Gen 2 Type-CHDMI: 1x HDMIDisplay Port: 1LAN: YesAudio Jack: 1x 3.5mm Combo Audio JackExtra RAM Slot: YesSupported SSD Type: NVMe PCIeDimensions (W x D x H): 35.4 x 25.1 x 2.24 ~ 2.49 cmWeight: 2.20 KgWarranty: 2 Years
+
+---
+
+
+## Acer Predator Helios 16 PH16-71 13th Gen i7-13700HX 3.7 to 5GHz, 32GB, 1TB SSD, RTX4070 8GB, WIN 11, 16 Inch WQXGA Gaming Laptop (NH.QJRSI.001)  
+**DocID:** `daraz_323284330`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Acer  
+**URL:** https://www.daraz.com.bd/products/acer-predator-helios-16-ph16-71-13th-gen-i7-13700hx-37-to-5ghz-32gb-1tb-ssd-rtx4070-8gb-win-11-16-inch-wqxga-gaming-laptop-nhqjrsi001-i323284330.html
+**Price:** ৳ 199,000  
+**Rating:** 0.0/5
+
+**Description:**
+Acer Predator Helios 16 PH16-71 13th Gen i7-13700HX 3.7 to 5GHz, 32GB, 1TB SSD, RTX4070 8GB, WIN 11, 16 Inch WQXGA Gaming Laptop (NH.QJRSI.001)Intel 13th Gen i7-13700HX 3.7 to 5GHz, 16 Core, 24 Thread, 30MB Cache Processor32GB DDR5 4800MHz RAM1TB PCIe NVMe Gen 4 SSD16 Inch WQXGA (2560 x 1600) IPS DisplayNVIDIA GeForce RTX4070 8GB GDDR6 GraphicsWindows 11 Home2 Years Official WarrantySpecification:Brand: AcerSeries: Predator HeliosModel: 16 PH16-71Part No: NH.QJRSI.001Color: Abyssal BlackProcessor: Intel 13th Gen i7-13700HX 3.7 to 5GHz, 16 Core, 24 Thread, 30MB CacheMemory: 32GB DDR5 4800MHz RAMStorage: 1TB PCIe NVMe Gen 4 SSDDisplay: 16 Inch WQXGA (2560 x 1600) 240Hz, IPS DisplayGraphics: NVIDIA GeForce RTX4070 8GB GDDR6 GraphicsOperating System: Windows 11 HomeKeyboard: RGB-Backlit KeyboardTouchpad: Multi-Gesture TouchpadWebCam: 1080p HD WebcamAudio: Dual Built-in Microphone, internal SpeakersLAN: Killer Ethernet E2600Wi-Fi: Intel Killer Wireless Wi-Fi 6E 1675iBluetooth: Bluetooth 5.2USB(s): 1x USB 3.2 Gen 1, 1x USB 3.2 Gen 2, 1x USB 3.2 Gen 2, 2x Two USB Type-C (Thunderbolt 4)HDMI Port: 1 x HDMIRJ45 LAN : 1 x Ethernet (RJ-45)Multi Card Slot: MicroSD Card ReaderAudio Combo Jack: 1x Headphone & Microphone ComboBattery: 90 Wh 4-Cell Li-ion BatteryAdapter: 3-pin 330 W 5.5 PHY AC AdapterMemory Slot: 2 (Up to 64GB Max. RAM Support)Dimensions: 357 x 278 x 26.9mmWeight: 2.6 KgWarranty: 2 Years
+
+---
+
+
+## Acer Predator Helios 16 PH16-71 13th Gen i7-13700HX 3.7 to 5GHz, 32GB, 1TB SSD, RTX4060 8GB, WIN 11, 16 Inch WQXGA Gaming Laptop (QJQSI.004)  
+**DocID:** `daraz_323281877`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Acer  
+**URL:** https://www.daraz.com.bd/products/acer-predator-helios-16-ph16-71-13th-gen-i7-13700hx-37-to-5ghz-32gb-1tb-ssd-rtx4060-8gb-win-11-16-inch-wqxga-gaming-laptop-qjqsi004-i323281877.html
+**Price:** ৳ 199,999  
+**Rating:** 0.0/5
+
+**Description:**
+Acer Predator Helios 16 PH16-71 13th Gen i7-13700HX 3.7 to 5GHz, 32GB, 1TB SSD, RTX4060 8GB, WIN 11, 16 Inch WQXGA Gaming Laptop (QJQSI.004)Intel 13th Gen i7-13700HX 3.7 to 5GHz, 16 Core, 24 Thread, 30MB Cache Processor32GB DDR5 4800MHz RAM1TB PCIe NVMe Gen 4 SSD16 Inch WQXGA (2560 x 1600) IPS DisplayNVIDIA GeForce RTX4060 8GB GDDR6 GraphicsWindows 11 Home2 Years Official WarrantySpecification:Brand: AcerSeries: Predator HeliosModel: 16 PH16-71Part No: QJQSI.004Color: Abyssal BlackProcessor: Intel 13th Gen i7-13700HX 3.7 to 5GHz, 16 Core, 24 Thread, 30MB CacheMemory: 32GB DDR5 4800MHz RAMStorage: 1TB PCIe NVMe Gen 4 SSDDisplay: 16 Inch WQXGA (2560 x 1600) 240Hz, IPS DisplayGraphics: NVIDIA GeForce RTX4060 8GB GDDR6 GraphicsOperating System: Windows 11 HomeKeyboard: RGB-Backlit KeyboardTouchpad: Multi-Gesture TouchpadWebCam: 1080p HD WebcamAudio: Dual Built-in Microphone, internal SpeakersLAN: Killer Ethernet E2600Wi-Fi: Intel Killer Wireless Wi-Fi 6E 1675iBluetooth: Bluetooth 5.2USB(s): 1x USB 3.2 Gen 1, 1x USB 3.2 Gen 2, 1x USB 3.2 Gen 2, 2x Two USB Type-C (Thunderbolt 4)HDMI Port: 1 x HDMIRJ45 LAN : 1 x Ethernet (RJ-45)Multi Card Slot: MicroSD Card ReaderAudio Combo Jack: 1x Headphone & Microphone ComboBattery: 90 Wh 4-Cell Li-ion BatteryAdapter: 3-pin 330 W 5.5 PHY AC AdapterMemory Slot: 2 (Up to 64GB Max. RAM Support)Dimensions: 357 x 278 x 26.9mmWeight: 2.6 KgWarranty: 2 Years
+
+---
+
+
+## HP 15s-eq2690AU AMD Ryzen 5 5500U 15.6 Inch FHD AntiGlare Display Silver Laptop 577Z4PA-2Y  
+**DocID:** `daraz_234731929`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-15s-eq2690au-amd-5-5500u-156-fhd-577z4pa-2y-i234731929.html
+**Price:** ৳ 68,000  
+**Rating:** 3.0/5
+
+**Description:**
+Brand HP Model HP 15s-eq2690AU Part No 577Z4PA Processor Brand AMD Processor Type AMD Ryzen 5 Processor Model Ryzen 5 5500U Processor Base Frequency 2.10 GHz Processor Max Turbo Frequency 4.00 GHz Processor Core 6 Processor Thread 12 CPU Cache 11MB Chipset. AMD Integrated SoC RAM 8GB Installed RAM Details 2 x 4GB RAM Type DDR4 RAM Bus (MHz) 3200MHz Total RAM Slot 2 Storage 512GB SSD Installed SSD Type NVMe PCIe Graphics Chipset AMD Radeon Graphics Graphics Memory Accessibility Dedicated Graphics Memory Shared Display Size (Inch) 15.6 Display Type FHD LED Display Resolution 1920x1080 (WxH) FHD Display Surface AntiGlare Display Bazel Narrow Border Ultra Slim Display Features Brightness: 250 nits, micro-edge, 45% NTSC Optical Drive No Multimedia Card Slot 1 Supported Multimedia Card multi-format SD media card reader USB 3 Port 2 x USB Type-A USB C / Thunderbolt Port 1 x USB Type-C HDMI Port 1 Headphone Port Combo Microphone Port Combo Battery 3 Cell Battery Capacity 41 Wh Battery Type Li-ion Power Adapter 45 W Smart AC power adapter HP 15s-eq2690AU Ryzen 5 5500U 15.6" FHD LaptopThe HP 15s-eq2690AU comes with AMD Ryzen 5 5500U Processor (8M Cache, 2.1GHz up to 4.0GHz, 6 cores) with AMD Radeon Graphics. This Hp 15s series laptop comes with a micro-edge display, the barely visible bezel revolutionizes your display by letting a larger screen fit into a smaller frame, that is featured with a 15.6" FHD (1920 x 1080), IPS, micro-edge, anti-glare, 250 nits, 45% NTSC Display. This laptop …
+
+---
+
+
+## MSI Modern 14 B11MOU Intel Core i3 1115G4 14 Inch FHD IPS Display Carbon Gray Laptop  
+**DocID:** `daraz_290181634`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/msi-modern-14-b11mou-intel-core-i3-1115g4-14-inch-fhd-ips-display-carbon-gray-laptop-i290181634.html
+**Price:** ৳ 85,000  
+**Rating:** 0.0/5
+
+**Description:**
+Model: Modern 14 B11MO Intel Core i3-1115G4 Processor (6M Cache, 3.00 GHz up to 4.10 GHz) 8GB DDR4 3200MHz RAM 512GB NVMe PCIe Gen3x4 SSD 14" FHD (1920 x 1080) Display 14" Thin Bezel 60Hz IPS-Level Full HD 45% NTSC Display Intel 11th Gen Tiger Lake Core i3-1115G4 Intel Graphics 8GB DDR4 3200MHz 512GB SSD White Backlight Keyboard
+
+---
+
+
+## Asus TUF Gaming FX506LU 10th Generation i5-10300H 2.5 to 4.5GHz, 8GB RAM, 512GB PCIe G3 SSD, NVIDIA GeForce GTX 1660Ti 6GB Graphics, 15.6 Inch FHD IPS Laptop  
+**DocID:** `daraz_199096729`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-gaming-fx506lu-10th-generation-i5-10300h-25-to-45ghz-8gb-ram-512gb-pcie-g3-ssd-nvidia-geforce-gtx-1660ti-6gb-graphics-156-inch-fhd-ips-laptop-i199096729.html
+**Price:** ৳ 105,700  
+**Rating:** 0.0/5
+
+**Description:**
+Asus TUF Gaming FX506LU 10th Generation i5-10300H 2.5 to 4.5GHz, 8GB RAM, 512GB PCIe G3 SSD, NVIDIA GeForce GTX 1660Ti 6GB Graphics, 15.6 Inch FHD IPS Laptop Intel Core i5-10300H Processor (8M Cache, 2.5 to 4.5GHz) 8GB DDR4 RAM 512G PCIE G3 SSD GeForce GTX 1650Ti 6GB Graphics 15.6" Full HD (1920x1080) 144hz Display Specification:Processor:Intel Core i5-10300H Processor (8M Cache, 2.5 to 4.5GHz)Memory:8GB DDR4 (Extra Ram Slot Available)Storage:512GB PCIe G3 SSDGraphics:NVIDIA GeForce GTX 1660Ti, 6GB GDDR6Display:15.6" Full HD (1920x1080) 144HZ IPS DisplayAdapter:150W Power SupplyBattery:3-Cell 48WHr Battery, A safe fast-charging and longer-lasting battery.Operating System:Windows 10, 64 -bitNetworking LAN:Ethernet LAN (RJ-45) Wi-Fi: Wi-Fi 6 AX201 WifiKeyboard:RGB ILLUMINATED KeyboardBluetooth:5.1Audio:Built-in 2 W Stereo Speakers with Array Microphone DTS Headphone: X Supports Windows 10 Cortana with VoiceWebCam:720P HDPorts & Connectors:2 x USB 3.2 Gen1 USB 2.0 USB 3.2 Type-C Gen2 HDMI COMBO audio jackDimensions (W x D x H):14.00 x 10.00 x 1.00 inchesWeight:2.27KgWarranty:02 Year International Limited Warranty (Terms & condition Apply As Per Asus)
+
+---
+
+
+## Acer Predator Helios Neo 16 PHN16-71-747H (NH.QLTSI.002) 13th Gen i7-13700HX 3.7 to 5GHz, 16GB RAM, 512GB SSD, RTX4050 6GB, WIN 11, 16 Inch WQXGA Gaming Laptop  
+**DocID:** `daraz_323284189`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Acer  
+**URL:** https://www.daraz.com.bd/products/acer-predator-helios-neo-16-phn16-71-747h-nhqltsi002-13th-gen-i7-13700hx-37-to-5ghz-16gb-ram-512gb-ssd-rtx4050-6gb-win-11-16-inch-wqxga-gaming-laptop-i323284189.html
+**Price:** ৳ 187,000  
+**Rating:** 0.0/5
+
+**Description:**
+Acer Predator Helios Neo 16 PHN16-71-747H (NH.QLTSI.002) 13th Gen i7-13700HX 3.7 to 5GHz, 16GB RAM, 512GB SSD, RTX4050 6GB, WIN 11, 16 Inch WQXGA Gaming LaptopIntel 13th Gen i7-13700HX 3.7 to 5GHz, 16 Core, 24 Thread, 30MB Cache Processor16GB DDR5 4800MHz RAM512GB PCIe NVMe Gen 4 SSD16 Inch WQXGA (2560 x 1600) IPS DisplayNVIDIA GeForce RTX4050 6GB GDDR6 GraphicsWindows 11 Home2 Years Official WarrantySpecification:Brand: AcerSeries: Predator Helios NeoModel: 16 PHN16-71-747HPart No: NH.QLTSI.002Color: Obsidian BlackProcessor: Intel 13th Gen i7-13700HX 3.7 to 5GHz, 16 Core, 24 Thread, 30MB CacheMemory: 16GB DDR5 4800MHz RAMStorage: 512GB PCIe NVMe Gen 4 SSDDisplay: 16 Inch WQXGA (2560 x 1600) 165Hz, IPS DisplayGraphics: NVIDIA GeForce RTX4050 6GB GDDR6 GraphicsOperating System: Windows 11 HomeKeyboard: RGB-Backlit KeyboardTouchpad: Multi-Gesture TouchpadWebCam: HD WebcamAudio: Dual Built-in Microphone, internal SpeakersLAN: Killer Ethernet E2600Wi-Fi: Intel Killer Wireless Wi-Fi 6E 1675iBluetooth: Bluetooth 5.1USB(s): 1x USB 3.2 Gen, 1x USB 3.2 Gen 2, 2x USB Type-C (Thunderbolt 4)HDMI Port: 1 x HDMIRJ45 LAN : 1 x Ethernet (RJ-45)Multi Card Slot: MicroSD Card ReaderAudio Combo Jack: 1x Headphone & Microphone ComboBattery: 90 Wh 4-Cell Li-ion BatteryAdapter: 3-pin 330 W 5.5 PHY AC AdapterMemory Slot: 2 (Up to 64GB Max. RAM Support)Dimensions: 361 x 279 x 26.5mmWeight: 2.6 KgWarranty: 2 Years
+
+---
+
+
+## ASUS TUF Gaming A17 FA706ICB-HX076W AMD Ryzen 5-4600H 8GB RAM 512GB SSD RTX3050 4GB GFX 17.3 Inch FHD Laptop  
+**DocID:** `daraz_342562228`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-gaming-a17-fa706icb-hx076w-amd-ryzen-5-4600h-8gb-ram-512gb-ssd-rtx3050-4gb-gfx-173-inch-fhd-laptop-i342562228.html
+**Price:** ৳ 115,300  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: AMD Ryzen 5 4600H Mobile ProcessorMemory: DDR4 8GBStorage : 512GB PCIe 3.0 NVMe M.2 SSDGPU: NVIDIA GeForce RTX 3050 Laptop GPUDisplay: 17.3-inch FHD (1920 x 1080) 16:9Model: ASUS TUF Gaming A17Color: Graphite BlackDimensions: 39.9 x 26.8 x 2.33 ~ 2.48 cmWeight: 2.60 KgProcessor:AMD Ryzen™ 5 4600H Mobile ProcessorCores/Threads: 6-core/12-threadCache: 11MBMax Boost Frequency: 4.0 GHzGraphics:NVIDIA® GeForce RTX™ 3050 Laptop GPUGraphic Memory: 4GB GDDR6AMD Radeon™ GraphicsDisplay:Size: 17.3-inchResolution: FHD (1920 x 1080) 16:9Refresh Rate: 144HzPanel Type: Value IPS-levelBrightness: 250nitsContrast: 1:800NTSC: 45%SRGB: 62.5%Adobe: 47.34%Anti-glare: YesAdaptive-Sync technology: YesMemory:DIMM Memory: 8GB DDR4-3200 SO-DIMMTotal System Memory: DDR4 8GBMemory Slots: 2x SO-DIMM slotsMax Memory: 32GBMulti-channel memory technology: UpgradableStorage:System Storage: 512GB PCIe® 3.0 NVMe™ M.2 SSDM.2 slots: 2 (support either SATA or NVMe)M.2 SSD Support List: M.2 512GB PCIe SSD, M.2 1TB PCIe SSDExpansion Slot: 2x DDR4 SO-DIMM slotsNetworking:LAN: 10/100/1000 MbpsWi-Fi/Bluetooth: Wi-Fi 6 (802.11ax) (Dual band) 2*2 + Bluetooth® 5.1I/O Ports:1x RJ45 LAN port3x USB 3.2 Gen 1 Type-A1x USB 3.2 Gen 1 Type-C (supports DisplayPort™)1x HDMI 2.1 TMDS1x 3.5mm Combo Audio JackAudio:2-speaker systemAudio Tech: AI noise-canceling technology, DTS softwareInput Devices:Backlit Chiclet Keyboard 1-Zone RGBNumberPad: N/AWebcam:720P HD cameraBuilt-in array microphoneOperating System: Windows 11 …
+
+---
+
+
+## Asus TUF Gaming F15 FX506HC #HN387W# 11th Gen i7-11800H 2.3 to 4.6GHz, 16GB DDR5, 512GB SSD, RTX 3050 4GB, Windows 11, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_268890016`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-tuf-gaming-f15-fx506hc-hn387w-11th-gen-i7-11800h-23-to-46ghz-16gb-ddr5-512gb-ssd-rtx-3050-4gb-windows-11-156-inch-fhd-gaming-laptop-i268890016.html
+**Price:** ৳ 157,600  
+**Rating:** 0.0/5
+
+**Description:**
+Asus TUF Gaming F15 FX506HC #HN387W# 11th Gen i7-11800H 2.3 to 4.6GHz, 16GB DDR5, 512GB SSD, RTX 3050 4GB, Windows 11, 15.6 Inch FHD Gaming Laptop Intel Core i7-11800H 2.3 to 4.6GHz (8 Cores, 16 Threads, 24M Cache) 16GB DDR5 RAM 512GB NVMe PCIe SSD NVIDIA GeForce RTX 3050 4GB GDDR6 15.6-inch (1920 x 1080) FHD Display Windows 11 Home 2 Years Brand Official Warranty Specification:Brand: AsusModel: FX506HCProduct No: HN292WColor: Graphite BlackProcessor: Intel Core i7-11800H 2.3 to 4.6GHz Processor (8 Cores, 16 Threads, 24M Cache)Memory: 16GB DDR5 RAMStorage: 512GB NVMe PCIe SSDDisplay: 15.6-inch,FHD (1920 x 1080) 16:9,anti-glare display, sRGB:62.5%, Adobe:47.34%, DCI-P3:Refresh Rate:144Hz, Value IPS-levelGraphics: NVIDIA GeForce RTX 3050 4GB GDDR6 GraphicsOperating System: Windows 11 HomeBattery: 48WHrs, 3S1P, 3-cell Li-ion BatteryKeyboard: Backlit Chiclet Keyboard RGBWebCam: 720P HD cameraAudio: Built-in speaker, Built-in array microphoneWi-Fi: Wi-Fi 6(802.11ax)Bluetooth: Bluetooth 5.2 USB (s): 1 x USB 2.0 Type-A; 2 x USB 3.2 Gen 1 Type-A; 1 x USB 3.2 Gen 1 Type-C, 1 x USB 3.2 Gen 2 Type-CHDMI: 1 x HDMIAudio Jack Combo: Headphone/Microphone Combo Jack. Extra RAM Slot: Yes (Supported up to 32GB)Supported SSD Type: PCIE G3 Dimensions (W x D x H): 359 x 256 x 24.9mm Weight: 2.30KgWarranty: 2 Years
+
+---
+
+
+## Acer Predator Helios 16 PH16-71 (QJQSI.004) 13th Gen i7-13700HX 3.7 to 5GHz, 32GB, 1TB SSD, RTX4060 8GB, WIN 11, 16 Inch WQXGA Gaming Laptop  
+**DocID:** `daraz_323284278`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** TNS  
+**URL:** https://www.daraz.com.bd/products/acer-predator-helios-16-ph16-71-qjqsi004-13th-gen-i7-13700hx-37-to-5ghz-32gb-1tb-ssd-rtx4060-8gb-win-11-16-inch-wqxga-gaming-laptop-i323284278.html
+**Price:** ৳ 190,000  
+**Rating:** 0.0/5
+
+**Description:**
+Acer Predator Helios 16 PH16-71 (QJQSI.004) 13th Gen i7-13700HX 3.7 to 5GHz, 32GB, 1TB SSD, RTX4060 8GB, WIN 11, 16 Inch WQXGA Gaming LaptopIntel 13th Gen i7-13700HX 3.7 to 5GHz, 16 Core, 24 Thread, 30MB Cache Processor32GB DDR5 4800MHz RAM1TB PCIe NVMe Gen 4 SSD16 Inch WQXGA (2560 x 1600) IPS DisplayNVIDIA GeForce RTX4060 8GB GDDR6 GraphicsWindows 11 Home2 Years Official WarrantySpecification:Brand: AcerSeries: Predator HeliosModel: 16 PH16-71Part No: QJQSI.004Color: Abyssal BlackProcessor: Intel 13th Gen i7-13700HX 3.7 to 5GHz, 16 Core, 24 Thread, 30MB CacheMemory: 32GB DDR5 4800MHz RAMStorage: 1TB PCIe NVMe Gen 4 SSDDisplay: 16 Inch WQXGA (2560 x 1600) 240Hz, IPS DisplayGraphics: NVIDIA GeForce RTX4060 8GB GDDR6 GraphicsOperating System: Windows 11 HomeKeyboard: RGB-Backlit KeyboardTouchpad: Multi-Gesture TouchpadWebCam: 1080p HD WebcamAudio: Dual Built-in Microphone, internal SpeakersLAN: Killer Ethernet E2600Wi-Fi: Intel Killer Wireless Wi-Fi 6E 1675iBluetooth: Bluetooth 5.2USB(s): 1x USB 3.2 Gen 1, 1x USB 3.2 Gen 2, 1x USB 3.2 Gen 2, 2x Two USB Type-C (Thunderbolt 4)HDMI Port: 1 x HDMIRJ45 LAN : 1 x Ethernet (RJ-45)Multi Card Slot: MicroSD Card ReaderAudio Combo Jack: 1x Headphone & Microphone ComboBattery: 90 Wh 4-Cell Li-ion BatteryAdapter: 3-pin 330 W 5.5 PHY AC AdapterMemory Slot: 2 (Up to 64GB Max. RAM Support)Dimensions: 357 x 278 x 26.9mmWeight: 2.6 KgWarranty: 2 Years
+
+---
+
+
+## Acer Predator Helios 16 PH16-71 (NH.QJJSI.001) 13th Gen i9-13900HX 3.9 to 5.4GHz, 32GB RAM, 1TB SSD, RTX4080 12GB, WIN 11, 16 Inch WQXGA Gaming Laptop  
+**DocID:** `daraz_323285220`
+**Source:** Daraz  
+**Category:** gaming laptops  
+**Brand:** Acer  
+**URL:** https://www.daraz.com.bd/products/acer-predator-helios-16-ph16-71-nhqjjsi001-13th-gen-i9-13900hx-39-to-54ghz-32gb-ram-1tb-ssd-rtx4080-12gb-win-11-16-inch-wqxga-gaming-laptop-i323285220.html
+**Price:** ৳ 190,000  
+**Rating:** 0.0/5
+
+**Description:**
+Acer Predator Helios 16 PH16-71 (NH.QJJSI.001) 13th Gen i9-13900HX 3.9 to 5.4GHz, 32GB RAM, 1TB SSD, RTX4080 12GB, WIN 11, 16 Inch WQXGA Gaming LaptopIntel 13th Gen i9-13900HX 3.9 to 5.4GHz, 24 Core, 32 Thread, 36MB Cache Processor32GB DDR5 4800MHz RAM1TB PCIe NVMe Gen 4 SSD16 Inch WQXGA (2560 x 1600) IPS DisplayNVIDIA GeForce RTX4080 12GB GDDR6 GraphicsWindows 11 Home2 Years Official WarrantySpecification:Brand: AcerSeries: Predator HeliosModel: 16 PH16-71Part No: NH.QJJSI.001Color: Abyssal BlackProcessor: Intel 13th Gen i9-13900HX 3.9 to 5.4GHz, 24 Core, 32 Thread, 36MB CacheMemory: 32GB DDR5 4800MHz RAMStorage: 1TB PCIe NVMe Gen 4 SSDDisplay: 16 Inch WQXGA (2560 x 1600) 240Hz, IPS DisplayGraphics: NVIDIA GeForce RTX4080 12GB GDDR6 GraphicsOperating System: Windows 11 HomeKeyboard: RGB-Backlit KeyboardTouchpad: Multi-Gesture TouchpadWebCam: 1080p HD WebcamAudio: Dual Built-in Microphone, internal SpeakersLAN: Killer Ethernet E2600Wi-Fi: Intel Killer Wireless Wi-Fi 6E 1675iBluetooth: Bluetooth 5.2USB(s): 1x USB 3.2 Gen 1, 1x USB 3.2 Gen 2, 1x USB 3.2 Gen 2, 2x Two USB Type-C (Thunderbolt 4)HDMI Port: 1 x HDMIRJ45 LAN : 1 x Ethernet (RJ-45)Multi Card Slot: MicroSD Card ReaderAudio Combo Jack: 1x Headphone & Microphone ComboBattery: 90 Wh 4-Cell Li-ion BatteryAdapter: 3-pin 330 W 5.5 PHY AC AdapterMemory Slot: 2 (Up to 64GB Max. RAM Support)Dimensions: 361 x 279 x 26.5 mmWeight: 3 KgWarranty: 2 Years
+
+---
+
+
 ## Hp G6 Laptop Core i5 gen 8 ram 8gb SSd 256 gb fullfresh body Look like new conditions (Used)  
 **DocID:** `daraz_324190342`
 **Source:** Daraz  
@@ -4636,6 +5234,588 @@ AMD Ryzen-3 5300U, 2.6 to 3.8GHz, 4 Cores, 8 Threads, 4MB Cache Processor 8GB DD
 
 **Description:**
 Lenovo IP Slim 3i (82H802MXIN) 11th Gen Core i3-1115G4 3 to 4.1GHz, 8GB, 512GB SSD, Win 11 Home, 15.6 Inch FHD LaptopIntel 11th Gen Core i3-1115G4 3 to 4.1GHz, 2 Cores, 4 Threads, 6MB Cache8GB 3200MHz DDR4 RAM512GB M.2 NVME SSD15.6 Inch (1920 x 1080) FHD DisplayIntel UHD GraphicsWindows 11 Home2 Years Official Brand WarrantySpecification:Brand: LenovoModel: IP Slim 3iProduct No: 82H8034UINColor: Abyss BlueProcessor: Intel 11th Gen Core i3-1115G4 3 to 4.1GHz, 2 Cores, 4 Threads, 6MB CacheMemory: 8GB 3200MHz DDR4 RAMStorage: 1TB 5400rpm HDDGraphics: Intel UHD GraphicsDisplay: 15.6" FHD (1920x1080) TN 250nits Anti-glareOperating System: Windows 11 HomeKeyboard: Standard Backlit keyboardSpeaker: Realtek ALC3287 Codec; Stereo Speakers, 1.5W x2, Dolby AudioMicrophone: 2x, ArrayWebCam: HD 720p with Privacy ShutterWiFi: Wi-Fi 5 11ac 2x2Bluetooth: Bluetooth 5.0USB(s): 1x USB 2.0; 1x USB 3.2 Gen 1; 1x USB-C 3.2 Gen 1HDMI Port: 1 x HDMI 1.4bCard Reader: 4-in-1 Card ReaderAudio Jack: 1x Headphone/Microphone ComboBattery: 38 Wh Li-ionAdapter: 65W adapterDimensions (W x D x H): 359.2 x 236.5 x 19.9 mmWeight: 1.65 kg Warranty: 2 Years (1 Year for Battery & Adapter)
+
+---
+
+
+## Qbits Sigma X2 Laptop Intel® Core™ i5-1240P (1.70 GHz to 4.40 GHz 12 MB Cache) with 8 GB RAM and 1TB M.2 WD NVMe SSD  
+**DocID:** `daraz_333006166`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Qbits  
+**URL:** https://www.daraz.com.bd/products/qbits-sigma-x2-intel-core-8-gb-ram-1tb-m2-nvme-ssd-i5-1240p-ghz-170-ghz-12-mb-440-i333006166.html
+**Price:** ৳ 67,999  
+**Rating:** 0.0/5
+
+**Description:**
+Audio: Realtek High Definition Audio 3.5mm Headphone / Mic Jack Operating System: Windows 11 Pro (Trial) Qbits Sigma X2 Laptop with Intel Core i5 12th Gen Processor8GB RAM and 1TB M.2 NVMe SSD PCIe 4.0Display: 15.6 Inches FHD IPS Display165 Hz Refresh RateGraphics: Intel® Iris® Xe GraphicsCamera: 720p WebcamPorts & Connectors: 2 X M.2, 2 X SODIMM, 1 x HDMI, 1 x LAN, 2 x USB 3.1 & 1 x USB 2.0, 1 x Type-C Port, 1 x 3.5mm Headphone/Mic Jack Qbits Sigma X2 Laptop Intel® Core™ i5-1240P Processor with 8 GB RAM, 1.70 GHz to 4.40 GHz, 12MB Intel® Smart Cache, 12 Cores, 16 Threads, Integrated Intel® Iris Xe GraphicsMORE SPEED AND POWER EFFICIENCY The Sigma X2 comes equipped with a powerful 12th-generation processor making it more capable. it brings more power to go and allows you to rip through workflows. The Intel® Xe Graphics makes screen time a whole new experience while delivering transformational GPU and greater speed for designers and creators. Let's enjoy next-gen power efficiency and visual amazement.FULL HD IPS DISPLAY With the breathtaking 15.6" Full HD IPS Display with 1920 x 1080 pixels the new laptop delivers exceptional color accuracy. It produces a high contrast ratio to ensure text is sharp, and images and videos are more brilliant. Whether you are watching movies, videos, or music, this gorgeous nearly bezel-free NanoEdge display brings color to life and enables you to experience exceptions.FASTER MEMORY AND STORAGE Experience the potential of Western Digital NVMe SSD …
+
+---
+
+
+## Walton Laptop Tamarind MX711G Core i7 Intel 11th Generation Processor 8GB DDR4 3200MHz RAM 512GB M.2 2280 SSD Display Full HD with 100% sRGB  
+**DocID:** `daraz_298887469`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/walton-laptop-tamarind-mx711g-core-i7-intel-11th-generation-processor-8gb-ddr4-3200mhz-ram-512gb-m2-2280-ssd-display-full-hd-with-100-srgb-i298887469.html
+**Price:** ৳ 75,050  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: Intel® Core™ i7-1165G7 Processor Ghz: 1.2GHz - 2.8GHz, up to 4.7GHz Cache Memory: 12MB Intel® Smart Cache RAM: 8GB DDR4 3200MHz RAM Storage: 512GB M.2 2280 SSD, PCIe Gen3x4 interface Communication: Wi-Fi 6.0 (802.11ax(2x2)) + BT 5.2 Color: Sky Blue
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15AMN8 (82XQ00GRLK) AMD Ryzen 5 7520U 2.80 to 4.30GHz, 16GB, 512GB SSD, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_535731593`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ideapad-slim-3-15amn8-82xq00grlk-amd-ryzen-5-7520u-280-to-430ghz-16gb-512gb-ssd-win-11-156-inch-fhd-laptop-i535731593.html
+**Rating:** 0.0/5
+
+**Description:**
+AMD Ryzen 5 7520U 2.80 to 4.30GHz, 4 Cores, 8 Threads, 6MB Cache 16GB DDR5 RAM 512GB NVMe PCIe SSD AMD Radeon 610M Graphics 15.6 Inch (1920×1080) FHD Display 2 Years Official Brand Warranty Brand: LenovoModel: IdeaPad Slim 3 15AMN8Laptop Series: IdeaPadPart No: 82XQ00GRLKProcessor Brand: AMDProcessor Type: Ryzen 5Processor Model: Ryzen 5 7520UProcessor Base Frequency: 2.80GHzProcessor Max Turbo Frequency: 4.30GHzProcessor Core: 4Processor Thread: 8CPU Cache: 6MBChipset: AMD SoC PlatformRAM: 16GBRAM Type: DDR5RAM Bus: 5500 MHzMax. RAM Support: 16GBStorage: 512GB SSDInstalled SSD Type: NVMe PCIeStorage Upgrade: Installed SSD can be upgradeableGraphics Chipset: AMD Radeon 610M GraphicsGraphics Memory: IntegratedGraphics Memory: SharedDisplay Size: 15.6 InchDisplay Type: FHD LED DisplayPanel Type: IPSDisplay Resolution: 1920x1080Coating Technology: Anti-GlareDisplay Bezel: Slim BezelBrightness: 300nitsMultimedia Card Slot: 1Supported Multimedia Card: SD Card ReaderUSB 3 Port: 2 x USB 3.2 Gen 1 Type-AUSB C Port: 1 x USB 3.2 Gen 1 Type-CHDMI Port: 1Headphone Port: ComboMicrophone Port: ComboWiFi: Wi-Fi 6Bluetooth: Bluetooth 5.2Audio Properties: High Definition (HD) AudioSpeaker: YesMicrophone: YesWebCam: HD WebCamKeyboard Layout: Backlit, English KeyboardKeyboard Back-lit: YesNum Key pad: YesPointing Device: TouchPadTPM: YesSecurity Chip: Firmware TPM 2.0Operating System: Win 11 HomeBody Material: PC-ABSBattery Capacity: 47WhPower Adapter: 65WColor: Arctic GreyDimensions: 359.3 x 2 …
+
+---
+
+
+## Toshiba DynaBook Pro C40-G-11I 10th Gen i3-10110U 2.1 to 4.1GHz, 8GB, 256GB SSD, 14" HD Laptop  
+**DocID:** `daraz_313718292`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Toshiba  
+**URL:** https://www.daraz.com.bd/products/toshiba-dynabook-pro-c40-g-11i-10th-gen-i3-10110u-21-to-41ghz-8gb-256gb-ssd-14-hd-laptop-i313718292.html
+**Price:** ৳ 48,000  
+**Rating:** 0.0/5
+
+**Description:**
+Toshiba DynaBook Satellite Pro C40-G-11I 10th Gen i3-10110U 2.1 to 4.1GHz, 8GB, 25Intel 10th Gen Core i3-10110U 2.1 to 4.1GHz 2 Cores, 4 Threads, 4M Cache8GB DDR4 3200MHz SO-DIMM RAM 256GB M.2 SATA SSD 14-inch HD (1366 x 768) Display Integrated Intel UHD Graphics 2 Years Brand Warranty Brand: ToshibaModel: Satellite Pro C40-G-11ISeries: DynabookPart Number: A1PYS27EColor: Dark BlueProcessor: Intel 10th Gen Core i3-10110U 2.1 to 4.1 GHz (2 Cores, 4 Threads, 4M Cache)Memory: 8GB DDR4 3200MHz SO-DIMMStorage: 256GB M.2 SATA Solid State DriveDisplay: 14-inch HD (1366 x 768) 16:9 LED Backlit, 220nits, Non-reflective Anti-glare displayGraphics: Integrated Intel UHD GraphicsCamera: 720p HD-camera with Dual MicAudio: "Built-in speaker; Built-in array microphone"; Voice control: With Cortana supportBattery: 45.6WHrs 2-cell Li-ion BatteryAC Adapter: 45W AC AdapterKeyboard: Standard Frameless black tile keyboard (UK)Pointing Device: ClickPadBluetooth: Bluetooth 5.0Wi-Fi: Wi-Fi 5USB(s): 1 × USB 3.1 Type-C Gen (supports Data transfer, Power Delivery and Display Port); 2 × USB 3.1HDMI: 1 × HDMI-out (including 4K support)LAN: 1 × RJ-45Card Reader: 1 × micro SD™ card slot"Dual Audio Jack: 1 × external Headphone (stereo) / Microphone combo socketExpansion Slot: 2x DDR4 SO-DIMM slot; 1x M.2 2280 PCIe 3.0x2Dimension (W x L x H): 328 x 224.8 x 18.9 mmWeight: 1.55 kgWarranty: 2 Years
+
+---
+
+
+## ASUS Vivobook Go 15 E1504FA-BQ371W AMD Ryzen 3 7320U 8GB RAM 512GB SSD 15.6" FHD Laptop  
+**DocID:** `daraz_537132160`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-go-15-e1504fa-bq371w-amd-3-7320u-8gb-ram-512gb-ssd-156-fhd-i537132160.html
+**Price:** ৳ 58,090  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: AMD Ryzen 3 7320U (Up to 4.1 GHz, 4 Cores) RAM: 8GB LPDDR5 Storage: 512GB PCIe Gen3 SSD Display: 15.6-inch FHD (1920 x 1080), Anti-glare Graphics: Integrated AMD Radeon Graphics Operating System: Windows 11 Home Battery: 42WHrs, 3-cell Li-ion Ports: USB 3.2 Gen 1 Type-C, USB 3.2 Gen 1 Type-A, USB 2.0, HDMI 1.4, 3.5mm Combo Audio Jack, DC-in Weight: 1.63 kg Color: Mixed Black The ASUS Vivobook Go 15 E1504FA-BQ371W is designed for students and professionals seeking a reliable, stylish, and portable laptop. Powered by the efficient AMD Ryzen 3 7320U processor and 8GB LPDDR5 RAM, this laptop delivers smooth multitasking and productivity performance for daily tasks and light multimedia use. Its fast 512GB PCIe Gen3 SSD ensures quick boot times and ample storage for your files and applications. The 15.6-inch Full HD anti-glare display provides vibrant visuals, making it perfect for both work and entertainment. Integrated AMD Radeon Graphics handle casual graphics needs effortlessly. With a slim 1.63 kg chassis and a sleek Mixed Black finish, the Vivobook Go 15 is highly portable and stylish. A wide array of I/O ports including USB Type-C, HDMI, and a 3.5mm combo audio jack ensure versatile connectivity for all your devices. Preloaded with Windows 11 Home and backed by ASUS's build quality, this laptop is an ideal choice for those who value performance and mobility.
+
+---
+
+
+## Walton Prelude N41 Pro Celeron Intel Gemini Lake Quad-Core 1.10 GHz up to 2.60 GHz, 8GB DDR4, 256GB SSD, 14.1 Inch FHD Laptop  
+**DocID:** `daraz_539135959`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/walton-prelude-n41-pro-celeron-intel-gemini-lake-quad-core-110-ghz-up-to-260-ghz-8gb-ddr4-256gb-ssd-141-inch-fhd-laptop-i539135959.html
+**Price:** ৳ 26,800  
+**Rating:** 0.0/5
+
+**Description:**
+Intel Gemini Lake Quad-Core, 1.10 GHz up to 2.60 GHz, 4MB Cache Processor 8GB DDR4 RAM 256GB M.2 2280 SSD 14.1 Inch (1920 x 1080) FHD Display Intel UHD Graphics 600 Windows 10 Operating System 1 Year Official Brand Warranty Brand: WaltonSeries: Pro CeleronModel: Prelude N41Product Type: TraditionalForm Factor: ClamshellBody Color: Silver, Dark BlueBody Material: AluminumProcessor: IntelProcessor Type: Intel Celeron Gemini Lake Quad-CoreProcessor Frequency: 1.10 GHz up to 2.60 GHzCore: 4Thread: 4CPU Cache: 4MBRAM Capacity: 8GBRAM Type: DDR4RAM Speed: 2666MHzRAM Slot: 1Max. RAM Support: 8GBStorage: 256GB SSDStorage Type: SSDSSD Interface: M.2 2280 SSD, SATA interfaceCompatible Memory Cards: Micro SDDisplay Size: 14.1 InchDisplay Resolution: 1920 x 1080 pixelsDisplay Type: FHDPanel Type: IPSDisplay Refresh Rate: 60HzLED Backlight: YesRGB Color Space: 99% sRGBGraphics Card: Intel UHD Graphics 600Graphics Memory Size: SharedOperating System: Windows 10Security Chip: Firmware TPM 2.Cable Lock Slot: Kensington Lock SlotCamera Resolution: 1.0M HDvideo camera Rear Camera Resolution: 720Keyboard Layout: Multi-languages isolated keyboardPointing Device: TouchPad: Built-in Click pad with Microsoft PTP multi-gesture and scrolling functionAudio System: High Definition Audio, Built in array microphoneBuilt-in Speakers: YesNo of Built-in Speakers: 2Speaker Power: 2x2WBuilt-in Microphone: YesWiFi: Intel Dual Band Wireless-AC 9462 1x1 ACBluetooth: BT 5.1USB 2 Port: 1 x USB 2.0 port (Type A)USB …
+
+---
+
+
+## MSI Modern 15 A5M Ryzen 7 5700U 1.8 to 4.3 GHz, 8GB RAM, 512GB SSD, Radeon Graphics, 15.6" FHD Laptop  
+**DocID:** `daraz_314316349`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/msi-modern-15-a5m-ryzen-7-5700u-18-to-43-ghz-8gb-ram-512gb-ssd-radeon-graphics-156-fhd-laptop-i314316349.html
+**Price:** ৳ 83,500  
+**Rating:** 0.0/5
+
+**Description:**
+MSI Modern 15 A5M Ryzen 7 5700U 1.8 to 4.3 GHz, 8GB RAM, 512GB SSD, Radeon Graphics, 15.6" FHD LaptopAMD Ryzen 7 5700U 1.8 to 4.3 GHz, 8 Cores, 16 Threads, 12MB Cache8GB DDR4 3200MHz RAM512GB NVMe PCIe Gen3 SSD15.6" FHD (1920x1080) IPS DisplayAMD Radeon Graphics2 Years Brand Warranty
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15AMN8 (82XQ00FYIN) AMD Ryzen 5 7520U 2.80 to 4.30GHz, 16GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_377139530`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ideapad-slim-3-15amn8-82xq00fyin-amd-ryzen-5-7520u-280-to-430ghz-16gb-512gb-ssd-156-inch-fhd-laptop-i377139530.html
+**Price:** ৳ 67,200  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IdeaPad Slim 3 15AMN8 (82XQ00FYIN) AMD Ryzen 5 7520U 2.80 to 4.30GHz, 16GB, 512GB SSD, 15.6 Inch FHD LaptopAMD Ryzen 5 7520U 2.80 to 4.30GHz, 4 Cores, 8 Threads, 6MB Cache16GB DDR5 RAM512GB NVMe PCIe SSDAMD Radeon 610M Graphics15.6 Inch (1920×1080) FHD Display2 Years Official Brand Warranty Brand: LenovoModel: IdeaPad Slim 3 15AMN8Laptop Series: IdeaPadPart No: 82XQ00FYINProcessor Brand: AMDProcessor Type: Ryzen 5Processor Model: Ryzen 5 7520UProcessor Base Frequency: 2.80GHzProcessor Max Turbo Frequency: 4.30GHzProcessor Core: 4Processor Thread: 8CPU Cache: 6MBChipset: AMD SoC PlatformRAM: 16GBRAM Type: DDR5RAM Bus: 5500 MHzMax. RAM Support: 16GBStorage: 512GB SSDInstalled SSD Type: NVMe PCIeStorage Upgrade: Installed SSD can be upgradeableGraphics Chipset: AMD Radeon 610M GraphicsGraphics Memory: IntegratedGraphics Memory: SharedDisplay Size: 15.6 InchDisplay Type: FHD LED DisplayPanel Type: TNDisplay Resolution: 1920x1080Coating Technology: Anti-GlareDisplay Bezel: Slim BezelBrightness: 250nitsMultimedia Card Slot: 1Supported Multimedia Card: SD Card ReaderUSB 3 Port: 2 x USB 3.2 Gen 1 Type-AUSB C Port: 1 x USB 3.2 Gen 1 Type-CHDMI Port: 1Headphone Port: ComboMicrophone Port: ComboWiFi: Wi-Fi 6Bluetooth: Bluetooth 5.2Audio Properties: High Definition (HD) AudioSpeaker: YesMicrophone: YesWebCam: HD WebCamKeyboard Layout: Backlit, English KeyboardKeyboard Back-lit: YesNum Key pad: YesPointing Device: TouchPadTPM: YesSecurity Chip: Firmware TPM 2.0Operating System: Fre …
+
+---
+
+
+## Asus VivoBook GO 15 L1504FA (NJ1472) AMD Ryzen 5-7520U 2.8 to 4.3 GHz, 16GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_556924992`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-vivobook-go-15-l1504fa-nj1472-amd-ryzen-5-7520u-28-to-43-ghz-16gb-512gb-ssd-156-inch-fhd-laptop-i556924992.html
+**Price:** ৳ 68,100  
+**Rating:** 0.0/5
+
+**Description:**
+AMD Ryzen 5-7520U 2.8 to 4.3GHz, 4 Cores, 8 Threads, 6MB Cache 16GB LPDDR5 RAM 512GB PCIe NVMe M.2 SSD 15.6 Inch FHD (1920 X 1080) IPS Display 2 Years Official Warranty Specification:Brand: AsusSeries: VivoBookModel: L1504FAPart No: NJ1473Product Type: Traditional LaptopForm Factor: ClamshellBody Color: Mixed BlackBody Material: PlasticProcessor Brand: AMDProcessor Type: Ryzen 5Processor Model: Ryzen 5 7520UProcessor Frequency: 2.8 to 4.3 GHzCore: 4Thread: 8CPU Cache: 6MBRAM Capacity: 16GBRAM Details: 1 x 16GB Non-RemovableRAM Type: LPDDR5Storage: 512GBStorage Type: SSDSSD Interface:M.2 NVMe PCIe 3.0Display Size: 15.6 InchDisplay Resolution: 1920x1080Display Type: Full HDPanel Type: IPSDisplay Refresh Rate: 60 HzAnti-Glare screen: YesGraphics Card: AMD RadeonGraphics Memory: IntegratedGraphics Memory Size: SharedSecurity Chip: Firmware TPMCamera Resolution: 720p HD WebCamKeyboard Back-lit: YesPointing Device: TouchPadBuilt-in Speakers: YesBuilt-in Microphone: YesNetwork: Wi-Fi 6E (802.11ax)Bluetooth: Bluetooth 5.3USB 2 Port: 1 x USB 2.0 Type-AUSB 3 Port: 1 x USB 3.2 Gen 1 Type-AType C Port: 1 x USB 3.2 Gen 1 Type-CHDMI Port: 1x HDMICombo Audio Jack: 1x Headphone & MicrophoneBattery Capacity: 42WhrsBattery Technology: Li-ionNo of Battery Cell: 3 CellAdapter Power: 45WAdapter Type: AC AdapterDimensions: 360.3 x 232.5 x 17.9mmWeight: 1.63 kgWarranty: 2 YearsCountry Of Origin: Taiwan Made in: China
+
+---
+
+
+## Lenovo IP Slim 3i #81WH00A0IN-3Y# Celeron N4020 1.1 to 2.8GHz, 4GB, 256GB SSD, Win 11 Home, 14 FHD Laptop  
+**DocID:** `daraz_270273584`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ip-slim-3i-81wh00a0in-3y-celeron-n4020-11-to-28ghz-4gb-256gb-ssd-win-11-home-14-fhd-laptop-i270273584.html
+**Price:** ৳ 42,500  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IP Slim 3i #81WH00A0IN-3Y# Celeron N4020 1.1 to 2.8GHz, 4GB, 256GB SSD, Win 11 Home, 14 FHD Laptop Intel Celeron N4020 1.1 to 2.8GHz, 2 Cores, 2 Threads, 4MB Cache Processor 4GB DDR4 RAM 256GB M.2 2242 PCIe 3.0x2 NVMe SSD 14" FHD (1920x1080) Display Intel UHD Graphics 600 Graphics Windows 11 Home 3 Years Warranty Specification:Brand: LenovoModel: IP Slim 3iProduct No: 81WH00A0INColor: Platinum GreyProcessor: Intel Celeron N4020 1.1 to 2.8GHz, 2 Cores, 2 Threads, 4MB Cache ProcessorDisplay: 14" FHD (1920x1080) TN 220nits Anti-glareMemory: 4GB DDR4 RAMStorage: 256GB M.2 2242 PCIe 3.0x2 NVMe SSDGraphics: Intel UHD Graphics 600Operating System: Windows 11 HomeBattery: Integrated 35WhAdapter: 45W Round TipAudio: Stereo speakers, 1.5W x2, Dolby AudioWabCam: HD 720p with Privacy ShutterWi-Fi: WiFi 802.11ac 2x2Bluetooth: Bluetooth 5.0USB (s): 1x USB 2.0; 2x USB 3.2 Gen 1HDMI: 1x HDMI 1.4bAudio Jack Combo: 1x Headphone/microphone combo jack (3.5mm)Dimensions (W x D x H): 327.1 x 241 x 19.9 mmWeight: 1.5 kgWarranty: 3 Years (1 Year For Battery & Adapter)
+
+---
+
+
+## Asus VivoBook 15 M1505YA AMD Ryzen 7 7730U 16GB RAM 512GB SSD 15.6 Inch FHD Display Free Dos Indie Black Laptop  
+**DocID:** `daraz_549119402`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-vivobook-15-m1505ya-amd-7-7730u-16gb-ram-512gb-ssd-156-fhd-i549119402.html
+**Price:** ৳ 84,000  
+**Rating:** 0.0/5
+
+**Description:**
+Laptop Brand - Asus, Laptop Series - VivoBook, Laptop Model - Asus VivoBook 15 M1505YA, Processor Brand - AMD, Processor Type - Ryzen 7, Processor Generation - Ryzen, Processor Model - Ryzen 7 7730U, Processor Base Frequency - 2.00GHz, Processor Max Turbo Frequency - 4.50GHz, Processor Core - 8, Processor Thread - 16, Processor Cache - 20MB, NPU - No, Display Size - 15.6 Inch, Display Technology - FHD LED Display, Panel Type - OLED, Display Resolution - 1920x1080, Display Surface - Glossy, Coating Technology - Glare, Touch Display - No, Display Refresh Rate - 60 Hz, Display Bezel - Slim Bezel, Brightness - 600nits, Display Features - 16:9 aspect ratio, 0.2ms response time, Color gamut 100% DCI-P3, Gamut mapping Yes, Contrast ratio 1,000,000:1, VESA CERTIFIED Display HDR True Black 600, Color depth 1.07 billion colors, Pantone PANTONE Validated, Low blue light 65% less harmful blue light, Screen-to-body ratio 86%, Secondary Screen Size - No Secondary Screen, Secondary Screen Technology - No Secondary Screen, Secondary Screen Resolution - No Secondary Screen, Memory (RAM) - 16GB, Installed Memory Details - 1 x 8GB Non-Removable, 1 x 8GB Removable, Memory Type - DDR4, Memory Bus (MHz) - 3200 MHz, Total Memory Slot - 1, Empty Memory Slot - No, Max Memory Support - 24GB, Storage - 512GB SSD, Installed HDD Type - No HDD, HDD RPM - No HDD, HDD Expansion Slot - Unmentioned, Installed SSD Type - NVMe PCIe, Installed SSD Generation - Gen 3, SSD Expansion Slot - Unmentioned, Storage Upg …
+
+---
+
+
+## HP 15s-eq2330AU (A17ZTPA) AMD Ryzen-3 5300U, 8GB RAM, 512GB SSD, Windows 11 Home, 15.6 Inch FHD Display Silver Laptop  
+**DocID:** `daraz_453889808`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-15s-eq2330au-a17ztpa-amd-ryzen-3-5300u-8gb-ram-512gb-ssd-windows-11-home-156-inch-fhd-display-silver-laptop-i453889808.html
+**Price:** ৳ 55,699  
+**Rating:** 0.0/5
+
+**Description:**
+AMD Ryzen-3 5300U, 2.6 to 3.8GHz, 4 Cores, 8 Threads, 4MB Cache Processor 8GB DDR4 3200MHz RAM 512GB PCle NVme M.2 SSD 15.6 Inch (1920 X 1080) FHD Display AMD Radeon Graphics Windows 11 Home 2 Years Brand Warranty HP 15s-eq2330AU (A17ZTPA) AMD Ryzen-3 5300U, 8GB RAM, 512GB SSD, Windows 11 Home, 15.6 Inch FHD Display Silver Laptop Brand: HPModel: 15s-eq2330AUPart Number: A17ZTPABody Color: SilverProcessor: AMD Ryzen-3 5300U, 2.6 to 3.8 GHz, 4 Cores, 8 Threads, 4MB Cache ProcessorMemory: 8GB DDR4 3200MHz RAMStorage: 512GB PCle NVme M.2 SSDGraphics Chipset: AMD Radeon GraphicsDisplay: 15.6 inch (1920 X 1080) FHD Display, Anti-Glare, Micro Edge Slim Bezel, 250 nits, 45% NTSCOperating System: Windows 11 HomeWi-Fi: Realtek RTL8822CE 802.11a/b/g/n/ac (2X2)Bluetooth Version: 5.0Keyboard: Full Size Soft Grey Keyboard with Numeric KeypadPointing Device: TouchpadWebCam: 720P HDAudio: Dual Speakers & Integrated Dual Array Digital MicrophonesPorts: 2 X USB Type-A, 1 X USB Type-C, 1 X HDMI, 1 X Headphone & Microphone Combo Port, 1 X Multimedia SD Card SlotBattery: Li-ion 41Wh 3 CellAdapter: 45W Smart AC Power AdapterDimension: 358.5 X 242 X 17.9 mmCountry of Origin: USAWeight: 1.69 KgWarranty: 2 Years Brand Warranty
+
+---
+
+
+## HP 15s-eq2618AU (7K1K4PA) AMD Ryzen 3-5300U 2.6 to 3.8GHz, 8GB, 512GB SSD, Windows 11, 15.6" HD Laptop  
+**DocID:** `daraz_324344081`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-15s-eq2618au-7k1k4pa-amd-ryzen-3-5300u-26-to-38ghz-8gb-512gb-ssd-windows-11-156-hd-laptop-i324344081.html
+**Price:** ৳ 56,999  
+**Rating:** 0.0/5
+
+**Description:**
+HP 15s-eq2618AU (7K1K4PA) AMD Ryzen 3-5300U 2.6 to 3.8GHz, 8GB, 512GB SSD, Windows 11, 15.6" HD LaptopAMD Ryzen 3-5300U 2.6 to 3.8GHz, 4 Core, 8 Thread, 6 MB CPU Cache 8GB (2X4) DDR4 3200 MHz RAM 512GB PCIe NVMe M.2 SSD 15.6" (1366 X 768) HD Display AMD Radeon Shared Graphics Windows 11 Home 2 Years Official Brand WarrantySpecification: ﻿Brand: HP Model: 15s-eq2618AU Part Number: 7K1K4PA Body Color: Spruce Blue Processor: AMD Ryzen 3-5300U 2.6 to 3.8GHz, 4 Core, 8 Thread, 6 MB CPU Cache Memory: 8GB (2X4) DDR4 3200 MHz RAM Storage: 512GB PCIe NVMe M.2 SSD Graphics: AMD Radeon Shared Graphics Display: 15.6" (1366 X 768) HD Display, 60 Hz Refresh Rate, Micro Edge, Anti-Glare, 250 Nits, 45% NTSC Operating System: Windows 11 Home (Genuine) Licensed Application: Microsoft Office Wi-Fi: Realtek RTL8822CE 802.11a/b/g/n/ac (2X2) Bluetooth Version: 5.0 Speaker: Dual Speaker Microphone: Integrated Dual Array Digital Microphone Web Cam: 720P HD USB(s): 2 X USB 3.2 Gen1 Type-A, 1 X USB Type-C/Thunderbolt HDMI: 1 X HDMI Card Reader: 1 X Multimedia SD Card Audio Jack: 1 X Microphone/Headphone Combo Battery: Li-ion 41 Wh 3 Cell Adapter: 45W Smart AC Power Adapter Dimensions: 358.5 X 242 X 17.9 mm Weight: 1.69 Kg Warranty: 2 Years (1 Year for Battery & Adapter)
+
+---
+
+
+## ASUS Vivobook Go 15 L1504FA-NJ1366 Ryzen 5 7520U 8GB RAM 512GB SSD 15.6-inch FHD Laptop  
+**DocID:** `daraz_535998583`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-go-15-l1504fa-nj1366-5-7520u-8gb-ram-512gb-ssd-156-fhd-i535998583.html
+**Price:** ৳ 63,540  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: AMD Ryzen 5 7520U RAM & Storage: 8GB LPDDR5 Memory, 512GB M.2 NVMe PCIe 3.0 SSD Graphics: AMD Radeon Graphics Display: 15.6-inch Full HD (1920 x 1080) Certification: US MIL-STD 810H military-grade standard ASUS Vivobook Go 15 L1504FA-NJ1366 Ryzen 5 7520U 8GB RAM 512GB SSD 15.6-inch FHD Laptop is powered by a Ryzen 5 7520U processor, offering efficient performance for everyday tasks. This processor can easily handle common tasks such as web browsing, document editing, and multimedia playback. It comes with 8GB LPDDR5 on board. The laptop has a 512GB M.2 NVMe PCIe 3.0 SSD, offering ample storage space for your files and documents. The AMD Radeon Graphics Card ensures decent graphics performance for basic applications and multimedia. With a 15.6-inch Full HD (1920 x 1080) 16:9 aspect ratio display, the laptop delivers vibrant visuals, a fuller viewing angle, and a wider color range. This display features 250nits brightness.For a long time back up it has 42WHrs, 3S1P, 3-cell Li-ion battery. You can enjoy your outdoor work or movie time without worrying about plugging the laptop into power. For better wireless connectivity it has the latest Wi-Fi 6E(802.11ax) (Dual band) 1*1 + Bluetooth 5.3 Wireless Card (*Bluetooth version may change with OS version different.). This laptop has a SonicMaster, Built-in speaker, and Built-in array microphone that provides a stunning audio experience. It has a variety of ports, including 1x USB 2.0 Type-A (data speed up to 480Mbps), 1x US …
+
+---
+
+
+## ASUS Vivobook 15 (X1502ZA-EJ1249W) 12TH Gen Core i5 8GB RAM 512GB SSD Terra Cotta Laptop  
+**DocID:** `daraz_537141801`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-15-x1502za-ej1249w-12th-i5-8gb-ram-512gb-ssd-i537141801.html
+**Price:** ৳ 85,350  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: 12th Gen Intel Core i5-1235U (up to 4.4 GHz, 10 cores, 12 threads) RAM: 8GB DDR4 Storage: 512GB PCIe G3 NVMe M.2 SSD Display: 15.6" FHD (1920 x 1080), Anti-glare, LED-backlit Graphics: Integrated Intel Iris Xe Graphics Operating System: Windows 11 Home Battery: 3-cell Li-ion, 42WHrs Ports: 1x USB 3.2 Gen 1 Type-C, 2x USB 3.2 Gen 1 Type-A, 1x USB 2.0 Type-A, 1x HDMI 1.4, 1x 3.5mm Combo Audio Jack, 1x DC-in The ASUS Vivobook 15 X1502ZA-EJ1249W delivers exceptional performance in a stylish and portable package. Powered by the latest 12th Gen Intel Core i5-1235U processor and 8GB DDR4 RAM, this laptop is built for seamless multitasking and productivity. Its speedy 512GB PCIe NVMe M.2 SSD ensures fast access to your data and smooth overall system performance. The 15.6-inch Full HD anti-glare display offers vibrant visuals and comfortable viewing, ideal for work, study, and entertainment. Integrated Intel Iris Xe Graphics provide reliable graphics performance for creative tasks and everyday use. This Vivobook is pre-installed with Windows 11 Home, offering a secure, up-to-date computing experience. With a lightweight build at just 1.70 kg and an eye-catching Terra Cotta color, it stands out while remaining easy to carry. It features a comprehensive selection of I/O ports, including USB Type-C, multiple USB Type-A ports, HDMI, and a combo audio jack, ensuring flexible connectivity for all your devices.
+
+---
+
+
+## ASUS Zenbook 14 OLED UX3405MA-QD702 Core Ultra 7-155H 16GB RAM 512GB SSD 14-inch OLED Display Laptop  
+**DocID:** `daraz_391088005`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-zenbook-14-oled-ux3405ma-qd702-core-ultra-7-155h-16gb-ram-512gb-ssd-14-inch-oled-display-laptop-i391088005.html
+**Price:** ৳ 183,500  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: Intel Core Ultra 7-155HRAM & Storage: 16GB LPDDR5X, 512GB M.2 NVMe PCIe 4.0 SSDGraphics: Intel Arc GraphicsDisplay: 14.0-inch Full HD (1920 x 1200) OLEDCertifications: US MIL-STD 810H military-grade standardProcessorBrand: IntelModel: Core Ultra 7 Processor 155H (Intel AI Boost NPU)Frequency: Up to 4.8 GHzCores: 16Threads: 22Cache: 24MBDisplaySize: 14.0-inchType: OLEDResolution: Full HD (1920 x 1200), 16:10 aspect ratioFeatures:VESA CERTIFIED Display HDR True Black 6001.07 billion colorsGlossy display70% less harmful blue lightTÜV Rheinland-certifiedSGS Eye Care DisplayResponse Time: 0.2msBrightness: 400 nitsPeak Brightness: 600 nits HDR peak brightnessContrast: 1,000,000:1Refresh Rate: 60HzColor Gamut: 100% DCI-P3MemoryRAM: 16GB (Onboard)Type: LPDDR5X (*Supports dual-channel memory.)StorageCapacity: 512GBType: M.2 NVMe PCIe 4.0 SSDExtra M.2 Slot: N/AGraphicsModel: Intel Arc Graphics (Available only in models with Intel Core Ultra 9-185H/ Ultra 7-155H/ Ultra 5-125H processors and at least 16 GB of dual-channel memory.)Memory: SharedInput/Output PortsHDMI Port: 1x HDMI 2.1 TMDSUSB 3.2 Gen 1 Type-A Port: 1USB Type-C / Thunderbolt Port: 2x Thunderbolt 4 (supports display/power delivery)Headphone & Microphone Port: 1x 3.5mm Combo Audio JackNetwork & ConnectivityWiFi: Wi-Fi 6E (802.11ax) (Dual band) 2*2Bluetooth: Bluetooth 5.3 (Wireless Card; version may change with OS)SecuritySecurity Chip: Trusted Platform Module (TPM) 2.0Security Features:IR webcam with Windows Hello …
+
+---
+
+
+## HP Envy x360 Convertible 14-ES0033 13th Gen Core i7-1355U 3.7 to 5GHz, 16GB, 1TB SSD, Win 11, 14" FHD IPS Touch Laptop  
+**DocID:** `daraz_351667275`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-envy-x360-convertible-14-es0033-13th-gen-core-i7-1355u-37-to-5ghz-16gb-1tb-ssd-win-11-14-fhd-ips-touch-laptop-i351667275.html
+**Price:** ৳ 138,000  
+**Rating:** 0.0/5
+
+**Description:**
+HP Envy x360 Convertible 14-ES0033 13th Gen Core i7-1355U 3.7 to 5GHz, 16GB, 1TB SSD, Win 11, 14" FHD IPS Touch LaptopIntel 13th Gen Core i7-1355U 3.7 to 5GHz, 10 Cores, 12 Threads, 12MB cache16GB DDR4 3200MHz RAM1TB PCIe NVMe M.2 SSD14" FHD (1920 x 1080) IPS Touch DisplayIntel Iris Xe GraphicsWindows 11 Home2 Years Seller WarrantySpecification:Brand: HPSeries: ENVYModel: 14-es0033Color: Natural SilverProcessor: Intel 13th Gen Core i7-1355U 3.7 to 5GHz, 10 Cores, 12 Threads, 12MB cacheMemory: 16GB DDR4 3200MHz RAMStorage: 1TB PCIe NVMe M.2 SSDDisplay: 14" FHD (1920 x 1080), multitouch-enabled, IPS, edge-to-edge glass, micro-edge, 300 nits, 100% sRGBGraphics: Intel Iris Xe GraphicsOperating System: Windows 11 HomeKeyboard: Full-size, Backlit, Natural Silver KeyboardWeb Camera: HP True Vision 5MP IR camera with Camera Shutter,Audio: Audio by Bang & Olufsen; Dual speakers, Integrated dual Array MicWiFi: Intel Wi-Fi 6E AX211 (2x2)Bluetooth: Bluetooth 5.3USB: 2x Thunderbolt 4 with USB Type-C 40Gbps (USB Power, DP1.4); 1x USB Type-A 10Gbps (Sleep and Charge); 1x USB Type-A 10GbpsCard Reader: 1 microSD Media Card ReaderAudio Jack: 1 Headphone/Microphone ComboBattery: 4-cell, 66 Wh Li-ion PolymerAdapter: 65W USB Type-C power adapterDimensions (W x D x H): 298 x 215 x 16 mmWeight: 1.34 kgWarranty: 2 Years
+
+---
+
+
+## HP 15-fd0333TU Series 1 Intel Core 5 120U 8GB RAM, 512GB SSD 15.6 Inch FHD Display Silver Laptop  
+**DocID:** `daraz_549110937`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-15-fd0333tu-1-intel-core-5-120u-8gb-ram-512gb-ssd-156-fhd-i549110937.html
+**Price:** ৳ 72,800  
+**Rating:** 0.0/5
+
+**Description:**
+Laptop Brand - Hp, Laptop Series - 15, Laptop Model - HP 15-fd0333TU, Processor Brand - Intel, Processor Type - Core 5, Processor Generation - Core Series 1, Processor Model - Core 5 120U, Performance-Core Base Frequency - 1.40GHz, Efficient-Core Base Frequency - 0.90GHz, Processor Max Turbo Frequency - 5.00GHz, Performance-Core Max Turbo Frequency - 5.00GHz, Efficient-Core Max Turbo Frequency - 3.80GHz, Processor Core - 10, Performance-Cores - 2, Efficient-Cores - 8, Processor Thread - 12, Processor Cache - 12MB, NPU - No, Chipset - Intel Integrated SoC, Display Size - 15.6 Inch, Display Technology - FHD LED Display, Display Resolution - 1920x1080, Coating Technology - Anti-glare, Touch Display - No, Display Refresh Rate - 60Hz, Display Bezel - Slim Bezel, Brightness - 250nits, Display Features - micro-edge, 250 nits, 62.5% sRGB, Secondary Screen Size - No Secondary Screen, Secondary Screen Technology - No Secondary Screen, Secondary Screen Resolution - No Secondary Screen, Memory (RAM) - 8GB, Memory Type - DDR4, Memory Bus (MHz) - 3200MHz, Empty Memory Slot - 1, Max Memory Support - 32GB, Storage - 512GB SSD, Installed HDD Type - No HDD, HDD RPM - No HDD, HDD Expansion Slot - No, Installed SSD Type - NVMe PCIe, SSD Expansion Slot - Unmentioned, Storage Upgrade - Installed SSD can be upgradeable, Optical Drive - No-ODD, Multimedia Card Slot - No, Graphics Chipset - Intel Graphics, Graphics Memory Accessibility - Integrated, Graphics Memory - Shared, Graphics Memory Type - No …
+
+---
+
+
+## ASUS Vivobook Go 15 L1504FA-NJ1508 Ryzen 5 7520U 16GB RAM 512GB SSD 15.6-inch FHD Laptop  
+**DocID:** `daraz_536811929`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-go-15-l1504fa-nj1508-5-7520u-16gb-ram-512gb-ssd-156-fhd-i536811929.html
+**Price:** ৳ 68,990  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: AMD Ryzen 5 7520U RAM & Storage: 16GB LPDDR5 Memory, 512GB M.2 NVMe PCIe 3.0 SSD Graphics: AMD Radeon Graphics Display: 15.6-inch Full HD (1920 x 1080) Certification: US MIL-STD 810H military-grade standard Processor Model Ryzen 5 7520U ProcessorProcessor Frequency Up to 4.3GHzProcessor Core 4 CoresProcessor Thread 8 ThreadsCPU Cache 6MB CacheDisplay Size 15.6-inchDisplay Resolution Full HD (1920 x 1080)Display Features LED BacklitAspect Ratio: 16:9Glare: Anti-glare displayTÜV Rheinland-certifiedScreen-to-body ratio: 84%Brightness 250nitsRefresh Rate 60HzColor Gamut 45% NTSCRAM 16GB (On board)RAM Type LPDDR5Storage Capacity 512GBStorage Type M.2 NVMe PCIe 3.0 SSDStorage Support 1x M.2 2280 PCIe 3.0x2Graphics Model AMD Radeon GraphicsGraphics Memory SharedKeyboard Type Chiclet KeyboardTouchPad Precision TouchpadNumberPad YesWebCam 720p HD cameraWith privacy shutterSpeaker Built-in SpeakerMicrophone Built-in Array MicrophoneAudio Features SonicMasterwith Cortana voice-recognition supportHDMI Port 1x HDMI 1.4USB 2 Port 1x USB 2.0 Type-A (data speed up to 480Mbps)USB 3 Port 1x USB 3.2 Gen 1 Type-A (data speed up to 5Gbps)Headphone & Microphone Port 1x 3.5mm Combo Audio JackUSB Type-C / Thunderbolt Port 1x USB 3.2 Gen 1 Type-C (data speed up to 5Gbps)Power connector 1x DC-inWiFi Wi-Fi 6E(802.11ax) (Dual band) 1*1Bluetooth Bluetooth 5.3 Wireless Card (*Bluetooth version may change with OS version different.)Security Chip Trusted Platform Module (Firmware TPM)Security Fea …
+
+---
+
+
+## MSI Summit E14 A11SCS 11th Gen i7-1185G7 1.2 to 4.8GHz, 16GB, 1TB SSD, GTX 1650Ti 4GB Graphics, Win10H, 14 FHD Laptop  
+**DocID:** `daraz_232350631`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** MSI  
+**URL:** https://www.daraz.com.bd/products/msi-summit-e14-a11scs-11th-gen-i7-1185g7-12-to-48ghz-16gb-1tb-ssd-gtx-1650ti-4gb-graphics-win10h-14-fhd-laptop-i232350631.html
+**Price:** ৳ 173,000  
+**Rating:** 0.0/5
+
+**Description:**
+MSI Summit E14 A11SCS 11th Gen i7-1185G7 1.2 to 4.8GHz, 16GB, 1TB SSD, GTX 1650Ti 4GB Graphics, Win10H, 14 FHD Laptop Intel Core i7-1185G7 1.2 to 4.8Ghz (12MB Cache, 4Core, 8 Threads) 16GB 3200MHz DDR4 RAM 1TB NVMe PCIe Gen3x4 SSD 14" FHD (1920*1080) IPS Display GeForce GTX 1650 Ti With Max-Q Design, 4GB GDDR6 Windows 10 Home 2 Years Warranty (Battery charger 1 Year) Specification:Brand:MSIModel:E14 A11SCSProcessor:Intel Core i7-1185G71.2 to 4.8Ghz (12MB Cache, 4Core, 8 Threads)Memory:16GB 3200MHz DDR4 RAMStorage:1TB NVMe PCIe Gen4x4 SSDDisplay:14" FHD (1920x1080) IPS-Level Thin Bezell, sRGB 100% 300nits 1W panel, 180° RotationGraphics:GeForce GTX 1650 Ti With Max-Q Design, 4GB GDDR6Operating System:Windows 10 HomeBluetooth:Bluetooth v5.1Wi-Fi:AX201(2x2 ax) Wi-Fi 6Card Reader:1x Micro SDKey Board:Backlight KeyboardWebCam:IR HD type (30fps@720p) WebCamAudio Jack Combo:1x Mic-in/Headphone-out Combo JackHDMI:1x (4K @ 60Hz) HDMIUSB(s):1x Type-A USB2.0, 2x Type-C (USB / DP / Thunderbolt) with PD chargingBattery:3-Cell, 52 Battery (Whr)Adapter:65W adapterSupported SSD Type:NVMe PCIe Gen3x4Dimensions (W x D x H):319 x 219 x 16.9 mmWeight:1.3 kgWarranty:2 Years Warranty (Battery Charger 1 Year)
+
+---
+
+
+## HP 15s-eq2618AU AMD Ryzen 3-5300U 2.6 to 3.8GHz, 8GB, 512GB SSD, Windows 11, 15.6" HD Laptop  
+**DocID:** `daraz_324338749`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-15s-eq2618au-amd-ryzen-3-5300u-26-to-38ghz-8gb-512gb-ssd-windows-11-156-hd-laptop-i324338749.html
+**Price:** ৳ 57,099  
+**Rating:** 0.0/5
+
+**Description:**
+HP 15s-eq2618AU AMD Ryzen 3-5300U 2.6 to 3.8GHz, 8GB, 512GB SSD, Windows 11, 15.6" HD LaptopAMD Ryzen 3-5300U 2.6 to 3.8GHz, 4 Core, 8 Thread, 6 MB CPU Cache8GB (2X4) DDR4 3200 MHz RAM512GB PCIe NVMe M.2 SSD15.6" (1366 X 768) HD DisplayAMD Radeon Shared GraphicsWindows 11 Home2 Years Official Brand WarrantySpecification:﻿Brand: HPModel: 15s-eq2618AUPart Number: 7K1K4PABody Color: Spruce BlueProcessor: AMD Ryzen 3-5300U 2.6 to 3.8GHz, 4 Core, 8 Thread, 6 MB CPU CacheMemory: 8GB (2X4) DDR4 3200 MHz RAMStorage: 512GB PCIe NVMe M.2 SSDGraphics: AMD Radeon Shared GraphicsDisplay: 15.6" (1366 X 768) HD Display, 60 Hz Refresh Rate, Micro Edge, Anti-Glare, 250 Nits, 45% NTSCOperating System: Windows 11 Home (Genuine)Licensed Application: Microsoft OfficeWi-Fi: Realtek RTL8822CE 802.11a/b/g/n/ac (2X2)Bluetooth Version: 5.0Speaker: Dual SpeakerMicrophone: Integrated Dual Array Digital MicrophoneWeb Cam: 720P HDUSB(s): 2 X USB 3.2 Gen1 Type-A, 1 X USB Type-C/ThunderboltHDMI: 1 X HDMICard Reader: 1 X Multimedia SD CardAudio Jack: 1 X Microphone/Headphone ComboBattery: Li-ion 41 Wh 3 CellAdapter: 45W Smart AC Power AdapterDimensions: 358.5 X 242 X 17.9 mmWeight: 1.69 KgWarranty: 2 Years (1 Year for Battery & Adapter)
+
+---
+
+
+## MSI Modern 15 A5M Ryzen 7 5700U 1.8 to 4.3 GHz, 8GB, 512GB SSD, 15.6" FHD IPS Laptop  
+**DocID:** `daraz_314321118`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/msi-modern-15-a5m-ryzen-7-5700u-18-to-43-ghz-8gb-512gb-ssd-156-fhd-ips-laptop-i314321118.html
+**Rating:** 0.0/5
+
+**Description:**
+MSI Modern 15 A5M Ryzen 7 5700U 1.8 to 4.3 GHz, 8GB, 512GB SSD, 15.6" FHD IPS LaptopAMD Ryzen 7 5700U 1.8 to 4.3 GHz, 8 Cores, 16 Threads, 12MB Cache8GB DDR4 3200MHz RAM512GB NVMe PCIe Gen3 SSD15.6" FHD (1920x1080) IPS DisplayAMD Radeon Graphics2 Years Brand WarrantySpecification:Brand: MSISeries: ModernModel: 15 A5MColor: Carbon GrayProcessor: AMD Ryzen 7 5700U 1.8 to 4.3 GHz, 8 Cores, 16 Threads, 12MB CacheMemory: 8GB DDR4 3200MHz RAMStorage: 512GB NVMe PCIe Gen3 SSDDisplay: 15.6" FHD (1920x1080), 60Hz, IPS-LevelGraphics: AMD Radeon GraphicsOperating System: Free DosKeyboard Type: Single Backlit Keyboard (White)WebCam: HD type (30fps@720p)Audio: 2x 2W SpeakerWiFi: 802.11 ax Wi-Fi 6Bluetooth: Bluetooth v5.1USB(s): 1x Type-C USB3.2 Gen2, 3x Type-A USB3.2 Gen2HDMI: 1x HDMI (4K @ 30Hz)Card Reader: 1x Micro SD Card ReaderAudio Jack: 1x Mic-in/Headphone-out Combo JackBattery Type: 3-Cell 52 Battery (Whr)Adapter Type: 65W adapterDimension: 356.8 x 233.75 x 18.9 mmWeight: 1.6 kgWarranty: 2 Years
+
+---
+
+
+## Qbits Sigma X2 Laptop Intel® Core™ i5-1240P (1.70 GHz to 4.40 GHz 12 MB Cache) with 8 GB RAM and 500GB M.2 WD NVMe SSD  
+**DocID:** `daraz_351902531`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Qbits  
+**URL:** https://www.daraz.com.bd/products/qbits-sigma-x2-intel-8-gb-ram-500gb-m2-wd-nvme-ssf-i5-1240p-170-ghz-440-ghz-12-mb-i351902531.html
+**Price:** ৳ 61,999  
+**Rating:** 0.0/5
+
+**Description:**
+Audio: Realtek High Definition Audio 3.5mm Headphone / Mic Jack Operating System: Windows 11 Pro (Trial) Qbits Sigma X2 Laptop with Intel Core i5 12th Gen Processor8GB RAM and 500GB M.2 NVMe SSD PCIe 4.0Display: 15.6 Inches FHD Display.Graphics: Intel® Iris® Xe GraphicsCamera: 1 MP (720p Webcam)Ports & Connectors: 2 X M.2, 2 X SODIMM, 1 x HDMI, 1 x LAN, 2 x USB 3.1 & 1 x USB 2.0, 1 x Type-C Port, 1 x 3.5mm Headphone/Mic Jack Qbits Sigma X2 Laptop Intel® Core™ i5-1240P Processor with 8 GB RAM, 1.70 GHz to 4.40 GHz, 12MB Intel® Smart Cache, 12 Cores, 16 Threads, Integrated Intel® Iris Xe GraphicsMORE SPEED AND POWER EFFICIENCY The Sigma X2 comes equipped with a powerful 12th-generation processor making it more capable. it brings more power to go and allows you to rip through workflows. The Intel® Xe Graphics makes screen time a whole new experience while delivering transformational GPU and greater speed for designers and creators. Let's enjoy next-gen power efficiency and visual amazement.FHD IPS DISPLAY With the breathtaking 15.6" FHD IPS Display with 1920 X 1080 pixels, the new laptop delivers exceptional color accuracy. It produces a high contrast ratio to ensure text is sharp, and images and videos are more brilliant. Whether you are watching movies, videos, or music, this gorgeous, nearly bezel-free NanoEdge display brings color to life and enables you to experience exceptions.FASTER MEMORY AND STORAGE Experience the potential of NVMe SSD in the Sigma X2, offering enhanced …
+
+---
+
+
+## Tecno Megabook K15SDA Ryzen 5 7430U 2.3GHz to 4.3GHz, 16GB, 512GB SSD, 15.6 Inch FHD LED Laptop  
+**DocID:** `daraz_555609741`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/tecno-megabook-k15sda-ryzen-5-7430u-23ghz-to-43ghz-16gb-512gb-ssd-156-inch-fhd-led-laptop-i555609741.html
+**Price:** ৳ 59,500  
+**Rating:** 0.0/5
+
+**Description:**
+AMD Ryzen 5 7430U 2.3GHz to 4.3GHz, 6 Core, 12 Thread, 19MB Cache Processor 512GB NVMe PCIe SSD 16GB 3200MHz LPDDR4 RAM AMD Radeon Graphics 15.6 Inch (1980 x 1080) FHD LED Display 2 Years Brand Warranty Brand: TecnoModel: Megabook K15SDAProduct Type: TraditionalForm Factor: ClamshellBody Color: Moonshine SilverBody Material: Metal + PlasticProcessor Brand: AMDProcessor Type: Ryzen 5Processor Model: Ryzen 5 7430UGeneration: Ryzen 7000 SeriesProcessor Frequency: 2.3GHz to 4.3GHzCore: 6Thread: 12CPU Cache: 19MBRAM Capacity: 16GBRAM Details: 1 x 16GB RemovableRAM Type: LPDDR4RAM Speed: 3200MHzRAM Slot: 2Empty RAM Slot: 1Max. RAM Support: 32GBStorage: 512GBStorage Type: SSDSSD Interface: PCle 3.0Compatible Memory Cards: TF CardDisplay Size: 15.6 InchDisplay Resolution (Pixel): 1920 x 1080Display Type: FHD LED DisplayDisplay Refresh Rate: 60 HzLED Backlight: YesAnti-Glare Screen: YesNative Aspect Ratio: 16:9Display Brightness: 300 nitsColor Gamut: 45% NTSCGraphics Card: AMD RadeonGraphics Memory: IntegratedGraphics Memory Size: SharedOperating System: Free DosPre-loaded Application: Tecno PC Manager, OSD APPFinger Print Sensor: YesSecurity Chip: Firmware TPMCable Lock Slot: YesRear Camera Resolution: 1MPKeyboard Layout: Chiclet KeyboardPointing Device: TouchpadAudio System: AI Conference, DTS Immersive SoundBuilt-in Speakers: YesBuilt-in Microphone: YesNo of Microphones: 2WiFi: WiFi 5Bluetooth: Bluetooth 5.1Ethernet LAN: YesUSB 3 Port: 2 x USB 3.1USB Type C: 1 x USB Type-C (Charge) …
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15IGL05 Intel Celeron N4020 Laptop - 4GB DDR4 RAM - 1TB HDD - Intel UHD Graphics - 15.6-Inch Display #81WQ00Q2IN  
+**DocID:** `daraz_316488437`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ideapad-3i-15igl05-n4020-4gb-ddr4-ram-1tb-hdd-uhd-156-81wq00q2in-i316488437.html
+**Price:** ৳ 40,310  
+**Rating:** 0.0/5
+
+**Description:**
+Processor : Intel Celeron N4020 (2C / 2T, 1.1 / 2.8GHz, 4MB) Memory: 4GB Soldered DDR4-2400; not upgradeable Storage: 1TB HDD 5400rpm 2.5" Graphics: Integrated Intel UHD Graphics 600 Display: 15.6" HD (1366x768) TN 220nits Anti-glare Max Battery Life: MobileMark 2014: 14 hr Warranty: 2 Years (Battery + Adapter 1 Year)
+
+---
+
+
+## Huawei MateBook D16 12th Gen i5-12450H 3.3GHz to 4.4GHz 16GB RAM 512GB NVMe SSD, Win 11 Home, 16" IPS FHD Laptop  
+**DocID:** `daraz_316660785`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/huawei-matebook-d16-12th-gen-i5-12450h-33ghz-to-44ghz-16gb-ram-512gb-nvme-ssd-win-11-home-16-ips-fhd-laptop-i316660785.html
+**Rating:** 0.0/5
+
+**Description:**
+Huawei MateBook D16 12th Gen i5-12450H 3.3GHz to 4.4GHz 16GB RAM 512GB NVMe SSD, Win 11 Home, 16" IPS FHD LaptopIntel 12th Gen Core i5-12450H 3.3 to 4.4GHz, 8 Core, 12 Thread, 12MB Cache 16GB LPDDR4X RAM 512GB NVMe PCIe SSD 16 Inch FHD (1920 x 1080) IPS Display Intel UHD Graphics 2 Years Warranty SpecificationsBrand: HuaweiModel: MateBook D16Color: Mystic Silver Processor: Intel 12th Gen Core i5-12450H 3.3 to 4.4GHz, 8 Core, 12 Thread, 12MB CacheMemory: 16GB LPDDR4X RAMStorage: 512GB NVMe PCIe SSDDisplay: 16 Inch FHD (1920 x 1080) IPS DisplayGraphics: Intel UHD GraphicsOperating System: Windows 11 HomeBattery: Lithium polymer 60 WhAdapter: 65 W USB-C Power AdapterSpecial Feature: Fingerprint AccessAudio: Microphone x 4, Speaker x 2Keyboard: Full-size Backlit KeyboardWebCam: 1080P FHD cameraWi-Fi: IEEE 802.11a/b/g/n/ac/axBluetooth: Bluetooth 5.0USB (s): USB-C x 1, USB-C x 1, USB3.2 Gen1 x 1, USB2.0 x 1HDMI: HDMI x 1 Audio Jack Combo: 3.5 mm headset and microphone 2-in-1 jack x 1Dimensions: 356.7 mm x 248.7 mm x 18.4 mmWeight: 1.7 kgWarranty: 2 Years
+
+---
+
+
+## Lenovo IdeaPad Slim 1i 15IGL7 Intel CDC N4020 8GB RAM 256GB SSD 15.6 Inch FHD Display  
+**DocID:** `daraz_535695956`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/lenovo-ideapad-1i-15igl7-cdc-n4020-8gb-ram-256gb-ssd-156-fhd-i535695956.html
+**Price:** ৳ 54,999  
+**Rating:** 0.0/5
+
+**Description:**
+Processor Type. - Intel Celeron Generation - Celeron Series NPU - No RAM - 8GB Storage - 256GB SSD Graphics Memory - Shared Display Size (Inch) - 15.6 Licensed Application - No TheLenovo IdeaPad Slim 1i 15IGL7 is an affordable laptop designed for everyday tasks. It features a 15.6-inch Full HD display which makes it great for browsing, working on documents, and media consumption. It uses an Intel Celeron N4020 processor that delivers reliable performance for basic computing. With 8GB DDR4 RAM and a 256GB NVMe SSD, this laptop ensures smooth multitasking and fast boot times. Weighing only 1.54 kg, it is lightweight and easy to carry. Its Wi-Fi 6 support and multiple connectivity options add to its convenience.
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15IRH8 Core i5 13th Gen 15.6" FHD [16/512GB]  
+**DocID:** `daraz_393252762`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ideapad-3-15irh8-i5-13th-gen-156-fhd-16512gb-i393252762.html
+**Price:** ৳ 63,999  
+**Rating:** 0.0/5
+
+**Description:**
+Main FeaturesOperating System: Genuine Windows 11 Pro Model: Lenovo IdeaPad Slim 3 15IRH8 Weight: 1.62 kg Dimensions: 14.2 x 10 x 0.78 inches Warranty: 2 Years ProcessorBrand: Intel Model: Core i5-13420H Cores: 8 Threads: 12 Base Frequency: 2.1 GHz Max Turbo Frequency: Up to 4.6 GHz Cache: 12MB Memory (RAM)Capacity: 16 Type: DDR5 (Soldered, not upgradeable) Speed: 4800 MHz StorageType: M.2 2242 PCIe 4.0x4 NVMe SSD Capacity: 512GB Extra Slot: No Upgradeable: Up to 1TB DisplaySize: 15.6 inches Type: TN Panel Resolution: 1920 x 1080 (Full HD) Brightness: 250 nits Features: Anti-glare Max Refresh Rate: 60 Hz GraphicsModel: Intel UHD Graphics Keyboard and TouchPadKeyboard Type: Non-backlit TouchPad: Buttonless Mylar surface, multi-touch, supports Precision TouchPad Camera and AudioWebcam: FHD 1080p Microphone: Dual array microphones (2x) Speakers: 2x 1.5W user-facing stereo speakers Audio Features: Dolby Audio Ports and SlotsHDMI: 1x HDMI 1.4 USB: 2x USB 3.2 Gen 1 USB-C: 1x USB-C 3.2 Gen 1 (supports data transfer, Power Delivery, DisplayPort 1.2) Card Reader: SD Card Reader Audio Jack: 1x 3.5mm headphone/mic combo jack Display Port: Yes (via USB-C) PD Charging: Yes Network and ConnectivityWi-Fi: Wi-Fi 6 (11ax, 2x2) Bluetooth: Bluetooth 5.2 Battery and PowerBattery Type: Lithium Ion Capacity: 47Wh Adapter: 65W Round Tip (3-pin) AC Adapter, We aim to provide accurate info from trusted sources like the manufacturer's website. If you find any mistakes, please let us know. **
+
+---
+
+
+## Lenovo ThinkPad X1 Carbon G9 (20XXS89Y00-3Y) 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 512GB SSD, 14 Inch WUXGA Laptop  
+**DocID:** `daraz_312245533`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-thinkpad-x1-carbon-g9-20xxs89y00-3y-11th-gen-core-i7-1165g7-28-to-47ghz-16gb-512gb-ssd-14-inch-wuxga-laptop-i312245533.html
+**Price:** ৳ 265,000  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo ThinkPad X1 Carbon G9 (20XXS89Y00-3Y) 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 512GB SSD, 14 Inch WUXGA LaptopIntel 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 4 Cores, 8 Threads, 12MB Cache16GB DDR4 RAM512GB SSD14 Inch WUXGA (1920x1200) DisplayIntel Iris Xe Graphics3 Years Warranty Specification:Brand: LenovoModel: ThinkPad X1 Carbon G9Product No: 20XXS89Y00Color: BlackProcessor: Intel 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 4 Cores, 8 Threads, 12MB CacheMemory: 16GB DDR4 RAMStorage: 512GB SSDDisplay: 14 Inch WUXGA (1920x1200) Anti-Glare, 60Hz, 400 NitsPointing Device: TouchpadGraphics: Intel Iris Xe GraphicsOperating System: Free DOSKeyboard: 6-Row, Spill-Resistant, Multimedia Fn KeysWebCam: 720p, with privacy shutter, fixed focusAudio: Stereo speakers, 2W x2 and 0.8W x2, DolbyWi-Fi: 802.11ax 2x2Bluetooth: Bluetooth 5.2USB: 2x USB A 3.2 Gen 1, 2x Thunderbolt 4 / USB4™ 40GbpsHDMI: 1x HDMI 2.0Ethernet: 1 x RJ-45Card Reader: 1x Nano-SIM card slotAudio Combo Jack: Headphone / microphone comboBattery Type: Integrated Li-Po 57Wh BatteryAdapter: 65W USB-C AC AdapterDimensions (W x D x H): 315 x 221.6 x 14.9mmWeight: 1.133 KG Warranty: 3 Years
+
+---
+
+
+## HP 15-fc0239AU (A33T3PA) AMD Athlon Silver 7120U 2.4 to 3.5GHz, 8GB LPDDR5, 256GB SSD, Windows 11, 15.6 Inch FHD Display Laptop  
+**DocID:** `daraz_530485671`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-15-fc0239au-a33t3pa-amd-athlon-silver-7120u-24-to-35ghz-8gb-lpddr5-256gb-ssd-windows-11-156-inch-fhd-display-laptop-i530485671.html
+**Price:** ৳ 45,599  
+**Rating:** 0.0/5
+
+**Description:**
+AMD Athlon Silver 7120U 2.4 to 3.5GHz, 2 Cores, 2 Threads, 2MB L3 CPU Cache Processor 8GB LPDDR5 5500MHz RAM 256GB PCle NVme M.2 SSD 15.6 Inch (1920 x 1080) FHD Display AMD Radeon Graphics Windows 11 Home 2 Years Brand Warranty HP 15-fc0239AU (A33T3PA) AMD Athlon Silver 7120U 2.4 to 3.5GHz, 8GB LPDDR5, 256GB SSD, Windows 11, 15.6 Inch FHD Display Laptop Brand: HPModel: 15-fc0239AUPart Number: A33T3PABody Color: SilverProcessor: AMD Athlon Silver 7120U 2.4 to 3.5GHz, 2 Cores, 2 Threads, 2MB L3 CPU Cache ProcessorMemory: 8GB LPDDR5 5500MHz RAMStorage: 256GB PCle NVme M.2 SSDGraphics: AMD Radeon GraphicsDisplay: 15.6 Inch (1920 X 1080) FHD DisplayOperating System: Windows 11 HomeWi-Fi: Realtek Wi-Fi 6 (1X1)Bluetooth Version: 5.3Keyboard: Full Size Soft Grey Keyboard with Numeric KeypadPointing Device: TouchpadWebCam: 720P HD (Privacy Shutter)Audio: Dual Speakers & Integrated Dual Array Digital Microphones (Noise Reduction)External Ports: 2 X USB Type-A, 1 X USB Type-C, 1 X HDMI 1.4b, 1 X Headphone & Microphone Combo PortBattery: Li-ion 41Wh 3 CellAdapter: 45W Smart AC Power AdapterCertifications: ENERGY STAR Certified, EPEAT Gold RegisteredIn the Box: Laptop, Bag, Battery, Power Cables, Adapter, User Manual Guide.County of Origin: USADimension: 359.8 X 236 X 18.6 mmWeight: 1.59 KgWarranty: 2 Years Brand Warranty
+
+---
+
+
+## Magnet Play Set," designed as an educational toy for children1  
+**DocID:** `daraz_526901417`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/1-i526901417.html
+**Price:** ৳ 200  
+**Rating:** 0.0/5
+
+**Description:**
+Magnet Play Set," designed as an educational toy for children1Magnet Play Set," designed as an educational toy for children1
+
+---
+
+
+## Infinix InBook Y2 Plus 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11, 15.6 Inch FHD IPS Laptop  
+**DocID:** `daraz_337003483`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Dell  
+**URL:** https://www.daraz.com.bd/products/infinix-inbook-y2-plus-11th-gen-i5-1155g7-25-to-45ghz-8gb-512gb-ssd-win-11-156-inch-fhd-ips-laptop-i337003483.html
+**Price:** ৳ 63,000  
+**Rating:** 0.0/5
+
+**Description:**
+Infinix InBook Y2 Plus 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11, 15.6 Inch FHD IPS LaptopIntel 11th Gen Core i5-1155G7 2.5 To 4.5GHz, 4 Cores, 8 Threads, 8MB Cache8GB LPDDR4X RAM512GB PCIe NVMe M.2 SSD15.6" Inch FHD (1920 X 1080) IPS DisplayIntel Iris Xe GraphicsWindows 11 Home2 Years Warranty﻿Specification:Brand: InfinixSeries: InBookModel: Y2 PlusColor: Silver, BlueProcessor: Intel 11th Gen Core i5-1155G7 2.5 To 4.5GHz, 4 Cores, 8 Threads, 8MB CacheMemory: 8GB LPDDR4X RAMStorage: 512GB PCIe NVMe M.2 SSDDisplay: 15.6" Inch FHD (1920 X 1080) IPS, 16:9, 60 Hz, Anti-Glare, 260 nits, 60% NTSCGraphics: Intel Iris Xe GraphicsOperating System: Windows 11 HomeKeyboard: Full-size Backlit Chiclet KeyboardTouchpad: Touchpad with Multi-touchAudio: 2W x 2 & Microphone x 2WebCam: FHD video Dual-Star light HDWi-Fi: IEEE 802.11a/b/g/n/acBluetooth: 5.1USB(s): 2x USB 3.0, 1x USB-C (data),1x USB-C (support data, charging and DisplayPort)HDMI: 1x HDMI 1.4SD Card: 1x SD card slotAudio Jack: 1x 3.5 mm Headset and Microphone JackBattery: Li-ion 50 WhAdapter: 45W USB-C Power AdapterDimensions: 360.3 X 237 X 17.95 mmWeight: 1.8 KgWarranty: 2 Years
+
+---
+
+
+## HP Spectre x360 Convertible 14-ea1590TU 11th Gen i7-1195G7 2.9 to 5GHz, 16GB, 1TB SSD, Windows 11 Home, 13.5 FHD Laptop  
+**DocID:** `daraz_260040952`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-spectre-x360-convertible-14-ea1590tu-11th-gen-i7-1195g7-29-to-5ghz-16gb-1tb-ssd-windows-11-home-135-fhd-laptop-i260040952.html
+**Price:** ৳ 190,000  
+**Rating:** 0.0/5
+
+**Description:**
+HP Spectre x360 Convertible 14-ea1590TU 11th Gen i7-1195G7 2.9 to 5GHz, 16GB, 1TB SSD, Windows 11 Home, 13.5 FHD Laptop Intel 11th Gen i7-1195G7 2.9 to 5GHz, 4 cores, 8 threads, 12MB L3 Cache 16GB LPDDR4x-4266 MHz RAM 1TB PCIe NVMe TLC M.2 SSD 13.5 Inch WUXGA+ (1920 x 1280) FHD IPS Display Intel Iris Xe Graphics Windows 11 Home 2 Years Official Brand Warranty Specification:Brand:HPModel:Spectre x360 Convertible 14-ea1590TUProduct Number:572V6PAColor:Night Fall BlackProcessor:Intel 11th Gen i7-1195G7 2.9 to 5GHz, 4 cores, 8 threads, 12MB L3 CacheChipset :Intel Integrated SoCMemory:16 GB LPDDR4x-4266 MHz RAMStorage:1 TB PCIe NVMe TLC M.2 SSDGraphics:Intel Iris Xe GraphicsDisplay:34.3 cm (13.5") diagonal, WUXGA+ (1920 x 1280), multitouch-enabled, IPS, edge-to-edge glass, micro-edge, anti-reflection Corning Gorilla Glass NBT, 400 nits, 100% sRGBActive Pen:YesOperating System:Windows 11 HomeAudio:Audio by Bang & Olufsen; Quad speakers; HP Audio BoostWeb Camera:HP True Vision 720p HD IR camera with camera shutter and integrated dual array digital microphonesWi-fi:Intel Wi-Fi 6 AX201 (2x2)Bluetooth:Bluetooth 5Battery:4-cell, 66 Wh Li-ion polymerAdapter:65 W USB Type-C power adapterUSB(s):2 Thunderbolt 4 with USB4 Type-C 40Gbps signaling rate (USB Power Delivery, DisplayPort 1.4, HP Sleep and Charge); 1 SuperSpeed USB Type-A 10Gbps signaling rate (HP Sleep and Charge)Audio Jack:1 Headphone/Microphone ComboExpansion Slots:1 microSD Media Card ReaderDimensions (W x D x H):29.83 x 22.01 …
+
+---
+
+
+## Asus VivoBook Go 15 L1504FA AMD Ryzen 5 7520U 16GB RAM, 512GB SSD Mixed Black Laptop  
+**DocID:** `daraz_549123207`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-go-15-l1504fa-amd-5-7520u-16gb-ram-512gb-ssd-i549123207.html
+**Price:** ৳ 64,500  
+**Rating:** 0.0/5
+
+**Description:**
+Laptop Brand - Asus, Laptop Series - VivoBook, Laptop Model - Asus VivoBook Go 15 L1504FA, Processor Brand - AMD, Processor Type - Ryzen 5, Processor Generation - Ryzen, Processor Model - Ryzen 5 7520U, Processor Base Frequency - 2.80GHz, Processor Max Turbo Frequency - 4.30GHz, Processor Core - 4, Processor Thread - 8, Processor Cache - 6MB, NPU - No, Display Size - 15.6 Inch, Display Technology - FHD LED Display, Panel Type - Value IPS, Display Resolution - 1920x1080, Coating Technology - Anti-Glare, Touch Display - No, Display Refresh Rate - 60Hz, Display Bezel - Slim Bezel, Brightness - 250 Nits, Display Features - 16:9 aspect ratio, Color gamut 45% NTSC, LED Backlit, TUV Rheinland-certified, Screen-to-body ratio 84%, Secondary Screen Size - No Secondary Screen, Secondary Screen Technology - No Secondary Screen, Secondary Screen Resolution - No Secondary Screen, Memory (RAM) - 16GB, Installed Memory Details - 1 x 16GB Non Removable, Memory Type - LPDDR5, Total Memory Slot - No, Empty Memory Slot - No, Max Memory Support - 16GB, Storage - 512GB SSD, Installed HDD Type - No HDD, HDD RPM - No HDD, HDD Expansion Slot - Unmentioned, Installed SSD Type - NVMe PCIe, Installed SSD Generation - Gen 3, SSD Expansion Slot - Unmentioned, Storage Upgrade - Unmentioned, Optical Drive - No-ODD, Graphics Chipset - AMD Radeon 610M Graphics, Graphics Memory Accessibility - Integrated, Graphics Memory - Shared, Graphics Memory Type - Not Applicable, LAN - No, WiFi - Wi-Fi 6E(802.11ax) (Dual …
+
+---
+
+
+## Asus VivoBook 15 X1504VA 13th Gen Intel Core i3 1315U 8GB DDR4, 512GB SSD 15.6 Inch FHD Display Quiet Blue Laptop  
+**DocID:** `daraz_549121448`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-vivobook-15-x1504va-13th-gen-intel-core-i3-1315u-8gb-ddr4-512gb-ssd-156-fhd-i549121448.html
+**Price:** ৳ 56,500  
+**Rating:** 0.0/5
+
+**Description:**
+Laptop Brand - Asus, Laptop Series - VivoBook, Laptop Model - Asus VivoBook 15 X1504VA, Processor Brand - Intel, Processor Type - Core i3, Processor Generation - 13th (Intel), Processor Model - Core i3 1315U, Processor Base Frequency - Not Applicable, Performance-Core Base Frequency - 1.20GHz, Efficient-Core Base Frequency - 0.90GHz, Processor Max Turbo Frequency - 4.50GHz, Performance-Core Max Turbo Frequency - 4.50GHz, Efficient-Core Max Turbo Frequency - 3.30GHz, Processor Core - 6, Performance-Cores - 2, Efficient-Cores - 4, Processor Thread - 8, Processor Cache - 10MB, NPU - No, Display Size - 15.6 Inch, Display Technology - FHD LED Display, Panel Type - IPS, Display Resolution - 1920x1080, Coating Technology - Anti-glare, Touch Display - No, Display Refresh Rate - 60 Hz, Display Bezel - Slim Bezel, Brightness - 250nits, Display Features - 16:9 aspect ratio, LED Backlit, Color gamut 45% NTSC, TUV Rheinland-certified, Screen-to-body ratio 84%, Secondary Screen Size - No Secondary Screen, Secondary Screen Technology - No Secondary Screen, Secondary Screen Resolution - No Secondary Screen, Memory (RAM) - 8GB, Installed Memory Details - 1 x 8GB, Memory Type - DDR4, Total Memory Slot - No, Empty Memory Slot - No, Max Memory Support - 8GB, Storage - 512GB SSD, Installed HDD Type - No HDD, HDD RPM - No HDD, HDD Expansion Slot - No, Installed SSD Type - NVMe PCIe, Installed SSD Generation - Gen 4, SSD Expansion Slot - No, Storage Upgrade - Unmentioned, Optical Drive - No-ODD, Mu …
+
+---
+
+
+## Asus VivoBook 15 X1504VA (NJ725) 13th Gen Core i3-1315U 1.20 to 4.5 GHz 8GB, 512GB SSD, 15.6-inch FHD Laptop  
+**DocID:** `daraz_535972857`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-vivobook-15-x1504va-nj725-13th-gen-core-i3-1315u-120-to-45-ghz-8gb-512gb-ssd-156-inch-fhd-laptop-i535972857.html
+**Price:** ৳ 61,600  
+**Rating:** 0.0/5
+
+**Description:**
+Intel 13th Gen i3-1315U 1.20 to 4.5 GHz,6 Core,8 Thread,10MB Cache Processor 8GB DDR4 RAM 512GB NVMe PCIe SSD 15.6 Inch (1920 X 1080) FHD Display 2 Years Official Warranty Specification:Brand: Asus Series: VivoBookModel: Asus VivoBook 15 X1504VAPart No: NJ725Product Type: TraditionalForm Factor: ClamshellBody Material: PlasticBody Color: Cool SilverProcessor Brand: IntelProcessor Type: Core i3Processor Model: i3-1315UGeneration: 13th GenProcessor Frequency: 1.20 to 4.50 GHzCore: 6Thread: 8CPU Cache: 10MBRAM Capacity: 8GBRAM Details: 1x 8GB (Non Removable)RAM Type: DDR4RAM Speed: 3200MHzRAM Slot: YesEmpty RAM Slot: 1Max. RAM Support: 16GBStorage: 512GB SSDStorage Type: SSDSSD Interface: M.2 NVMe PCIe 3.0Display Size: 15.6 InchDisplay Resolution (Pixel): 1920x1080Display Type: Full HDDisplay Refresh Rate: 60HzDisplay Feature: LED Backlit, 16:9 aspect ratio, 45% NTSC color gamutDisplay Brightness: 250nitsGraphics Card: Intel UHDGraphics Memory: IntegratedGraphics Memory Size: SharedPre-loaded Application: MyASUS, ScreenXpert, GlideXOperating System: Free-DosSecurity Chip: Firmware TPMCamera Resolution: 720p HDKeyboard Layout: Chiclet KeyboardNumeric Key pad: YesPointing Device: TouchPadAudio System: SonicMasterBuilt-in Speakers: YesNo of Built-in Speakers: 2Built-in Microphone: YesNo of Microphones: 1WiFi: Wi-Fi 5(802.11ac) (Dual band)Bluetooth: Bluetooth 5.2USB 2 Port: 1 x USB 2.0USB 3 Port: 2 x USB 3.2 Gen 1 USB Type C: 1x USB 3.2 Gen 1HDMI Port: 1x HDMI 1.4Combo Audio Jack: 1 …
+
+---
+
+
+## Lenovo Thinkpad X1 yoga  
+**DocID:** `daraz_556808159`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/-i556808159.html
+**Price:** ৳ 37,000  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo Thinkpad X1 yoga360°Touchscreen PenLenovo Thinkpad X1 yoga360°Touchscreen Finger printPenFoldable
+
+---
+
+
+## Dell Vostro 14 3530 13th Gen Core i3-1305U 1.6 to 4.5GHz, 8GB, 512GB SSD, 15.6" FHD Laptop  
+**DocID:** `daraz_350632812`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Dell  
+**URL:** https://www.daraz.com.bd/products/dell-vostro-14-3530-13th-gen-core-i3-1305u-16-to-45ghz-8gb-512gb-ssd-156-fhd-laptop-i350632812.html
+**Price:** ৳ 68,000  
+**Rating:** 0.0/5
+
+**Description:**
+Dell Vostro 14 3530 13th Gen Core i3-1305U 1.6 to 4.5GHz, 8GB, 512GB SSD, 15.6" FHD Laptop13th Gen Core i3-1305U 1.6 to 4.5GHz, 5Cores, 6Threads, 10MB Cache8GB DDR4 RAM512GB PCIe NVMe M.2 SSD15.6 Inch Full HD (1920 x 1080) DisplayIntel UHD Graphics3 Years Brand WarrantySpecification:Brand: DellSeries: VostroModel: 14 3530Color: Titan GreyProcessor: 13th Gen Core i3-1305U 1.6 to 4.5GHz, 5Cores, 6Threads, 10MB CacheMemory: 8GB DDR4 RAMStorage: 512GB PCIe NVMe M.2 SSDDisplay: 15.6 Inch Full HD (1920 x 1080) Anti-Glare LED, Backlight, Narrow BorderGraphics: Intel UHD GraphicsOperating System: Free DosKeyboard: Non-Backlit KeyboardWebCam: 720p at 30 fps HD CameraAudio: Stereo speakers 2W x 2, Integrated Digital Microphone ArrayLAN: Integrated 10/100/1000 Ethernet LANWi-Fi: WiFi 802.11a/b/g 1x1Bluetooth: Bluetooth 5USB: 1 x USB 2.0; 2x USB 3.2 Gen 1 Type-A, 1x USB 3.2 Gen 1 Type-CHDMI: YesCard Reader: SD Card ReaderAudio Combo Jack: 1 x Headphone/Microphone ComboBattery: 3-cell, 41Wh BatteryAdapter: 65W Power AdapterDimensions (W x D x H): 358.5 x 235.6 x 19mmWeight: 1.66 KGWarranty: 3 Years
+
+---
+
+
+## Surface Laptop 6 || 14th Generation Intel Core Ultra 7 || 32 GB RAM || 2 TB SSD  
+**DocID:** `daraz_466328728`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i466328728.html
+**Price:** ৳ 274,900  
+**Rating:** 0.0/5
+
+**Description:**
+Standing screen display size - ‎13.5 Inches Max Screen Resolution - 2256 x 1504 Pixels Graphics - ‎Intel Arc Graphics Surface Laptop 6 for Business, Boost your productivity and creativity with Microsoft Copilot. Get up to two-times faster performance with the latest Intel® Core™ Ultra processors (series H), 11-15 hours of battery life, and AI-powered tools to simplify daily tasks-all in a sleek design with 13.5 inch anti-reflective touchscreen display.
 
 ---
 
@@ -7419,6 +8599,605 @@ Comfortable & Regular FIT T-ShirtPrint GuarantyFabric GSM 175Export Quality Qual
 ---
 
 
+## Stylish Premium Quality Summer Polo Shirt for Men  
+**DocID:** `daraz_526446113`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i526446113.html
+**Price:** ৳ 450  
+**Rating:** 3.0/5
+
+**Description:**
+100% Export Quality Oriented Our Own Factory Product's Quality Controlled (QC) Finishing. Unique Design 100% Export Quality Oriented Our Own Factory Product's Quality Controlled (QC) Finishing. Unique Design ​
+
+---
+
+
+## New Year Smart Quality Cotton Polo Shirt for Men - Regular Fit - Refresh Your Wardrobe - All Size Available  
+**DocID:** `daraz_299585241`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/new-year-smart-quality-cotton-polo-shirt-for-men-regular-fit-refresh-your-wardrobe-all-size-available-i299585241.html
+**Price:** ৳ 265  
+**Rating:** 3.6/5
+
+**Description:**
+Product details -Product Type: Polo Shirt. Material: Cotton. Gender: Men Fit Type: Regular Fit. Stylish Design. 100% QC Pass. Export Quality Swing.. GSM: 200 (+-10). Occasion: Casual Winter Wear and sports... 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Takdhoom.com Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29"
+
+---
+
+
+## QUIZ Clothing Mens Half Sleeve Premium Polo T-shirt For Men Regular Fit Polo Shirts, Blue  
+**DocID:** `daraz_522886925`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** QUIZ Clothing  
+**URL:** https://www.daraz.com.bd/products/-i522886925.html
+**Price:** ৳ 199  
+**Rating:** 4.9/5
+
+**Description:**
+Band Name : Quiz Clothing Sleeve :Half Sleeve Fabric : 100 % Cotton GSM : 180+ Color: Blue/As Given Picture Gender : Men Stylish Design High Quality cotton fabric Men’s PK Polo T-Shirt Size: M, L, XL#polo #t-shirt M: (chest -38 '', length-28 '') L :( chest-40 '', length-29 ") XL: ( chest -42 ", length-30")
+
+---
+
+
+## Stylish Menz Polo for All Time Fashion-Deep Green  
+**DocID:** `daraz_149318967`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i149318967.html
+**Price:** ৳ 220  
+**Rating:** 4.4/5
+
+**Description:**
+• Product Type: Polo• Main Material: PK Cotton• Gender: Men• Stylish & Fashionable• Cotton: 100%• Gsm: 200-220• Size: M, L, XL, XXL1. Size: M-Length 27, Chest 38 2. Size: L-Length 28, Chest 40
+
+---
+
+
+## MULTICOLOUR Cotton Casual Polo Shirt for Men - Polo T Shirt For Men  
+**DocID:** `daraz_300098527`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/multicolour-cotton-casual-polo-shirt-for-men-polo-t-shirt-for-men-i300098527.html
+**Price:** ৳ 185  
+**Rating:** 1.0/5
+
+**Description:**
+Product type : POLO SHART Product Brand : SP DRESS WORLD Product Material : Pure Cotton Fabric GSM: 165-170. 100% Export Quality and 100% Quality control POLO SHART. T-Shirt Measurement: Asian and Regular Fit. Quality: Incentive original POLO SHART. Status: Comfortable and Fashionable Exclusive POLO SHART. Quantity of Product : 1, 2,3,4,5 …. Product Colour :(Same As Picture) Product Size : M, L, XL Size: M=Long-27, Chest-36 L=Long-28, Chest-38 XL=Long-29, Chest-40. Product Type : Casual Shop Name: SP DRESS WORLD Applicable Scene: Daily Sleeve Length : Short Sleeve Applicable Season: WINTER, Spring and Summer Production Country : Bangladesh Area of Use : Office, University, Party, Any Festival Extra Facility : 7 Days Return Policy Material: Cotton Collar: O-Neck Sleeve Style: Regular sleeve Hooded: No Gender: MEN Pattern Type: CONTRAST Place Of Origin: Bangladesh type1: printed POLO SHART.men winter POLO SHART type2: Mens POLO SHART fashion . type3: fashion print long sleeve POLO SHART FOR men Style: Fashion Welcome to my store All POLO SHART. in stock whole year! If you do drop shopping and need picture. Please contract us Size informationSize Reference Table: Manual Measuring(inch)SizeLength(inch)Width(inch)M2738L2840XL29421. Due to different measurement methods, the size will be slightly different, this situation is not a quality problem.2. Please choose the size suitable for you according to the table.Attention: All POLO SHART.are Asian size.
+
+---
+
+
+## Premium quality cotton polo t-shirt for men-polo shirt  
+**DocID:** `daraz_343976193`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i343976193.html
+**Price:** ৳ 299  
+**Rating:** 5.0/5
+
+**Description:**
+Product details -Product Type: Polo Shirt. Material: Cotton. Gender: Men Fit Type: Regular Fit. Stylish Design. 100% QC Pass. Export Quality Swing.. GSM: 200 (+-10). Occasion: Casual Winter Wear and sports... 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Takdhoom.com Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29 #Poloshirt #Poloshirtlover
+
+---
+
+
+## Men’s Premium Cotton Polo T-Shirt – Exclusive No-Button Collar Design | Air flow fabric best for Summer | Perfect for office, outings, gatherings, or daily wear | Brand - SMART  
+**DocID:** `daraz_530451915`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i530451915.html
+**Price:** ৳ 899  
+**Rating:** 5.0/5
+
+**Description:**
+✅ Premium men's polo T-shirt from the brand "Smart" ✅ Made from high-quality breathable cotton fabric ✅ Exclusive no-button collar design for a sleek look ✅ Soft and skin-friendly material for all-day comfort ✅ Slim fit design suitable for casual and semi-formal wear ✅ Lightweight and ideal for summer or warm weather ✅ Perfect for office, outings, gatherings, or daily wear ✅ Stylish yet minimal – suitable for men of all ages ✅ Durable stitching and fade-resistant color ✅ Easy to wash and maintain ✅ Does not lose shape or shrink easily ✅ Smart logo branding adds a premium touch ✅ Available in multiple sizes ✅ Matches well with jeans, chinos, or shorts ✅ A thoughtful gift for stylish men ✅ স্মার্ট ব্র্যান্ডের প্রিমিয়াম কোয়ালিটির পলো টি-শার্ট ✅ উন্নতমানের সফট ও ব্রিদেবল কটন ফেব্রিক ✅ এক্সক্লুসিভ বাটন ছাড়া কলার ডিজাইন ✅ হালকা ও আরামদায়ক – গরমে ব্যবহার উপযোগী ✅ ক্যাজুয়াল ও সেমি-ফর্মাল উভয় ব্যবহারেই মানানসই ✅ দৈনন্দিন পরিধানের জন্য পারফেক্ট ✅ দারুন ফিটিং – সকল বডি টাইপের জন্য উপযোগী ✅ সহজে ধোয়া যায়, ফেইড বা সঙ্কুচিত হয় না ✅ মজবুত সেলাই ও ফ্যাশনেবল কাটিং ✅ স্মার্ট লোগো ব্র্যান্ডিং সহ ✅ যেকোনো ট্রাউজার বা জিন্সের সাথে মানিয়ে যায় ✅ উপহার হিসেবে অসাধারণ ✅ বিভিন্ন সাইজে পাওয়া যায় ✅ ফ্যাশনে প্রিমিয়াম টাচ আনবে ✅ পুরুষদের জন্য আধুনিক স্টাইল স্টেটমেন্ট স্মার্ট ব্র্যান্ড এর প্রিমিয়াম পলো টি-শার্ট দিয়ে শুরু হোক আপনার নতুন স্টাইল জার্নি। উন্নতমানের সফট কটন ফেব্রিক দ্বারা তৈরি এই টি-শার্টটি একাধারে আরামদায়ক, শ্বাস-প্রশ্বাসযোগ্য এবং স্টাইলিশ। গরম আবহাওয়ায় দিনভর আরামের জন্য আদর্শ এই পোশাক।এই পলো …
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts  
+**DocID:** `daraz_302567947`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/cotton-half-sleeve-polo-shirts-for-men-multicolor-polo-shirts-i302567947.html
+**Price:** ৳ 440  
+**Rating:** 5.0/5
+
+**Description:**
+Product type: Polo T-shirt Material: synthetic Gender: Men Stylish Design High Quality synthetic fabric Fabric: 70% synthetic 30% Cotton Fabrication: 180+ GSM M, L, XLM: M= (chest -38 '', length-28 '') L :( chest-40 '', length-29 ") XL: ( chest -42 ", length-30") This Polo T-Shirt for Men's comfortable and can be worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful Polo shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and is easy to clean. It is perfect to wear with jeans and gabardine pant. Short Sleeve design with a regular fit for men. It is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt For Men  
+**DocID:** `daraz_526624533`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i526624533.html
+**Price:** ৳ 319  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Premium style Polo Shirt for men - Polo T ShirtProduct details Special Premium Cotton Polo Shirt For Men Product Type: Polo Shirt Material: Cotton Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing G.S.M: 200 (+-10) Occasion: Casual Summer Wear and sports. 7 days Return Easy Return Made in: Bangladesh Print QC Passed Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29" This polo is perfect for a young and smart person. It is normally associated with a collar and placket with typically two or three buttons and an optional pocket. A dress-length version of the shirt is called a polo dress. It is made of cotton fabrics. This polo will make a fashion-conscious person like you smarter than ever. It is comfortable during your workout and easy to clean.
+
+---
+
+
+## Premium China Polo Shirt Triangle Pattern For Men- polo t-shirt  
+**DocID:** `daraz_409244081`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i409244081.html
+**Price:** ৳ 499  
+**Rating:** 5.0/5
+
+**Description:**
+A-MAN's Premium China Polo Shirt Triangle Pattern For Men-● Crafted from thin polyester fiber fabric, perfect for leisure activities during summer.● Features a stylish triangle pattern for a modern touch.● Designed as a pullover style with regular sleeves for easy wear and comfort.Summertime wear is made extremely comfy by the cotton fabric. This casual shirt is appropriate for the workplace, school, or any semi-formal gatherings.So beat the heat this summer and look super cool and trendy in our Casual Shirt for men. ✅ Material:China✅ Fit: Slim Fit✅ Size: M, L, XL, XXLSize Chart:M = Chest 38" Length 27.5"L= Chest: 40" Length 28.5"XL = Chest 42" Length 29.5"XXL= Chest 44" Length 30.5
+
+---
+
+
+## Eid special cotton polo t shirt for men-Polo T shirt  
+**DocID:** `daraz_346164174`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i346164174.html
+**Price:** ৳ 285  
+**Rating:** 4.0/5
+
+**Description:**
+Product details-Product Type: Polo Shirt. Material: Cotton. Gender: Men Fit Type: Regular Fit. Stylish Design. 100% QC Pass. Export Quality Swing.. GSM: 200 (+-10). Occasion: Casual Winter Wear and sports... 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Takdhoom.com Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29 #Poloshirt #Poloshirtlover
+
+---
+
+
+## Maroon Cotton Polo For Men - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_100700034`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i100700034.html
+**Price:** ৳ 344  
+**Rating:** 3.9/5
+
+**Description:**
+Product Type: Polo Color: Maroon Main Material: Cotton Gender: Men Quality : Expor #polo t shirt for men #polo t shirt
+
+---
+
+
+## GoodMan Premium Quality Petrol Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_541549424`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** Goodman  
+**URL:** https://www.daraz.com.bd/products/-i541549424.html
+**Price:** ৳ 690  
+**Rating:** 4.9/5
+
+**Description:**
+Brand : GoodMan Product Type: Men's Polo Shirt. Summer Collection Fabric: Single Jersey Cotton Fabric - 200 GSM, 95%Cotton 5% Spandex, Soft Hand feel. Wash: Softener and Silicon wash. Fabric Test: Shrinkage Test, Color Fastness, Tear Strength, Pilling Resistance. Style: Casual Type: Polo Shirt. Gender: Men Production Country: Bangladesh 100% Export Quality. Color: Petrol (Same as Picture) GoodMan Premium Polo T Shirt.This Polo T-Shirt made with soft hand feel Knit fabric which features 95% cotton and 5% Lycra. The polo T-Shirt is very comfortable to wear in all season. It has a soft touch feel with body.
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts - Polo T Shirt  
+**DocID:** `daraz_302794198`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/cotton-half-sleeve-polo-shirts-for-men-multicolor-polo-shirts-polo-t-shirt-i302794198.html
+**Price:** ৳ 440  
+**Rating:** 5.0/5
+
+**Description:**
+Product type: Polo T-shirt Material: synthetic Gender: Men Stylish Design High Quality synthetic fabric Fabric: 70% synthetic 30% Cotton Fabrication: 180+ GSM M, L, XLM:Â M= (chest -38 '', length-28 '') L :( chest-40 '', length-29 ") XL: ( chest -42 ", length-30") #polo t shirt #polo t shirt This Polo T-Shirt for Men's comfortable and can be worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful Polo shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and is easy to clean. It is perfect to wear with jeans and gabardine pant. Short Sleeve design with a regular fit for men. It is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable
+
+---
+
+
+## Crocodiles Men's Custom Slim Fit Pony Embroidered Short-Sleeved Polo Shirt  
+**DocID:** `daraz_291670706`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i291670706.html
+**Price:** ৳ 820  
+**Rating:** 5.0/5
+
+**Description:**
+Cotton, Half Sleeve Signature embroidered Crocodile Pony at the left chest. 𝟏𝟎𝟎% 𝐄𝐱𝐩𝐨𝐫𝐭 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 Knit & Dyeing Fabric, 𝟏𝟎𝟎% Cotton, 𝐆𝐒𝐌: +/- 230 Wrinkle Free, Machine Washable S= 39-40” Chest, Length 27” inches M= 41-42” Chest, Length 28” inches L= 43-44” Chest, Length 29” inches XL=45-46” Chest, Length 30” inches XXL=47-48” Chest, Length 31” inches #polo t shirt for men
+
+---
+
+
+## Cotton polo T Shirts for men-multi color stripped polo shirt for men  
+**DocID:** `daraz_301979483`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/cotton-polo-t-shirts-for-men-multi-color-stripped-polo-shirt-for-men-i301979483.html
+**Price:** ৳ 440  
+**Rating:** 1.0/5
+
+**Description:**
+Product type: Polo T-shirt Material: synthetic Gender: Men Stylish Design High Quality synthetic fabric Fabric: 70% synthetic 30% Cotton Fabrication: 180+ GSM M, L, XLM: M= (chest -38 '', length-28 '') L :( chest-40 '', length-29 ") XL: ( chest -42 ", length-30")This Polo T-Shirt for Men's comfortable and can be worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful Polo shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and is easy to clean. It is perfect to wear with jeans and gabardine pant. Short Sleeve design with a regular fit for men. It is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable.Size: Product type: Polo T-shirtMaterial: syntheticGender: MenStylish DesignHigh Quality synthetic fabricFabric: 70% synthetic 30% CottonFabrication: 180+ GSMM, L, XLM: M= (chest -38 '', length-28 '')L :( chest-40 '', length-29 ")XL: ( chest -42 ", length-30")This Polo T-Shirt for Men's comfortable and can be worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful Polo shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and is easy to clean. It is perfect to wear with jeans and gabardine pant. Short Sleeve design with a regular fit for men. It is ve …
+
+---
+
+
+## SMUG Premium Contrast Polo Shirt - Fabric soft and comfortable  
+**DocID:** `daraz_298349659`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** SMUG  
+**URL:** https://www.daraz.com.bd/products/smug-i298349659.html
+**Price:** ৳ 399  
+**Rating:** 4.5/5
+
+**Description:**
+Tshirt Size Chart Size : M (CHEST 38 LENGTH 27) L (CHEST 40 LENGTH 28) XL (CHEST 42 LENGTH 29) XXL (CHEST 44 LENGTH 29.5) SMUG is a clothing brand based in Bangladesh. We focus on carefully selecting the best clothing that is comfortable, looks great, and makes you confident. We are manufacture export oriented quality garments product which maintaining all criteria for Asian export curriculum also trying to confirm exclusive design and using latest technology of garments. Tshirt Size Chart Size :M (CHEST 38LENGTH 27)L (CHEST 40LENGTH 28)XL (CHEST 42LENGTH 29)XXL (CHEST 44LENGTH 29.5)SMUG is a clothing brand based in Bangladesh.We focus on carefully selecting the best clothing that is comfortable, looks great, and makes youconfident.We are manufacture export oriented quality garments product which maintaining all criteria for Asian export curriculum also trying to confirmexclusive design and using latest technology of garments.
+
+---
+
+
+## premium Quality polo shirt For men's  
+**DocID:** `daraz_361419231`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i361419231.html
+**Price:** ৳ 259  
+**Rating:** 4.5/5
+
+**Description:**
+Step 1: - Product title: Premium quality polo shirt for men - Category: Fashion &gt; Men &gt; Clothing &gt; Polo Shirts - Main material: Cotton Step 2: - Additional keywords: None Step 3: • Premium quality cotton material for ultimate comfort. • Classic polo shirt design for a timeless look. • Versatile piece suitable for various casual occasions. Step 4: - No false information found. Step 5: - Return the product highlights to the user.Premium Quality polo shart for Men's Size. M.L.Xl. M. Chest.38.Length.27. L.Chest.39.Length.28. Xl.Chest.40.Length.29.&lt;style&gt; pre { white-space: pre-wrap; } &lt;/style&gt;Step 1: The product attributes are: - Product Title: premium Quality polo shirt For men's - Category Path: Fashion&gt;Men&gt;Clothing&gt;Polo Shirts - Main Material: Cotton Step 2: No additional keywords provided. Step 3: Introducing the premium Quality Polo Shirt for men, crafted with high-quality cotton for ultimate comfort and style. This classic polo shirt is a versatile wardrobe essential, perfect for casual outings or smart-casual events. The premium quality fabric ensures durability and breathability, making it ideal for everyday wear. Available in a range of sizes, this polo shirt offers a timeless and sophisticated look for men's fashion. Elevate your style with this premium polo shirt that combines comfort, quality, and effortless elegance. Step 4: The tone of voice is in accordance with Informative. Description: Introducing the premium Quality Polo Shirt for m …
+
+---
+
+
+## Half Sleeve Premium Polo T-shirt For men  
+**DocID:** `daraz_226645481`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/half-sleeve-premium-polo-t-shirt-for-men-i226645481.html
+**Price:** ৳ 399  
+**Rating:** 3.9/5
+
+**Description:**
+Product details of Half Sleeve Premium Polo T-shirt For men Product Type: Polo Main Material: PK Cotton Soft and smooth fabric Comfortable to wear Fashionable and smart design Size: M, L, XL About Long sleeves casual shirts is a cloth garment for the upper body. It is normally associated with long sleeves, a round neckline with collar. Shirts are generally made of a light, great quality fabric, and are easy to clean. Shirts with convertible long sleeves means you can roll up your sleeves when the weather gets warm and roll them back down again as the night progresses.Online Panjabi Shop is one of the popular brand for all type of products at reasonable price. They provide us different type of products very frequently. Shop your choice from this seller!.Size DescriptionSIZEChest size by inchLength size by inchM3828L4029XL4230Specifications of
+
+---
+
+
+## Exclusive Cotton Polo Shirt For Men  
+**DocID:** `daraz_530988244`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i530988244.html
+**Price:** ৳ 329  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Premium style Polo Shirt for men - Polo T ShirtProduct details Special Premium Cotton Polo Shirt For Men Product Type: Polo Shirt Material: Cotton Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing G.S.M: 200 (+-10) Occasion: Casual Summer Wear and sports. 7 days Return Easy Return Made in: Bangladesh Print QC Passed Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29" This polo is perfect for a young and smart person. It is normally associated with a collar and placket with typically two or three buttons and an optional pocket. A dress-length version of the shirt is called a polo dress. It is made of cotton fabrics. This polo will make a fashion-conscious person like you smarter than ever. It is comfortable during your workout and easy to clean
+
+---
+
+
+## Stylish Men's Casual Cotton 2024 Summer Polo Shirt Solid Color Polo Breathable Short Sleeve Men Golf Golf New Brand Clothing  
+**DocID:** `daraz_156334949`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-i156334949.html
+**Price:** ৳ 230  
+**Rating:** 4.3/5
+
+**Description:**
+100% Color Product details of Polo Product Type: Polo-shirt Main Material: Cotton (Pique Fabrics) Gender: Men & Women Comfortable and Fashionable Gsm: 180-220 Size: M, L Size: M-Length 27, Chest 38 Size: L-Length 28, Chest 40 100% Color Product details of Polo Product Type: Polo-shirt Main Material: Cotton (Pique Fabrics) Gender: Men & Women Comfortable and Fashionable Gsm: 180-220 Size: M, L Size: M-Length 27, Chest 38 Size: L-Length 28, Chest 40
+
+---
+
+
+## Men's Contrast Collar Waffle Knit Polo Shirt  
+**DocID:** `daraz_545504515`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i545504515.html
+**Price:** ৳ 749  
+**Rating:** 5.0/5
+
+**Description:**
+Key Details:Premium 220 GSM waffle fabric Breathable and summer-friendly High-quality metal zipper Modern half-zip polo design Soft, comfortable, and skin-friendly Perfect for casual and semi-formal wear Size Chart:S – Chest: 38” | Length: 26” M – Chest: 40” | Length: 27” L – Chest: 42” | Length: 28” XL – Chest: 44” | Length: 29” XXL – Chest: 46” | Length: 30” Elevate your smart-casual wardrobe with this stylish Men's Contrast Collar Waffle Knit Polo Shirt.Crafted with a modern silhouette, this shirt features a textured waffle knit fabric for all-day comfort and breathability.The contrasting black collar and sleeve cuffs add a sharp edge to the classic polo design, making it perfect for both casual outings and semi-formal settings.Whether paired with chinos or dress trousers, this shirt effortlessly combines versatility and elegance.
+
+---
+
+
+## Versatile -Sky blue colour polo t shirt for men | Premium polo t shirt for men new 2024 brand | Argentina polo tshirt- Avant-garde  
+**DocID:** `daraz_320378929`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-i320378929.html
+**Price:** ৳ 400  
+**Rating:** 5.0/5
+
+**Description:**
+✔ Product Type: Argentina Polo T-shirt for men✔ Main materials: 100% cotton✔ Farbics Gsm : 220 GSM✔ Print :Yes, Breathable print✔ Ebroidery : Yes , Logo embroidery✔ Fabrics : Garments Pique (Pk) Fabrics, Soft cotton✔ Garments wash✔ Color guarantee✔ Gender: Men✔ Smart look✔ Stylish and Fashionable✔ Soft and Comfortable✔ Easy to Wash✔ Stylish Design✔ High Quality cotton Fabric✔ 100% QC✔ Easy Return Policy✔ Made in: Bangladesh✔ Fabrication: 200- 220 GSMSize measurement Guide :[ M - Length 28" - Chest 40" ][ L - Length 29" - Chest 42" ][ XL - Length 30" - Chest 44" ][2 XL - Length 31" - Chest 46" ]This versatile sky blue polo t-shirt for men is a premium addition to your wardrobe. Made with high-quality cotton, it offers both comfort and style. The Argentina polo t-shirt from the Avant-garde brand is perfect for any occasion, whether it's a casual day out or a formal event. The sky blue colour adds a touch of sophistication to your outfit, while the classic polo design ensures a timeless look. This polo shirt is a must-have for any fashion-conscious man.
+
+---
+
+
+## GoodMan Premium Quality Navy Blue Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_424050732`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** Goodman  
+**URL:** https://www.daraz.com.bd/products/-i424050732.html
+**Price:** ৳ 660  
+**Rating:** 3.0/5
+
+**Description:**
+Brand : GoodMan Product Type: Men's Polo Shirt. Summer Collection Fabric: S/J - 200 GSM, 95% Cotton, 5% Elastance, Soft Hand feel. Wash: Softener and Silicon wash. Fabric Test: Shrinkage Test, Color Fastness, Tear Strength, Pilling Resistance. Style: Casual Type: Polo Shirt. Gender: Men Production Country: Bangladesh 100% Export Quality. Color: Navy Blue and White (Same as Picture) GoodMan Premium Polo T Shirt.This Polo T-Shirt made with soft hand feel Knit fabric which features 95% cotton and 5% Lycra. The polo T-Shirt is very comfortable to wear in all season. It has a soft touch feel with body.Size: M, L, XL, XXL M: Chest= 39", Length=27.5" L: Chest= 41", Length= 28.5" XL: Chest= 43", Length= 29.5" XXL: Chest= 45", Length= 31"
+
+---
+
+
+## Cotton Polo T-Shirt For Men - Polo T Shirt For Men  
+**DocID:** `daraz_301902652`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/cotton-polo-t-shirt-for-men-polo-t-shirt-for-men-i301902652.html
+**Price:** ৳ 420  
+**Rating:** 5.0/5
+
+**Description:**
+Product type: Polo T-shirt Material: synthetic Gender: Men Stylish Design High Quality synthetic fabric Fabric: 70% synthetic 30% Cotton Fabrication: 180+ GSM M, L, XLM: M= (chest -38 '', length-28 '') L :( chest-40 '', length-29 ") XL: ( chest -42 ", length-30") This Polo T-Shirt for Men's comfortable and can be worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful Polo shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and is easy to clean. It is perfect to wear with jeans and gabardine pant. Short Sleeve design with a regular fit for men. It is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable.Size: M, L, XLM: (chest -38 '', length-28 '')L :( chest-40 '', length-29 ")XL: ( chest -42 ", length-30")This Polo T-Shirt for Men's comfortable and can be worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful Polo shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and is easy to clean. It is perfect to wear with jeans and gabardine pant. Short Sleeve design with a regular fit for men. It is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable.Size: M, L, XLM: (chest -38 '', lengt …
+
+---
+
+
+## Trendy Fashionable Cotton Zipper Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_527032450`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i527032450.html
+**Price:** ৳ 349  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Trendy Fashionable Cotton Zipper Polo Shirt For Men - Polo T ShirtProduct Type: Polo Shirt Material: Cotton Decoration:Zippers Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) Occasion: Casual Winter Wear and sports. 7 days Return Easy Return Made in: Bangladesh Print QC Passed Size Chart: M - Chest – 38", Length – 27” L - Chest – 40" ,Length - 28" XL- Chest – 42", Length – 29" This polo is perfect for the young and smart person. It is normally associated with collar and placket with typically two or three buttons, and an optional pocket. A dress-length version of the shirt is called a polo dress. It is made by cotton fabrics. This polo will make a fashion conscious person like you smarter than ever. It is comfortable during your workout and are easy to clean.
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt,  
+**DocID:** `daraz_525235107`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i525235107.html
+**Price:** ৳ 319  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Trendy Fashionable Cotton Polo Shirt For Men - Polo T ShirtProduct Type: Polo Shirt Material: Cotton Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) 7 days Return Easy Return Made in: Bangladesh Print QC Passed Size Chart: M - Chest – 38", Length – 27” L - Chest – 40" ,Length - 28" XL- Chest –42", Length – 29" This polo is perfect for the young and smart person. It is normally associated with collar and placket with typically two or three buttons, and an optional pocket. A dress-length version of the shirt is called a polo dress. It is made by cotton fabrics. This polo will make a fashion conscious person like you smarter than ever. It is comfortable during your workout and are easy to clean.
+
+---
+
+
+## RELIVE Original Premium Summer Polo T-shirt soft and comfortable mesh Fabric t shart for man stylish and printed polo T shart  
+**DocID:** `daraz_368305969`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i368305969.html
+**Price:** ৳ 450  
+**Rating:** 4.7/5
+
+**Description:**
+Comfortable & Regular FIT polo T-ShirtPrint GuarantyFabric GSM 175Export Quality Quality Control.mesh FabricPolo T-Shirt Status: Comfortable & FashionableColor: (As given picture)Status: Comfortable and Fashionable Exclusive polo T-shirtTshirt Size Chart Size :M (CHEST 38 LENGTH 27)L (CHEST 40 LENGTH 28)XL (CHEST 42 LENGTH 29) XXL (CHEST 44 LENGTH 29.5)
+
+---
+
+
+## White Polo Mesh Premium Shirt for Men - Stay Cool and Stylish with this Classic White Polo - All Occasion  
+**DocID:** `daraz_231811388`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/white-polo-mesh-premium-shirt-for-men-stay-cool-and-stylish-with-this-classic-white-polo-all-occasion-i231811388.html
+**Price:** ৳ 370  
+**Rating:** 4.6/5
+
+**Description:**
+Tshirt Size Chart Size :M (CHEST 38 LENGTH 27)L (CHEST 40 LENGTH 28)XL (CHEST 42 LENGTH 29)XXL (CHEST 44 LENGTH 29.5)* (GSM 160-165) Tshirt Size Chart Size : M (CHEST 38 LENGTH 27) L (CHEST 40 LENGTH 28) XL (CHEST 42 LENGTH 29) XXL (CHEST 44 LENGTH 29.5) * (GSM 160-165)
+
+---
+
+
+## Black Stand-up collar Polo T-shirt Half sleeves T-shirts for men's Mens Regular Fit Tshirt  
+**DocID:** `daraz_386368907`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i386368907.html
+**Rating:** 0.0/5
+
+**Description:**
+Size: M, L, XL, XXL M-Length 26,Chest 36 L-Length 27,Chest 38 XL-Length 28,Chest 40 XXL-Length 29,Chest 42 Fabric:100% Polyester Quality:High Quality Type:Flat knit collar Color: As given picture Collection for Men & Women & Girls frindly key: #t shirt, #t shirt for man, #tshirt, #টি শার্ট, #গেঞ্জি ছেলেদের, #t-shirt, #ছেলেদের গেঞ্জি, #গেঞ্জি, #genji, #tshirt for men, #ganji, #টি শার্ট নিউ 2023, #টি শার্ট ছেলেদের, #boys t shirt, #গেঞ্জি ছেলেদের new, #t shart, #heavy metal t shirt, #ganji for men, #xxl t shirt for men, #tree shirt, #t sart, #jersey cricket, #গেনজি ছেলেদের new, #jersy football, #new t shirt 2023, #টিসাট, #গেঞ্জি ছেলেদের2023, #টি শার্ট নিউ 2023 brand, #ছেলেদের টি শার্ট, #gengi, #হাতা লম্বা গেনজি, #ছেলেদের গেঞ্জি2023, #te shirt, #ashes t shirt, #টি শাট, #black t shirt for men, #stylish t shirt for men, #ledies tops, #white t shirt for men, #celeder t shirt, #টিসাট ছেলেদের, #গেঞ্জি ফুল হাতা, #t shirt for man winter collection, #এক কালার গেঞ্জি, jarchi, #blake t shirt, #ফুলহাতা গেঞ্জি2023, #colar t shirt, #v neck t shirt, #ছেলেদের গেনজি, #high quality t shirt, #tshirt for men new 2023 brand, #te shart, #coton t shirt, #tee, #sleeveless t shirt for women, #TshirtForMan, #BTSTShirt, #Genji, #TshirtForMen, #TShirt, #TShirtForMan, #গেঞ্জি ছেলেদের, #t shirt for man, #টি শার্ট Budget Friendly Product Size: M, L, XL, XXLM-Length 26,Chest 36L-Length 27,Chest 38XL-Length 28,Chest 40XXL-Length 29,Chest 42Fabric:100% PolyesterQuality:High QualityType:Flat knit collarColor: As …
+
+---
+
+
+## GoodMan Premium Quality Dark Green Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_533472800`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** Goodman  
+**URL:** https://www.daraz.com.bd/products/-i533472800.html
+**Price:** ৳ 790  
+**Rating:** 4.8/5
+
+**Description:**
+Brand : GoodMan Product Type: Men's Polo Shirt. Summer Collection Fabric: S/J - 200 GSM, Mercerized Cotton Fabric, Soft Hand feel. Wash: Softener and Silicon wash. Fabric Test: Shrinkage Test, Color Fastness, Tear Strength, Pilling Resistance. Style: Casual Type: Polo Shirt. Gender: Men Production Country: Bangladesh 100% Export Quality. Color: Dark Green (Same as Picture) GoodMan Premium Polo T Shirt.This Polo T-Shirt made with soft hand feel Knit fabric which features 95% cotton and 5% Lycra. The polo T-Shirt is very comfortable to wear in all season. It has a soft touch feel with body.Size: M, L, XL, XXL M: Chest= 39", Length=27.5" L: Chest= 41", Length= 28.5" XL: Chest= 43", Length= 29.5" XXL: Chest= 45", Length= 31"
+
+---
+
+
+## Superlative Pure CYAN Color Polo T-Shirt For Men Stylist New Premium Quality By RKS Mega Mall Remarkable - Disclose Styles & Luxe  
+**DocID:** `daraz_314751428`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/superlative-pure-cyan-color-polo-t-shirt-for-men-stylist-new-premium-quality-by-rks-mega-mall-remarkable-disclose-styles-luxe-i314751428.html
+**Price:** ৳ 169  
+**Rating:** 4.0/5
+
+**Description:**
+Product details of Stylist premium Quality Summer Polo Shirt For Men Best In Budget Range Product Type: Polo Shirt Material: Jersey Fabrics Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) SIze- M,L,XL,XXL Occasion: Casual Winter Wear and sports.
+
+---
+
+
+## polo t shirt for men - best polo in summer  
+**DocID:** `daraz_367347391`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i367347391.html
+**Price:** ৳ 350  
+**Rating:** 4.5/5
+
+**Description:**
+QUALITY OF T-SHIRT IS VERY GOOD 100% CHINI GURA MASH FEBRIS Size : M,L,XL,XXL M--CHEST 36--LENGTH 26.5 L-- CHEST 38--LENGTH 27.5 XL--CHEST 40--LENGTH 28.5 XXL--CHEST 42--LENGTH 29.5 Step 1: - Product Title: summer polo t shirt for men - Category Path: Fashion&gt;Men&gt;Clothing&gt;Polo Shirts - Main Material: Mesh Step 2: - Additional Keywords: summer, men, polo shirt, mesh Step 3: • Summer polo t-shirt for men in breathable mesh material. • Perfect for casual wear and outdoor activities. • Classic polo shirt design for a timeless look. Step 4: - No false information found. Step 5: - Return the product highlights to the user. QUALITY OF T-SHIRT IS VERY GOOD100% CHINI GURA MASH FEBRISSize : M,L,XL,XXLM--CHEST 36--LENGTH 26.5L-- CHEST 38--LENGTH 27.5XL--CHEST 40--LENGTH 28.5XXL--CHEST 42--LENGTH 29.5
+
+---
+
+
+## Men's Navy Blue Terry Zip Polo Shirt  
+**DocID:** `daraz_545502626`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i545502626.html
+**Price:** ৳ 749  
+**Rating:** 5.0/5
+
+**Description:**
+Classic Navy Blue Color – a wardrobe essential for every season Half-Zip Collar Design – stylish, adjustable, and easy to wear Soft Terry Knit Fabric – delivers comfort with a touch of sophistication Relaxed Fit – offers freedom of movement without compromising structure Easy to Wash & Maintain – stays in shape after multiple wears Materials:Premium 220 GSM Waffle + non waffle fabric Breathable and summer-friendly High-quality metal zipper Modern half-zip polo design Soft, comfortable, and skin-friendly Perfect for casual and semi-formal wear ​ Size Chart:S – Chest: 38” | Length: 26” M – Chest: 40” | Length: 27” L – Chest: 42” | Length: 28” XL – Chest: 44” | Length: 29” Embrace modern casual style with this Men's Navy Blue Terry Zip Polo Shirt.Made from soft and breathable terry fabric, this polo features a contemporary zip-up collar and a structured fit that transitions effortlessly from day to night.The deep navy hue provides a timeless, versatile look while the half-zip detail adds a bold, sporty edge.Perfect for everything from relaxed office wear to weekend outings.
+
+---
+
+
+## premium Quality polo shirt For men's  
+**DocID:** `daraz_338737781`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i338737781.html
+**Price:** ৳ 249  
+**Rating:** 3.8/5
+
+**Description:**
+• Premium quality cotton polo shirt for men. • Classic style with a modern touch. • Soft and comfortable material for all-day wear. • Perfect for casual or dressy occasions. • Available in various sizes and colors.Premium Quality polo shart for Men's Size. M.L.Xl. M. Chest.38.Length.27. L.Chest.39.Length.28. Xl.Chest.40.Length.29.&lt;style&gt; pre { white-space: pre-wrap; } &lt;/style&gt;This premium quality polo shirt for men is made of 100% cotton, ensuring both comfort and durability. The classic design and high-quality material make it a versatile addition to any man's wardrobe. Perfect for both casual and formal occasions, this polo shirt is a must-have for any fashion-conscious man. The shirt is available in a range of sizes and colors, making it easy to find the perfect fit and style for you. Whether you're dressing up or down, this polo shirt is sure to impress.Premium Quality polo shart for Men's Size. M.L.Xl. M. Chest.38.Length.27. L.Chest.39.Length.28. Xl.Chest.40.Length.29.
+
+---
+
+
+## Premium Quality Cotton polo t-shirt for men-polo collection for men-antha colour  
+**DocID:** `daraz_529069689`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/antha-color-i529069689.html
+**Price:** ৳ 499  
+**Rating:** 2.0/5
+
+**Description:**
+Premium Cotton T-Shirt 👕✅ Fabric: 100% Cotton (Knitting & Dyeing Fabrics)✅ Brand: Takdhoom.com✅ GSM: 220 ± 10✅ Export Quality Sewing✅ Soft, Comfortable & Durable✅ Made in Bangladesh 🇧🇩Available Sizes & Measurements:📌 M Size – Length: 27" | Chest: 38"📌 L Size – Length: 28" | Chest: 40"📌 XL Size – Length: 29" | Chest: 42"📌 XXL Size – Length: 30" | Chest: 44🔥 Premium Quality | Perfect Fit | Long-Lasting ComfortPremium Cotton T-Shirt 👕✅ Fabric: 100% Cotton (Knitting & Dyeing Fabrics)✅ Brand: Takdhoom.com✅ GSM: 220 ± 10✅ Export Quality Sewing✅ Soft, Comfortable & Durable✅ Made in Bangladesh 🇧🇩Available Sizes & Measurements:📌 M Size – Length: 27" | Chest: 38"📌 L Size – Length: 28" | Chest: 40"📌 XL Size – Length: 29" | Chest: 42"📌 XXL Size – Length: 30" | Chest: 44🔥 Premium Quality | Perfect Fit | Long-Lasting Comfort
+
+---
+
+
+## GoodMan Premium Quality Navy Blue Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_533468844`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** Goodman  
+**URL:** https://www.daraz.com.bd/products/-i533468844.html
+**Price:** ৳ 790  
+**Rating:** 5.0/5
+
+**Description:**
+Brand : GoodMan Product Type: Men's Polo Shirt. Summer Collection Fabric: S/J - 200 GSM, Mercerized Cotton Fabric, Soft Hand feel. Wash: Softener and Silicon wash. Fabric Test: Shrinkage Test, Color Fastness, Tear Strength, Pilling Resistance. Style: Casual Type: Polo Shirt. Gender: Men Production Country: Bangladesh 100% Export Quality. Color: Navy Blue Mixed (Same as Picture) GoodMan Premium Polo T Shirt.This Polo T-Shirt made with soft hand feel Knit fabric which features 95% cotton and 5% Lycra. The polo T-Shirt is very comfortable to wear in all season. It has a soft touch feel with body.Size: M, L, XL, XXL M: Chest= 39", Length=27.5" L: Chest= 41", Length= 28.5" XL: Chest= 43", Length= 29.5" XXL: Chest= 45", Length= 31"
+
+---
+
+
+## premium Quality Polo Shirt For men's  
+**DocID:** `daraz_315349902`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i315349902.html
+**Price:** ৳ 300  
+**Rating:** 3.7/5
+
+**Description:**
+Premium Quality polo shart for Men's Size. M.L.Xl.M. Chest.38.Length.27.L.Chest.39.Length.28.Xl.Chest.40.Length.29.Premium Quality polo shart for Men's Size. M.L.Xl.M. Chest.38.Length.27.L.Chest.39.Length.28.Xl.Chest.40.Length.29.
+
+---
+
+
+## classic pique cotton polo shirt for men  
+**DocID:** `daraz_346871373`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i346871373.html
+**Price:** ৳ 330  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Stylist Premium Quality Summer Polo Shirt For MenProduct Type: Polo Shirt Material: Cotton Gender: Men Fit Type: Regular Fit Stylish Design Export Quality Swing GSM: 200 (+-10) Made in: Bangladesh Print QC Passed Size Chart: M: Chest: 37/38", Length: 27” L: Chest: 39/40"; length: 28" XL: Chest: 41/42", Length: 29 Premium quality Polo Shirt with 100% QC pass product. Fabric and swing is very high quality. This Polo Shirt is suitable for any condition of winter. It's casual looking and also very stylish.About :We buy online is a trusted and reliable fashion product seller in all over the Bangladesh. We buy online manufactures quality products. Always we follow our quality. We Provides premium quality 100% QC pass product & always remind that “a return customer is our business asset”. Specifications of Premium Cotton Casual Polo T-Shirt for Men - Comfortable to Wear in All Seasons and Occasions
+
+---
+
+
+## Stylist New Premium Quality Summer BLUE Polo T-Shirt For Men By RKS Mega Mall  
+**DocID:** `daraz_314611827`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/rks-i314611827.html
+**Price:** ৳ 174  
+**Rating:** 3.8/5
+
+**Description:**
+Product details of Stylist premium Quality Summer Polo Shirt For Men Best In Budget Range Product Type: Polo Shirt Material: Jersey Fabrics Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) SIze- M,L,XL,XXL Occasion: Casual Winter Wear and sports.
+
+---
+
+
 ## Versatile -Hot Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men- Avant-garde Any Color  
 **DocID:** `daraz_347609148`
 **Source:** Daraz  
@@ -9320,6 +11099,605 @@ Nike air design Sneakers Trendy Converse Casual Lace up Light weight European si
 ---
 
 
+## Sneakers for Men - Panda Collection Stylish Running Shoes for Boys Lightweight and Breathable Nonslip Sneakers for Outdoor Activities  
+**DocID:** `daraz_338755053`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i338755053.html
+**Price:** ৳ 1,149  
+**Rating:** 4.6/5
+
+**Description:**
+Department Name: Adult Gender: MEN Outsole Material: EVA Applicable Place: PVC Floor Upper Material: Mesh Feature: Breathable Shoe Width: Medium(B,M) Closure Type: Lace-up Insole Material: EVA Lining Material: Cotton Fabric Elements: Thread Upper Height: Medium Cut Sports Type: LIFESTYLE Color : Black, Grey size: 40 | 41 | 42 | 43 | 44 Shoe Wight : Supper Light Weight features: lightweight, breathable, shockproof, nonslip #shoe for boys #shoes for men #জুতা ছেলেদের #sneakers for men #juta #sneakers These sneakers for men are the perfect addition to your shoe collection. The Panda Y-23814 model is designed for running and outdoor activities, with a breathable and nonslip design that ensures comfort and safety. The medium cut upper height provides support and stability, while the lace-up closure ensures a secure fit. The black and grey color options are versatile and stylish. Made with a combination of rubber, nylon, cotton, EVA, mesh, and PVC, these shoes are air passable, light weight, and quick dry. Perfect for use in the winter season, these sneakers are a must-have for any fashion-forward man.
+
+---
+
+
+## New Collection Black Green And Grey Color SPANISH Casual Sneakers Canvas Shoes For Men Comfortable And Lightweight Shoe For Walking M18  
+**DocID:** `daraz_336141596`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/m18-i336141596.html
+**Price:** ৳ 459  
+**Rating:** 4.3/5
+
+**Description:**
+Casual Sneaker Shoes Cash On Delivery Service Color: Black,Green And Grey Size: 40,41,42,43 Material: Coton,Leather & Eva Sole. #Shoes #Full_shoes #Half_shoes #Sneakers_shoes #Sports_shoes #Running_sneakers_shoes গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.
+
+---
+
+
+## Versatile -Choice and Remark -Flix Fashion sneakers for men lightweight fashionable breathable shoes for men- Avant-garde  
+**DocID:** `daraz_322815181`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/versatile-choice-and-remark-flix-fashion-sneakers-for-men-lightweight-fashionable-breathable-shoes-for-men-avant-garde-i322815181.html
+**Price:** ৳ 1,490  
+**Rating:** 5.0/5
+
+**Description:**
+Product Category Sports casual shoes Place of origin Wenzhou, Zhejiang, China Style Korean version Features Breathable Brand Flix Footwear Applicable gender male Pattern Color matching Upper material Artificial PU Applicable sports General Inner material Mesh Upper height Low help Toe shape Round head height of heel Flat heel Insole material EVA Fastest DeliveryWe provide fastest delivery services to our customer in allover Bangladesh. Inside Dhaka we deliver our product within next 2 days. Outside Dhaka we deliver it next 3 daysQUALITYAll our product manufactured in China Guangzhou province. In fact quality is not merely a buzzword for us; it is an inherent part of our work culture. Quality being the essence of creativity is reflected in all our designs. Every stage of the production process is monitored to ensure that our clients get nothing but the best. Each and every piece is thoroughly checked at the finishing stage before it is finally packed and shipped to its destination. The idea of doing it is to give you true value for money in all times to come.VALUE FOR MONEYPeople urge you to choose from their products because they are cheap. But are they worth the value? We do not claim our products to be the cheapest, but definitely guarantee that they carry best value for your money. After all, Quality comes with a price tag.IN TOUCH WITH TIMEWe regularly visit all major footwear & fashion industry trade shows across the globe. This activity keeps us upgraded as far as lates …
+
+---
+
+
+## Fashionable Exclusive Sneakers Converse for Men  
+**DocID:** `daraz_345974616`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i345974616.html
+**Price:** ৳ 565  
+**Rating:** 4.0/5
+
+**Description:**
+Step 1: - Product Title: Fashionable Exclusive Sneakers Converse for Men - Men Shoes Closure: Lace-up - Category Path: Fashion&gt;Men&gt;Shoes&gt;Sneakers - Main Material: PU Leather Step 2: - Additional Keywords: Fashionable, Exclusive, Men, Sneakers, Converse, PU Leather Step 3: • Fashionable exclusive Converse sneakers for men. • Lace-up closure for a secure and adjustable fit. • Made with high-quality PU leather material. • Perfect for fashion-forward men who love stylish footwear. Step 4: • Fashionable exclusive Converse sneakers for men. • Lace-up closure for a secure and adjustable fit. • Made with high-quality PU leather material. • Perfect for fashion-forward men who love stylish footwear.Step 1: Filtered productAttributes: { "Product Title": "Fashionable Exclusive Sneakers Converse for Men", "Men Shoes Closure": "Lace-up", "Category Path": "Fashion&gt;Men&gt;Shoes&gt;Sneakers", "Main Material": "PU Leather" } Step 2: additionalKeyWords: None Step 3: Introducing the Fashionable Exclusive Sneakers Converse for Men, designed with a lace-up closure for a secure fit. Crafted from high-quality PU leather, these sneakers are perfect for the fashion-forward man. Whether you're hitting the streets or stepping out for a casual event, these stylish sneakers offer both comfort and trendsetting style. Elevate your shoe collection with these versatile and durable sneakers that effortlessly blend fashion and function. Step 4: The tone of voice is in accordance with Informative. Pr …
+
+---
+
+
+## Black Casual Slip-On Shoe For Men  
+**DocID:** `daraz_122185090`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** Bata  
+**URL:** https://www.daraz.com.bd/products/-i122185090.html
+**Price:** ৳ 1,099  
+**Rating:** 4.6/5
+
+**Description:**
+Product Type: Black Casual Slip-On Shoe For Men Brand: North Star Color: Black Upper Material: Synthetic Sole Material: PVC Gender: Men Closing: Closed CONTENT: Weekend adventures call for black casual comfort that doesn't sacrifice style. These shoes from North Star and stay trendy and relaxed all day. Lightweight soles make casual styles for men easy to wear without compromising on stylish. STYLE TIP: Style up these cool casual shoes with a cotton t-shirt and ripped jeans for a trendy look.
+
+---
+
+
+## Indispensable-Quality And Durability-Stylish Blue And Green Color SUPERAR Sports Sneakers Shoes For Men-Canvas Shoes For Summer M38  
+**DocID:** `daraz_349251223`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/m38-i349251223.html
+**Price:** ৳ 540  
+**Rating:** 4.2/5
+
+**Description:**
+New Arrival Casual Sneakers ShoesCash On Delivery Service Color: Blue & GreenEva Sole & Artificial Leather UpperSize: 40,41,42,43.#Shoes#Full_shoes#Half_shoes#Sneakers_shoes#Sports_shoes#Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## Trendy Sports Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes  
+**DocID:** `daraz_307069374`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i307069374.html
+**Price:** ৳ 550  
+**Rating:** 3.6/5
+
+**Description:**
+Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes Upper Material: SyntheticFeature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-AbsorbantClosure Type: Lace-UpOutsole Material: RubberLining Material: MeshSeason: SummerInsole Material: EVAPattern Type: Mixed ColorsFit: Fits smaller than usual. Please check this store's sizing infoShoe Type: BasicDepartment Name: AdultItem Type: casual shoes
+
+---
+
+
+## New Hot Collection of Stylish and Innovative Winter and Summer Exclusive Low Top Sneakers Converse Shoes for Men  
+**DocID:** `daraz_388048530`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i388048530.html
+**Price:** ৳ 498  
+**Rating:** 4.5/5
+
+**Description:**
+Step 1: The productAttributes contain valid information. Step 2: No additional keywords provided. Step 3: Introducing the Brand New Comfortable Stylish & Fashionable Sports Look Lace Up Canvas Sneakers Shoes For Men 2024 Model. These sneakers feature a medium cut upper height and lace-up closure, making them perfect for various occasions such as Korean, party, military, retro & vintage, office, street style, rock and roll, and tropical island trends. Crafted from PU leather, these shoes are a part of the new summer collection, offering both comfort and style. Ideal for the fashion-forward man, these sneakers are a must-have for the summer season. Step 4: The tone of voice is in accordance with Informative. Final Product Description: Introducing the Brand New Comfortable Stylish & Fashionable Sports Look Lace Up Canvas Sneakers Shoes For Men 2024 Model. These sneakers feature a medium cut upper height and lace-up closure, making them perfect for various occasions such as Korean, party, military, retro & vintage, office, street style, rock and roll, and tropical island trends. Crafted from PU leather, these shoes are a part of the new summer collection, offering both comfort and style. Ideal for the fashion-forward man, these sneakers are a must-have for the summer season.
+
+---
+
+
+## New collection Winter shoe Panda 3087 Running Shoe  
+**DocID:** `daraz_323434715`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/3087-i323434715.html
+**Price:** ৳ 999  
+**Rating:** 4.3/5
+
+**Description:**
+Department Name: Adult Gender: MEN Outsole Material: EVA Applicable Place: PVC Floor Upper Material: Mesh Feature: Breathable Shoe Width: Medium(B,M) Closure Type: Lace-up Insole Material: EVA Lining Material: Cotton Fabric Elements: Thread Upper Height: HIGH Sports Type: LIFESTYLE Color : Black, Brown size: 40 | 41 | 42 | 43 | 44 features: lightweight, breathable, shockproof, nonslip #shoe for boys #shoes for men #জুতা ছেলেদের #sneakers for men #juta #sneakers Introducing the new collection Winter shoe Panda 3087 Running Shoe, perfect for men who love to stay active and stylish. These sports sneakers are designed to provide maximum comfort and support during your workouts. The shoes are made with high-quality materials that ensure durability and longevity. The Panda 3087 Running Shoe is perfect for outdoor activities such as running, hiking, and other sports. With its sleek design and comfortable fit, you'll be able to perform at your best without any discomfort. Whether you're a professional athlete or just starting out, these shoes are a must-have for your collection.#shoe for boys#shoes for men#জুতা ছেলেদের#sneakers for men#juta#sneakers
+
+---
+
+
+## New Lambor Ghini Sneaker Men Casual Shoes Men Fashion Sneakers  
+**DocID:** `daraz_484230279`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i484230279.html
+**Price:** ৳ 499  
+**Rating:** 5.0/5
+
+**Description:**
+Lining: Leather LAMBRGN Sole: Leather insole, Rubber sole Lace-up Material: calfskin Sole colour: white & black Closure type: Lacing Lining: Leather Toe cap: Round toe Special: white ,black Gender: Men Season: all Insole: Leather Very quality and durable product Lining: LeatherLAMBRGNSole: Leather insole, Rubber soleLace-upMaterial: calfskinSole colour: white & blackClosure type: LacingLining: LeatherToe cap: Round toeSpecial: white ,blackGender: MenSeason: allInsole: LeatherVery quality and durable product
+
+---
+
+
+## Blue Black and Cream Color JAPANESE Casual Sneakers Canvas Sneakers for Men - Lightweight Comfortable and Suitable for All Seasons  
+**DocID:** `daraz_321765200`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/blue-black-and-cream-color-japanese-casual-sneakers-canvas-sneakers-for-men-lightweight-comfortable-and-suitable-for-all-seasons-i321765200.html
+**Price:** ৳ 425  
+**Rating:** 4.2/5
+
+**Description:**
+Casual Sneaker Shoes Cash On Delivery Service Color: Blue,Black ,Cream Size: 40,41,42,43 Material: Coton,Leather & Eva Sole. #Shoes #Full_shoes #Half_shoes #Sneakers_shoes #Sports_shoes #Running_sneakers_shoes Comfortable New Arrival We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## Eid New Shoes Collection Black Cotton Fabrics Sneaker Print Shoes Slip-Ons & Sneakers for Men C002  
+**DocID:** `daraz_360294765`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/c002-i360294765.html
+**Rating:** 0.0/5
+
+**Description:**
+Main Material: Rubber,Silicone,Artficial,Leather Color: Black,Brown/Chocolate Size: 40,41,42,34 100% Authentic Product Elegant look Stylish design Comfortable to wear This is New Model Comfortable to wear Lightweight and long lasting Here is 3 Type of Sandal - Choose Your One Production by step Follow Us............. We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## High Sneaker Shoes for Men and Boyes  
+**DocID:** `daraz_318116036`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/boyes-i318116036.html
+**Price:** ৳ 1,985  
+**Rating:** 3.7/5
+
+**Description:**
+Men's Casual Shoes Gender:Men's Type: Casual Shoes Toe Shape: Round Upper Material: PU Leather Outsole Material: Rubber Occasion: Casual, Outdoor, Daily
+
+---
+
+
+## Best Collection - Stylish and Fashionable Exclusive Sneakers - Men's Versatile Footwear for Everyday Wear  
+**DocID:** `daraz_321277797`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/best-collection-stylish-and-fashionable-exclusive-sneakers-mens-versatile-footwear-for-everyday-wear-i321277797.html
+**Price:** ৳ 450  
+**Rating:** 4.3/5
+
+**Description:**
+Product Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.
+
+---
+
+
+## ChessCourt -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_423992222`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/chesscour-i423992222.html
+**Price:** ৳ 724  
+**Rating:** 4.8/5
+
+**Description:**
+QUALITY/DURABILITY: • WASH&DRY: washable at low Water Splash. • FIT & GO: Immediate maximum comfort from the first use-phase, and for all types of use • Avoid Bad Odors : Insock removable & washable for avoid bad odors. Easy slip on shoe for a fashionable outfit for your fast pace life. QUALITY/DURABILITY: WASH&DRY: washable at low Water Splash.. FIT & GO: Immediate maximum comfort from the first use-phase, and for all types of use Avoid Bad Odors : Insock removable & washable for avoid bad odors. QUALITY/DURABILITY:• WASH&DRY: washable at low Water Splash.• FIT & GO: Immediate maximum comfort from the first use-phase, and for all types of use• Avoid Bad Odors : Insock removable & washable for avoid bad odors.Easy slip on shoe for a fashionable outfit for your fast pace life.QUALITY/DURABILITY:WASH&DRY: washable at low Water Splash..FIT & GO: Immediate maximum comfort from the first use-phase, and for all types of useAvoid Bad Odors : Insock removable & washable for avoid bad odors.
+
+---
+
+
+## North Star VALERIO Slip-On Sneaker  
+**DocID:** `daraz_344077817`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** North Star  
+**URL:** https://www.daraz.com.bd/products/north-star-valerio-i344077817.html
+**Price:** ৳ 1,099  
+**Rating:** 4.8/5
+
+**Description:**
+FEATURES: Type: Casual Slip-On Sneaker Gender: Men Upper Material: PU Color: Navy Blue Sole: TPR Closing: Closed CONTENT: North Star brings these casual sneakers to get the premium feel & great comfort. These minimal slip-on shoes are crafted with a soft PU upper & TPR sole that altogether makes them highly durable with a neat design & ensures a better grip. FEATURES: - Type: Casual Slip-On Sneaker - Gender: Men - Upper Material: PU - Color: Navy Blue - Sole: TPR - Closing: Closed STYLE TIPS: Teaming a white polo & dark green sports shorts with this casual sneaker will prove your skills in men's fashion even on weekend days.
+
+---
+
+
+## Hig Qulaity Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men by Footwear Point  
+**DocID:** `daraz_350712716`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i350712716.html
+**Price:** ৳ 468  
+**Rating:** 4.3/5
+
+**Description:**
+item Type:casual shoesOutsole Material:RubberFeature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-OdorLining Material:MeshInsole Material:EVAUpper Material:FlyknitFit:Fits true to size, take your normal sizeColour:Black,Red, GreyFeature:Lightweight, comfortable,FashionSeason:Spring, Summer, Autumn, Winter Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones. Product Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.Product Type: Sneakers ConverseColor: Black and WhiteMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableCountry of Origin:Chinaitem Type:casual s …
+
+---
+
+
+## Running Sneakers White Color Shoes Casual Lace-Up Winter And Summer Men'S Shoes  
+**DocID:** `daraz_209450839`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/running-sneakers-white-color-shoes-casual-lace-up-winter-and-summer-mens-shoes-i209450839.html
+**Price:** ৳ 345  
+**Rating:** 4.1/5
+
+**Description:**
+Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes #ShoesForMen #জুতাছেলেদের #Sneakers #juta #জুতা ছেলেদের #shoes for men #white shoes
+
+---
+
+
+## Running Sneakers Black Color Casual Lace-up Shoes Winter and Summer Men's Shoes - Shoes For Men - - জুতা ছেলেদের  
+**DocID:** `daraz_210539266`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/running-sneakers-black-color-casual-lace-up-shoes-winter-and-summer-mens-shoes-shoes-for-men-i210539266.html
+**Price:** ৳ 295  
+**Rating:** 3.0/5
+
+**Description:**
+Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes #ShoesForMen #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #জুতাছেলেদের #shoesformen
+
+---
+
+
+## Indispensable-Quality And Durability-New Collection Black And White Color TopME Canvas Sneakers Shoes For Men Stylish And Comfortable Shoes For Summer M37  
+**DocID:** `daraz_349287878`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/m37-i349287878.html
+**Price:** ৳ 525  
+**Rating:** 4.7/5
+
+**Description:**
+New Arrival Casual Sneakers ShoesCash On Delivery Service Color: Black & WhiteEva Sole & Artificial Leather UpperSize: 40,41,42,43.#Shoes#Full_shoes#Half_shoes#Sneakers_shoes#Sports_shoes#Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## 2025 New Outdoor Hiking, Camping, Running, Jogging, Leisure Hiking, Waterproof, Anti Slip, Breathable Sports Shoes, Size 38-50  
+**DocID:** `daraz_546038848`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-i546038848.html
+**Price:** ৳ 2,466  
+**Rating:** 5.0/5
+
+**Description:**
+2025 New Outdoor Hiking, Camping, Running, Jogging, Leisure Hiking, Waterproof, Anti Slip, Breathable Sports Shoes, Size 38-50 Men 38-50 Big Size Outdoor Hiking Camping Running Walking Jogging Sneaker Boots Waterproof AntiI-Slip Sport Shoes Zapatos Hombre Important Notice: Please choose the shoes size refer to your FOOT LENGTH. If your foot length is 24cm, Please choose size 38 here. If your foot length is 25.5cm, Please choose size 39 here. If your foot length is 26cm, Please choose size 40 here. If your foot length is 26.5cm, Please choose size 41 here. If your foot length is 27cm, Please choose size 42 here. If your foot length is 27.8cm, Please choose size 43 here. If your foot length is 28.6cm, Please choose size 44 here. If your foot length is 29.1cm, Please choose size 45 here. If your foot length is 30cm, Please choose size 46 here. If your foot length is 30.5cm, Please choose size 47 here. If your foot length is 30.8cm, Please choose size 48 here. If your foot length is 31.8cm, Please choose size 49 here. If your foot length is 32cm, Please choose size 50 here.
+
+---
+
+
+## Grey Color Mesh Sports Sneaker  
+**DocID:** `daraz_157468402`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** Bata  
+**URL:** https://www.daraz.com.bd/products/-i157468402.html
+**Price:** ৳ 1,650  
+**Rating:** 4.5/5
+
+**Description:**
+Type: Slip-on Sports Gender: Men Upper Material: Mesh Color: Grey Sole: Phylon Closing: Closed Grey Color Mesh Sports Sneaker Type: Slip-on Sports Gender: Men Upper Material: Mesh Color: Grey Sole: Phylon Closing: Closed
+
+---
+
+
+## Fashionable Exclusive Sneakers Converse for Men  
+**DocID:** `daraz_340673811`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i340673811.html
+**Price:** ৳ 440  
+**Rating:** 3.7/5
+
+**Description:**
+Product details of New Stylish Sneakers Converse Shoes for Men-Blue SteapProduct Type: Sneakers Converse Color: Blue and White Material: Suite Leather with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Soft And Confortabe Season:Winter&Summer
+
+---
+
+
+## SPRINT Men's Canvas  
+**DocID:** `daraz_277573734`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** Sprint  
+**URL:** https://www.daraz.com.bd/products/-i277573734.html
+**Price:** ৳ 990  
+**Rating:** 4.6/5
+
+**Description:**
+Product Type: Canvas Material: FABRIC Color: Black Gender: Men Comfort and Relaxed fit Durable sole with enhanced flexibility
+
+---
+
+
+## North Star VALERIO Sneaker for Men  
+**DocID:** `daraz_362312221`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** North Star  
+**URL:** https://www.daraz.com.bd/products/north-star-valerio-i362312221.html
+**Price:** ৳ 1,299  
+**Rating:** 4.7/5
+
+**Description:**
+Product Type: Sneaker Material: PU Color: Black Gender: Men Brand: NORTH STAR Introducing the North Star Men's Casual Lace-Up Sneaker, a versatile and affordable footwear option reminiscent of the classic low-cut & neat-flat sneaker style. Crafted from durable PU with sleek and convenient colorways, these sneakers offer both a timeless appeal and modern comfort for the fashion-forward man on the go. Designed for everyday wear, these lace-up sneakers feature a closed construction with a TPR sole for reliable traction and durability across various terrains. Theis shoe ensures all-day comfort whether you're running errands or hanging out with friends. FEATURES: - Type: Casual Lace-Up Sneaker - Gender: Men - Upper Material: PU - Color: Black - Sole: TPR - Closing: Closed Style Tips: Keep it simple yet refined by pairing these sneakers with tailored chinos and a button-down shirt. Roll up the cuffs for a contemporary touch and accessorize with a sleek watch for a polished and put-together look.
+
+---
+
+
+## Men Running Sneakers Mesh Upper Synthetic rubber sole  
+**DocID:** `daraz_333723224`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i333723224.html
+**Price:** ৳ 1,450  
+**Rating:** 4.7/5
+
+**Description:**
+• Adidas Running Sneakers with Mesh Upper and Synthetic Rubber Sole. • Ideal for Men's Fashion, perfect for Running and Sports. • Lace-up Closure for a secure and comfortable fit. • Made with high-quality Mesh material for breathability. • Synthetic Rubber Sole provides excellent traction and durability.. Very comfortable to use.. Lightweight and very fit to use.&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;style&gt; pre { white-space: pre-wrap; } &lt;/style&gt;&lt;/head&gt;&lt;body&gt;These Adidas Running Sneakers are perfect for men who want to stay comfortable and stylish while working out or running. The mesh upper provides breathability and flexibility, while the synthetic rubber sole offers durability and traction. The lace-up closure ensures a secure fit, making these sneakers perfect for any type of physical activity. These sneakers are made with high-quality mesh material, ensuring that they are both lightweight and comfortable. Whether you're hitting the gym or going for a run, these Adidas Running Sneakers are the perfect choice for any active man.&lt;/body&gt;&lt;/html&gt;
+
+---
+
+
+## SNEAKERS EXCLUSIVE SHOE'S DESIGN TRENDY COLLECTION WINTER MODEL SNEAKERS SHOES FOR MEN.  
+**DocID:** `daraz_275610629`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i275610629.html
+**Price:** ৳ 499  
+**Rating:** 1.0/5
+
+**Description:**
+Sneakers Light weight Lace up Colour ful Stylish Rubber sool Casual use Stylish Comfortable Rubber sool Leather Fashionable StylishCollection Chinese TrendyRubber soolLight weight Stylish Fashioned Lace up
+
+---
+
+
+## North Star VALERIO Sneaker for Men  
+**DocID:** `daraz_362314081`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** North Star  
+**URL:** https://www.daraz.com.bd/products/north-star-valerio-i362314081.html
+**Price:** ৳ 1,299  
+**Rating:** 4.6/5
+
+**Description:**
+Product Type: Sneaker Material: PU Color: White Gender: Men Brand: NORTH STAR Introducing the North Star Men's Casual Lace-Up Sneaker, a versatile and affordable footwear option reminiscent of the classic low-cut & neat-flat sneaker style. Crafted from durable PU with sleek and convenient colorways, these sneakers offer both a timeless appeal and modern comfort for the fashion-forward man on the go. Designed for everyday wear, these lace-up sneakers feature a closed construction with a TPR sole for reliable traction and durability across various terrains. Theis shoe ensures all-day comfort whether you're running errands or hanging out with friends. FEATURES: - Type: Casual Lace-Up Sneaker - Gender: Men - Upper Material: PU - Color: White - Sole: TPR - Closing: Closed Style Tips: Keep it simple yet refined by pairing these sneakers with tailored chinos and a button-down shirt. Roll up the cuffs for a contemporary touch and accessorize with a sleek watch for a polished and put-together look.
+
+---
+
+
+## Lotto White Casual Shoe  
+**DocID:** `daraz_274310562`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** Lotto  
+**URL:** https://www.daraz.com.bd/products/lotto-i274310562.html
+**Price:** ৳ 1,437  
+**Rating:** 4.6/5
+
+**Description:**
+Easy slip on shoe for a fashionable outfit for your fast pace life.QUALITY/DURABILITY : WASH&DRY : Machine washable at low temperatures . FIT & GO : Immediate maximum comfort from the first use-phase, and for all types of use Avoid Bad Odors : Insock removable & washable for avoid bad odors. Easy slip on shoe for a fashionable outfit for your fast pace life.QUALITY/DURABILITY : WASH&DRY : Machine washable at low temperatures . FIT & GO : Immediate maximum comfort from the first use-phase, and for all types of useAvoid Bad Odors : Insock removable & washable for avoid bad odors.
+
+---
+
+
+## Bata Rugged TRAINER Lace-Up Shoe for Men  
+**DocID:** `daraz_426918806`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** Bata  
+**URL:** https://www.daraz.com.bd/products/bata-i426918806.html
+**Price:** ৳ 999  
+**Rating:** 4.6/5
+
+**Description:**
+Type: Lace-Up Shoe Gender: Men Upper Material: Synthetic+Mesh Sole: PVC Color: Olive Green Closing: Closed Crafted with precision, the Bata Rugged TRAINER Lace-Up Shoe is designed to keep you moving forward, no matter the challenge. This isn't some regular lightweight sneaker; it's a sturdy, reliable companion built to withstand the demands of your active lifestyle at an unbelievably affordable price. Get yours now and conquer your day with confidence.Features:Type: Lace-Up ShoeGender: MenUpper Material: Synthetic+MeshSole: PVCColor: Olive GreenClosing: ClosedStyle Tips: Pair these rugged trainers with your favorite jeans and a t-shirt for a casual yet stylish look. Or, dress them up with chinos and a button-down shirt for a more polished appearance. The olive green color adds a versatile touch that complements a variety of outfits.
+
+---
+
+
+## Casual Cool - Korean Canvas Slip-On Shoes in Black-Grey-Blue-Khaki | Boys' Collection  
+**DocID:** `daraz_297019805`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/casual-cool-korean-canvas-slip-on-shoes-in-black-grey-blue-khaki-boys-collection-i297019805.html
+**Price:** ৳ 399  
+**Rating:** 4.3/5
+
+**Description:**
+Material: CanvasColor: Black Gray, KhakiSize:40,41,42,43.Feature: Casual Shoes#Sneakers #juta #জুতা ছেলেদের #shoes for men #white shoes গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.
+
+---
+
+
+## New Collection Premium Quality Black And Blue Color FRENCH Casual Canvas Shoes For Men M7171  
+**DocID:** `daraz_546786485`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/m7171-i546786485.html
+**Price:** ৳ 469  
+**Rating:** 5.0/5
+
+**Description:**
+New Arrival Shoes Casual Sneaker Shoes Cash On Delivery Service Lightweight & Comfortable Color: Black & Blue Size: 40,41,42,43 Material: Coton,Leather & Eva Sole. 7 days Return Guarantee We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## Indispensable-Quality And Durability-Stylish Blue And Green Color SUPERAR Sports Sneakers Shoes For Men-Canvas Shoes For Summer M38  
+**DocID:** `daraz_349048075`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/m38-i349048075.html
+**Price:** ৳ 550  
+**Rating:** 3.5/5
+
+**Description:**
+New Arrival Casual Sneakers Shoes Cash On Delivery Service Color: Blue & Green Eva Sole & Artificial Leather Upper Size: 40,41,42,43. #Shoes #Full_shoes #Half_shoes #Sneakers_shoes #Sports_shoes #Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## Casual Sneakers Lace-up Juta For Men  
+**DocID:** `daraz_318107512`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i318107512.html
+**Price:** ৳ 1,950  
+**Rating:** 4.1/5
+
+**Description:**
+Applicable age Youth (18-40 years old) Place of origin Wenzhou, Zhejiang style motion appropriate season Spring, autumn, summer Applicable gender male pattern Color matching Upper material Flying weaving Sole material plastic Applicable sports General purpose popular elements Sewing thread Heel shape Flat heel Inner material Mesh Upper height Low help shoes Insole material
+
+---
+
+
+## New Lambor ghini sneaker men casual shoes  
+**DocID:** `daraz_342935279`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i342935279.html
+**Price:** ৳ 550  
+**Rating:** 5.0/5
+
+**Description:**
+Lining: Leather LAMBRGN Sole: Leather insole, Rubber sole Lace-up Material: calfskin Sole colour: white & black Closure type: Lacing Lining: Leather Toe cap: Round toe Special: white ,black Gender: Men Season: all Insole: Leather Very quality and durable product
+
+---
+
+
+## Hot Collection Stlysh Running Sports Sneakers Casual Lace-up Shoes Winter and Summer Men's Shoes  
+**DocID:** `daraz_318076068`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i318076068.html
+**Price:** ৳ 398  
+**Rating:** 3.8/5
+
+**Description:**
+Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes
+
+---
+
+
+## Trendy Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes  
+**DocID:** `daraz_201140871`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i201140871.html
+**Price:** ৳ 320  
+**Rating:** 5.0/5
+
+**Description:**
+Sneaker for men. Shoes for men. Summer sneaker. Summer shoes for men. shoes for men 2021 Running shoes Casual shoes Sports breathable shoes gym shoes for men walking shoes অন্যদের প্রতারণা থেকে বাঁচতে অনলাইনে পণ্য কেনার আগে অবশ্যই বাস্তবিক ছবি চ্যাটে অথবা মেসেঞ্জার থেকে দেখে নিবেন . The quality is depend on the price, we have thousands of products, we can't promise that all the products have the same quality, for we need to satisfy different customer's requirements, some one needs high quality, some one needs low price.
+
+---
+
+
+## North Star ARGON Lace-Up Lifestyle Sneaker for Men  
+**DocID:** `daraz_317099682`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** North Star  
+**URL:** https://www.daraz.com.bd/products/-i317099682.html
+**Price:** ৳ 2,999  
+**Rating:** 4.4/5
+
+**Description:**
+Product Type: MENS CANVAS F.TIME Color: White Material: PU Gender: Men Comfortable Style is what these North Star lace-up free-time casual shoes exude. This cool sneaker can be called as the epitome of modern comfort & refined style. This sleek low-top sneaker has minimal design, lace-up styling with unparalleled comfort, allowing you to stride with confidence & ensuring a comfy ride the whole day. FEATURES: - Type: Lace-Up Casual Sneaker - Gender: Men - Upper Material: PU - Color: White - Sole: Phylon - Closing: Closed STYLE TIPS: With this, a navy embroidered crew-neck t-shirt & orange sports shorts look fantastic when paired with a modern casual outfit.
+
+---
+
+
+## Bears Black Sneaker for Men-orange  
+**DocID:** `daraz_284380863`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i284380863.html
+**Price:** ৳ 1,690  
+**Rating:** 4.5/5
+
+**Description:**
+Insole Material:EVA Man Shoe Material: Knitted Upper+ PVC Outsole Lining Material: Cotton Fabric Color: Black orange Size: 39-44 Features: Fashionable, Comfortable & Durable Season: Autumn, Spring, Summer & Winter
+
+---
+
+
+## New Trendy Fashionable Black Grey Blue and Khaki Color Korean Canvas Sneakers Shoes for Men Slip On Casual Shoes  
+**DocID:** `daraz_330842925`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i330842925.html
+**Price:** ৳ 399  
+**Rating:** 4.6/5
+
+**Description:**
+Material: CanvasColor: Black,Gray, Khaki,BlueSize:40,41,42,43.Feature: Casual ShoesUper: Cotton Cloths And Artificial LeatherSole: EVA Canvas#shoes#Shoes_for_mens#Sneakers_Shoes#Sports_sneakersগুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -11107,6 +13485,605 @@ Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublaminatio
 
 **Description:**
 Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Brazil Short Sleeve Football Jersey For Man - Half Sleeve T Shirt - Brazil Football Jersey  
+**DocID:** `daraz_316768452`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i316768452.html
+**Price:** ৳ 270  
+**Rating:** 2.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2024-25 #জার্সি Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Li-Ning Full sleeve Collar Jersey For Man - T Shirt For Man - Jersey  
+**DocID:** `daraz_229216631`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i229216631.html
+**Price:** ৳ 309  
+**Rating:** 3.7/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: T-shirt Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. #jersey #jersey football #football jersey #জার্সি
+
+---
+
+
+## Brazil Copa America Jersey 2025/2026 Thai Premium Jersey For Men - Half Sleeve - Brazil Football Jersey 2025  
+**DocID:** `daraz_543916383`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i543916383.html
+**Price:** ৳ 350  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Stylish and Comfortable Short Sleeve Collar Polo Jersey For Man - Polo T Shirt For Man - Jersey  
+**DocID:** `daraz_269518713`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i269518713.html
+**Price:** ৳ 290  
+**Rating:** 4.8/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: T-shirt Print: 100% Quality Sublamination Print and Logo Embroidery Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric (Thai Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. #Jersey2024 #jersey #jersey football #football jersey #জার্সি নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম Samaro006
+
+---
+
+
+## PSG Jersey 2025/2026 Thai Premium Football Jersey for Men - Half Sleeve Jersey - PSG Football Jersey 2025  
+**DocID:** `daraz_303280410`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/psg-20252026-psg-2025-i303280410.html
+**Price:** ৳ 350  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Saudi Arabia Short Sleeve Football Jersey For Men - Half Sleeve T Shirt - Saudi Football Jersey  
+**DocID:** `daraz_275455767`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i275455767.html
+**Price:** ৳ 260  
+**Rating:** 4.1/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Barcelona 125th anniversary kit jersey full sleeves 25/26  
+**DocID:** `daraz_444213550`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/barcelona-125th-2526-i444213550.html
+**Price:** ৳ 359  
+**Rating:** 4.1/5
+
+**Description:**
+Brand : No BrandProduct Type: T-shirtPrint: 100% QualityLogo : Embroidery Color: 100% GuaranteeProduct: Same as DesignMain Material: Mesh FabricGender: Men/WomanStylish and ComfortableSize : M,L,XL,2XLM : Length 27 chest 38L: Length 28 chest 40XL : Length 29 chest 422XL: Length 30 chest 44Brand : No BrandProduct Type: T-shirtPrint: 100% QualityLogo : EmbroideryColor: 100% GuaranteeProduct: Same as DesignMain Material: Mesh FabricGender: Men/WomanStylish and ComfortableSize : M,L,XL,2XLM : Length 27 chest 38L: Length 28 chest 40XL : Length 29 chest 422XL: Length 30 chest 44
+
+---
+
+
+## ARGENTINA FOOTBALL TEAM JERSEY ( PLAYER’S EDITION) PREMIUM THAI FABRIC QUALITY  
+**DocID:** `daraz_382632353`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i382632353.html
+**Rating:** 0.0/5
+
+**Description:**
+# Barand : No Brand # Size : M, L, XL, XXL # Thai Fabrics # Embroidery Logo Size Length Chest M 27 38 L 28 40 XL 29 42 XXL 30 44# Barand : No Brand # Size : M, L, XL, XXL # Thai Fabrics # Embroidery Logo Size Length Chest M 27 38 L 28 40 XL 29 42 XXL 30 44
+
+---
+
+
+## Bashundhara Kings Short Sleeve Football Jersey for Men - Half Sleeve T Shirt - Bashundhara Jersey 2025/26  
+**DocID:** `daraz_272093219`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/202526-i272093219.html
+**Price:** ৳ 250  
+**Rating:** 4.3/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb & Insta পেজ নাম bdbazar06
+
+---
+
+
+## Portugal Thai Premium Football For Men - Half Sleeve Jersey - Portugal Football Jersey 2025  
+**DocID:** `daraz_286146142`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-i286146142.html
+**Price:** ৳ 349  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura Fabric(Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## ⚽ Ronaldo Tribute Jersey | Multi-Club Edition (Man Utd, Real Madrid, Juventus, Al-Nassr) | CR7 Fan Special 👑 | Premium Quality Football Kit  
+**DocID:** `daraz_541198217`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/ronaldo-utd-0-cr7-i541198217.html
+**Price:** ৳ 1,200  
+**Rating:** 5.0/5
+
+**Description:**
+• ✅ Cristiano Ronaldo Career Tribute Jersey • 🌍 Includes All 5 Major Clubs (Sporting, Man Utd, Real, Juventus, Al Nassr) • 🧵 High-Quality Fabric & Durable Stitching • 🖼️ Custom Multi-Logo Design for True Fans • 🎁 Perfect for Gifting Ronaldo Lovers & Collectors • 💨 Soft, Breathable & Comfortable Material • 📦 Ready Stock | Fast Delivery | Best Price 🚚Celebrate the legendary journey of Cristiano Ronaldo with this unique Ronaldo Tribute Jersey – Multi-Club Edition 🐐. This special jersey features all the iconic clubs where CR7 left his mark: Sporting CP, Manchester United, Real Madrid, Juventus, Al Nassr — in one single premium design!Perfect for die-hard Ronaldo fans who followed his entire football career. Whether you’re watching a match or collecting memories, this is the jersey that says “I witnessed greatness!” 👑⚡🔹 Unique multi-club design – one-of-a-kind look🔹 Comfortable breathable fabric – ideal for daily wear🔹 Tribute to the journey of the GOAT – CR7🔹 Premium stitching, vibrant colors, modern fit
+
+---
+
+
+## Good Quality REALMADRID Galaxy Kit jersey official premium quality new season  
+**DocID:** `daraz_397277170`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/realmadrid-i397277170.html
+**Price:** ৳ 320  
+**Rating:** 5.0/5
+
+**Description:**
+• Premium quality jerseyGender: Men/WomenSuitable for: Everyday / Sports PracticeType: SupporterSleeve: half SleeveLogo: EmbroiderySize: M, L, XL,XXLM Size = Chest 36 Length 26L Size = Chest 38 Length 27XL Size = Chest 40 Length 28XXL Size = Chest 42 Length 29#JerseyFootball• Perfect for football enthusiasts• Made with high-quality materials• Stylish design and comfortable fit• Ideal for sports and outdoor activitiesGet ready to cheer for Your team. This outdoor football jersey is designed with high-quality mesh material, ensuring breathability and comfort during intense matches. Perfect for fans of the national football team, this jersey is a must-have for showing support in style. Whether you're at the stadium or watching from home, this jersey is a symbol of pride and passion for the sport.• Premium quality jerseyGender: Men/WomenSuitable for: Everyday / Sports PracticeType: SupporterSleeve: half SleeveLogo: EmbroiderySize: M, L, XL,XXLM Size = Chest 36 Length 26L Size = Chest 38 Length 27XL Size = Chest 40 Length 28XXL Size = Chest 42 Length 29#JerseyFootball• Perfect for football enthusiasts• Made with high-quality materials• Stylish design and comfortable fit• Ideal for sports and outdoor activitiesGet ready to cheer for Your team. This outdoor football jersey is designed with high-quality mesh material, ensuring breathability and comfort during intense matches. Perfect for fans of the national football team, this jersey is a must-have for showing support in style. Whet …
+
+---
+
+
+## B-D Jersey - Football Short sleeve Jersey for Man - Banglades Fan Jersey  
+**DocID:** `daraz_268131566`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i268131566.html
+**Price:** ৳ 270  
+**Rating:** 4.3/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManCricket Club JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura Fabricআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Bashundhara Kings Short Sleeve Club Jersey For Man - Football Jersey Premium Quality Jersey New Jersey 2024  
+**DocID:** `daraz_337671211`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-i337671211.html
+**Price:** ৳ 255  
+**Rating:** 5.0/5
+
+**Description:**
+পণ্যের ধরন: টি-শার্টপ্রিন্ট: 100% গুণমানরঙ: 100% গ্যারান্টিআইইউ এর উৎসপণ্য: ডিজাইন হিসাবে একইপ্রধান উপাদান: পলি কটন ফ্যাব্রিক (জার্সি ফ্যাব্রিক)লিঙ্গ: পুরুষআড়ম্বরপূর্ণ এবং ফ্যাশনেবলআকার: এম, এল, এক্সএল, এক্সএক্সএলআকার: M-দৈর্ঘ্য 26, বুক 36আকার: L-দৈর্ঘ্য 27, বুক 38আকার: XL-দৈর্ঘ্য 28, বুক 40আকার: XXL-দৈর্ঘ্য 29, বুক 42 Unique design hijab hanger28 holes hard ringsMaterials: Soft fabricSize: length 75 cm wide: 40 cmCan be use for hijab tie and dupattaHijab Hanger For Women (28 holes Hard Rings )Unique design hijab hanger28 holes hard ringsMaterials: Soft fabricSize: length 75 cm wide: 40 cmCan be use for hijab tie and dupatta
+
+---
+
+
+## Neymar Fan Half Sleeve Tshirt For Comfortable Use - Jersey Football  
+**DocID:** `daraz_259362287`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/neymar-fan-half-sleeve-tshirt-for-comfortable-use-jersey-football-i259362287.html
+**Price:** ৳ 150  
+**Rating:** 5.0/5
+
+**Description:**
+100% Color & Print Guarantee Product details of Tshirt Product Type: T-shirt Main Material: Taiwan CVC (Jersey) Gender: Men & Women Comfortable and Fashionable Gsm: 160-170 Size: S, M, L, XL, XXL Size: S-Length 26, Chest 36 Size: M-Length 27, Chest 38 Size: L-Length 28, Chest 40 Size : XL-Length 29, Chest 42 Size: XXL-Length 30, Chest 44
+
+---
+
+
+## Argentina Jersey Full Sleeve 2022 with Collar(M size Only)  
+**DocID:** `daraz_264042733`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2022-i264042733.html
+**Price:** ৳ 299  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Argentina Jersey Full Sleeve 2022 with Collar with collar M=Long-27, Chest-37 (Only M size available) Product Material: Polyester Sublimition Print T-Shirt Status: Comfortable & Fashionable. Color: (As given picture) Status: Comfortable and Fashionable Exclusive T-shirt
+
+---
+
+
+## Brazil Premium Design World Cup jersey 2022  
+**DocID:** `daraz_271983179`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2022-i271983179.html
+**Price:** ৳ 665  
+**Rating:** 5.0/5
+
+**Description:**
+L=Length-28, Chest-38, XL - Length-29, Chest- 39 Product Material: Polyester Fabric Taiwan Micro Fabric. T-Shirt Status: Comfortable & Fashionable. Color: (As given picture) Status: Comfortable and Fashionable Exclusive T-shirt.
+
+---
+
+
+## American Express Short Sleeve Football Jersey For Man - American Jersey 2024  
+**DocID:** `daraz_409357954`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-i409357954.html
+**Price:** ৳ 250  
+**Rating:** 4.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination PrintColor: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura FabricGender: Men/Woman
+
+---
+
+
+## Brazil Full Sleeve Jersey 2025/26 Football Jersey For Men - Long Sleeve - Brazil Jersey 2025  
+**DocID:** `daraz_330853891`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/202526-2025-i330853891.html
+**Price:** ৳ 270  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #CopaAmericaJersey #CopaAmericaJersey2025 উন্নত কাপড় এবং ডিজাইনের তৈরি, পড়তে আরাম দায়ক, অত্যধনিক, থাই প্রিমিয়াম জার্সিআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06যে কোন দলের জার্সিতে নিজের নাম দিয়ে বানাতে চাইলে বা আপনার দলে জার্সি বানাতে চাইলে আমাদের সাথে যোগাযোগ করুন।
+
+---
+
+
+## Portugal CR7 Short Sleeve Polo Football Jersey For Men - Ronaldo CR7 Polo Jersey - Portugal Jersey  
+**DocID:** `daraz_191309689`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/cr7-ronaldo-cr7-i191309689.html
+**Price:** ৳ 220  
+**Rating:** 4.5/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: PP Micro Fabric (Jersey Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #JerseyFootball #PortugalJersey #PortugalJersey2026WorldCup #PortugalJersey2026 #PortugalJersey2026WorldCupOriginal Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as DesignMain Material: PP Micro Fabric (Jersey Fabric)যে কোন দলের জার্সিতে নিজের নাম দিয়ে বানাতে চাইলে বা আপনার দলে জার্সি বানাতে চাইলে আমাদের সাথে যোগাযোগ করুন। নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। bdbazar06
+
+---
+
+
+## Real Madrid 24/25 black Jersey  
+**DocID:** `daraz_415043974`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/real-madrid-2425-i415043974.html
+**Price:** ৳ 300  
+**Rating:** 1.5/5
+
+**Description:**
+Product details of Football Club New Jersey - Football Jersey ( Premium Quality) Product Type: T-shirt Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. #jersey #jersey football #football jersey #জার্সি Product details of Football Club New Jersey - Football Jersey ( Premium Quality)Product Type: T-shirtPrint: 100% QualitySublamination PrintColor: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura FabricGender: Men/WomanStylish and ComfortableSize: M, L, XL, XXLSize: M-Length 26,Chest 36Size: L-Length 27,Chest 38Size : XL-Length 28,Chest 40Size : XXL-Length 29,Chest 42. We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey#jersey football#football jersey#জার্সি
+
+---
+
+
+## B-D Jersey - Football Short sleeve Jersey for Man - Banglades Fan Jersey  
+**DocID:** `daraz_303558612`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i303558612.html
+**Price:** ৳ 260  
+**Rating:** 4.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura Fabric(Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Stylish and Comfortable Jersey - Polo T-shirt - Full sleeve Collar Polo Jersey For Man - Jersey  
+**DocID:** `daraz_287938218`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i287938218.html
+**Price:** ৳ 310  
+**Rating:** 4.4/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Ac milan new away kit full sleeves jersey 25/26 season  
+**DocID:** `daraz_348003809`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2526-i348003809.html
+**Price:** ৳ 359  
+**Rating:** 4.2/5
+
+**Description:**
+Brand : No BrandProduct Type: T-shirtPrint: 100% QualityLogo : Embroidery Color: 100% GuaranteeProduct: Same as DesignMain Material: Mesh FabricGender: Men/WomanStylish and ComfortableSize : M,L,XL,2XLM : Length 27 chest 38L: Length 28 chest 40XL : Length 29 chest 422XL: Length 30 chest 44Brand : No BrandProduct Type: T-shirtPrint: 100% QualityLogo : EmbroideryColor: 100% GuaranteeProduct: Same as DesignMain Material: Mesh FabricGender: Men/WomanStylish and ComfortableSize : M,L,XL,2XLM : Length 27 chest 38L: Length 28 chest 40XL : Length 29 chest 422XL: Length 30 chest 44
+
+---
+
+
+## FC Barcelona 2024/25 Home Kit Fan Edition Short Sleeve Jersey  
+**DocID:** `daraz_454242567`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/fc-barcelona-202425-i454242567.html
+**Price:** ৳ 1,220  
+**Rating:** 5.0/5
+
+**Description:**
+Size: S-Length 27, Chest 38 Size: M-Length 28, Chest 40 Size: X-Length 29, Chest 42 Size: XL-Length 30, Chest 44 Size: 2XL- Length 31, Chest 46 Main Material: PolyesterTeam: BarcelonaPremium Quality ProductFollow the description for size measurementFan Version JerseyVery Comfortable and Durable100% recycled polyesterMachine washDRI-FITStandard fitThe pinwheel logo signifies ‘Move to Zero’ Nike’s journey towards zero carbon and zero wasteThis product features at least 50% organic cotton, recycled polyester or a blend of organic cotton and recycled polyesterThe Best Quality JerseyFABRICFan VersionThe fan version jerseys are made from very breathable fabric, although there isn’t as much ventilation (i.e. tiny holes in the fabric). These jerseys are not stretchy as the player version and are made of a heavier weight, climate control fabric for longer durability.BADGESFan VersionThe badges on the fan version jerseys are of the same logos and badges as the player version jerseys. However, they are embroidered on the jersey to have a weightier look and feel.
+
+---
+
+
+## Dhaner Sis Voot Din Short Sleeve Polo Jersey For Men - PP Micro Collar Polo Jersey - BNP Jersey  
+**DocID:** `daraz_203126526`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/dhaner-sis-voot-din-pp-bnp-i203126526.html
+**Price:** ৳ 250  
+**Rating:** 4.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: PP Micro Fabric (Jersey Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি উন্নত কাপড় এবং ডিজাইনের তৈরি, পড়তে আরাম দায়ক, অত্যধনিক, থাই প্রিমিয়াম জার্সিআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06যে কোন দলের জার্সিতে নিজের নাম দিয়ে বানাতে চাইলে বা আপনার দলে জার্সি বানাতে চাইলে আমাদের সাথে যোগাযোগ করুন।
+
+---
+
+
+## Portugal Full Sleeve Football Jersey For Man - T Shirt For Man - Portugal Jersey 2025-26  
+**DocID:** `daraz_468198873`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-26-i468198873.html
+**Price:** ৳ 280  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #Cricket jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Bangladesh football bafufe Short sleeve Jersey For Men 2025/26  
+**DocID:** `daraz_327184126`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/202526-i327184126.html
+**Price:** ৳ 270  
+**Rating:** 3.0/5
+
+**Description:**
+rint: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #Football jersey #জার্সি Product Type: T-shirtPrint: 100% QualityColor: 100% GuaranteeProduct: Same as DesignMain Material: Poly Cotton Fabric (jersey fabric)Gender: MenStylish and FashionableColor: White, Yellow, Orenge, Lemon, Light Blue, PastSize: M, L, XL, XXLSize: M-Length 26,Chest 36Size: L-Length 27,Chest 38Size : XL-Length 28,Chest 40Size : XXL-Length 29,Chest 42#bangladesh football jersey online mart
+
+---
+
+
+## Portugal Euro 2024 Jersey Premium Quality-Portugal Short sleeve Jersey For Men-Portugal Jersey 2024  
+**DocID:** `daraz_365668060`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-2024-i365668060.html
+**Price:** ৳ 350  
+**Rating:** 4.2/5
+
+**Description:**
+Product details of Portugal Euro 2024 Jersey Premium Quality-Portugal Short sleeve Jersey For Men-Portugal Jersey 2024 Portugal Euro 2024 Jersey Premium Quality-Portugal Short sleeve Jersey For Men-Portugal Jersey 2024 Product Type: Jersey / Sportswear Product Material: Polyester Quality: Thai Mesh Age-Range: Adult Gender: Unisex Feature 1: Quick Dry Feature 2: Breathable Material Feature 3: Soft and smooth fabric Feature 4: Comfortable to wear Available Size: M, L, XL, XXL Size Chart: M - Length 26 inch, Chest Circumference 36 inch L - Length 27.5 inch, Chest Circumference 38 inch XL - Length 29 inch, Chest Circumference 40 inch XXL- Length 30.5 inch, Chest Circumference 43 inch
+
+---
+
+
+## Real Madrid FC Jersey With Shorts Combo - Player Edition Jersey - Real Madrid FC RMA Football Club - Home/Away Kit - Special Fans Version Club Jersey 2025/26 - Thai Fabrics - Short Sleeve - New Football Jersey - UEFA Champions League 2025 Design - Premium  
+**DocID:** `daraz_210937043`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/real-madrid-fcjersey-with-shorts-combo-player-edition-jersey-real-madrid-fc-rma-football-club-homeaway-kit-special-fans-version-club-jersey-202526-thai-fabrics-short-sleeve-new-football-jersey-uefa-champions-league-2025-design-premium-i210937043.html
+**Price:** ৳ 590  
+**Rating:** 4.9/5
+
+**Description:**
+Fit: Regular Fit Neck: High Quality Ribbed O-Neck Size: M,L, XL M Size Chest 36.5 Length 27 L Size Chest 38 Length 27.5 XL Size Chest 40 Length 28.5 PSG Jersey: Third Kit Full Sleeve Logo: Embroidery Authenticity: 100 Percent Authentic China Premium Material: 100% polyester Fabrics: Soft, lightweight fabric Colour: Black Especially Designed for Outdoor Sports
+
+---
+
+
+## Dragon Short Sleeve Collar Polo Jersey For Man - Half Sleeve Polo T shirt For Man - Polo Jersey  
+**DocID:** `daraz_316764712`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i316764712.html
+**Price:** ৳ 310  
+**Rating:** 4.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Real Madrid 24/25 black Jersey  
+**DocID:** `daraz_430173136`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/real-madrid-2425-i430173136.html
+**Price:** ৳ 300  
+**Rating:** 3.0/5
+
+**Description:**
+Product details of Football Club New Jersey - Football Jersey ( Premium Quality) Product Type: T-shirt Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. #jersey #jersey football #football jersey #জার্সি Product details of Football Cl ub New Jersey - Football Jersey ( Premium Quality)Product Type: T-shirtPrint: 100% QualitySublamination PrintColor: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura FabricGender: Men/WomanStylish and ComfortableSize: M, L, XL, XXLSize: M-Length 26,Chest 36Size: L-Length 27,Chest 38Size : XL-Length 28,Chest 40Size : XXL-Length 29,Chest 42. We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey#jersey football#football jersey#জার্সি
+
+---
+
+
+## Jersey T shirt For Men super china Mesh Fabric  
+**DocID:** `daraz_279029669`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i279029669.html
+**Price:** ৳ 220  
+**Rating:** 4.2/5
+
+**Description:**
+Product details of Premium Jersey T-Shirt for Men - JerseyFabric: Mesh Brand :Ipti apparels Breathable Soft Stylish T-Shirt Measurement: Asian and Regular Fit. Status: Comfortable and Fashionable Exclusive Jursey T-shirt. Size Specification: M: Long-26", Chest-38" L :Long-27", Chest-40" XL :Long-28", Chest-42" XXL :Long 29" Chest 44" #TshirtForMan #BTSTShirt #Genji #TshirtForMen #jersey china mash fabrice Jersey 2025Presenting ipti apparels mens Jersey collection for mash fabrice Jersey 2025On game day, our jersey will add a genuine touch and show your passion for your favorite team. As you represent your favorite player, sweat-wicking technology and sublimation embellishments will help to give all-day comfort.The material is mash Fabric , so it's very comfortable to wear even in summer.So bring your A-game and get yourself a ipti apparels premium jersey.
+
+---
+
+
+## Comilla Victorians Half Sleeve BPL Jersey T-Shirt For Men - Jersey /jersey 293  
+**DocID:** `daraz_291539905`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/comilla-victorians-half-sleeve-jersey-t-shirt-for-men-jersey-jarsi-i291539905.html
+**Price:** ৳ 320  
+**Rating:** 1.0/5
+
+**Description:**
+Best Quality Sublimation (no glue) Print. Life time Print guarantee. Febric high quality Jersey Febric Print Only on font side. Product Type: Sports wear Fabric Weight: 160 GSM Age: Adults Gender: Men Printing: Fully Sublimation Print Feature: Quick Dry Feature: Breathable and soft to wear Regular fit is a slightly looser cut than what players wear on the pitch Size: M, L, XL, XXL M Size Chest 36.5 Length 27 L Size Chest 38 Length 27.5 XL Size Chest 40 Length 28.5 XXL Size Chest 42 Length 29.5 #TShirtForMan #TShirtForMan #TShirt #tshirtforman #tshirt #TShirt #TShirtForMan #t shirt #t shirt for man #গেঞ্জি ছেলেদের
+
+---
+
+
+## Real Madrid Jersey 2025/2026 Football Jersey for Man - Half Sleeve t-shirt - Real Madrid Football Jersey 2025  
+**DocID:** `daraz_275574759`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i275574759.html
+**Price:** ৳ 260  
+**Rating:** 4.7/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Ferrari 2024 Team Polo T Shirt For Man - Ferrari Polo Jersey For Man - Ferrari Jersey  
+**DocID:** `daraz_188852398`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-i188852398.html
+**Price:** ৳ 289  
+**Rating:** 4.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: T-shirt Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric (Thai Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.
+
+---
+
+
+## B-d Short Sleeve Football Jersey For Men - T Shirt For Men - Banglades Fan Jersey  
+**DocID:** `daraz_330439164`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i330439164.html
+**Price:** ৳ 260  
+**Rating:** 3.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: T-shirt Print: 100% Quality Sublamination Print and Logo Embroidery Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric (Thai Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. #ManchesterCityJersey2023 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Liverpool New Jersey Football Jersey premium quality Jersey  
+**DocID:** `daraz_316138351`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i316138351.html
+**Price:** ৳ 330  
+**Rating:** 5.0/5
+
+**Description:**
+Product Type: T-shirtPrint: 100% QualityColor: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura fabricStylish and comfortableSize: M, L, XL, XXLSize: M-Length 26,Chest 36Size: L-Length 27,Chest 38Size : XL-Length 28,Chest 40Size : XXL-Length 29,Chest 42#Jersey2024Product Type: T-shirtPrint: 100% QualityColor: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura fabricStylish and comfortableSize: M, L, XL, XXLSize: M-Length 26,Chest 36Size: L-Length 27,Chest 38Size : XL-Length 28,Chest 40Size : XXL-Length 29,Chest 42#Jersey2024
+
+---
+
+
+## Real Madrid new home kit ফুটবল জার্সি half sleeves 25/26  
+**DocID:** `daraz_321779063`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2526-i321779063.html
+**Price:** ৳ 339  
+**Rating:** 4.4/5
+
+**Description:**
+Product Type: T-shirt Print: 100% Quality Color: 100% Guarantee Product: Same as Design Main Material: Poly Cotton Fabric (jersey fabric) Gender: Men Stylish and Fashionable Size: M, L, XL, XXL Size: M-Length 26,Chest 38 Size: L-Length 27,Chest 40 Size : XL-Length 28,Chest 42 Size : XXL-Length 29, Chest 44 #intermiami #miami #jersey #footballProduct Type: T-shirtPrint: 100% QualityColor: 100% GuaranteeProduct: Same as DesignMain Material: Poly Cotton Fabric (jersey fabric)Gender: MenStylish and FashionableSize: M, L, XL, XXLSize: M-Length 26,Chest 38Size: L-Length 27,Chest 40Size : XL-Length 28,Chest 42Size : XXL-Length 29, Chest 44
+
+---
+
+
+## Real Madrid Jersey 2025/2026 Thai Premium Football Jersey For Men - Half Sleeve Jersry - Real Madrid Football Jersey 2025  
+**DocID:** `daraz_247808063`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/real-madrid-20252026-2025-i247808063.html
+**Price:** ৳ 350  
+**Rating:** 1.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: PP Micro Fabric (Jersey Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as DesignMain Material: PP Micro Fabric (Jersey Fabric)যে কোন দলের জার্সিতে নিজের নাম দিয়ে বানাতে চাইলে বা আপনার দলে জার্সি বানাতে চাইলে আমাদের সাথে যোগাযোগ করুন। নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। bdbazar06
 
 ---
 
@@ -13499,6 +16476,603 @@ Model Name: vivo Y21d Dimensions 166.14 × 77.01 × 8.39 mm Protection IP68 & IP
 
 **Description:**
 Honor X5b 4/64GBThe Honor X5b is a feature-packed smartphone designed to offer powerful performance, a large display, and exceptional camera capabilities. With a 6.56-inch TFT LCD display, 13MP rear camera, 5MP front camera, and a long-lasting 20,000mAh battery, this phone is built for everyday use, whether you’re working, gaming, or capturing memories on the go. Powered by the MediaTek Helio G36 octa-core processor and running on MagicOS 8.0 (based on Android 14), it ensures a smooth and efficient experience.6.56-inch with 90Hz display 64GB stroage and microSDXC slot Fingerprint sensor 5200mAh battery capacity HONOR X5b 4GB/64GB Specifications Additional Features: 90Hz Bright & Dynamic Display | Magic Capsule | AI Object Recognition | AI Clarity Enhancement | Knuckle Screenshots | Power Button with Fingerprint | Face RecognitionOS: MagicOS 8.0 Based on Android 14Chipset: MediaTek Helio G36CPU: Octa-core (4x Cortex-A53 up to 2.2Ghz + 4x Cortex-A53 up to 1.6Ghz)GPU: IMG GE8320RAM: 4GBROM: 64GBNetwork: 2G/3G/4GSIM Card Slot: Dual Nano SIM + MicroSD (Expandable up to 1TB)Display: 6.56” TFT LCD Water Drop Screen Display | Resolution: 720x1612 | Refresh Rate: 90Hz | Aspect Ratio: 20.15:09 | Color: 16.7 million colors | Gestures: Multi-touch gestures (up to 10 touch points supported)Rear Camera: 13MP Main Camera + Auxiliary Camera | 10x Digital zoom | LED flashCamera Mechanism: Aperture: f/1.8 | Resolution: 4160×3120Photography: Portrait (including beauty mode and bokeh), High-Res, …
+
+---
+
+
+## IQOO Z10 turbo plus 12-256 CN  
+**DocID:** `daraz_557098831`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Vivo  
+**URL:** https://www.daraz.com.bd/products/-i557098831.html
+**Price:** ৳ 45,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Smartphone Full SpecificationsCategoryDetailsNetworkTechnology: GSM / HSPA / LTE / 5GLaunchAnnounced: 2025, August 07 Status: Available. Released 2025, August 07BodyDimensions: 163.7 x 75.9 x 8.2 mm (6.44 x 2.99 x 0.32 in) Weight: 212 g (7.48 oz) SIM: Nano-SIM + Nano-SIM IP Rating: IP65 dust tight and water resistant (low pressure water jets)DisplayType: AMOLED, 1B colors, 144Hz, HDR, 4320Hz PWM, 2000 nits (HBM), 5500 nits (peak) Size: 6.78 inches, 111.0 cm² (~89.3% screen-to-body ratio) Resolution: 1260 x 2800 pixels, 20:9 ratio (~453 ppi density)PlatformOS: Android 15, OriginOS 5 Chipset: Mediatek Dimensity 9400+ (3 nm) CPU: Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720) GPU: Immortalis-G925MemoryCard slot: No Internal: 256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM UFS 4.1Main CameraDual: 50 MP, f/1.8, (wide), 1/1.95", 0.8µm, PDAF, OIS 8 MP, f/2.2, (ultrawide) Features: Color spectrum sensor, LED flash, HDR, panorama Video: 4K, 1080p, gyro-EIS, OISSelfie CameraSingle: 16 MP, f/2.5, ( …
+
+---
+
+
+## Realme 12 8GB/256GB (Official)  
+**DocID:** `daraz_505417953`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Realme  
+**URL:** https://www.daraz.com.bd/products/realme-12-8gb256gb-official-i505417953.html
+**Price:** ৳ 24,999  
+**Rating:** 0.0/5
+
+**Description:**
+Brand: Realme Warranty Information: 2 Years Official Warranty Emi Available: 6 Months What's in the Box: Device | Adapter | Cable | Protective Case | SIM Ejector Tool | Quick Guide Additional Features: Vapor Chamber Cooling System | IP54 Dust & Water Resistance | Dual Stereo Speakers | Google Photo | AI Boost | 0.68mm Secondary Tempered High-Strength Glass | Supports Rainwater Smart Touch | Sony LYT-600 OIS Portrait Camera OS: realme UI 5.0 Based on Android 14 Processor: Qualcomm Snapdragon 685 CPU: Kryo™ 265 (64bit) GPU: Adreno™ 610 (Up to 2.8GHz) RAM: 8GB (Expandable up to 8GB) ROM: 256GB SIM Card Slot: Dual Nano SIM & Stand-by Network: 2G/3G/4G Display: 6.67” FHD+ AMOLED Display | Refresh Rate: Up to 120Hz | Touch Sampling Rate: 180Hz | Instant Touch Sampling Rate: 1200Hz | Resolution: 2400*1080 | Peak Brightness: 2000nit Display Features: Screen-to-body ratio: 65% | Contrast ratio: 6000000:1 | Color Display: 16.7 million colors | Color Gamut: 100% P3 Rear Camera: 50MP Sony LYT-600 OIS Camera + 2MP Mono Camera Camera Mechanism: 50MP Sony LYT-600 OIS Camera: 50MP Pixel, 5P Lens, 79° FOV, 1/1.95'' Sensor Size, f/1.88 Aperture, 26mm Equivalent Focal Length | 2MP Mono Camera: 2MP Pixel, 3P Lens, 88.8° FOV, 1/5'' Sensor Size, f/2.4 Aperture, 22mm Equivalent Focal Length Photography: Video Mode, Photo Mode, Night Mode, Street Shooting Mode, Portrait Mode, High Pixel, Professional Mode, Panoramic View, Super Text, Tilt-Shift, Time-Lapse Mode, Slow-Motion Mode, Movie Mode Video: S …
+
+---
+
+
+## Redmi Note 12 5g - Chaina  
+**DocID:** `daraz_526227611`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Xiaomi  
+**URL:** https://www.daraz.com.bd/products/redmi-note-12-5g-i526227611.html
+**Price:** ৳ 16,799  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.BrandXiaomiModelRedmi Note 12 5G -ChinaNetworkGSM / HSPA / LTE / 5GDimensions165.9 x 76.2 x 8 mmWeight188 gSIMHybrid Dual SIMDisplay TypeAMOLED DotDisplay | FHD+ Flow AMOLED | Up to 120Hz | 1200 nits peak brightness | DCI-P3 wide color gamut | Corning Gorilla Glass 3 protection | Reading ModeDisplay Size6.67 InchDisplay Resolution1080 x 2400 pixels, 20:9 ratioOSAndroid 12, MIUI 14 (International), MIUI 13 (India)ChipsetQualcomm SM4375 Snapdragon 4 Gen 1 (6 nm)CPUOcta-coreMemory4GB+128GB | 6GB+128GB | 8GB+256GB (LPDDR4X RAM) UFS: 2.2 | Expandable storage up to 1TBMain Camera48MP Main camera | 8MP Ultra-Wide Camera | 2MP Macro Camera | Night Mode | Portrait Mode | 1080p Recording at 30fpsSelfie Camera13MP front Camera | 1080p Recording at 30fpsSoundLoudspeaker | 3.5mm jackBattery InfoLi-Ion 5000mAh | Non-removable | 33W fast chargingSensorsProximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster ｜GyroscopeDescription Redmi Note 12 5G brings the next generation of 5G technology for faster and smoother perf …
+
+---
+
+
+## Xiaomi Redmi Note 14 (8+256GB)  
+**DocID:** `daraz_525140547`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Xiaomi  
+**URL:** https://www.daraz.com.bd/products/xiaomi-redmi-note-14-8256gb-i525140547.html
+**Price:** ৳ 23,999  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand: Xiaomi ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty ava seeilable▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 8GBROM: 256GB▪︎ Display: 6.67 inches▪︎ Main Camera : 108 MP, f/1.7, (wide), 1/1.67", 0.64µm, PDAF2 MP, f/2.4, (macro)2 MP, f/2.4, (depth)▪︎ Selfie Camera : 20 MP, f/2.2, (wide), 1/4.0", 0.7µm▪︎ Battery : Li-Ion 5500 mAh, non-removable▪︎ OS : Android 14,▪︎ Features : LED flash, HDR, panorama▪︎Dimensions : 163.25x 76.55x 8.16 mm▪︎ Brand: Xiaomi ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty ava seeilable▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 8GBROM: 256GB▪︎ Display: 6.67 inches▪︎ Main Camera : 108 MP, f/1.7, (wide), 1/1.67", 0.64µm, PDAF2 MP, f/2.4, (macro)2 MP, f/2.4, (dep …
+
+---
+
+
+## Iphone 17 Pro Max USA & HK  
+**DocID:** `daraz_556126332`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Apple  
+**URL:** https://www.daraz.com.bd/products/-i556126332.html
+**Price:** ৳ 237,399  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Apple iPhone 17 pro max (2025 Model) – Full SpecificationsCategoryDetailsNetworkTechnology: GSM / CDMA / HSPA / EVDO / LTE / 5GLaunchAnnounced: 2025, September 09 Released: 2025, September 19BodyDimensions: 163.4 x 78 x 8.8 mm (6.43 x 3.07 x 0.35 in) Weight: 233 g (8.22 oz) Build: Glass front (Ceramic Shield 2), Aluminum alloy frame, Aluminum alloy back / Glass back (Ceramic Shield) SIM: - Nano-SIM + eSIM + eSIM (max 2 at a time; International) - eSIM + eSIM (8 or more, max 2 at a time; USA) - Nano-SIM + Nano-SIM (China) IP68 dust/water resistant (up to 6m for 30 min) Apple Pay (Visa, MasterCard, AMEX certified)DisplayType: LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision Brightness: 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak) Size: 6.9 inches, 115.6 cm² (~90.7% STB ratio) Resolution: 1320 x 2868 pixels, 19.5:9 ratio (~460 ppi) Protection: Ceramic Shield 2 (Mohs level 5), Anti-reflective coatingPlatformOS: iOS 26 Chipset: Apple A19 Pro (3 nm) CPU: Hexa-core (2x4.26 GHz + 4xX.X GHz) GPU: Apple GPU (6-core graphics)MemoryCar …
+
+---
+
+
+## Samsung Galaxy A16 5G 8GB/256GB (unofficial)  
+**DocID:** `daraz_510029986`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Samsung  
+**URL:** https://www.daraz.com.bd/products/samsung-galaxy-a16-5g-8gb256gb-unofficial-i510029986.html
+**Price:** ৳ 25,770  
+**Rating:** 0.0/5
+
+**Description:**
+Brand: Samsung Model: Galaxy A16 5G Operating System: Android 14, One UI 6.1 Chipset: Exynos 1330 (5 nm) / Mediatek Dimensity 6300 (6 nm) Display: 6.7-inch Super AMOLED, 90Hz, 1080 x 2340 pixels Memory: 128GB 4GB RAM, 256GB 8GB RAM, microSDXC card slot Camera: 50MP main, 5MP ultrawide, 2MP macro | 13MP selfie Battery: 5000 mAh, non-removable, 25W wired charging Network: HSPA, LTE, 5G Dimensions: 164.4 x 77.9 x 7.9 mm, 200g Build: Glass front, plastic back, plastic frame SIM: Single SIM or Hybrid Dual SIM Other Features: Fingerprint (side-mounted), accelerometer, gyro, compass, loudspeaker No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesita …
+
+---
+
+
+## Walton NEXG N74 (8+128GB) Official  
+**DocID:** `daraz_525390338`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Walton  
+**URL:** https://www.daraz.com.bd/products/walton-nexg-n74-8128gb-official-i525390338.html
+**Price:** ৳ 10,999  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand : Walton▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 8GBROM: 128GB▪︎ Display: 6.8inches▪︎▪︎ Main Camera : 52 MP, f/2.2, Primary Camera▪︎ Selfie Camera : 8 MP, Primary Camera▪︎ Charging & Battery : Non-removable Li-Ion 5000mAh battery▪︎ OS : v14▪︎ Features : Accelerometer, proximity, compass▪︎ Brand : Walton▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 8GBROM: 128GB▪︎ Display: 6.8inches▪︎▪︎ Main Camera : 52 MP, f/2.2, Primary Camera▪︎ Selfie Camera : 8 MP, Primary Camera▪︎ Charging & Battery : Non-removable Li-Ion 5000mAh battery▪︎ OS : v14▪︎ Features : Accelerometer, proximity, c …
+
+---
+
+
+## Samsung M06 - 5G  
+**DocID:** `daraz_529088390`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Samsung  
+**URL:** https://www.daraz.com.bd/products/samsung-m06-i529088390.html
+**Price:** ৳ 15,799  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationBrandSamsungModelGalaxy M06 5GNetworkGSM / HSPA / LTE / 5GDimensions167.4 x 77.4 x 8.0Weight191(g)SIMNano-SIMDisplay TypePLS LCD | HD+ | 90Hz | Colour Depth (Main Display) 16MDisplay Size6.74-inchDisplay Resolution720 x 1600 pixelsOSAndroid 15, up to 4 major Android upgrades, One UI Core 7.0ChipsetMediatek Dimensity 6300CPUOcta-coreMemory4/128GB | 6/128GBMain Camera50MP (Main) | 2MP (Depth) | 1080pSelfie Camera8MP (Wide)SoundLoudspeakerBattery Info5000 mAh | 25W Wired (fast charging)Other Features / InfoAccelerometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Light Sensor, Proximity SensorDescription Galaxy M06 5G Dive into productivity and capture beautiful photos with the Samsung Galaxy M06 5G. Which comes with fashionable new colors and premium flat design. Get your tasks done effortlessly with reliable processing power. Run all your apps smoothly from quick memory speed. Listen to your movies colorfully from the large display. Play your games in HD+ crisp viewing and get a buttery smooth refresh rate. Captur …
+
+---
+
+
+## Walton Orbit Y71 8GB Rapid RAM and 64GB ROM  
+**DocID:** `daraz_526825039`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Walton  
+**URL:** https://www.daraz.com.bd/products/walton-orbit-y71-8gb-rapid-ram-and-64gb-rom-i526825039.html
+**Price:** ৳ 8,998  
+**Rating:** 0.0/5
+
+**Description:**
+Display: 6.6” Display 120Hz Touch Sampling Rate Processor: 1.8 GHz Octa-Core Processor Memory: Up to 8GB RAM Storage: 64GB Camera: 8MP AI Dual Rear Cameras Battery: 5000mAh Giant Battery Operating System: Android™ 14 (Go edition) No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Display: 6.6” Display 120Hz Touch Sampling RateProcessor: 1.8 GHz Octa-Core ProcessorMemory: Up to 8GB RAMStorage: 64GBCamera: 8MP AI Dual Rear CamerasBattery: 5000mAh Giant BatteryOperating System: Android™ 14 (Go …
+
+---
+
+
+## Jio J19 Speed(4GB/128GB)5000mAh Battery Smartphone  
+**DocID:** `daraz_527018812`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Jio  
+**URL:** https://www.daraz.com.bd/products/jio-j19-4gb128gb-5000mah-i527018812.html
+**Price:** ৳ 10,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO RETURN applicable if the seal is broken RAM : 4GB Rom: 128GB SIM Card: Dual SIM Card Front Camera : 5 Megapixels Rear Camera :13 Megapixels Battery 5000 mAh Operating System : Android11 Display : 6.5 Inches Processor: T610 WiFi offers optimal data performance 4G Data Supported NO RETURN applicable if the seal is broken. RAM : 4GB Rom: 128GBSIM Card: Dual SIM CardFront Camera : 5 Megapixels Rear Camera :13 Megapixels Battery 5000 mAh Operating System : Android11 Display : 6.5 InchesProcessor: T610 WiFi offers optimal data performance 4G Data Supported
+
+---
+
+
+## One plus Nord CE5 8/256 Official  
+**DocID:** `daraz_539883896`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** OnePlus  
+**URL:** https://www.daraz.com.bd/products/nord-ce5-8256-i539883896.html
+**Price:** ৳ 35,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationModelNord CE5 5GBrandOnePlusNetworkGSM / HSPA / LTE / 5GDimensions163.6 x 76 x 8.2 mmWeight199 gSIMNano-SIM + Nano-SIM (Hybrid slot for microSDXC)Display TypeFluid AMOLED, 120Hz, 1B colors, HDR10+Display Size6.77 inchesDisplay Resolution1080 x 2392 pixels (~387 ppi)OSAndroid 15, ColorOS 15ChipsetMediaTek Dimensity 8350 Apex (4 nm)CPUOcta-core (1x3.35 GHz + 3x3.20 GHz + 4x2.20 GHz)Memory128GB/8GB RAM, 256GB/8GB RAM, 256GB/12GB RAM (UFS 3.1)Main Camera50 MP (wide) + 8 MP (ultrawide), OIS, Ultra HDR, 4K@60fpsSelfie Camera16 MP (wide), 1080p@60fps, gyro-EISSoundLoudspeaker, No 3.5mm headphone jackBattery Info5200 mAh (Global), 7100 mAh (India), 80W wired fast chargingSensorsUnder-display fingerprint, accelerometer, gyro, proximity, compassDescription OnePlus Nord CE5 5GSay hello to the OnePlus Nord CE5 5G! It is a powerful mid-range phone that brings flagship-like performance and smart features at a price that won’t bother you. Released in July 2025, this phone is all about smooth visuals, long-lasting battery, and reliable pe …
+
+---
+
+
+## Infinix Hot 60 Pro+ (8GB+256GB) Official  
+**DocID:** `daraz_543549001`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Infinix  
+**URL:** https://www.daraz.com.bd/products/infinix-hot-60-pro-8gb-256gb-i543549001.html
+**Price:** ৳ 23,499  
+**Rating:** 5.0/5
+
+**Description:**
+▪︎ Brand : Infinix▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty availabl e▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Display : 6.78 inches, ▪︎Storage & RAM : 8GBROM : 256GB▪︎ Front Camera : 50MP▪︎Rear Camera : 13MP▪︎OS : XOS15.1.1, Powered by Android™ 15▪︎ Charging & Battery :5160mAh▪︎Body Dimensions : 164mm*75.8mm*5.95mm▪︎ Color : Black, White ▪︎ Brand : Infinix▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty availabl e▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Display : 6.78 inches, ▪︎Storage & RAM : 8GBROM : 256GB▪︎ Front Camera : 50MP▪︎Rear Camera : 13MP▪︎OS : XOS15.1.1, Powered by Android™ 15▪︎ Charging & Battery :5160mAh▪︎Body Dimensions : 164mm*75.8mm*5.95mm▪︎ Color : Black, White
+
+---
+
+
+## iPhone 17 Pro 256GB | 512GB | 1TB (Physical Sim + e-Sim)  
+**DocID:** `daraz_556448096`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** iphone  
+**URL:** https://www.daraz.com.bd/products/iphone-17-pro-256gb-512gb-1tb-physical-sim-e-sim-i556448096.html
+**Price:** ৳ 197,999  
+**Rating:** 0.0/5
+
+**Description:**
+Display Size: 6.3‑inch (diagonal), Super Retina XDR display Processor: Apple A19 Pro, 6‑core CPU Camera: 48.0 MP + 48.0 MP + 18 MP Battery: Li-Ion 3988 mAh (Nano-SIM model) No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. iPhone 17 Pro Full DescriptionThe iPhone 17 Pro represents the pinnacle of Apple’s innovation, bringing together elegant design, cutting-edge performance, and advanced camera technology. Crafted with a refined aluminum alloy frame and protected by the new Ceramic Shield …
+
+---
+
+
+## CoolPad Cool C15 Ram 12 Gb 6gb+ 6gb Extended Ram SmartPhone  
+**DocID:** `daraz_556812498`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** 5 Star  
+**URL:** https://www.daraz.com.bd/products/-i556812498.html
+**Price:** ৳ 13,990  
+**Rating:** 0.0/5
+
+**Description:**
+Coolpad C15 FULL SPECIFICATIONSbodysimDual SIM (Nano-SIM, dual stand-by)weight196 g (6.91 oz)dimensions164.2 x 75.7 x 8.8 mm (6.46 x 2.98 x 0.35 in)misccolorsDreamy Blue, Ripple Purple, Midnight BlackcommsnfcYesusbYeswlanWi-Fi 802.11 a/b/g/n/acradioUnspecifiedbluetooth5.0, A2DP, LEpositioningGPS, GALILEO, GLONASS, BDSsound35mm jackNoloudspeakerYeslaunchstatusAvailable. Released 2024, Mayannounced2024, Maymemoryinternal128GB 6GB RAM, 256GB 8GB RAM UFS 2.2card slotmicroSDXCbatterytype5000 mAh, non-removablecharging18W wireddisplaysize6.56 inches, 103.4 cm2 (~83.2% screen-to-body ratio)typeIPS LCD, 90Hz, 400 nitsresolution720 x 1612 pixels, 20:9 ratio (~269 ppi density)networkspeedHSPA, LTE2g bandsGSM 850 / 900 / 1800 / 19003g bandsHSDPA 850 / 900 / 1900 / 2100 - International HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - USA4g bands1, 3, 5, 7, 8, 20, 28, 34, 38, 39, 40, 41 - International 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 25, 26, 28, 66 - USAtechnologyGSM / HSPA / LTEfeaturessensorsFingerprint (side-mounted), accelerometer, gyro, proximity, compassplatformosAndroid 14cpuOcta-core (4x2.2 GHz Cortex-A53 &amp; 4x1.6 GHz Cortex-A53)gpuPowerVR GE8320chipsetMediatek Helio G36 (12 nm)main cameradual50 MP, f/1.8, (wide), AF 2 MP, f/2.4, (macro)videoYesfeaturesLED flashselfie cameravideoYessingle8 MP, f/2.0
+
+---
+
+
+## Coolpad X100 SmartPhone  
+**DocID:** `daraz_556145629`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** 5 Star  
+**URL:** https://www.daraz.com.bd/products/x100-i556145629.html
+**Price:** ৳ 21,990  
+**Rating:** 0.0/5
+
+**Description:**
+Coolpad X100 Technology GSM / CDMA / HSPA / EVDO / LTE2G bands GSM 850 / 900 / 1800 / 1900CDMA 8003G bands HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100CDMA2000 1xEV-DO4G bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 28, 38, 39, 40, 41, 66Speed HSPA, LTEBody Dimensions 169 x 76.3 x 8.6 mm (6.65 x 3.00 x 0.34 in)Weight 213 g (7.51 oz)SIM Nano-SIM + Nano-SIMDisplay Type IPS LCD, 120Hz, 450 nits (typ)Size 6.78 inches, 109.2 cm2 (~84.7% screen-to-body ratio)Resolution 1080 x 2460 pixels (~396 ppi density)Platform OS Android 14, CoolOSChipset Mediatek Helio G99 (6 nm)CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)GPU Mali-G57 MC2Memory Card slot microSDXC (dedicated slot)Internal 256/512 GB RAM 8/12 GB Variant 8GB 256GB / 12GB 512GB Main camera Triple 108 MP, f/1.9 (wide), 1/1.67", 0.64µm, PDAF5 MP, (ultrawide)2 MP, (macro)Features LED flash, panorama, HDRVideo 1080p@30fpsSelfie camera Single 32 MP, f/2.0, (wide)Features HDRVideo 1080p@30fpsSound Loudspeaker Yes, with stereo speakers3.5mm jack UnspecifiedConnectivity WLAN Wi-Fi 802.11 a/b/g/n/ac, dual-bandBluetooth 5.2, A2DP, LEGPS GPS, GLONASS, BDS, GALILEONFC NoFM radio UnspecifiedUSB USB Type-C 2.0Infrared port Features Sensors Fingerprint (side-mounted), accelerometer, gyro, proximity, compassBattery Type Non-removable Li-PoCapacity 5000 mAhCharging 33W wiredMore Made by ChinaColor Black, Blue, pink
+
+---
+
+
+## Iphone 15  
+**DocID:** `daraz_466883462`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Apple  
+**URL:** https://www.daraz.com.bd/products/iphone-15-i466883462.html
+**Price:** ৳ 86,999  
+**Rating:** 0.0/5
+
+**Description:**
+* NO return is applicable if the seal is broken* 10-day seller replacement guarantee* No returns will be applicable in case of change of mind.* In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable* 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.iPhone 15The Apple iPhone 15 features a stunning design that seamlessly marries durability and elegance. Its display sets a new standard for visual excellence, offering a breathtaking visual experience. The dynamic island feature enhances user interaction and convenience. Powered by unbelievably impressive performance, it tackles any task effortlessly. Photography enthusiasts will adore the enhanced camera capabilities, delivering outstanding shots. Notably, the introduction of Type-C connectivity marks a significant step forward for the iPhone, making it more versatile and adaptable than ever. The iPhone 15 truly redefines excellence in the smartphone world. iPhone 15 FeaturesStunning design is result of fusion between color-infused glass and recycled aluminumSuper Retina XDR OLED display with ceramic shield protection for astounding visualDynamic island pops up on the top to notify users of important alerts and live activities Fantastic main camera with upgraded resolution and lenses for magnificent photographyBionic chipset with c …
+
+---
+
+
+## Motorola Moto G86 Power INDIAN 8-128  
+**DocID:** `daraz_543516396`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Motorola  
+**URL:** https://www.daraz.com.bd/products/motorola-moto-g86-8-128-i543516396.html
+**Price:** ৳ 24,699  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Motorola Moto G86 Power 5G Key Features🔋 Battery & EnduranceThe massive 6,720 mAh battery can deliver up to 53 hours of usageIt also supports 30W Turbo Charging, allowing for quick power recovery🛡️ Build Quality & DurabilityThe device is IP68 & IP69 certified — resistant to high-pressure water, dust, and can survive in 1.5m of water for up to 30 minutesAdditionally, it is built to MIL-STD-810H military standards, offering extra protection against drops and harsh environmental conditions📺 Stunning Display ExperienceComes with a 6.67" P‑OLED screen, 120 Hz refresh rate, HDR10+, and a peak brightness of 4500 nits, ensuring clear visibility even in direct sunlighProtected by Corning Gorilla Glass 7i🚀 Performance & StoragePowered by the MediaTek Dimensity 7300 (4nm) chipset, delivering strong performance and energy efficiency).Memory options include 8GB RAM (expandable up to 24GB with RAM Boost), and 512GB internal storage with support for microSD card expansion📷 Camera SetupRear: 50 MP Sony LYTIA 600 sensor (with OIS support) + 8 MP ultra- …
+
+---
+
+
+## Infinix Hot 60 Pro (8GB+128GB) Official  
+**DocID:** `daraz_543529358`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Infinix  
+**URL:** https://www.daraz.com.bd/products/infinix-hot-60-pro-8gb-128gb-i543529358.html
+**Price:** ৳ 18,499  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand : Infinix▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty availabl e▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Display : 6.78 inches, ▪︎Storage & RAM : 8GBROM : 128GB▪︎ Front Camera : 50MP▪︎Rear Camera : 13MP▪︎OS :XOS 15.1.1 (Based on Android 15)▪︎ Charging & Battery :5160mAh▪︎Body Dimensions : 163.47 x 75.87 x 6.6mm▪︎ Color : Silver , Sleek Black, Blue▪︎ Brand : Infinix▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty availabl e▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Display : 6.78 inches, ▪︎Storage & RAM : 8GBROM : 128GB▪︎ Front Camera : 50MP▪︎Rear Camera : 13MP▪︎OS :XOS 15.1.1 (Based on Android 15)▪︎ Charging & Battery :5160mAh▪︎Body Dimensions : 163.47 x 75.87 x 6.6mm▪︎ Color : Silver , Sleek Black, Blue
+
+---
+
+
+## Infinix Hot 60i (8GB+256GB) Official 15999-15989  
+**DocID:** `daraz_543539092`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Infinix  
+**URL:** https://www.daraz.com.bd/products/infinix-hot-60i-8gb-256gb-15999-15989-i543539092.html
+**Price:** ৳ 15,989  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand : Infinix▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty availabl e▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Display : 6.7 inches, ▪︎Storage & RAM : 8GBROM : 256GB▪︎ Front Camera : 50MP▪︎Rear Camera : 8MP▪︎OS : XOS15.1.1, Powered by Android™ 15▪︎ Charging & Battery :5160mAh(Typ)▪︎Body Dimensions : 166.01mm*76.61mm*7.7mm▪︎ Color : Titanium Silver , Sleek Black, Shadow Blue▪︎ Brand : Infinix▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty availabl e▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Display : 6.7 inches, ▪︎Storage & RAM : 8GBROM : 256GB▪︎ Front Camera : 50MP▪︎Rear Camera : 8MP▪︎OS : XOS15.1.1, Powered by Android™ 15▪︎ Charging & Battery :5160mAh(Typ)▪︎Body Dimensions : 166.01mm*76.61mm*7.7mm▪︎ Color : Titanium Silver …
+
+---
+
+
+## N okia C22 (3/32) Official for Bangladesh  
+**DocID:** `daraz_456477783`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/n-okia-c22-332-i456477783.html
+**Price:** ৳ 9,999  
+**Rating:** 0.0/5
+
+**Description:**
+The Nokia C22 phone has a dual-camera setup on the back. This formation consists of a 13MP, 2MP camera. It has an 8MP selfie camera inside the notch of the display. The video recording capability is 1080p@30fps. According to its RAM and ROM, It has two (2/3GB/64GB) variants. On the other hand, it can support microSD up to 512GB on uses a dedicated slot. Certainly, C22 has a 5000mAh battery with 10W fast charging. It has a dual nano-SIM card slot. That is to say, C22 is 2G/3G/4G supportable.Mode Nokia c22WiFiWi-Fi 802.11 b/g/nBluetooth5.2, A2DPUSBUSB Type-C 2.0GPSYes with a GPSFm RadioYesFeaturesSensorsFingerprint (rear-mounted), accelerometer, proximityMessagingYesBatteryBattery TypeNon-removable Li-Po BatteryBattery Capacity5000 mAhCharging10W WiredMoreBody ColorSand, Midnight Black
+
+---
+
+
+## Honor X8c [8/512GB] Official  
+**DocID:** `daraz_534674895`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Honor  
+**URL:** https://www.daraz.com.bd/products/honor-x8c-8512gb-i534674895.html
+**Rating:** 0.0/5
+
+**Description:**
+Physical SpecificationBuild: Glass front, plastic frame, plastic back or silicone polymer back (eco leather) Weight: 174 g (6.14 oz) Dimensions: 161.1 x 74.6 x 7.1 mm (6.34 x 2.94 x 0.28 in) NetworkSIM: Nano-SIM + Nano-SIM Speed: HSPA, LTE 2G bands: GSM 850 / 900 / 1800 / 1900 3G bands: HSDPA 850 / 900 / 1900 / 2100 4G bands: LTE DisplaySize: 6.7 inches, 108.0 cm² (~89.9% screen-to-body ratio) Type: AMOLED, 120Hz, 1200 nits (HBM), 2800 nits (peak) Resolution: 1080 x 2412 pixels, 20:9 ratio (~394 ppi density) ProcessorCPU: Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53) GPU: Adreno 610 Chipset: Qualcomm SM6225 Snapdragon 685 (6 nm) MemoryInternal: 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM, 512GB 8GB RAM Card slot: No Main CameraDual:108 MP, f/1.8, 24mm (wide), 1/1.67", PDAF, OIS 5 MP, f/2.2, (ultrawide) Video: 1080p@30fps, gyro-EIS Features: LED flash, HDR, panorama Selfie CameraSingle: 50 MP, f/2.1, (wide) Video: 1080p@30fps Operating SystemOS: Android 15, MagicOS 9 ConnectivityNFC: GPS, GLONASS, GALILEO, BDS USB: USB Type-C 2.0, OTG Radio: No Wi-Fi: 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct Bluetooth: 5.0/5.1, A2DP, LE 3.5mm Jack: No FeaturesSensors: Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic) BatteryType: Li-Po 5000 mAh Charging: 35W wired, We aim to provide accurate info from trusted sources like the manufacturer's website. If you find any mistakes, please let us know.
+
+---
+
+
+## Redmi Turbo 3 12/256 CN  
+**DocID:** `daraz_469135136`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Xiaomi  
+**URL:** https://www.daraz.com.bd/products/redmi-turbo-3-12256-cn-i469135136.html
+**Price:** ৳ 29,999  
+**Rating:** 0.0/5
+
+**Description:**
+* NO return is applicable if the seal is broken* 10-day seller replacement guarantee* No returns will be applicable in case of change of mind.* In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable* 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Redmi Turbo 3 Full SpecificationsNETWORKTechnologyGSM / CDMA / HSPA / CDMA2000 / LTE / 5G2G bandsGSM 850 / 900 / 1800 / 1900 – SIM 1 & SIM 2CDMA 8003G bandsHSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100CDMA2000 1x4G bands1, 3, 4, 5, 8, 18, 19, 26, 28, 34, 38, 39, 40, 41, 42, 48, 665G bands1, 3, 5, 8, 28, 38, 40, 41, 48, 66, 77, 78 SA/NSASpeedHSPA, LTE, 5GLAUNCHAnnounced2024, April 10StatusAvailableBODYDimensions160.5 x 74.4 x 7.8 mm (6.32 x 2.93 x 0.31 in)Weight179 g (6.31 oz)SIMDual SIM (Nano-SIM, dual stand-by)IP64 dust and water resistantDISPLAYTypeAMOLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 2400 nits (peak)Size6.67 inches, 107.4 cm2 (~89.9% screen-to-body ratio)Resolution1220 x 2712 pixels, 20:9 ratio (~446 ppi density)ProtectionCorning Gorilla Glass VictusPLATFORMOSAndroid 14, HyperOSChipsetQualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)CPUOcta-core (1×3.0 GHz Cortex-X4 & 4×2.8 GHz Cortex-A720 & 3×2.0 GHz Cortex-A520)GPUAdreno 735MEMORYCard slotNoInternal256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM, 1TB 16GB RAMUFS 4.0MAIN CA …
+
+---
+
+
+## VIVO Y93 smart phone with 6gb ram & 64 gb rom  
+**DocID:** `daraz_526772484`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/vivo-y93-6gb-ram-64-gb-rom-i526772484.html
+**Price:** ৳ 9,590  
+**Rating:** 0.0/5
+
+**Description:**
+VIVO Y93Specifications:🔥 RAM : 6 GB ❤️️ ROM : 128 GB❤️ Main Camera : 13+5MP🔥️ Selfie Camera : 8 MP❤️ Display : 6.26" inch HD+❤️️ Sim : Dual Sim 4G +🔥️ Battery : 4260mAh🔥️ Chipset : Qualcomm 🔥 Snapdragon 450 VIVO Y93Specifications:🔥 RAM : 6 GB ❤️️ ROM : 128 GB❤️ Main Camera : 13+5MP🔥️ Selfie Camera : 8 MP❤️ Display : 6.26" inch HD+❤️️ Sim : Dual Sim 4G +🔥️ Battery : 4260mAh🔥️ Chipset : Qualcomm 🔥 Snapdragon 450
+
+---
+
+
+## Galaxy S23 Ultra 5G  
+**DocID:** `daraz_323248544`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/galaxy-ultra-5g-i323248544.html
+**Rating:** 0.0/5
+
+**Description:**
+Galaxy S23 Ultra 5GSamsung Galaxy S23 Ultra 5G - the latest flagship from the Samsung Galaxy S series. The flagship smartphone thrills you with its proportionate design adjusted with numerous colors. Over and above, the whooping 200MP main camera with bigger lenses steals the show with sensational photography. The fastest and top-notch performance lists the phone at the topGalaxy S23 Ultra 5GSamsung Galaxy S23 Ultra 5G - the latest flagship from the Samsung Galaxy S series. The flagship smartphone thrills you with its proportionate design adjusted with numerous colors. Over and above, the whooping 200MP main camera with bigger lenses steals the show with sensational photography. The fastest and top-notch performance lists the phone at the top
+
+---
+
+
+## Motorola Edge 60 Fusion. 8/256  
+**DocID:** `daraz_529074383`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Motorola  
+**URL:** https://www.daraz.com.bd/products/motorola-60-i529074383.html
+**Price:** ৳ 29,999  
+**Rating:** 5.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationBrandMotorolaModelEdge 60 Fusion 5GNetworkGSM / HSPA / LTE / 5GDimensions161 x 73 x 8.0 mm or 8.3 mm | IP68/IP69 dust/water resistant (high-pressure water jets; immersible up to 1.5m for 30 min) | Corning Gorilla Glass 7i | Glass front (Gorilla Glass 7i), silicone polymer back (eco leather)Weight180 gSIMNano-SIM + eSIMDisplay TypeLTPO P-OLED, 1B colors, 120Hz, HDR10+, 4500 nits (peak) | Corning Gorilla Glass 7iDisplay Size6.67 inchesDisplay Resolution1220 x 2712 pixelsOSAndroid 15ChipsetMediaTek Dimensity 7400CPUOcta-coreMemory256GB 8GB RAM, 512GB 12GB RAM | UFS 2.2Main Camera50 MP, f/1.8, (wide), dual pixel PDAF, OIS | 13 MP, f/2.2, 120˚ (ultrawide), AF | LED flash, HDR, panorama | 4K@30fps, 1080p@30/60/120/240fps, gyro-EISSelfie Camera32 MP, f/2.2, (wide) | HDR | 4K@30fps, 1080p@30fps, gyro-EISSoundStereo speakers (with Dolby Atmos)Battery InfoLi-Po 5500 mAh | Non-removable | 68W wired chargingSensorsFingerprint (under display, optical), accelerometer, gyro, proximity, compassDescription Motorola Edge 60 Fusion 5GThe Mot …
+
+---
+
+
+## Tecno Spark 40 [8/256GB] - Official  
+**DocID:** `daraz_539464577`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Tecno  
+**URL:** https://www.daraz.com.bd/products/tecno-spark-40-8256gb-i539464577.html
+**Price:** ৳ 16,899  
+**Rating:** 0.0/5
+
+**Description:**
+Dimensions: 165.6 x 77 x 7.7 mm (6.52 x 3.03 x 0.30 in) SIM: Nano-SIM + Nano-SIM Network Speed: HSPA, LTE 2G Bands: GSM 850 / 900 / 1800 / 1900 3G Bands: HSDPA 900 / 2100 4G Bands: LTE DisplaySize: 6.67 inches (~84.2% screen-to-body ratio) Type: IPS LCD, 120Hz Resolution: 720 x 1600 pixels (20:9 ratio, ~263 ppi) ProcessorCPU: Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55) GPU: Mali-G52 MC2 Chipset: Mediatek Helio G81 (12 nm) Card Slot: microSDXC Main CameraSingle: 50 MP (wide), PDAF + auxiliary lens Video: 1440p@30fps, 1080p@30fps Features: Dual-LED flash Selfie CameraSingle: 8 MP (wide) Video: 1080p@30fps Features: Dual-LED flash Operating SystemOS: Android 15, HIOS 15 ConnectivityNFC: No USB: USB Type-C Radio: FM Radio Wi-Fi: Yes Bluetooth: Yes 3.5mm Jack: Yes FeaturesSensors: Side-mounted fingerprint, unspecified sensors BatteryType: 5200 mAh Charging: 45W wired, 100% in 55 minutes
+
+---
+
+
+## Xiaomi Redmi Note 14 5G (8GB / 256GB) - Unofficial  
+**DocID:** `daraz_528874309`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Xiaomi  
+**URL:** https://www.daraz.com.bd/products/xiaomi-redmi-note-14-5g-8gb-256gb-unofficial-i528874309.html
+**Price:** ৳ 28,999  
+**Rating:** 0.0/5
+
+**Description:**
+Processor : MediaTek Dimensity 7025-Ultra Octo-Core clocked at 2.5 GHz System : Android 14 based on HyperOS Screen : 6.67", AMOLED, Full HD+ 1080 x 2400 pixel resolution, 120 Hz refresh rate, up to 240 Hz sampling rate, 2100 nits, Corning Gorilla Glass 5 RAM : 8 GB Rear NPP : 108 MP main sensor + 8 MP ultra wide-angle sensor + 2 MP macro camera, 1080p video, Artificial Intelligence Front camera : 20 MP camera Storage : 256 GB (expandable to 1 TB via microSDXC card) Connectivity : BT 5.3, A-GPS, GPS, GLONASS, Wi-Fi 802.11 a/b/g/n/ac, USB-C, 3.5mm jack, under-screen fingerprint reader, facial recognition Battery: 5110 mAh with 45W fast charge Dimensions: 162.4 x 75.7 x 7.99 mm, 190 g No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no …
+
+---
+
+
+## Itel City 100 6/128  
+**DocID:** `daraz_536811784`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/itel-city-100-6128-i536811784.html
+**Price:** ৳ 11,999  
+**Rating:** 0.0/5
+
+**Description:**
+Thin 7.65mm Slim Unibody Design Drop Resistance IP64 Rated Dust & Water Resistant 60-Month Smoothness One-Press AI Access AI Picture DeepSeek Infrared Remote Control itel City 100 18GB (6GB+12GB)/128GBGeneralBranditelSKUIC1006GB128GBWarranty Information12 months official warrantyWhat's in the BoxDevice | Adapter | Cable | SIM Injector Tool | Phone Case | SpeakerNetworkTechnology2G/3G/4GBodyBuildDrop Resistance | IP64 Rated Dust & Water ResistantSIM CardDual Nano SIMDisplayTypeHigh Brightness DisplayResolution720 × 1600 pixelsDisplay Size (Inches)6.75PlatformChipsetUNISOC T7250ProcessorOcta CoreMemorySystem Storage128RAM(GB)6CameraBack Camera13.0 MPFront Camera8 MPBatteryBattery mAh5200mAhMiscPhone Modelitel City 100
+
+---
+
+
+## Motorola Moto G96 8-128/256  
+**DocID:** `daraz_541084028`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Motorola  
+**URL:** https://www.daraz.com.bd/products/motorola-moto-g96-i541084028.html
+**Price:** ৳ 26,799  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationModelMoto G98BrandMotorolaNetworkGSM / HSPA / LTE / 5GDimensions161.9 x 73.3 x 7.9 mmWeight178 gSIMNano-SIM + Nano-SIMDisplay TypeP-OLED, 1B colors, 144Hz, 1600 nits (peak)Display Size6.67 inchesDisplay Resolution1080 x 2400 pixelsOSAndroid 15ConnectivityWi-Fi 802.11 a/b/g/n/ac, dual-band | Bluetooth: 5.2, A2DP, LE | NFC: No | Radio: No | USB: USB Type-C 2.0, OTGChipsetQualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)CPUOcta-coreMemory128GB 8GB RAM, 256GB 8GB RAM | UFS 2.2Main Camera50 MP, f/1.9, (wide), multi-directional PDAF, OIS | 8 MP, f/2.2, (ultrawide) | LED flash, HDR, panorama | 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OISSelfie Camera32 MP, f/2.2, (wide) | HDR | 4K@30fps, 1080p@30fps, gyro-EISSoundYes, with stereo speakers (with Dolby Atmos)Battery Info5500 mAh | Non-removable | 30W WiredSensorsFingerprint (under display, optical), accelerometer, gyro, proximity, compassOther Features / InfoSmart Connect 2.0 | Glass front (Gorilla Glass 5), silicone polymer back (eco leather), plastic frame | IP68 dust tight and water …
+
+---
+
+
+## Symphony Innvoa 30 (6+128GB) Official  
+**DocID:** `daraz_526830549`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Symphony  
+**URL:** https://www.daraz.com.bd/products/30-6-128gb-i526830549.html
+**Price:** ৳ 11,689  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand : Symphony ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 6GBROM: 128GB▪︎ Display: 6.56 inches▪︎ Main Camera : 52 MP▪︎ Selfie Camera : 8 MP▪︎ Charging & Battery : lymer 5000 mAh, non-removable | 18W Type-C Fast Charging▪︎ OS : Android 13▪︎ Feature : Always on and Ambient display | APP Locker | Call Recorder | Dual App (Parallel app) | Answer Call by fingerprint | Split View App | Side Application Bar.▪︎ Dimension : 164.27 x 76 x 8.45 mm▪︎ Brand : Symphony ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 6GBROM: 128GB▪︎ Display: 6.56 inches▪︎ Main Camera : 52 MP▪︎ Selfie Camera : 8 MP▪ …
+
+---
+
+
+## vivo Y21D 8/128 | IP69+ Waterproof | 44W Flash Charge | 6500mAh BlueVolt Battery  
+**DocID:** `daraz_551183221`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Vivo  
+**URL:** https://www.daraz.com.bd/products/vivo-y21d-8128-ip69-waterproof-44w-flash-charge-6500mah-bluevolt-battery-i551183221.html
+**Price:** ৳ 19,330  
+**Rating:** 0.0/5
+
+**Description:**
+Model Name: vivo Y21d Dimensions 166.14 × 77.01 × 8.39 mm Protection IP68 & IP69 Display: Size & Type 6.68, IPS LCD, 90 Hz Dotch Display Resolution:1608 × 720 Refresh Rate: 90Hz Brihtness :1000 nit Peak Brightness Processor: Unisoc T612 CPU 8-core, 2×A75+6×A55, 1.8GHz×2+1.8GHz×6 Memory: RAM- 8GB Storage- 128GB Expandable Storage Up to 2TB (microSD) Battery Capacity 6500mAh , 25.42Wh Charging 44W Fast Charging Camera System Rear Main 50MP, f/1.8 Secondary 0.08MP Front 5MP, f/2.2 Video Recording 1080P Audio Speaker Dual Stereo Speakers with 400% Volume Boost Audio Formats " AAC, WAV, MP3, MIDI, VORBIS, APE, FLAC" Operating System OS Funtouch OS 15 Android Version Android 15 Security Fingerprint Side-mounted capacitive Face Unlock Supported Connectivity Network 4G (TD-LTE, FDD-LTE) SIM Slots Dual nano SIM + microSD Wi-Fi 802.11b/g/n/ac, 2.4GHz/5GHz Bluetooth 5.2 USB Type-C (USB 2.0) GPS L1 GPS, B1C BeiDou, G1 GLONASS, E1 Galileo, L1 QZSS
+
+---
+
+
+## Infinix Hot 60 Pro+ (8GB+128GB) Official  
+**DocID:** `daraz_543532404`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Infinix  
+**URL:** https://www.daraz.com.bd/products/infinix-hot-60-pro-8gb-128gb-i543532404.html
+**Price:** ৳ 21,499  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand : Infinix▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty availabl e▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Display : 6.78 inches, ▪︎Storage & RAM : 8GBROM : 128GB▪︎ Front Camera : 50MP▪︎Rear Camera : 13MP▪︎OS : XOS15.1.1, Powered by Android™ 15▪︎ Charging & Battery :5160mAh▪︎Body Dimensions : 164mm*75.8mm*5.95mm▪︎ Color : Black, White ▪︎ Brand : Infinix▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty availabl e▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Display : 6.78 inches, ▪︎Storage & RAM : 8GBROM : 128GB▪︎ Front Camera : 50MP▪︎Rear Camera : 13MP▪︎OS : XOS15.1.1, Powered by Android™ 15▪︎ Charging & Battery :5160mAh▪︎Body Dimensions : 164mm*75.8mm*5.95mm▪︎ Color : Black, White
+
+---
+
+
+## iPhone 16 128GB/256GB/512GB (USA)  
+**DocID:** `daraz_441650984`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** iphone  
+**URL:** https://www.daraz.com.bd/products/iphone-16-128gb256gb512gb-usa-i441650984.html
+**Rating:** 0.0/5
+
+**Description:**
+Brand: Apple Display: 6.1-inch Body/Frame: Aluminum Processor: A18 Camera (Main): 48 MP + 12 MP Camera (Selfie): 12 MP Memory/RAM: 8 GB Storage: 128/256/512 GB Connectivity: 5G Battery: 3,561 mAh Software: iOS 18 Weight: 170 grams IP Rating: IP68 No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. IntroductionApple’s iPhone 16 is here, and it’s already making waves in the smartphone world. As the latest addition to Apple’s iconic lineup, the iPhone 16 brings a fresh set of features, refined …
+
+---
+
+
+## Tecno Spark 40C(4+128gb) ডিসপ্লে: 6.67'' IPS,120hz, 33w ফাস্ট চার্জিং সহ 6000mAh  
+**DocID:** `daraz_547767721`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Tecno  
+**URL:** https://www.daraz.com.bd/products/tecno-spark-40c-4-128gb-667-ips-120hz-33w-6000mah-i547767721.html
+**Price:** ৳ 11,899  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand :Tecno Spark 40C▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM : 4GBROM : 128GB▪︎ Display : 6.67inches,107.4 cm2▪︎ Main Camera :13 MP, f/1.8, 27mm (wide), PDAF▪︎ Selfie Camera :8MP▪︎ Charging & Battery :6000 mAh Charging 15W wired▪︎ OS :Android 15, HIOS 15.1▪︎ Feature :Fingerprint (side-mounted); unspecified sensors▪︎ Dimension :165.6 x 77 x 8.4 mm (6.52 x 3.03 x 0.33 in)▪︎ In some cases, unofficial phones may have a box open to open the country lock. ▪︎ Brand :Tecno Spark 40C▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM : 4GBROM : 128GB▪︎ Display : 6.67inches,107.4 cm2▪︎ Main Camera :13 MP, …
+
+---
+
+
+## Symphony Innvoa 10 (4+128GB) Official  
+**DocID:** `daraz_526847273`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Symphony  
+**URL:** https://www.daraz.com.bd/products/10-4-128gb-i526847273.html
+**Price:** ৳ 10,499  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand : Symphony ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 4GBROM: 128GB▪︎ Display: 6.6 inches▪︎ Main Camera : 52 MP▪︎ Selfie Camera : 8 MP▪︎ Charging & Battery : 5050 mAh Li-Polymer Battery▪︎ OS : Android 12▪︎ Feature : AI, Portrait Mode, Watermark, Night Mode, Pro Mode, Slow-Motion, Burst, Panorama, QR Code, Face Beauty, Time laps, Flashlight, Face Unlock, Auto HDR▪︎ Dimension : 162.15 x 75.1 x 8.8 mm▪︎ Brand : Symphony ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 4GBROM: 128GB▪︎ Display: 6.6 inches▪︎ Main Camera : 52 MP▪︎ Selfie Camera : 8 MP▪︎ Charging & Battery : 5050 mAh Li-P …
+
+---
+
+
+## Samsung F05 (4+64GB)  
+**DocID:** `daraz_459476823`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Samsung  
+**URL:** https://www.daraz.com.bd/products/samsung-f05-4-64gb-i459476823.html
+**Price:** ৳ 14,999  
+**Rating:** 0.0/5
+
+**Description:**
+▪NETWORKTechnology--GSM / CDMA / HSPA / EVDO / LTE / 5GLAUNCH2024, September 17Available. Released 2024, September 20Dimensions168.8 x 78.2 x 8.8 mm (6.65 x 3.08 x 0.35 in)Weight199 g or 204.5 g (7.02 oz)BuildGlass front (Gorilla Glass Victus), glass back or silicone polymer back (eco leather)SIMNano-SIM, eSIM or Dual SIM (Nano-SIM, dual stand-by)IP68 dust/water resistant (up to 1.5m for 30 min)DISPLAYTypePLS LCDSize 6.7 inches, 108.4 cm2 (~82.1% screen-to-body ratio)Resolution 720 x 1600 pixels, 20:9 ratio (~262 ppi density)ProtectionCorning Gorilla Glass VictusAlways-on displayPLATFORMOSAndroid 14, up to 2 major Android upgrades, One UI Core 6.0Mediatek Helio G85 (12 nm)CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GPU Mali-G52 MC2GHz Cortex-A510)MEMORYCard slotNoInternal RAM;4 ROM;64MAIN CAMERA50 MP, f/1.8, (wide), AF2 MP, f/2.4, (depth)1080p@30/60fpsSELFIE CAMERASingle8 MP, f/2.0Video YesSOUNDLoudspeakerYes, with stereo speakers3.5mm jackNo24-bit/192kHz Hi-Res & Hi-Res wireless audioCOMMSWLANWi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi DirectBluetooth5.3, A2DP, LEPositioningGPS, GLONASS, BDS, GALILEO, QZSSNFCYes (market/region dependent)Infrared portYesRadioNoUSBUSB Type-C 2.0, OTGFEATURESSensorsFingerprint (under display, optical), accelerometer, gyro, proximity, compassBATTERYType5000 mAh, non-removableCharging 25W wiredMISCColour Blue▪NETWORKTechnology--GSM / CDMA / HSPA / EVDO / LTE / 5GLAUNCH2024, September 17Available. Released 2024, September 20Dimensions168.8 x 78.2 …
+
+---
+
+
+## Symphony Innvoa 10 (4+64GB) Official  
+**DocID:** `daraz_526835411`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Symphony  
+**URL:** https://www.daraz.com.bd/products/10-4-64gb-i526835411.html
+**Price:** ৳ 9,989  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand : Symphony ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 4GBROM: 64GB▪︎ Display: 6.6 inches▪︎ Main Camera : 52 MP▪︎ Selfie Camera : 8 MP▪︎ Charging & Battery : 5050 mAh Li-Polymer Battery▪︎ OS : Android 12▪︎ Feature : AI, Portrait Mode, Watermark, Night Mode, Pro Mode, Slow-Motion, Burst, Panorama, QR Code, Face Beauty, Time laps, Flashlight, Face Unlock, Auto HDR▪︎ Dimension : 162.15 x 75.1 x 8.8 mm▪︎ Brand : Symphony ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 4GBROM: 64GB▪︎ Display: 6.6 inches▪︎ Main Camera : 52 MP▪︎ Selfie Camera : 8 MP▪︎ Charging & Battery : 5050 mAh Li-Pol …
+
+---
+
+
+## Honor 400 Pro [12/512GB] International  
+**DocID:** `daraz_530976478`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Honor  
+**URL:** https://www.daraz.com.bd/products/honor-400-pro-12512gb-i530976478.html
+**Price:** ৳ 68,799  
+**Rating:** 0.0/5
+
+**Description:**
+Physical Specification Weight: 205g (7.23 oz) Dimensions: 8.1 mm thickness Network SIM: Nano-SIM + Nano-SIM Speed: HSPA, LTE, 5G 2G Bands: GSM 850 / 900 / 1800 / 1900 3G Bands: HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 4G Bands: LTE 5G Bands: SA/NSA Display Size: 6.7 inches, 108.9 cm² Type: AMOLED, 1B colors, 120Hz, HDR, 5000 nits (peak) Resolution: 1224 x 2700 pixels (~442 ppi density) Processor CPU: Octa-core 1x 3.0 GHz Cortex-X4 5x 2.95 GHz Cortex-A720 2x 2.0 GHz Cortex-A520 GPU: Adreno 750 Chipset: Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm) Memory Internal: Up to 512GB, 16GB RAM Card Slot: No Main Camera Triple: 200 MP (wide), PDAF, OIS 50 MP, f/2.4 (telephoto), PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 112˚ (ultrawide), AF Video: 4K, 1080p, gyro-EIS, OIS Features: LED flash, HDR, panorama Selfie Camera Dual: 50 MP, f/2.1 (wide) 2 MP, f/2.4 (depth) Video: 4K, 1080p, gyro-EIS Features: HDR Operating System OS: Android 15, MagicOS 9 Connectivity NFC: Yes USB: USB Type-C 2.0, OTG Radio: No Wi-Fi: Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct Bluetooth: 5.4, A2DP, LE, aptX HD 3.5mm Jack: No Features Sensors: Fingerprint (under display, optical) Accelerometer Gyro Compass Ultrasound proximity Battery Type: Si/C Li-Ion 6000 mAh Charging: 100W wired, 51% in 15 min, 100% in 39 min 50W wireless, We aim to provide accurate info from trusted sources like the manufacturer's website. If you find any mistakes, please let us know.
+
+---
+
+
+## Infinix GT30 Pro (With Gaming KIT) 12GB/256GB (Official)  
+**DocID:** `daraz_541517489`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Infinix  
+**URL:** https://www.daraz.com.bd/products/infinix-gt30-pro-12gb256gb-i541517489.html
+**Price:** ৳ 41,599  
+**Rating:** 0.0/5
+
+**Description:**
+No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Infinix GT30 Pro 5.5G 12GB/256GB SpecificationsPerformance:OS: XOS 15, Powered by Android 15Chipset: MediaTek Dimensity 8350 Ultimate (4nm)CPU: Octa-core (4x Cortex-A510 @ up to 2.2GHz + 4x Cortex-A715 @ up to 3.35GHz)GPU: Mali-G615 MC6RAM: 12GB LPDDR5X (Expandable up to 12GB)ROM: 256GB UFS 4.0nixDisplay:Display Type: LTPS AMOLEDDisplay Size: 6.78”Screen-to-Body Ratio: 93.7%Resolution: 1.5K (1224 × 2720)Refresh Rate: up to 144HzTouch Sampli …
+
+---
+
+
+## Motorola EDGE 60 fusion 12/256  
+**DocID:** `daraz_529074388`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Motorola  
+**URL:** https://www.daraz.com.bd/products/motorola-60-i529074388.html
+**Price:** ৳ 33,199  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationBrandMotorolaModelEdge 60 Fusion 5GNetworkGSM / HSPA / LTE / 5GDimensions161 x 73 x 8.0 mm or 8.3 mm | IP68/IP69 dust/water resistant (high-pressure water jets; immersible up to 1.5m for 30 min) | Corning Gorilla Glass 7i | Glass front (Gorilla Glass 7i), silicone polymer back (eco leather)Weight180 gSIMNano-SIM + eSIMDisplay TypeLTPO P-OLED, 1B colors, 120Hz, HDR10+, 4500 nits (peak) | Corning Gorilla Glass 7iDisplay Size6.67 inchesDisplay Resolution1220 x 2712 pixelsOSAndroid 15ChipsetMediaTek Dimensity 7400CPUOcta-coreMemory256GB 8GB RAM, 512GB 12GB RAM | UFS 2.2Main Camera50 MP, f/1.8, (wide), dual pixel PDAF, OIS | 13 MP, f/2.2, 120˚ (ultrawide), AF | LED flash, HDR, panorama | 4K@30fps, 1080p@30/60/120/240fps, gyro-EISSelfie Camera32 MP, f/2.2, (wide) | HDR | 4K@30fps, 1080p@30fps, gyro-EISSoundStereo speakers (with Dolby Atmos)Battery InfoLi-Po 5500 mAh | Non-removable | 68W wired chargingSensorsFingerprint (under display, optical), accelerometer, gyro, proximity, compassDescription Motorola Edge 60 Fusion 5GThe Mot …
 
 ---
 
