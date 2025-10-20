@@ -102,10 +102,30 @@ def scrape_product_detail(url: str) -> Optional[str]:
                 context = browser.new_context(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36')
                 page = context.new_page()
 
+                # print(f"      [Detail] Navigating to page...")
+                # page.goto(url, timeout=DETAIL_PAGE_TIMEOUT, wait_until=DETAIL_WAIT_UNTIL)
+                # print(f"      [Detail] Page navigation triggered for {url}. Waiting {DETAIL_SLEEP_AFTER_LOAD}s...")
+                # time.sleep(DETAIL_SLEEP_AFTER_LOAD + random.uniform(0, 0.5)) # Add random jitter
+                
+                # ---------------------------------------------------
+                
                 print(f"      [Detail] Navigating to page...")
-                page.goto(url, timeout=DETAIL_PAGE_TIMEOUT, wait_until=DETAIL_WAIT_UNTIL)
-                print(f"      [Detail] Page navigation triggered for {url}. Waiting {DETAIL_SLEEP_AFTER_LOAD}s...")
-                time.sleep(DETAIL_SLEEP_AFTER_LOAD + random.uniform(0, 0.5)) # Add random jitter
+                # 1. Use 'load' to wait for more resources (images, etc.)
+                page.goto(url, timeout=DETAIL_PAGE_TIMEOUT, wait_until='load')
+                print(f"      [Detail] Page loaded for {url}. Waiting for dynamic content...")
+
+                # 2. Wait for a *specific element* that is loaded by JavaScript
+                # This is the most reliable way. We wait for the product title.
+                try:
+                    page.wait_for_selector('h1.pdp-mod-product-badge-title', timeout=10000) # Wait 10s
+                    print(f"      [Detail] Dynamic content (title) appeared.")
+                except Exception as e:
+                    print(f"      [Detail] ⚠️ Waited 10s, but key element 'h1.pdp-mod-product-badge-title' not found. Page might be empty.")
+                    # We can let it continue, extract_product_details_from_page will just find nothing
+                
+                # You can even remove the time.sleep() now, or keep a very short one.
+                time.sleep(0.5 + random.uniform(0, 0.5))
+                # ---------------------------------------------------
 
                 # Optional: Add a specific wait after load if needed
                 # page.wait_for_selector('YOUR_RELIABLE_SELECTOR', timeout=10000)

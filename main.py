@@ -45,15 +45,29 @@ SAVE_ONLY_UNIQUE = True
 PRODUCTS_PER_PAGE = 40
 PAGE_PARAM = "page"
 
+# # Pacing & block-handling
+# PAGE_PAUSE_RANGE = (1.8, 3.8)
+# ATTEMPT_JITTER = 0.3
+# BLOCK_COOLDOWN_RANGE = (35, 75)
+
+# # Detail enrichment
+# ENRICH_WITH_DETAIL = True
+# DETAIL_CONCURRENCY = 3                # keep polite; bump carefully
+# DETAIL_SLEEP_RANGE = (0.25, 0.65)     # small jitter between detail jobs
 # Pacing & block-handling
-PAGE_PAUSE_RANGE = (1.8, 3.8)
+PAGE_PAUSE_RANGE = (3.0, 6.0)         # ⬅️ INCREASED
 ATTEMPT_JITTER = 0.3
 BLOCK_COOLDOWN_RANGE = (35, 75)
 
 # Detail enrichment
 ENRICH_WITH_DETAIL = True
 DETAIL_CONCURRENCY = 3                # keep polite; bump carefully
-DETAIL_SLEEP_RANGE = (0.25, 0.65)     # small jitter between detail jobs
+DETAIL_SLEEP_RANGE = (1.5, 3.0)       # ⬅️ INCREASED
+# ------------------------------
+
+
+
+
 # ------------------------------
 
 
@@ -148,18 +162,25 @@ async def detect_total_pages(crawler: AsyncWebCrawler, category_url: str) -> int
         prettiify=False,
         wait_for_images=False,
         delay_before_return_html=False,
-        mean_delay=0.1,
-        scroll_delay=0.2,
+        mean_delay=1.5,
+        scroll_delay=1.0,
         verbose=True,
     )
     url = category_url
     if ADD_CACHE_BUST:
         url = set_query_param(url, "_v", str(int(time.time() * 1000)))
+    # try:
+    #     results: List[CrawlResult] = await crawler.arun(
+    #         url=url,
+    #         config=simple_config,
+    #         js_code="""await new Promise(r => setTimeout(r, 700));""",
+    #         wait_for="css:body",
+    #     )
     try:
         results: List[CrawlResult] = await crawler.arun(
             url=url,
             config=simple_config,
-            js_code="""await new Promise(r => setTimeout(r, 700));""",
+            js_code="""await new Promise(r => setTimeout(r, 2000));""", # ⬅️ INCREASED
             wait_for="css:body",
         )
     except Exception as e:
@@ -308,16 +329,27 @@ async def crawl_once(
     page_idx: int,
     attempt: int,
 ) -> Tuple[List[dict], List[str]]:
+    # # Simulate more human-like viewing with incremental scrolls
+    # js_seq = """
+    #     const sleep = ms => new Promise(r => setTimeout(r, ms));
+    #     await sleep(800);
+    #     for (let y=0; y<=3; y++){
+    #         window.scrollBy(0, document.body.scrollHeight/3);
+    #         await sleep(500 + Math.floor(Math.random()*300));
+    #     }
+    #     window.scrollTo(0, 0);
+    #     await sleep(400);
+    # """
     # Simulate more human-like viewing with incremental scrolls
     js_seq = """
         const sleep = ms => new Promise(r => setTimeout(r, ms));
-        await sleep(800);
+        await sleep(1500);  // ⬅️ INCREASED (wait longer on initial load)
         for (let y=0; y<=3; y++){
             window.scrollBy(0, document.body.scrollHeight/3);
-            await sleep(500 + Math.floor(Math.random()*300));
+            await sleep(800 + Math.floor(Math.random()*500)); // ⬅️ INCREASED (wait longer between scrolls)
         }
         window.scrollTo(0, 0);
-        await sleep(400);
+        await sleep(600); // ⬅️ INCREASED (wait before finishing)
     """
 
     results: List[CrawlResult] = await crawler.arun(
@@ -548,12 +580,13 @@ async def demo_css_structured_extraction_no_schema(link: str):
     config = CrawlerRunConfig(
         extraction_strategy=extraction_strategy,
         cache_mode=CacheMode.DISABLED,
-        geolocation=GeolocationConfig(latitude=48.8566, longitude=80),
+        # geolocation=GeolocationConfig(latitude=48.8566, longitude=80),
+        geolocation=GeolocationConfig(latitude=23.8103, longitude=90.4125),
         prettiify=True,
         wait_for_images=True,
         delay_before_return_html=True,
-        mean_delay=0.7,
-        scroll_delay=0.6,
+        mean_delay=1.5,
+        scroll_delay=1.0,
         verbose=True,
         # proxy_rotation_strategy=proxy_rotation_strategy,
     )
