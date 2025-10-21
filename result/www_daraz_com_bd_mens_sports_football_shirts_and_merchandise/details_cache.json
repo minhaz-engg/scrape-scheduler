@@ -23621,5 +23621,81 @@
         ]
       }
     ]
+  },
+  "419051006": {
+    "url": "https://www.daraz.com.bd/products/202-wc-cr7-i419051006.html",
+    "name": "Portugal World Cup Jersey 202 WC Football Home Kit for CR7 fan-Premium Quality",
+    "brand": "No Brand",
+    "price": {
+      "display": "৳ 459",
+      "value": 459.0,
+      "original_display": "৳ 800",
+      "original_value": 800.0,
+      "discount_display": "-43%",
+      "discount_percent": 43.0
+    },
+    "rating": {
+      "average": 5.0,
+      "count": 5,
+      "raw": "Ratings 5"
+    },
+    "images": [
+      "https://img.drz.lazcdn.com/static/bd/p/366721126cf4295ef8fa203eebef7d55.png_720x720q80.png",
+      "https://img.drz.lazcdn.com/static/bd/p/366721126cf4295ef8fa203eebef7d55.png_120x120q80.png",
+      "https://img.drz.lazcdn.com/static/bd/p/3da35fd38b1f48cc8b8f35798adb3443.png_120x120q80.png",
+      "https://img.drz.lazcdn.com/static/bd/p/78c0e9ec8ee5dc520b639a5c182732f4.png_120x120q80.png",
+      "https://static-01.daraz.com.bd/p/3da35fd38b1f48cc8b8f35798adb3443.png"
+    ],
+    "colors": [
+      "Multicolor",
+      "Color #1"
+    ],
+    "sizes": [
+      "XL"
+    ],
+    "delivery_options": [],
+    "return_and_warranty": [
+      "7 Days Returns",
+      "Warranty not available"
+    ],
+    "seller": {
+      "name": "Firoz BD Shoop",
+      "link": "https://www.daraz.com.bd/shop/7jdc3pxt/?itemId=419051006&channelSource=pdp",
+      "metrics": {
+        "Positive Seller Ratings": "84%",
+        "Ship on Time": "100%",
+        "Chat Response Rate": "Not enough data"
+      }
+    },
+    "details": {
+      "highlights": [],
+      "description_text": "Portugal World Cup Jersey 202 WC Football Home Kit for CR7 fan-Premium Quality Product Type: Jersey / Sportswear Product Material: Polyester Quality: Thai Mesh Age-Range: Adult Gender: Unisex Feature 1: Quick Dry Feature 2: Breathable Material Feature 3: Soft and smooth fabric Feature 4: Comfortable to wear Available Size: M, L, XL, XXL Size Chart: M - Length 26 inch, Chest Circumference 36 inch L - Length 27.5 inch, Chest Circumference 38 inch XL - Length 29 inch, Chest Circumference 40 inch XXL- Length 30.5 inch, Chest Circumference 43 inch",
+      "description_html": null,
+      "specifications": [],
+      "whats_in_the_box": null,
+      "raw_text": "Portugal World Cup Jersey 202 WC Football Home Kit for CR7 fan-Premium Quality Product Type: Jersey / Sportswear Product Material: Polyester Quality: Thai Mesh Age-Range: Adult Gender: Unisex Feature 1: Quick Dry Feature 2: Breathable Material Feature 3: Soft and smooth fabric Feature 4: Comfortable to wear Available Size: M, L, XL, XXL Size Chart: M - Length 26 inch, Chest Circumference 36 inch L - Length 27.5 inch, Chest Circumference 38 inch XL - Length 29 inch, Chest Circumference 40 inch XXL- Length 30.5 inch, Chest Circumference 43 inch"
+    },
+    "variants": [
+      {
+        "color": "Color #1",
+        "price": {
+          "display": "৳ 459",
+          "value": 459.0,
+          "original_display": "৳ 800",
+          "original_value": 800.0,
+          "discount_display": "-43%",
+          "discount_percent": 43.0
+        },
+        "images": [
+          "https://img.drz.lazcdn.com/static/bd/p/3da35fd38b1f48cc8b8f35798adb3443.png_720x720q80.png_.webp",
+          "https://img.drz.lazcdn.com/static/bd/p/366721126cf4295ef8fa203eebef7d55.png_80x80q80.png_.webp",
+          "https://img.drz.lazcdn.com/static/bd/p/3da35fd38b1f48cc8b8f35798adb3443.png_80x80q80.png_.webp",
+          "https://img.drz.lazcdn.com/static/bd/p/78c0e9ec8ee5dc520b639a5c182732f4.png_80x80q80.png_.webp"
+        ],
+        "sizes": [
+          "XL"
+        ]
+      }
+    ]
   }
 }

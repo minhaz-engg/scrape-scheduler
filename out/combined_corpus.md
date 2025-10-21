@@ -14378,6 +14378,21 @@ Casual Sneaker ShoesCash On Delivery Service Color: Blue & BlackSize: 40,41,42,4
 ---
 
 
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Shoe For Boys - Shoe For Boys  
+**DocID:** `daraz_276876024`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/stylish-and-fashionable-winter-and-summer-exclusive-sneakers-converse-shoes-for-men-shoe-for-boys-shoe-for-boys-i276876024.html
+**Price:** ৳ 358  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men Item Type:Casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable. Age:17-50 Gym Shoes. Type : Running Shoes Lining Material:Mesh Size : 40,41,42,43 Size : 40(7, 7.5 Size), Size : 41(8, 8.5 Size), Size : 42(8.5, 9 Size), Size : 43( 9.5,10 Size). Insole Material:EVA. Upper Material:Flyknit. Fit: Fits true to size, take your normal size. Colour:Black,Ash. Feature:Lightweight, comfortable,Fashion. Season:Spring, Summer, Autumn, Winter. #জুতাছেলেদের #SneakersForMen #Juta #Sneakers #জুতাছেলেদের#NewModel #shoe for boys #shoes for men #juta #shoe for boys #shoes for men #juta
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -17988,6 +18003,21 @@ Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublaminatio
 
 **Description:**
 Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#CricketJersey #CricketWorldCupjersey #T20Jersey #T20WorldCupJersey2025-2026 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura Fabric(Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Portugal World Cup Jersey 202 WC Football Home Kit for CR7 fan-Premium Quality  
+**DocID:** `daraz_419051006`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/202-wc-cr7-i419051006.html
+**Price:** ৳ 459  
+**Rating:** 5.0/5
+
+**Description:**
+Portugal World Cup Jersey 202 WC Football Home Kit for CR7 fan-Premium Quality Product Type: Jersey / Sportswear Product Material: Polyester Quality: Thai Mesh Age-Range: Adult Gender: Unisex Feature 1: Quick Dry Feature 2: Breathable Material Feature 3: Soft and smooth fabric Feature 4: Comfortable to wear Available Size: M, L, XL, XXL Size Chart: M - Length 26 inch, Chest Circumference 36 inch L - Length 27.5 inch, Chest Circumference 38 inch XL - Length 29 inch, Chest Circumference 40 inch XXL- Length 30.5 inch, Chest Circumference 43 inch
 
 ---
 
@@ -24637,6 +24667,47 @@ Physical SpecificationBuild: Glass front, aluminum frame, aluminum back Weight: 
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/colmi-v73-smart-watch
 **Price:** 2,150৳ 2,322৳
+
+---
+
+
+## Mercusys MW306R 300Mbps WiFi Router  
+**DocID:** `startech_https://www.startech.com.bd/mercusys-mw306r-300-mbps-wireless-n-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/mercusys-mw306r-300-mbps-wireless-n-router
+**Price:** 1,000৳ 1,109৳
+
+---
+
+
+## Tenda AC5 AC1200 Dual-Band WiFi Router  
+**DocID:** `startech_https://www.startech.com.bd/tenda-ac5-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/tenda-ac5-router
+**Price:** 2,050৳
+
+---
+
+
+## Hikvision DS-3WR12C AC1200 1200Mbps Dual Band WiFi Router  
+**DocID:** `startech_https://www.startech.com.bd/hikvision-ds-3wr12c-dual-band-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/hikvision-ds-3wr12c-dual-band-router
+**Price:** 1,950৳ 2,060৳
+
+---
+
+
+## COLMI L28 Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/colmi-l28-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/colmi-l28-smart-watch
+**Price:** Up Coming
 
 ---
 
