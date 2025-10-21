@@ -6416,6 +6416,21 @@ Processor: 13th Gen Intel Core i3-1315U RAM & Storage: 8GB DDR4 Memory, 512GB M.
 ---
 
 
+## Chuwi CoreBook XPro 15.6 Inch i3-1215U 3.3 to 4.4GHz, 16GB, 512GB, Win11 Laptop  
+**DocID:** `daraz_336026414`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/chuwi-corebook-xpro-156-inch-i3-1215u-33-to-44ghz-16gb-512gb-win11-laptop-i336026414.html
+**Price:** ৳ 61,950  
+**Rating:** 0.0/5
+
+**Description:**
+Chuwi CoreBook XPro 15.6 Inch i3-1215U 3.3 to 4.4GHz, 16GB, 512GB, Win11 Laptop• Intel Core i3-1215U 3.3 to 4.4GHz, 6 Cores, 8 Thread, 10MB Cache• 16GB DDR4• 512GB SSD• 15.6 Inch 1920x1080 IPS FHD Display• Windows 11 Home• 2 Years WarrantySpecifications:Brand: CHUWIModel: CoreBook XProItem: LaptopProcessor Brand: IntelProcessor Type.: Core i3Generation: 12thProcessor Model: Core i3 1215UProcessor Frequency:3.30GHzProcessor Core: 6Processor Thread: 8Display Size: 15.6 inchDisplay Type: FHD LED DisplayResolution: 1920x1080Ram: 16GBRAM Type: DDR4Storage Capacity: 512GB SSDGraphics Chipset: Intel Iris Plus Graphics 655Graphics Memory Accessibility: IntegratedGraphics Memory: SharedUSB 2 Port: 1 x USB 2.0USB 3 Port: 2 x USB 3.0USB C / Thunderbolt Port: 1 x USB 2.0 Type-CHeadphone Port: ComboMicrophone Port: ComboWiFi: WIFI6 (802.11ax1)Bluetooth: Bluetooth 5.1WebCam: 2.0M Front CameraKeyboard: Backlit KeyboardPointing Device: TouchpadOperating System: Win-11 HomeBattery Capacity: 69.93WhBackup Time: Up to 4 HrsColor: GreyDimensions: 359.4 x 241.5 x 17.9mmWeight: 1.7 kgWarranty: 2 Years
+
+---
+
+
 ## Mackbook AIR M1 13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -10682,6 +10697,51 @@ Sleeve Type: Half, Fit Type: Regular Closure Type: Button. Solid Polo, Vibrant C
 
 **Description:**
 Cotton, Half Sleeve Signature embroidered Bear Small Logo at the left chest. Wrinkle Free, Machine Washable S - Length 27" chest 38" M - Length 28" chest 40" L - Length 29" Chest: 42" XL - Length 29.5" chest 44" XXL- Length 30" chest 46"
+
+---
+
+
+## Classic Fit Cotton Polo Shirt For Men Biscuit  
+**DocID:** `daraz_344288364`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i344288364.html
+**Price:** ৳ 350  
+**Rating:** 4.2/5
+
+**Description:**
+Product details of Classic Fit Cotton Polo Shirt For Men - Polo T ShirtProduct Type: Polo Shirt Material: Cotton Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) Occasion: casual winter wear and sports. 7-Day Easy Return Made in: Bangladesh Print QC Passed Size Chart: M: Chest: 37/38", Length: 27” L: Chest: 39/40"; length: 28" Size Chart: M: Chest: 37/38", Length: 27” L: Chest: 39/40"; length: 28" XL: Chest: 41/42", Length: 29 XL: Chest: 41/42", Length: 29 Connect With Clothes is a trusted and reliable fashion product seller in all of Bangladesh. Connect With Clothes is a trusted manufacturer of quality products. Always, we follow our quality. We provide premium-quality, 100% QC-pass products and always remind customers that “a return customer is our business asset.”
+
+---
+
+
+## Eid special polo shirt ( Black & White )  
+**DocID:** `daraz_321090341`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i321090341.html
+**Price:** ৳ 155  
+**Rating:** 4.0/5
+
+**Description:**
+The Polo t-shirt is made with Double PK fabric which features premium 80% combed compact organic cotton. The t-shirt has a soft touch which makes it very comfortable for day-long usage. Regular fit, Shirt collar.Fabric type : Double PKYarn count : 26/1Composition : Cvc ( 100% cotton + polyester ) GSM : 210-220Color type: Reactive Dye, Dye Finishing: Enzyme and Silicon Washed M L XL M SIZE CHEST 38 LENGTH 27 L SIZE CHEST 40 LENGTH 28 XL SIZE CHEST 42 LENGTH 29
+
+---
+
+
+## Good Lookings Polo T-shirt For Man  
+**DocID:** `daraz_200901526`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i200901526.html
+**Price:** ৳ 199  
+**Rating:** 1.0/5
+
+**Description:**
+Product Type: Polo t-shirt Main Material: Cotton Soft and smooth fabric Comfortable to wear Fashionable and smart design Size: M,L,XL M---Chest - 36 ", Lenght - 28" L---Chest - 38 "Lenght - 29" XL--- Chest - 40 ", Lenght – 30"
 
 ---
 
@@ -21767,6 +21827,21 @@ NO return is applicable if the seal is broken• 10-day seller replacement guara
 
 **Description:**
 ▪︎ Brand: vivo▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty ava seeilable▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 4GBROM: 128GB▪︎ Display: 6.68 inches▪︎ Main Camera : 50 MP, (wide) PDAF Auxiliary lens▪︎ Selfie Camera :5MP▪︎ Battery : Li-Ion 5500 mAh, non-removable▪︎ OS : Android 14, Funtouch 14▪︎ Features : Fingerprint (side-mounted), accelerometer, proximity, compass▪︎Dimensions : 165.8 x 76.1 x 8.1 mm▪︎ Brand: vivo▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty ava seeilable▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 4GBROM: 128GB▪︎ Display: 6.68 inches▪︎ Main Camera : 50 MP, (wide) PDAF Auxiliary lens▪︎ Selfie Camera :5MP▪︎ Battery : Li-Ion 5500 mAh, non-removable▪︎ OS : Android 14, Funtou …
+
+---
+
+
+## Redmi Note 14 4G 6GB/128GB - Official  
+**DocID:** `daraz_542579078`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Xiaomi  
+**URL:** https://www.daraz.com.bd/products/redmi-note-14-4g-6gb128gb-i542579078.html
+**Price:** ৳ 20,999  
+**Rating:** 0.0/5
+
+**Description:**
+No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Redmi Note 14 6GB/128GB SpecificationsAdditional Features: 108MP AI Camera | Corning Gorilla Glass 5 | 120Hz Eye-Care Display | Secure In-Screen Fingerprint | AI Face Unlock | IP54 Splash, Water and Dust ResistantOS: Xiaomi HyperOS Bases on Android 14Chipset: MediaTek Helio G99-Ultra (6nm)CPU: Octa-core processor, up to 2.2GHzGPU: Mali-G57 MC2RAM: 6GB LPDDR4XROM: 128GB UFS2.2SIM Card Slot: Dual Nano SIM + microSDNetwork: 2G/3G/4GDisplay: 6. …
 
 ---
 
