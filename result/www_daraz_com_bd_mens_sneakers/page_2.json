@@ -2,51 +2,47 @@
   {
     "data_qa_locator": "product-item",
     "data_tracking": "product-card",
-    "data_sku_simple": "276842036_BD-1256445186",
-    "data_item_id": "276842036",
-    "data_listno": "20",
-    "data_utlogmap": "{\"listno\":20,\"pageIndex\":1,\"pvid\":\"89d146d8db95da240b75cb8bbe0103fb\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"276842036\",\"x_object_id\":\"276842036\",\"x_object_type\":\"item\"}",
-    "data_aplus_ae": "21",
-    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i20.eb3a3ad80zQwyT",
-    "data_aplus_clk": "x21_691f453d",
+    "data_sku_simple": "371218344_BD-1857698258",
+    "data_item_id": "371218344",
+    "data_listno": "36",
+    "data_utlogmap": "{\"listno\":36,\"pageIndex\":1,\"pvid\":\"89a753290915e97b85d6a29af8299477\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"371218344\",\"x_object_id\":\"371218344\",\"x_object_type\":\"item\"}",
+    "data_aplus_ae": "37",
+    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i36.3bc53ad8WeMX3q",
+    "data_aplus_clk": "x37_ee21248",
     "image_url": "data:image/png;base64,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",
-    "product_detail_url": "//www.daraz.com.bd/products/stylish-and-fashionable-winter-and-summer-exclusive-sneakers-converse-shoes-for-men-shoes-for-men-i276842036.html",
-    "product_name": "Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Shoes For Men -  - জুতা ছেলেদের",
-    "price": "৳ 358",
-    "detail_url": "https://www.daraz.com.bd/products/stylish-and-fashionable-winter-and-summer-exclusive-sneakers-converse-shoes-for-men-shoes-for-men-i276842036.html",
+    "product_detail_url": "//www.daraz.com.bd/products/-i371218344.html",
+    "product_name": "Stylish And Fashionable Winter And Summer Exclusive Sneakers Converse Shoes For Men - Sneakers",
+    "price": "৳ 450",
+    "detail_url": "https://www.daraz.com.bd/products/-i371218344.html",
     "detail": {
-      "url": "https://www.daraz.com.bd/products/stylish-and-fashionable-winter-and-summer-exclusive-sneakers-converse-shoes-for-men-shoes-for-men-i276842036.html",
-      "name": "Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Shoes For Men - - জুতা ছেলেদের",
+      "url": "https://www.daraz.com.bd/products/-i371218344.html",
+      "name": "Stylish And Fashionable Winter And Summer Exclusive Sneakers Converse Shoes For Men - Sneakers",
       "brand": "No Brand",
       "price": {
-        "display": "৳ 358",
-        "value": 358.0,
-        "original_display": "৳ 999",
-        "original_value": 999.0,
-        "discount_display": "-64%",
-        "discount_percent": 64.0
+        "display": "৳ 450",
+        "value": 450.0,
+        "original_display": "৳ 890",
+        "original_value": 890.0,
+        "discount_display": "-49%",
+        "discount_percent": 49.0
       },
       "rating": {
-        "average": 4.3,
-        "count": 4,
-        "raw": "Ratings 4"
+        "average": 1.0,
+        "count": 1,
+        "raw": "Ratings 1"
       },
       "images": [
-        "https://img.drz.lazcdn.com/static/bd/p/d3bf215f1701f44cd5fe07c8ec817a5e.jpg_720x720q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/d3bf215f1701f44cd5fe07c8ec817a5e.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/9cc1b6e818064a85158bdb2390f88917.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/15b270155eb9ffa5cd0040a74e430248.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/f2e0dcc7ce200a7a95889c821899afd6.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/502337f35c2abae5bd6c8e7ffce625f0.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/53d369f5b9859f0e8b41d4b1e58bd4b8.jpg_120x120q80.jpg",
-        "https://static-01.daraz.com.bd/p/d3bf215f1701f44cd5fe07c8ec817a5e.jpg"
+        "https://img.drz.lazcdn.com/static/bd/p/3883ec8b31dd58d8baba2af7b61d351a.jpg_720x720q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/3883ec8b31dd58d8baba2af7b61d351a.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/f898f0ac3dec6199c50a2d009f8ebc45.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/d8b7821ac0e455f38b3217a77c67a652.jpg_120x120q80.jpg",
+        "https://static-01.daraz.com.bd/p/3883ec8b31dd58d8baba2af7b61d351a.jpg"
       ],
       "colors": [
-        "Black",
+        "Blue",
         "Color #1"
       ],
       "sizes": [
-        "39",
         "40",
         "41",
         "42",
@@ -60,44 +56,40 @@
         "Warranty not available"
       ],
       "seller": {
-        "name": "Abs Mart",
-        "link": "https://www.daraz.com.bd/shop/abs-mart/?itemId=276842036&channelSource=pdp",
+        "name": "Level Point",
+        "link": "https://www.daraz.com.bd/shop/hok4gilz/?itemId=371218344&channelSource=pdp",
         "metrics": {
-          "Positive Seller Ratings": "84%",
+          "Positive Seller Ratings": "78%",
           "Ship on Time": "100%",
           "Chat Response Rate": "Not enough data"
         }
       },
       "details": {
         "highlights": [],
-        "description_text": "Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men Item Type:Casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable. Age:17-50 Gym Shoes. Type : Running Shoes Lining Material:Mesh Size : 40,41,42,43 Size : 40(7, 7.5 Size), Size : 41(8, 8.5 Size), Size : 42(8.5, 9 Size), Size : 43( 9.5,10 Size). Insole Material:EVA. Upper Material:Flyknit. Fit: Fits true to size, take your normal size. Colour:Black,Ash. Feature:Lightweight, comfortable,Fashion. Season:Spring, Summer, Autumn, Winter. #ShoesForMen #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #জুতাছেলেদের #shoesformen",
+        "description_text": "Product details of Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for MenProduct Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones. Product details of Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for MenProduct Type: Sneakers ConverseColor: Black and WhiteMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableCountry of Origin:ChinaMen footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.Product Type: Sneakers ConverseColor: Black and WhiteMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableCountry of Origin:ChinaSpecifications of Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for MenBrandNo BrandSKU324684634_BD-1554660538Main MaterialVelvetMen Shoes ClosureLace-upWhat’s in the boxshoes",
         "description_html": null,
         "specifications": [],
         "whats_in_the_box": null,
-        "raw_text": "Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men Item Type:Casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable. Age:17-50 Gym Shoes. Type : Running Shoes Lining Material:Mesh Size : 40,41,42,43 Size : 40(7, 7.5 Size), Size : 41(8, 8.5 Size), Size : 42(8.5, 9 Size), Size : 43( 9.5,10 Size). Insole Material:EVA. Upper Material:Flyknit. Fit: Fits true to size, take your normal size. Colour:Black,Ash. Feature:Lightweight, comfortable,Fashion. Season:Spring, Summer, Autumn, Winter. #ShoesForMen #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #জুতাছেলেদের #shoesformen"
+        "raw_text": "Product details of Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for MenProduct Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones. Product details of Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for MenProduct Type: Sneakers ConverseColor: Black and WhiteMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableCountry of Origin:ChinaMen footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.Product Type: Sneakers ConverseColor: Black and WhiteMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableCountry of Origin:ChinaSpecifications of Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for MenBrandNo BrandSKU324684634_BD-1554660538Main MaterialVelvetMen Shoes ClosureLace-upWhat’s in the boxshoes"
       },
       "variants": [
         {
           "color": "Color #1",
           "price": {
-            "display": "৳ 358",
-            "value": 358.0,
-            "original_display": "৳ 999",
-            "original_value": 999.0,
-            "discount_display": "-64%",
-            "discount_percent": 64.0
+            "display": "৳ 450",
+            "value": 450.0,
+            "original_display": "৳ 890",
+            "original_value": 890.0,
+            "discount_display": "-49%",
+            "discount_percent": 49.0
           },
           "images": [
-            "https://img.drz.lazcdn.com/static/bd/p/d3bf215f1701f44cd5fe07c8ec817a5e.jpg_720x720q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/d3bf215f1701f44cd5fe07c8ec817a5e.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/9cc1b6e818064a85158bdb2390f88917.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/15b270155eb9ffa5cd0040a74e430248.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/f2e0dcc7ce200a7a95889c821899afd6.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/502337f35c2abae5bd6c8e7ffce625f0.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/53d369f5b9859f0e8b41d4b1e58bd4b8.jpg_80x80q80.jpg_.webp"
+            "https://img.drz.lazcdn.com/static/bd/p/3883ec8b31dd58d8baba2af7b61d351a.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/3883ec8b31dd58d8baba2af7b61d351a.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/f898f0ac3dec6199c50a2d009f8ebc45.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/d8b7821ac0e455f38b3217a77c67a652.jpg_80x80q80.jpg_.webp"
           ],
           "sizes": [
-            "39",
             "40",
             "41",
             "42",
@@ -111,52 +103,151 @@
   {
     "data_qa_locator": "product-item",
     "data_tracking": "product-card",
-    "data_sku_simple": "261136025_BD-1222284902",
-    "data_item_id": "261136025",
-    "data_listno": "26",
-    "data_utlogmap": "{\"listno\":26,\"pageIndex\":1,\"pvid\":\"89d146d8db95da240b75cb8bbe0103fb\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"261136025\",\"x_object_id\":\"261136025\",\"x_object_type\":\"item\"}",
-    "data_aplus_ae": "27",
-    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i26.eb3a3ad80zQwyT",
-    "data_aplus_clk": "x27_3693ec2",
+    "data_sku_simple": "325753009_BD-1564927142",
+    "data_item_id": "325753009",
+    "data_listno": "38",
+    "data_utlogmap": "{\"listno\":38,\"pageIndex\":1,\"pvid\":\"89a753290915e97b85d6a29af8299477\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"325753009\",\"x_object_id\":\"325753009\",\"x_object_type\":\"item\"}",
+    "data_aplus_ae": "39",
+    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i38.3bc53ad8WeMX3q",
+    "data_aplus_clk": "x39_165eb5e1",
     "image_url": "data:image/png;base64,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",
-    "product_detail_url": "//www.daraz.com.bd/products/stylish-and-fashionable-winter-and-summer-exclusive-sneakers-converse-shoes-for-men-shoes-shoe-for-boys-shoe-for-boys-insoles-for-shoes-i261136025.html",
-    "product_name": "Stylish And Fashionable Winter And Summer Exclusive Sneakers  Shoes For Men",
-    "price": "৳ 358",
-    "detail_url": "https://www.daraz.com.bd/products/stylish-and-fashionable-winter-and-summer-exclusive-sneakers-converse-shoes-for-men-shoes-shoe-for-boys-shoe-for-boys-insoles-for-shoes-i261136025.html",
+    "product_detail_url": "//www.daraz.com.bd/products/north-star-valerio-i325753009.html",
+    "product_name": "North Star VALERIO Low-Top Casual Lace-Up Sneaker for Men Exclusively only for Daraz",
+    "price": "৳ 1,699",
+    "detail_url": "https://www.daraz.com.bd/products/north-star-valerio-i325753009.html",
     "detail": {
-      "url": "https://www.daraz.com.bd/products/stylish-and-fashionable-winter-and-summer-exclusive-sneakers-converse-shoes-for-men-shoes-shoe-for-boys-shoe-for-boys-insoles-for-shoes-i261136025.html",
-      "name": "Stylish And Fashionable Winter And Summer Exclusive Sneakers Shoes For Men",
-      "brand": "No Brand",
+      "url": "https://www.daraz.com.bd/products/north-star-valerio-i325753009.html",
+      "name": "North Star VALERIO Low-Top Casual Lace-Up Sneaker for Men Exclusively only for Daraz",
+      "brand": "North Star",
       "price": {
-        "display": "৳ 358",
-        "value": 358.0,
-        "original_display": "৳ 999",
-        "original_value": 999.0,
-        "discount_display": "-64%",
-        "discount_percent": 64.0
+        "display": "৳ 1,699",
+        "value": 1699.0,
+        "original_display": null,
+        "original_value": null,
+        "discount_display": null,
+        "discount_percent": null
       },
       "rating": {
-        "average": 4.9,
-        "count": 7,
-        "raw": "Ratings 7"
+        "average": 4.3,
+        "count": 10,
+        "raw": "Ratings 10"
       },
       "images": [
-        "https://img.drz.lazcdn.com/static/bd/p/f6e2cd8e2722d6fbe5641177eb0fe8cc.jpg_720x720q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/f6e2cd8e2722d6fbe5641177eb0fe8cc.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/e9f11c49b8b8a2f9a232fdcacb6eba6c.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/b7a5c820fb05ee76d6e3efd3c72beb9e.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/8a9a248e99b09642c7b0e18e868654ca.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/5e18653331aa02b47705b5e1264a9c6c.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/e1e6bfc68fcca6a155b7f5b2d4c5c096.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/d3bf215f1701f44cd5fe07c8ec817a5e.jpg_120x120q80.jpg",
-        "https://static-01.daraz.com.bd/p/d3bf215f1701f44cd5fe07c8ec817a5e.jpg"
+        "https://img.drz.lazcdn.com/static/bd/p/3ed3ef99a4db9d2b9063b19b9957e661.jpg_720x720q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/3ed3ef99a4db9d2b9063b19b9957e661.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/140a6310ce2b5b127b566172686d00da.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/768bc81163804ffe2f29984561983eb4.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/4e3b1cb8520b1b72d535ae52160bf2d7.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/beaa2b7dcbf04ab1b5c5bb5bc6b8c0fa.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/2fdb28517ab493ce920877014ae5ad03.jpg_120x120q80.jpg",
+        "https://static-01.daraz.com.bd/p/140a6310ce2b5b127b566172686d00da.jpg"
       ],
       "colors": [
-        "Black",
+        "Grey",
         "Color #1"
       ],
       "sizes": [
-        "39",
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "delivery_options": [],
+      "return_and_warranty": [
+        "Change of Mind",
+        "14 days easy return",
+        "Warranty not available"
+      ],
+      "seller": {
+        "name": "Bata",
+        "link": "https://www.daraz.com.bd/shop/bata/?itemId=325753009&channelSource=pdp",
+        "metrics": {
+          "Positive Seller Ratings": "85%",
+          "Ship on Time": "100%",
+          "Chat Response Rate": "Not enough data"
+        }
+      },
+      "details": {
+        "highlights": [],
+        "description_text": "Type: Casual Lace-Up Sneaker Gender: Men Upper Material: Knit Sole: PVC Color: Grey Closing: Closed Exclusively only for DarazElevate your weekend fun with the perfect blend of comfort and style. North Star presents these essential low-top sneakers that effortlessly combine trendiness and relaxation for men on the go. With lightweight soles, these casual lace-up sneakers are designed for all-day comfort without compromising your style.FEATURES:Type: Casual Lace-Up SneakerGender: MenUpper Material: KnitSole: PVCColor: GreyClosing: ClosedSTYLE TIPS: Pair these versatile sneakers with your favorite jeans and a classic tee for a laid-back, everyday look.",
+        "description_html": null,
+        "specifications": [],
+        "whats_in_the_box": null,
+        "raw_text": "Type: Casual Lace-Up Sneaker Gender: Men Upper Material: Knit Sole: PVC Color: Grey Closing: Closed Exclusively only for DarazElevate your weekend fun with the perfect blend of comfort and style. North Star presents these essential low-top sneakers that effortlessly combine trendiness and relaxation for men on the go. With lightweight soles, these casual lace-up sneakers are designed for all-day comfort without compromising your style.FEATURES:Type: Casual Lace-Up SneakerGender: MenUpper Material: KnitSole: PVCColor: GreyClosing: ClosedSTYLE TIPS: Pair these versatile sneakers with your favorite jeans and a classic tee for a laid-back, everyday look."
+      },
+      "variants": [
+        {
+          "color": "Color #1",
+          "price": {
+            "display": "৳ 1,699",
+            "value": 1699.0,
+            "original_display": null,
+            "original_value": null,
+            "discount_display": null,
+            "discount_percent": null
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/140a6310ce2b5b127b566172686d00da.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/3ed3ef99a4db9d2b9063b19b9957e661.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/140a6310ce2b5b127b566172686d00da.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/768bc81163804ffe2f29984561983eb4.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/4e3b1cb8520b1b72d535ae52160bf2d7.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/beaa2b7dcbf04ab1b5c5bb5bc6b8c0fa.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/2fdb28517ab493ce920877014ae5ad03.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": [
+            "6",
+            "8",
+            "9",
+            "10"
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "data_qa_locator": "product-item",
+    "data_tracking": "product-card",
+    "data_sku_simple": "292964372_BD-1300300614",
+    "data_item_id": "292964372",
+    "data_listno": "39",
+    "data_utlogmap": "{\"listno\":39,\"pageIndex\":1,\"pvid\":\"89a753290915e97b85d6a29af8299477\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"292964372\",\"x_object_id\":\"292964372\",\"x_object_type\":\"item\"}",
+    "data_aplus_ae": "40",
+    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i39.3bc53ad8WeMX3q",
+    "data_aplus_clk": "x40_6f6f6ad4",
+    "image_url": "data:image/png;base64,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",
+    "product_detail_url": "//www.daraz.com.bd/products/-i292964372.html",
+    "product_name": "High Quality Sports' Sneakers Men: Fashionable Fly Knit, Light Weight Slip-On Men - Ideal Shoes for Comfort and Style",
+    "price": "৳ 415",
+    "detail_url": "https://www.daraz.com.bd/products/-i292964372.html",
+    "detail": {
+      "url": "https://www.daraz.com.bd/products/-i292964372.html",
+      "name": "High Quality Sports' Sneakers Men: Fashionable Fly Knit, Light Weight Slip-On Men - Ideal Shoes for Comfort and Style",
+      "brand": "No Brand",
+      "price": {
+        "display": "৳ 1,400",
+        "value": 1400.0,
+        "original_display": null,
+        "original_value": null,
+        "discount_display": null,
+        "discount_percent": null
+      },
+      "rating": {
+        "average": 4.5,
+        "count": 17,
+        "raw": "Ratings 17"
+      },
+      "images": [
+        "https://img.drz.lazcdn.com/static/bd/p/15556655853412ce8782ac107b2796d9.jpg_720x720q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/15556655853412ce8782ac107b2796d9.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/d867ac29268fec025d86afd44d768137.jpg_120x120q80.jpg",
+        "https://static-01.daraz.com.bd/p/d867ac29268fec025d86afd44d768137.jpg"
+      ],
+      "colors": [
+        "White",
+        "Color #1"
+      ],
+      "sizes": [
         "40",
         "41",
         "42",
@@ -170,45 +261,39 @@
         "Warranty not available"
       ],
       "seller": {
-        "name": "Abs Mart",
-        "link": "https://www.daraz.com.bd/shop/abs-mart/?itemId=261136025&channelSource=pdp",
+        "name": "Mother Pray Shop",
+        "link": "https://www.daraz.com.bd/shop/mother-pray-shop/?itemId=292964372&channelSource=pdp",
         "metrics": {
-          "Positive Seller Ratings": "84%",
+          "Positive Seller Ratings": "81%",
           "Ship on Time": "100%",
           "Chat Response Rate": "Not enough data"
         }
       },
       "details": {
         "highlights": [],
-        "description_text": "Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men Item Type:Casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable. Age:17-50 Gym Shoes. Type : Running Shoes Lining Material:Mesh Size : 40,41,42,43 Size : 40(7, 7.5 Size), Size : 41(8, 8.5 Size), Size : 42(8.5, 9 Size), Size : 43( 9.5,10 Size). Insole Material:EVA. Upper Material:Flyknit. Fit: Fits true to size, take your normal size. Colour:Black,Ash. Feature:Lightweight, comfortable,Fashion. Season:Spring, Summer, Autumn, Winter. #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #SneakersForMen #Juta #Sneakers #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦°#NewModel #shoe for boys #shoes for men #juta #shoe for boys #shoes for men #juta #insoles for shoes #shoes for men #জুতা ছেলেদের",
+        "description_text": "Mobile Camera Picture Item Type:casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-Odor Lining Material:Mesh Insole Material:EVA Upper Material:Flyknit Fit:Fits true to size, take your normal size Colour:Black,Red, Blue Feature:Lightweight, comfortable,Fashion Season:Spring, Summer, Autumn, Winter Mobile Camera PictureItem Type:casual shoesOutsole Material:RubberFeature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-OdorLining Material:MeshInsole Material:EVAUpper Material:FlyknitFit:Fits true to size, take your normal sizeColour:Black,Red, BlueFeature:Lightweight, comfortable,FashionSeason:Spring, Summer, Autumn, Winter",
         "description_html": null,
         "specifications": [],
         "whats_in_the_box": null,
-        "raw_text": "Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men Item Type:Casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable. Age:17-50 Gym Shoes. Type : Running Shoes Lining Material:Mesh Size : 40,41,42,43 Size : 40(7, 7.5 Size), Size : 41(8, 8.5 Size), Size : 42(8.5, 9 Size), Size : 43( 9.5,10 Size). Insole Material:EVA. Upper Material:Flyknit. Fit: Fits true to size, take your normal size. Colour:Black,Ash. Feature:Lightweight, comfortable,Fashion. Season:Spring, Summer, Autumn, Winter. #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #SneakersForMen #Juta #Sneakers #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦°#NewModel #shoe for boys #shoes for men #juta #shoe for boys #shoes for men #juta #insoles for shoes #shoes for men #জুতা ছেলেদের"
+        "raw_text": "Mobile Camera Picture Item Type:casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-Odor Lining Material:Mesh Insole Material:EVA Upper Material:Flyknit Fit:Fits true to size, take your normal size Colour:Black,Red, Blue Feature:Lightweight, comfortable,Fashion Season:Spring, Summer, Autumn, Winter Mobile Camera PictureItem Type:casual shoesOutsole Material:RubberFeature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-OdorLining Material:MeshInsole Material:EVAUpper Material:FlyknitFit:Fits true to size, take your normal sizeColour:Black,Red, BlueFeature:Lightweight, comfortable,FashionSeason:Spring, Summer, Autumn, Winter"
       },
       "variants": [
         {
           "color": "Color #1",
           "price": {
-            "display": "৳ 358",
-            "value": 358.0,
-            "original_display": "৳ 999",
-            "original_value": 999.0,
-            "discount_display": "-64%",
-            "discount_percent": 64.0
+            "display": "৳ 1,400",
+            "value": 1400.0,
+            "original_display": null,
+            "original_value": null,
+            "discount_display": null,
+            "discount_percent": null
           },
           "images": [
-            "https://img.drz.lazcdn.com/static/bd/p/d3bf215f1701f44cd5fe07c8ec817a5e.jpg_720x720q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/f6e2cd8e2722d6fbe5641177eb0fe8cc.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/e9f11c49b8b8a2f9a232fdcacb6eba6c.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/b7a5c820fb05ee76d6e3efd3c72beb9e.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/8a9a248e99b09642c7b0e18e868654ca.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/5e18653331aa02b47705b5e1264a9c6c.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/e1e6bfc68fcca6a155b7f5b2d4c5c096.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/d3bf215f1701f44cd5fe07c8ec817a5e.jpg_80x80q80.jpg_.webp"
+            "https://img.drz.lazcdn.com/static/bd/p/d867ac29268fec025d86afd44d768137.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/15556655853412ce8782ac107b2796d9.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/d867ac29268fec025d86afd44d768137.jpg_80x80q80.jpg_.webp"
           ],
           "sizes": [
-            "39",
             "40",
             "41",
             "42",

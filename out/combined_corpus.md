@@ -10672,6 +10672,20 @@ Sleeve Type: Half, Fit Type: Regular Closure Type: Button. Solid Polo, Vibrant C
 ---
 
 
+## Trendsetter -Upscale Living -Polo Ralph Lauren Bear Small Logo Men's Polo Shirt- Inventive Choice Preferble - Low Hassle and Maintanance  
+**DocID:** `daraz_316944714`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/trendsetter-upscale-living-polo-ralph-lauren-bear-small-logo-mens-polo-shirt-inventive-choice-preferble-low-hassle-and-maintanance-i316944714.html
+**Rating:** 0.0/5
+
+**Description:**
+Cotton, Half Sleeve Signature embroidered Bear Small Logo at the left chest. Wrinkle Free, Machine Washable S - Length 27" chest 38" M - Length 28" chest 40" L - Length 29" Chest: 42" XL - Length 29.5" chest 44" XXL- Length 30" chest 46"
+
+---
+
+
 ## Versatile -Hot Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men- Avant-garde Any Color  
 **DocID:** `daraz_347609148`
 **Source:** Daraz  
@@ -14419,6 +14433,51 @@ Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers 
 
 **Description:**
 Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men Item Type:Casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable. Age:17-50 Gym Shoes. Type : Running Shoes Lining Material:Mesh Size : 40,41,42,43 Size : 40(7, 7.5 Size), Size : 41(8, 8.5 Size), Size : 42(8.5, 9 Size), Size : 43( 9.5,10 Size). Insole Material:EVA. Upper Material:Flyknit. Fit: Fits true to size, take your normal size. Colour:Black,Ash. Feature:Lightweight, comfortable,Fashion. Season:Spring, Summer, Autumn, Winter. #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #SneakersForMen #Juta #Sneakers #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦°#NewModel #shoe for boys #shoes for men #juta #shoe for boys #shoes for men #juta #insoles for shoes #shoes for men #জুতা ছেলেদের
+
+---
+
+
+## Stylish And Fashionable Winter And Summer Exclusive Sneakers Converse Shoes For Men - Sneakers  
+**DocID:** `daraz_371218344`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i371218344.html
+**Price:** ৳ 450  
+**Rating:** 1.0/5
+
+**Description:**
+Product details of Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for MenProduct Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones. Product details of Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for MenProduct Type: Sneakers ConverseColor: Black and WhiteMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableCountry of Origin:ChinaMen footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.Men footwear is intended to protect and comfort the human foot while the wearer is doing various …
+
+---
+
+
+## North Star VALERIO Low-Top Casual Lace-Up Sneaker for Men Exclusively only for Daraz  
+**DocID:** `daraz_325753009`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** North Star  
+**URL:** https://www.daraz.com.bd/products/north-star-valerio-i325753009.html
+**Price:** ৳ 1,699  
+**Rating:** 4.3/5
+
+**Description:**
+Type: Casual Lace-Up Sneaker Gender: Men Upper Material: Knit Sole: PVC Color: Grey Closing: Closed Exclusively only for DarazElevate your weekend fun with the perfect blend of comfort and style. North Star presents these essential low-top sneakers that effortlessly combine trendiness and relaxation for men on the go. With lightweight soles, these casual lace-up sneakers are designed for all-day comfort without compromising your style.FEATURES:Type: Casual Lace-Up SneakerGender: MenUpper Material: KnitSole: PVCColor: GreyClosing: ClosedSTYLE TIPS: Pair these versatile sneakers with your favorite jeans and a classic tee for a laid-back, everyday look.
+
+---
+
+
+## High Quality Sports' Sneakers Men: Fashionable Fly Knit, Light Weight Slip-On Men - Ideal Shoes for Comfort and Style  
+**DocID:** `daraz_292964372`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i292964372.html
+**Price:** ৳ 1,400  
+**Rating:** 4.5/5
+
+**Description:**
+Mobile Camera Picture Item Type:casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-Odor Lining Material:Mesh Insole Material:EVA Upper Material:Flyknit Fit:Fits true to size, take your normal size Colour:Black,Red, Blue Feature:Lightweight, comfortable,Fashion Season:Spring, Summer, Autumn, Winter Mobile Camera PictureItem Type:casual shoesOutsole Material:RubberFeature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-OdorLining Material:MeshInsole Material:EVAUpper Material:FlyknitFit:Fits true to size, take your normal sizeColour:Black,Red, BlueFeature:Lightweight, comfortable,FashionSeason:Spring, Summer, Autumn, Winter
 
 ---
 
@@ -24793,6 +24852,36 @@ Physical SpecificationBuild: Glass front, aluminum frame, aluminum back Weight: 
 **Category:** wifi-camera  
 **URL:** https://www.startech.com.bd/imou-ipc-k6c-5h1web-5mp-wifi-camera
 **Price:** 2,899৳ 3,200৳
+
+---
+
+
+## Gigasonic RDA-1705M 17 Inch HDMI LED Square Monitor  
+**DocID:** `startech_https://www.startech.com.bd/gigasonic-rda-1705m-17-inch-led-square-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/gigasonic-rda-1705m-17-inch-led-square-monitor
+**Price:** 4,500৳ 4,800৳
+
+---
+
+
+## Gigasonic RDA-1707W 17 Inch LED Square Monitor  
+**DocID:** `startech_https://www.startech.com.bd/gigasonic-rda-1707w-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/gigasonic-rda-1707w-monitor
+**Price:** 4,800৳
+
+---
+
+
+## Dell E1920H 18.5 Inch LED Monitor  
+**DocID:** `startech_https://www.startech.com.bd/dell-e1920h-led-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/dell-e1920h-led-monitor
+**Price:** 10,700৳
 
 ---
 

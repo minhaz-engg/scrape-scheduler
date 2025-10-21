@@ -33531,5 +33531,180 @@
         }
       ]
     }
+  },
+  {
+    "data_qa_locator": "product-item",
+    "data_tracking": "product-card",
+    "data_sku_simple": "316944714_BD-1476595930",
+    "data_item_id": "316944714",
+    "data_listno": "39",
+    "data_utlogmap": "{\"listno\":39,\"pageIndex\":1,\"pvid\":\"f30ea58b6f85afad12edebf116788f6a\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"316944714\",\"x_object_id\":\"316944714\",\"x_object_type\":\"item\"}",
+    "data_aplus_ae": "40",
+    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i39.43dc4c87FEYiL9",
+    "data_aplus_clk": "x40_1dc2bf80",
+    "image_url": "data:image/png;base64,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",
+    "product_detail_url": "//www.daraz.com.bd/products/trendsetter-upscale-living-polo-ralph-lauren-bear-small-logo-mens-polo-shirt-inventive-choice-preferble-low-hassle-and-maintanance-i316944714.html",
+    "product_name": "Trendsetter -Upscale Living -Polo Ralph Lauren Bear Small Logo Men's Polo Shirt- Inventive Choice Preferble - Low Hassle and Maintanance",
+    "price": "৳ 620",
+    "detail_url": "https://www.daraz.com.bd/products/trendsetter-upscale-living-polo-ralph-lauren-bear-small-logo-mens-polo-shirt-inventive-choice-preferble-low-hassle-and-maintanance-i316944714.html",
+    "detail": {
+      "url": "https://www.daraz.com.bd/products/trendsetter-upscale-living-polo-ralph-lauren-bear-small-logo-mens-polo-shirt-inventive-choice-preferble-low-hassle-and-maintanance-i316944714.html",
+      "name": "Trendsetter -Upscale Living -Polo Ralph Lauren Bear Small Logo Men's Polo Shirt- Inventive Choice Preferble - Low Hassle and Maintanance",
+      "brand": "No Brand",
+      "price": {
+        "display": null,
+        "value": null,
+        "original_display": null,
+        "original_value": null,
+        "discount_display": null,
+        "discount_percent": null
+      },
+      "rating": {
+        "average": 0.0,
+        "count": 0,
+        "raw": "No Ratings"
+      },
+      "images": [
+        "https://img.lazcdn.com/g/tps/tfs/TB13MLwbOLaK1RjSZFxXXamPFXa-300-200.png",
+        "https://video-play.daraz.com.bd/cover/4240283.jpg",
+        "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+        "https://img.drz.lazcdn.com/static/bd/p/9a0d48a144e3b39b2caa8d1aab5bb922.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/0fb5cb7654746e76069778331ec46bec.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/aadd57823b8260bd61617111accd8ad0.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/77d5a159ac3ff916a6ed827bfec9a413.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/500f0893fc0447e0913ffa6b6a02a486.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/01e64847d450eaec0de93f346512d98b.jpg_120x120q80.jpg",
+        "https://static-01.daraz.com.bd/p/01e64847d450eaec0de93f346512d98b.jpg"
+      ],
+      "colors": [
+        "Deep Blue",
+        "Dark Grey",
+        "Yellow",
+        "Black"
+      ],
+      "sizes": [
+        "XL",
+        "XXL"
+      ],
+      "delivery_options": [],
+      "return_and_warranty": [],
+      "seller": {
+        "name": null,
+        "link": null,
+        "metrics": {}
+      },
+      "details": {
+        "highlights": [],
+        "description_text": "Cotton, Half Sleeve Signature embroidered Bear Small Logo at the left chest. Wrinkle Free, Machine Washable S - Length 27\" chest 38\" M - Length 28\" chest 40\" L - Length 29\" Chest: 42\" XL - Length 29.5\" chest 44\" XXL- Length 30\" chest 46\"",
+        "description_html": null,
+        "specifications": [],
+        "whats_in_the_box": null,
+        "raw_text": "Cotton, Half Sleeve Signature embroidered Bear Small Logo at the left chest. Wrinkle Free, Machine Washable S - Length 27\" chest 38\" M - Length 28\" chest 40\" L - Length 29\" Chest: 42\" XL - Length 29.5\" chest 44\" XXL- Length 30\" chest 46\""
+      },
+      "variants": [
+        {
+          "color": "Yellow",
+          "price": {
+            "display": null,
+            "value": null,
+            "original_display": null,
+            "original_value": null,
+            "discount_display": null,
+            "discount_percent": null
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/0fb5cb7654746e76069778331ec46bec.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/9a0d48a144e3b39b2caa8d1aab5bb922.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0fb5cb7654746e76069778331ec46bec.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/aadd57823b8260bd61617111accd8ad0.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/77d5a159ac3ff916a6ed827bfec9a413.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/500f0893fc0447e0913ffa6b6a02a486.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": [
+            "L",
+            "M",
+            "XL",
+            "S",
+            "XXL"
+          ]
+        },
+        {
+          "color": "Black",
+          "price": {
+            "display": null,
+            "value": null,
+            "original_display": null,
+            "original_value": null,
+            "discount_display": null,
+            "discount_percent": null
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/fd30e68a9f661a6bafb30168346c9e55.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/9a0d48a144e3b39b2caa8d1aab5bb922.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0fb5cb7654746e76069778331ec46bec.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/aadd57823b8260bd61617111accd8ad0.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/77d5a159ac3ff916a6ed827bfec9a413.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/500f0893fc0447e0913ffa6b6a02a486.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/fd30e68a9f661a6bafb30168346c9e55.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": [
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "color": "Deep Blue",
+          "price": {
+            "display": null,
+            "value": null,
+            "original_display": null,
+            "original_value": null,
+            "discount_display": null,
+            "discount_percent": null
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/01e64847d450eaec0de93f346512d98b.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/9a0d48a144e3b39b2caa8d1aab5bb922.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0fb5cb7654746e76069778331ec46bec.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/aadd57823b8260bd61617111accd8ad0.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/77d5a159ac3ff916a6ed827bfec9a413.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/500f0893fc0447e0913ffa6b6a02a486.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/01e64847d450eaec0de93f346512d98b.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": [
+            "XL",
+            "XXL"
+          ]
+        },
+        {
+          "color": "Dark Grey",
+          "price": {
+            "display": null,
+            "value": null,
+            "original_display": null,
+            "original_value": null,
+            "discount_display": null,
+            "discount_percent": null
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/static/bd/p/9ab10f299c4305c99df4914054874e56.jpg_720x720q80.jpg_.webp",
+            "https://img.lazcdn.com/g/tps/tfs/TB1oP2bbQvoK1RjSZFNXXcxMVXa-300-200.png",
+            "https://img.drz.lazcdn.com/static/bd/p/9a0d48a144e3b39b2caa8d1aab5bb922.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/0fb5cb7654746e76069778331ec46bec.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/aadd57823b8260bd61617111accd8ad0.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/77d5a159ac3ff916a6ed827bfec9a413.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/500f0893fc0447e0913ffa6b6a02a486.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/static/bd/p/9ab10f299c4305c99df4914054874e56.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": [
+            "XL",
+            "XXL"
+          ]
+        }
+      ]
+    }
   }
 ]
