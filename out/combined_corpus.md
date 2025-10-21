@@ -14393,6 +14393,36 @@ Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers 
 ---
 
 
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Shoes For Men - - জুতা ছেলেদের  
+**DocID:** `daraz_276842036`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/stylish-and-fashionable-winter-and-summer-exclusive-sneakers-converse-shoes-for-men-shoes-for-men-i276842036.html
+**Price:** ৳ 358  
+**Rating:** 4.3/5
+
+**Description:**
+Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men Item Type:Casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable. Age:17-50 Gym Shoes. Type : Running Shoes Lining Material:Mesh Size : 40,41,42,43 Size : 40(7, 7.5 Size), Size : 41(8, 8.5 Size), Size : 42(8.5, 9 Size), Size : 43( 9.5,10 Size). Insole Material:EVA. Upper Material:Flyknit. Fit: Fits true to size, take your normal size. Colour:Black,Ash. Feature:Lightweight, comfortable,Fashion. Season:Spring, Summer, Autumn, Winter. #ShoesForMen #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #জুতাছেলেদের #shoesformen
+
+---
+
+
+## Stylish And Fashionable Winter And Summer Exclusive Sneakers Shoes For Men  
+**DocID:** `daraz_261136025`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/stylish-and-fashionable-winter-and-summer-exclusive-sneakers-converse-shoes-for-men-shoes-shoe-for-boys-shoe-for-boys-insoles-for-shoes-i261136025.html
+**Price:** ৳ 358  
+**Rating:** 4.9/5
+
+**Description:**
+Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men Item Type:Casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable. Age:17-50 Gym Shoes. Type : Running Shoes Lining Material:Mesh Size : 40,41,42,43 Size : 40(7, 7.5 Size), Size : 41(8, 8.5 Size), Size : 42(8.5, 9 Size), Size : 43( 9.5,10 Size). Insole Material:EVA. Upper Material:Flyknit. Fit: Fits true to size, take your normal size. Colour:Black,Ash. Feature:Lightweight, comfortable,Fashion. Season:Spring, Summer, Autumn, Winter. #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #SneakersForMen #Juta #Sneakers #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦°#NewModel #shoe for boys #shoes for men #juta #shoe for boys #shoes for men #juta #insoles for shoes #shoes for men #জুতা ছেলেদের
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -21667,6 +21697,21 @@ NO return is applicable if the seal is broken• 10-day seller replacement guara
 ---
 
 
+## vivo Y19s (4+128GB)  
+**DocID:** `daraz_525108177`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Vivo  
+**URL:** https://www.daraz.com.bd/products/vivo-y19s-4128gb-i525108177.html
+**Price:** ৳ 15,899  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand: vivo▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty ava seeilable▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 4GBROM: 128GB▪︎ Display: 6.68 inches▪︎ Main Camera : 50 MP, (wide) PDAF Auxiliary lens▪︎ Selfie Camera :5MP▪︎ Battery : Li-Ion 5500 mAh, non-removable▪︎ OS : Android 14, Funtouch 14▪︎ Features : Fingerprint (side-mounted), accelerometer, proximity, compass▪︎Dimensions : 165.8 x 76.1 x 8.1 mm▪︎ Brand: vivo▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty ava seeilable▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 4GBROM: 128GB▪︎ Display: 6.68 inches▪︎ Main Camera : 50 MP, (wide) PDAF Auxiliary lens▪︎ Selfie Camera :5MP▪︎ Battery : Li-Ion 5500 mAh, non-removable▪︎ OS : Android 14, Funtou …
+
+---
+
+
 ## Galaxy Tab A9 [Wi-Fi + Cell]  
 **DocID:** `daraz_486151441`
 **Source:** Daraz  
@@ -24708,6 +24753,46 @@ Physical SpecificationBuild: Glass front, aluminum frame, aluminum back Weight: 
 **Status:** Up Coming  
 **URL:** https://www.startech.com.bd/colmi-l28-smart-watch
 **Price:** Up Coming
+
+---
+
+
+## ZKTeco C3A2 2MP Outdoor WIFI Camera  
+**DocID:** `startech_https://www.startech.com.bd/zkteco-c3a2-2mp-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/zkteco-c3a2-2mp-wifi-camera
+**Price:** 2,140৳ 2,250৳
+
+---
+
+
+## Jovision JVS-H950E 3MP Wi-Fi Network IP Camera  
+**DocID:** `startech_https://www.startech.com.bd/jovision-jvs-h950e-3mp-wi-fi-network-ip-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/jovision-jvs-h950e-3mp-wi-fi-network-ip-camera
+**Price:** 2,300৳ 2,750৳
+
+---
+
+
+## EZVIZ CS-H6c Pro 3MP Pan & Tilt Smart Portable WiFi Camera  
+**DocID:** `startech_https://www.startech.com.bd/ezviz-cs-h6c-pro-3-mp-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/ezviz-cs-h6c-pro-3-mp-wifi-camera
+**Price:** 2,250৳ 3,200৳
+
+---
+
+
+## Imou IPC-K6C-5H1WEB 5MP Wi-Fi Camera  
+**DocID:** `startech_https://www.startech.com.bd/imou-ipc-k6c-5h1web-5mp-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/imou-ipc-k6c-5h1web-5mp-wifi-camera
+**Price:** 2,899৳ 3,200৳
 
 ---
 

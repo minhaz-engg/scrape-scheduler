@@ -2,29 +2,29 @@
   {
     "data_qa_locator": "product-item",
     "data_tracking": "product-card",
-    "data_sku_simple": "551119086_BD-2584586692",
-    "data_item_id": "551119086",
-    "data_listno": "36",
-    "data_utlogmap": "{\"listno\":36,\"pageIndex\":1,\"pvid\":\"fbfa3b09ef1a126497b0ba1b8df2fa8b\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"551119086\",\"x_object_id\":\"551119086\",\"x_object_type\":\"item\"}",
-    "data_aplus_ae": "37",
-    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i36.5f1e7faa3jFpGx",
-    "data_aplus_clk": "x37_31dc6a03",
+    "data_sku_simple": "525108177_BD-2531509640",
+    "data_item_id": "525108177",
+    "data_listno": "39",
+    "data_utlogmap": "{\"listno\":39,\"pageIndex\":1,\"pvid\":\"03400207a6eee3544d6bc9380e142753\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"525108177\",\"x_object_id\":\"525108177\",\"x_object_type\":\"item\"}",
+    "data_aplus_ae": "40",
+    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i39.10a27faaO3ffrB",
+    "data_aplus_clk": "x40_3d64425c",
     "image_url": "data:image/png;base64,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",
-    "product_detail_url": "//www.daraz.com.bd/products/honor-x6c6128gb-661tft-lcd-120hz35w-5300mah-battery-i551119086.html",
-    "product_name": "Honor X6c(6+128gb) ডিসপ্লে: 6.61''TFT LCD, 120Hz,35W ফাস্ট চার্জিং সহ 5300mah Battery",
-    "price": "৳ 14,899",
-    "detail_url": "https://www.daraz.com.bd/products/honor-x6c6128gb-661tft-lcd-120hz35w-5300mah-battery-i551119086.html",
+    "product_detail_url": "//www.daraz.com.bd/products/vivo-y19s-4128gb-i525108177.html",
+    "product_name": "vivo Y19s (4+128GB)",
+    "price": "৳ 15,899",
+    "detail_url": "https://www.daraz.com.bd/products/vivo-y19s-4128gb-i525108177.html",
     "detail": {
-      "url": "https://www.daraz.com.bd/products/honor-x6c6128gb-661tft-lcd-120hz35w-5300mah-battery-i551119086.html",
-      "name": "Honor X6c(6+128gb) ডিসপ্লে: 6.61''TFT LCD, 120Hz,35W ফাস্ট চার্জিং সহ 5300mah Battery",
-      "brand": "Honor",
+      "url": "https://www.daraz.com.bd/products/vivo-y19s-4128gb-i525108177.html",
+      "name": "vivo Y19s (4+128GB)",
+      "brand": "Vivo",
       "price": {
-        "display": "৳ 14,899",
-        "value": 14899.0,
-        "original_display": "৳ 14,999",
-        "original_value": 14999.0,
-        "discount_display": "-0.7%",
-        "discount_percent": 0.7
+        "display": "৳ 15,899",
+        "value": 15899.0,
+        "original_display": "৳ 15,999",
+        "original_value": 15999.0,
+        "discount_display": "-0.6%",
+        "discount_percent": 0.6
       },
       "rating": {
         "average": 0.0,
@@ -32,15 +32,17 @@
         "raw": "No Ratings"
       },
       "images": [
-        "https://img.drz.lazcdn.com/g/kf/S14de7a0c7be24d668a53c31d2aae4ee8X.jpg_720x720q80.jpg",
-        "https://img.drz.lazcdn.com/g/kf/S14de7a0c7be24d668a53c31d2aae4ee8X.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/g/kf/S7d40caf5151d4c569b064b8f0716d6d6p.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/g/kf/S8f2de9ca90d44f988fbfd3422b31d6c9h.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/g/kf/Se3ca9fcbf3b04ffe9a198d195547f920e.jpg_120x120q80.jpg",
-        "https://bd-live-21.slatic.net/kf/Se3ca9fcbf3b04ffe9a198d195547f920e.jpg"
+        "https://img.drz.lazcdn.com/g/kf/S051a6657abcc4a748b6bdde2d4bc0698Y.jpg_720x720q80.jpg",
+        "https://img.drz.lazcdn.com/g/kf/S051a6657abcc4a748b6bdde2d4bc0698Y.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/g/kf/Sc2465e9401bd4535b854fc058bcb47d7r.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/g/kf/Sa3844e287d974023b84a7de9240a40aeN.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/g/kf/S56d9cf1082a94f5988e1905606b291edl.jpg_120x120q80.jpg",
+        "https://bd-live-21.slatic.net/kf/S56d9cf1082a94f5988e1905606b291edl.jpg"
       ],
       "colors": [
-        "Ocean Cyan"
+        "Black",
+        "Glacier Blue",
+        "Pearl Silver"
       ],
       "sizes": [],
       "delivery_options": [
@@ -61,7 +63,7 @@
       ],
       "seller": {
         "name": "Phone Palace",
-        "link": "https://www.daraz.com.bd/shop/phonepalace/?itemId=551119086&channelSource=pdp",
+        "link": "https://www.daraz.com.bd/shop/phonepalace/?itemId=525108177&channelSource=pdp",
         "metrics": {
           "Positive Seller Ratings": "85%",
           "Ship on Time": "100%",
@@ -70,294 +72,71 @@
       },
       "details": {
         "highlights": [],
-        "description_text": "▪︎ Brand :Honor ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons.\"▪︎ Storage & RAM : 6GBROM : 128GB▪︎ Display :6.61 inches,105.3 cm2 (~84.9% screen-to-body ratio)▪︎ Main Camera :50 MP, f/1.8, (wide), PDAFQVGA, (depth)▪︎ Selfie Camera :5 MP, f/2.2,(wide)Video1080p@30fps▪︎ Charging & Battrie:Li-Po 5300 mAhCharging35W wired▪︎ OS :Android 15, Magic OS 9▪︎ Features :Fingerprint (side-mounted), accelerometer, proximity▪︎ Dimension :164 x 75.6 x 8.4 mm (6.46 x 2.98 x 0.33 in)▪︎ Brand :Honor ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons.\"▪︎ Storage & RAM : 6GBROM : 128GB▪︎ Display :6.61 inches,105.3 cm2 (~84.9% screen-to-body ratio)▪︎ Main Camera :50 MP, f/1.8, (wide), PDAFQVGA, (depth)▪︎ Selfie Camera :5 MP, f/2.2,(wide)Video1080p@30fps▪︎ Charging & Battrie:Li-Po 5300 mAhCharging35W wired▪︎ OS :Android 15, Magic OS 9▪︎ Features :Fingerprint (side-mounted), accelerometer, proximity▪︎ Dimension :164 x 75.6 x 8.4 mm (6.46 x 2.98 x 0.33 in)",
+        "description_text": "▪︎ Brand: vivo▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty ava seeilable▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons.\"▪︎ Storage & RAM:RAM: 4GBROM: 128GB▪︎ Display: 6.68 inches▪︎ Main Camera : 50 MP, (wide) PDAF Auxiliary lens▪︎ Selfie Camera :5MP▪︎ Battery : Li-Ion 5500 mAh, non-removable▪︎ OS : Android 14, Funtouch 14▪︎ Features : Fingerprint (side-mounted), accelerometer, proximity, compass▪︎Dimensions : 165.8 x 76.1 x 8.1 mm▪︎ Brand: vivo▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty ava seeilable▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons.\"▪︎ Storage & RAM:RAM: 4GBROM: 128GB▪︎ Display: 6.68 inches▪︎ Main Camera : 50 MP, (wide) PDAF Auxiliary lens▪︎ Selfie Camera :5MP▪︎ Battery : Li-Ion 5500 mAh, non-removable▪︎ OS : Android 14, Funtouch 14▪︎ Features : Fingerprint (side-mounted), accelerometer, proximity, compass▪︎Dimensions : 165.8 x 76.1 x 8.1 mm",
         "description_html": null,
         "specifications": [],
         "whats_in_the_box": null,
-        "raw_text": "▪︎ Brand :Honor ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons.\"▪︎ Storage & RAM : 6GBROM : 128GB▪︎ Display :6.61 inches,105.3 cm2 (~84.9% screen-to-body ratio)▪︎ Main Camera :50 MP, f/1.8, (wide), PDAFQVGA, (depth)▪︎ Selfie Camera :5 MP, f/2.2,(wide)Video1080p@30fps▪︎ Charging & Battrie:Li-Po 5300 mAhCharging35W wired▪︎ OS :Android 15, Magic OS 9▪︎ Features :Fingerprint (side-mounted), accelerometer, proximity▪︎ Dimension :164 x 75.6 x 8.4 mm (6.46 x 2.98 x 0.33 in)▪︎ Brand :Honor ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons.\"▪︎ Storage & RAM : 6GBROM : 128GB▪︎ Display :6.61 inches,105.3 cm2 (~84.9% screen-to-body ratio)▪︎ Main Camera :50 MP, f/1.8, (wide), PDAFQVGA, (depth)▪︎ Selfie Camera :5 MP, f/2.2,(wide)Video1080p@30fps▪︎ Charging & Battrie:Li-Po 5300 mAhCharging35W wired▪︎ OS :Android 15, Magic OS 9▪︎ Features :Fingerprint (side-mounted), accelerometer, proximity▪︎ Dimension :164 x 75.6 x 8.4 mm (6.46 x 2.98 x 0.33 in)"
+        "raw_text": "▪︎ Brand: vivo▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty ava seeilable▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons.\"▪︎ Storage & RAM:RAM: 4GBROM: 128GB▪︎ Display: 6.68 inches▪︎ Main Camera : 50 MP, (wide) PDAF Auxiliary lens▪︎ Selfie Camera :5MP▪︎ Battery : Li-Ion 5500 mAh, non-removable▪︎ OS : Android 14, Funtouch 14▪︎ Features : Fingerprint (side-mounted), accelerometer, proximity, compass▪︎Dimensions : 165.8 x 76.1 x 8.1 mm▪︎ Brand: vivo▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty ava seeilable▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons.\"▪︎ Storage & RAM:RAM: 4GBROM: 128GB▪︎ Display: 6.68 inches▪︎ Main Camera : 50 MP, (wide) PDAF Auxiliary lens▪︎ Selfie Camera :5MP▪︎ Battery : Li-Ion 5500 mAh, non-removable▪︎ OS : Android 14, Funtouch 14▪︎ Features : Fingerprint (side-mounted), accelerometer, proximity, compass▪︎Dimensions : 165.8 x 76.1 x 8.1 mm"
       },
       "variants": [
         {
-          "color": "Ocean Cyan",
+          "color": "Pearl Silver",
           "price": {
-            "display": "৳ 14,899",
-            "value": 14899.0,
-            "original_display": "৳ 14,999",
-            "original_value": 14999.0,
-            "discount_display": "-0.7%",
-            "discount_percent": 0.7
+            "display": "৳ 15,899",
+            "value": 15899.0,
+            "original_display": "৳ 15,999",
+            "original_value": 15999.0,
+            "discount_display": "-0.6%",
+            "discount_percent": 0.6
           },
           "images": [
-            "https://img.drz.lazcdn.com/g/kf/S14de7a0c7be24d668a53c31d2aae4ee8X.jpg_720x720q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/g/kf/S14de7a0c7be24d668a53c31d2aae4ee8X.jpg_120x120q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/g/kf/S7d40caf5151d4c569b064b8f0716d6d6p.jpg_120x120q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/g/kf/S8f2de9ca90d44f988fbfd3422b31d6c9h.jpg_120x120q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/g/kf/Se3ca9fcbf3b04ffe9a198d195547f920e.jpg_120x120q80.jpg_.webp"
+            "https://img.drz.lazcdn.com/g/kf/S434d2c6f62c349a980e5609c000202f4E.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/S051a6657abcc4a748b6bdde2d4bc0698Y.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/Sc2465e9401bd4535b854fc058bcb47d7r.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/Sa3844e287d974023b84a7de9240a40aeN.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/S434d2c6f62c349a980e5609c000202f4E.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Black",
+          "price": {
+            "display": "৳ 15,899",
+            "value": 15899.0,
+            "original_display": "৳ 15,999",
+            "original_value": 15999.0,
+            "discount_display": "-0.6%",
+            "discount_percent": 0.6
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/g/kf/S56d9cf1082a94f5988e1905606b291edl.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/S051a6657abcc4a748b6bdde2d4bc0698Y.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/Sc2465e9401bd4535b854fc058bcb47d7r.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/Sa3844e287d974023b84a7de9240a40aeN.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/S56d9cf1082a94f5988e1905606b291edl.jpg_80x80q80.jpg_.webp"
+          ],
+          "sizes": []
+        },
+        {
+          "color": "Glacier Blue",
+          "price": {
+            "display": "৳ 15,899",
+            "value": 15899.0,
+            "original_display": "৳ 15,999",
+            "original_value": 15999.0,
+            "discount_display": "-0.6%",
+            "discount_percent": 0.6
+          },
+          "images": [
+            "https://img.drz.lazcdn.com/g/kf/S4f0b471070f6456aa2e0c068b5d525ddl.jpg_720x720q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/S051a6657abcc4a748b6bdde2d4bc0698Y.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/Sc2465e9401bd4535b854fc058bcb47d7r.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/Sa3844e287d974023b84a7de9240a40aeN.jpg_80x80q80.jpg_.webp",
+            "https://img.drz.lazcdn.com/g/kf/S4f0b471070f6456aa2e0c068b5d525ddl.jpg_80x80q80.jpg_.webp"
           ],
           "sizes": []
         }
       ]
-    }
-  },
-  {
-    "data_qa_locator": "product-item",
-    "data_tracking": "product-card",
-    "data_sku_simple": "531375658_BD-2549470482",
-    "data_item_id": "531375658",
-    "data_listno": "37",
-    "data_utlogmap": "{\"listno\":37,\"pageIndex\":1,\"pvid\":\"fbfa3b09ef1a126497b0ba1b8df2fa8b\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"531375658\",\"x_object_id\":\"531375658\",\"x_object_type\":\"item\"}",
-    "data_aplus_ae": "38",
-    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i37.5f1e7faa3jFpGx",
-    "data_aplus_clk": "x38_72872131",
-    "image_url": "data:image/png;base64,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",
-    "product_detail_url": "//www.daraz.com.bd/products/google-pixel-9-i531375658.html",
-    "product_name": "Google pixel 9 Official",
-    "price": "৳ 89,999",
-    "detail_url": "https://www.daraz.com.bd/products/google-pixel-9-i531375658.html",
-    "detail": {
-      "url": "https://www.daraz.com.bd/products/google-pixel-9-i531375658.html",
-      "name": "Google pixel 9 Official",
-      "brand": "Google Pixel",
-      "price": {
-        "display": "৳ 89,999",
-        "value": 89999.0,
-        "original_display": null,
-        "original_value": null,
-        "discount_display": null,
-        "discount_percent": null
-      },
-      "rating": {
-        "average": 0.0,
-        "count": 0,
-        "raw": "No Ratings"
-      },
-      "images": [
-        "https://img.drz.lazcdn.com/static/bd/p/4e6d00d6747f77c3b3f8a8911d963891.jpg_720x720q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/4e6d00d6747f77c3b3f8a8911d963891.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/51584151c45e12fc8e5b5455aac7a2a7.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/a948fdc99f120dc0d826a2d9a48ae04e.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/9c7b90b44dd3cf29abfc21a6f5c56de3.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/271dc5179de80e3c8b542eb53d28c842.jpg_120x120q80.jpg",
-        "https://static-01.daraz.com.bd/p/4e6d00d6747f77c3b3f8a8911d963891.jpg"
-      ],
-      "colors": [
-        "Black"
-      ],
-      "sizes": [],
-      "delivery_options": [
-        {
-          "title": "Standard Delivery",
-          "time": "Guaranteed by 23-28 Oct",
-          "fee": "৳ 70"
-        },
-        {
-          "title": "Cash on Delivery not available",
-          "time": null,
-          "fee": null
-        }
-      ],
-      "return_and_warranty": [
-        "14 days easy return",
-        "1 Year Brand Warranty"
-      ],
-      "seller": {
-        "name": "KRY International",
-        "link": "https://www.daraz.com.bd/shop/kry-international/?itemId=531375658&channelSource=pdp",
-        "metrics": {
-          "Positive Seller Ratings": "94%",
-          "Ship on Time": "100%",
-          "Chat Response Rate": "Not enough data"
-        }
-      },
-      "details": {
-        "highlights": [],
-        "description_text": "NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationModelPixel 9BrandGoogleNetworkGSM / HSPA / LTE / 5GDimensions152.8 x 72 x 8.5 mmWeight198 gSIMNano-SIM and eSIMDisplay TypeOLED | 120Hz, HDR10+ | 1800 nits (HBM) | 2700 nits (peak) | Always-on displayDisplay Size6.3 inchesDisplay Resolution1080 x 2424 pixelsOSAndroid 14, up to 7 major Android upgradesChipsetGoogle Tensor G4 (4 nm)CPUOcta-coreMemory128GB 12GB RAM, 256GB 12GB RAM | UFSMain Camera50 MP, f/1.7, 25mm (wide) | 48 MP, f/1.7, 123˚ (ultrawide) | Dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take | 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDRSelfie Camera10.5 MP, f/2.2, 20mm (ultrawide) | Auto-HDR, panorama | 4K@30/60fps, 1080p@30/60fpsSoundStereo LoudspeakersBattery InfoLi-Ion 4700 mAh | Non-removable | 27W wiredSensorsFingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer | Satellite SOS serviceDescription Pixel 9The Google Pixel 9 dazzles with an impressive design and a durable build, marking a first for the series. It features an enhanced software experience, including advanced AI capabilities that elevate its performance. The upgraded camera delivers exceptional photos, capturing details with clarity. Additionally, the Pixel 9 offers extended software updates and impressive battery life, ensuring a long-lasting and reliable user experience. This latest model combines cutting-edge technology with a sleek, robust design, making it a great choice in flagship smartphone market. Pixel 9 FeaturesPixel 9 features advanced camera technology and AI-driven photo editing for stunning resultsExperience the latest Google AI features including Gemini first with Pixel 9, ahead of othersPixel 9 ensures your data remains secure with its advanced security and privacy featuresBenefit from up to 7 years of OS, security updates, and Pixel Drops for longevity and securityA durable, splashproof design, engineered for resilience and lasting use for year after yearsEnjoy a vivid viewing experience with the Pixel 9’s Actua Display, bright, sharp, and smoothThe phone offers impressive battery life, keeping you connected and productive throughout the day",
-        "description_html": null,
-        "specifications": [],
-        "whats_in_the_box": null,
-        "raw_text": "NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationModelPixel 9BrandGoogleNetworkGSM / HSPA / LTE / 5GDimensions152.8 x 72 x 8.5 mmWeight198 gSIMNano-SIM and eSIMDisplay TypeOLED | 120Hz, HDR10+ | 1800 nits (HBM) | 2700 nits (peak) | Always-on displayDisplay Size6.3 inchesDisplay Resolution1080 x 2424 pixelsOSAndroid 14, up to 7 major Android upgradesChipsetGoogle Tensor G4 (4 nm)CPUOcta-coreMemory128GB 12GB RAM, 256GB 12GB RAM | UFSMain Camera50 MP, f/1.7, 25mm (wide) | 48 MP, f/1.7, 123˚ (ultrawide) | Dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take | 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDRSelfie Camera10.5 MP, f/2.2, 20mm (ultrawide) | Auto-HDR, panorama | 4K@30/60fps, 1080p@30/60fpsSoundStereo LoudspeakersBattery InfoLi-Ion 4700 mAh | Non-removable | 27W wiredSensorsFingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer | Satellite SOS serviceDescription Pixel 9The Google Pixel 9 dazzles with an impressive design and a durable build, marking a first for the series. It features an enhanced software experience, including advanced AI capabilities that elevate its performance. The upgraded camera delivers exceptional photos, capturing details with clarity. Additionally, the Pixel 9 offers extended software updates and impressive battery life, ensuring a long-lasting and reliable user experience. This latest model combines cutting-edge technology with a sleek, robust design, making it a great choice in flagship smartphone market. Pixel 9 FeaturesPixel 9 features advanced camera technology and AI-driven photo editing for stunning resultsExperience the latest Google AI features including Gemini first with Pixel 9, ahead of othersPixel 9 ensures your data remains secure with its advanced security and privacy featuresBenefit from up to 7 years of OS, security updates, and Pixel Drops for longevity and securityA durable, splashproof design, engineered for resilience and lasting use for year after yearsEnjoy a vivid viewing experience with the Pixel 9’s Actua Display, bright, sharp, and smoothThe phone offers impressive battery life, keeping you connected and productive throughout the day"
-      },
-      "variants": []
-    }
-  },
-  {
-    "data_qa_locator": "product-item",
-    "data_tracking": "product-card",
-    "data_sku_simple": "541507521_BD-2561077144",
-    "data_item_id": "541507521",
-    "data_listno": "38",
-    "data_utlogmap": "{\"listno\":38,\"pageIndex\":1,\"pvid\":\"fbfa3b09ef1a126497b0ba1b8df2fa8b\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"541507521\",\"x_object_id\":\"541507521\",\"x_object_type\":\"item\"}",
-    "data_aplus_ae": "39",
-    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i38.5f1e7faa3jFpGx",
-    "data_aplus_clk": "x39_24a538c2",
-    "image_url": "data:image/png;base64,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",
-    "product_detail_url": "//www.daraz.com.bd/products/infinix-smart-10-4gb64gb-i541507521.html",
-    "product_name": "Infinix Smart 10 4GB/64GB (Official)",
-    "price": "৳ 10,399",
-    "detail_url": "https://www.daraz.com.bd/products/infinix-smart-10-4gb64gb-i541507521.html",
-    "detail": {
-      "url": "https://www.daraz.com.bd/products/infinix-smart-10-4gb64gb-i541507521.html",
-      "name": "Infinix Smart 10 4GB/64GB (Official)",
-      "brand": "Infinix",
-      "price": {
-        "display": "৳ 10,399",
-        "value": 10399.0,
-        "original_display": "৳ 10,499",
-        "original_value": 10499.0,
-        "discount_display": "-1%",
-        "discount_percent": 1.0
-      },
-      "rating": {
-        "average": 0.0,
-        "count": 0,
-        "raw": "No Ratings"
-      },
-      "images": [
-        "https://img.drz.lazcdn.com/static/bd/p/384cb2f268666a93ba18739d84573376.jpg_720x720q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/384cb2f268666a93ba18739d84573376.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/2a48beacde3d1be4062bf78e86e063b2.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/6e9d5610f4ca7f3db5531fe5f2ae1385.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/f0bc36eaca6b3bf45223bc80ed76137a.jpg_120x120q80.jpg",
-        "https://static-01.daraz.com.bd/p/6e9d5610f4ca7f3db5531fe5f2ae1385.jpg"
-      ],
-      "colors": [
-        "Titanium Silver"
-      ],
-      "sizes": [],
-      "delivery_options": [
-        {
-          "title": "Standard Delivery",
-          "time": "Guaranteed by 24-29 Oct",
-          "fee": "৳ 88"
-        },
-        {
-          "title": "Cash on Delivery not available",
-          "time": null,
-          "fee": null
-        }
-      ],
-      "return_and_warranty": [
-        "14 days easy return",
-        "1 Year Brand Warranty"
-      ],
-      "seller": {
-        "name": "Alapon Computer",
-        "link": "https://www.daraz.com.bd/shop/alapon-computer-ctg/?itemId=541507521&channelSource=pdp",
-        "metrics": {
-          "Positive Seller Ratings": "90%",
-          "Ship on Time": "100%",
-          "Chat Response Rate": "Not enough data"
-        }
-      },
-      "details": {
-        "highlights": [],
-        "description_text": "Size: 6.67 inches Type: IPS LCD Resolution: HD+ 720 x 1600 pixels Refresh Rate: 60Hz / 90Hz / 120Hz (adaptive) Brightness: 560 nits (typical), 700 nits (HBM) Chipset: T7250 CPU: Octa-core SIM: Dual Nano SIM + MicroSD Network: 2G / 3G / 4G / 4.5G Wi-Fi: 802.11 a/b/g/n/ac OS Version: XOS 15.1, based on Android™ 15 No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Infinix Smart 10 4GB/64GB SpecificationsPerformance:OS: XOS 15.1 Based on Android 15Chipset: UNISOC T7250CPU: Octa-core (2x 1.8 GHz Cortex-A75 & 6x 1.6 GHz Cortex-A55)GPU: Mali-G57 MP1RAM: 4GB LPDDR4X (Expandable up to 4GB)ROM: 64GB EMMCExpandable Storage: Up to 2TB via microSDDisplay:Type: LCD IPS a-si | Dynamic BarSize: 6.67”Screen Ratio: 90.26%Resolution: HD+ (720*1600)Refresh Rate: Up to 120HzBrightness: 560nits (TYP), 700nits (HBM Brightness)Touch Sampling Rate: Up to 240HzColor Gamut: 72% NTSCRear Camera:Camera Mechanism: 8MP, f/2.0, 1/4” sensor, 1.12um, AF | Front Flash + Rear Dual FlashPhotography: AI Cam, Video, Dual Video, Beauty, Portrait, Time-Lapse, Super Night, Pro, Panorama, DocumentsVideo: 2K @30FPS | 720P @30FPSFront Camera:Camera Mechanism: 8MP, f/2.0, 1/4” sensor, 1.12um, FFVideo: 2K @30FPS | 1080P @30FPSBattery & Charging:Capacity (Typ): 5000mAh (TYP)Fast Charging Support: 15WPort: USB Type-CConnectivity:SIM Card Slot: Dual Nano SIM + Micro SDGPS Navigation: YesWi-Fi (WLAN): Wi-Fi 802.11 a/b/g/n/acBluetooth: YesUSB Port: Type-COTG Support: YesEarphone Jack (3.5mm): YesFM Radio: YesInfrared Blaster (IR Blaster): YesSensors:G-Sensor (Accelerometer)E-CompassGyroscope (by Software)Light SensorProximity SensorFingerprint SensorMotor (Vibration)",
-        "description_html": null,
-        "specifications": [],
-        "whats_in_the_box": null,
-        "raw_text": "Size: 6.67 inches Type: IPS LCD Resolution: HD+ 720 x 1600 pixels Refresh Rate: 60Hz / 90Hz / 120Hz (adaptive) Brightness: 560 nits (typical), 700 nits (HBM) Chipset: T7250 CPU: Octa-core SIM: Dual Nano SIM + MicroSD Network: 2G / 3G / 4G / 4.5G Wi-Fi: 802.11 a/b/g/n/ac OS Version: XOS 15.1, based on Android™ 15 No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Infinix Smart 10 4GB/64GB SpecificationsPerformance:OS: XOS 15.1 Based on Android 15Chipset: UNISOC T7250CPU: Octa-core (2x 1.8 GHz Cortex-A75 & 6x 1.6 GHz Cortex-A55)GPU: Mali-G57 MP1RAM: 4GB LPDDR4X (Expandable up to 4GB)ROM: 64GB EMMCExpandable Storage: Up to 2TB via microSDDisplay:Type: LCD IPS a-si | Dynamic BarSize: 6.67”Screen Ratio: 90.26%Resolution: HD+ (720*1600)Refresh Rate: Up to 120HzBrightness: 560nits (TYP), 700nits (HBM Brightness)Touch Sampling Rate: Up to 240HzColor Gamut: 72% NTSCRear Camera:Camera Mechanism: 8MP, f/2.0, 1/4” sensor, 1.12um, AF | Front Flash + Rear Dual FlashPhotography: AI Cam, Video, Dual Video, Beauty, Portrait, Time-Lapse, Super Night, Pro, Panorama, DocumentsVideo: 2K @30FPS | 720P @30FPSFront Camera:Camera Mechanism: 8MP, f/2.0, 1/4” sensor, 1.12um, FFVideo: 2K @30FPS | 1080P @30FPSBattery & Charging:Capacity (Typ): 5000mAh (TYP)Fast Charging Support: 15WPort: USB Type-CConnectivity:SIM Card Slot: Dual Nano SIM + Micro SDGPS Navigation: YesWi-Fi (WLAN): Wi-Fi 802.11 a/b/g/n/acBluetooth: YesUSB Port: Type-COTG Support: YesEarphone Jack (3.5mm): YesFM Radio: YesInfrared Blaster (IR Blaster): YesSensors:G-Sensor (Accelerometer)E-CompassGyroscope (by Software)Light SensorProximity SensorFingerprint SensorMotor (Vibration)"
-      },
-      "variants": [
-        {
-          "color": "Titanium Silver",
-          "price": {
-            "display": "৳ 10,399",
-            "value": 10399.0,
-            "original_display": "৳ 10,499",
-            "original_value": 10499.0,
-            "discount_display": "-1%",
-            "discount_percent": 1.0
-          },
-          "images": [
-            "https://img.drz.lazcdn.com/static/bd/p/384cb2f268666a93ba18739d84573376.jpg_720x720q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/384cb2f268666a93ba18739d84573376.jpg_120x120q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/2a48beacde3d1be4062bf78e86e063b2.jpg_120x120q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/6e9d5610f4ca7f3db5531fe5f2ae1385.jpg_120x120q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/f0bc36eaca6b3bf45223bc80ed76137a.jpg_120x120q80.jpg_.webp"
-          ],
-          "sizes": []
-        }
-      ]
-    }
-  },
-  {
-    "data_qa_locator": "product-item",
-    "data_tracking": "product-card",
-    "data_sku_simple": "526953517_BD-2539096249",
-    "data_item_id": "526953517",
-    "data_listno": "39",
-    "data_utlogmap": "{\"listno\":39,\"pageIndex\":1,\"pvid\":\"fbfa3b09ef1a126497b0ba1b8df2fa8b\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"526953517\",\"x_object_id\":\"526953517\",\"x_object_type\":\"item\"}",
-    "data_aplus_ae": "40",
-    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i39.5f1e7faa3jFpGx",
-    "data_aplus_clk": "x40_a85b5f7",
-    "image_url": "data:image/png;base64,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",
-    "product_detail_url": "//www.daraz.com.bd/products/xiaomi-15-i526953517.html",
-    "product_name": "Xiaomi 15 Ultra - Global",
-    "price": "৳ 144,999",
-    "detail_url": "https://www.daraz.com.bd/products/xiaomi-15-i526953517.html",
-    "detail": {
-      "url": "https://www.daraz.com.bd/products/xiaomi-15-i526953517.html",
-      "name": "Xiaomi 15 Ultra - Global",
-      "brand": "Xiaomi",
-      "price": {
-        "display": "৳ 144,999",
-        "value": 144999.0,
-        "original_display": null,
-        "original_value": null,
-        "discount_display": null,
-        "discount_percent": null
-      },
-      "rating": {
-        "average": 0.0,
-        "count": 0,
-        "raw": "No Ratings"
-      },
-      "images": [
-        "https://img.drz.lazcdn.com/static/bd/p/ca29799d722c33788c2a960c5db5adef.png_720x720q80.png",
-        "https://img.drz.lazcdn.com/static/bd/p/ca29799d722c33788c2a960c5db5adef.png_120x120q80.png",
-        "https://img.drz.lazcdn.com/static/bd/p/2c18d609a9330c2b503f6ea96749ada3.png_120x120q80.png",
-        "https://img.drz.lazcdn.com/static/bd/p/e80be5323af7059b7f259831c2392bc1.png_120x120q80.png",
-        "https://img.drz.lazcdn.com/static/bd/p/fdc285b885519507aa04af7b48d85061.png_120x120q80.png",
-        "https://static-01.daraz.com.bd/p/ca29799d722c33788c2a960c5db5adef.png"
-      ],
-      "colors": [
-        "Black"
-      ],
-      "sizes": [],
-      "delivery_options": [
-        {
-          "title": "Standard Delivery",
-          "time": "Guaranteed by 23-28 Oct",
-          "fee": "৳ 70"
-        },
-        {
-          "title": "Cash on Delivery not available",
-          "time": null,
-          "fee": null
-        }
-      ],
-      "return_and_warranty": [
-        "14 days easy return",
-        "2 Years Seller Warranty"
-      ],
-      "seller": {
-        "name": "KRY International",
-        "link": "https://www.daraz.com.bd/shop/kry-international/?itemId=526953517&channelSource=pdp",
-        "metrics": {
-          "Positive Seller Ratings": "94%",
-          "Ship on Time": "100%",
-          "Chat Response Rate": "Not enough data"
-        }
-      },
-      "details": {
-        "highlights": [],
-        "description_text": "NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.BrandXiaomiBodyBlack & White: 161.3 x 75.3 x 9.35 mm, 226g | Silver Chrome: 161.3 x 75.3 x 9.48 mm, 229g | Build: IP68 Water & Dust ResistantPlatformSnapdragon 8 Elite (3nm) | 2x Prime Core (4.32GHz) + 6x Performance Core (3.53GHz) | Adreno 830 | Xiaomi HyperOS 2ModelXiaomi 15 UltraNetworkGSM / HSPA / LTE / 5GRam16GB LPDDR5XDisplay6.73\" WQHD+ AMOLED | 3200 nits peak brightness | 120Hz LTPO | Xiaomi Shield Glass 2.0 | Dolby Vision | HDR10+Storage512GB / 1TB UFS 4.1 (No microSD)Main CameraLeica Quad Camera: 50MP Main, 1\" sensor, f/1.63, OIS | 200MP Periscope Telephoto, 100mm, f/2.6, OIS, 120x digital zoom | 50MP 70mm Floating Telephoto, f/1.8, OIS | 50MP Ultra-wide, 115° FOV, f/2.2Selfie Camera32MP In-display Camera, f/2.0, 90° FOVSoundStereo speakers | Dolby Atmos | Hi-Res Audio | 4-Mic ArrayBattery Info5410mAh | 90W wired HyperCharge | 80W wireless HyperChargeOther Features / InfoXiaomi 3D Dual-Channel IceLoop | AI Writing, AI Speech Recognition, AI Interpreter, AI Creativity Assistant, Circle to Search (Google) | Ultrasonic in-display fingerprint sensor, AI Face Unlock | Wi-Fi 7, Bluetooth 6.0, NFC, Dual SIM/eSIM SupportDescription Xiaomi 15 UltraXiaomi 15 Ultra is here, bringing cutting-edge technology and a premium flagship experience. Powered by the Snapdragon 8 Elite processor, this phone ensures lightning-fast performance in every use case. With up to 16GB RAM and 1TB storage, you’ll never have to worry about speed or space. If you love photography, here is a Leica-powered quad-camera system featuring a 200MP ultra telephoto lens, a 50MP 1-inch main sensor, and two additional lenses for unmatched detail and clarity. From ultra-wide landscapes to zoomed-in portraits, every shot looks professional. Plus, it supports 8K video recording and cinematic features, so your videos will look as stunning as your photos. The 6.73-inch WQHD+ AMOLED display with a 120Hz refresh rate and 3200 nits brightness delivers ultra-smooth visuals, making gaming and streaming more immersive. With Xiaomi’s 5410mAh Surge Battery and 90W HyperCharge, you can go all day without worrying about power. IP68 water-resistant body, Xiaomi’s advanced cooling system, and premium build make this device durable. Whether you're capturing memories, enjoying entertainment, or pushing limits with AI tools, the Xiaomi 15 Ultra will impress you. Xiaomi 15 Ultra Features Capture every moment in any light with a Leica-powered quad-camera system.Enjoy smooth and vibrant visuals with a large AMOLED display.A powerful chipset ensures a fast and reliable performance. Smart AI features assist in writing, voice commands, and creative tasks.A long-lasting battery with ultra-fast charging keeps you powered up.Durable and water-resistant design combined with an advanced cooling system.",
-        "description_html": null,
-        "specifications": [],
-        "whats_in_the_box": null,
-        "raw_text": "NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.BrandXiaomiBodyBlack & White: 161.3 x 75.3 x 9.35 mm, 226g | Silver Chrome: 161.3 x 75.3 x 9.48 mm, 229g | Build: IP68 Water & Dust ResistantPlatformSnapdragon 8 Elite (3nm) | 2x Prime Core (4.32GHz) + 6x Performance Core (3.53GHz) | Adreno 830 | Xiaomi HyperOS 2ModelXiaomi 15 UltraNetworkGSM / HSPA / LTE / 5GRam16GB LPDDR5XDisplay6.73\" WQHD+ AMOLED | 3200 nits peak brightness | 120Hz LTPO | Xiaomi Shield Glass 2.0 | Dolby Vision | HDR10+Storage512GB / 1TB UFS 4.1 (No microSD)Main CameraLeica Quad Camera: 50MP Main, 1\" sensor, f/1.63, OIS | 200MP Periscope Telephoto, 100mm, f/2.6, OIS, 120x digital zoom | 50MP 70mm Floating Telephoto, f/1.8, OIS | 50MP Ultra-wide, 115° FOV, f/2.2Selfie Camera32MP In-display Camera, f/2.0, 90° FOVSoundStereo speakers | Dolby Atmos | Hi-Res Audio | 4-Mic ArrayBattery Info5410mAh | 90W wired HyperCharge | 80W wireless HyperChargeOther Features / InfoXiaomi 3D Dual-Channel IceLoop | AI Writing, AI Speech Recognition, AI Interpreter, AI Creativity Assistant, Circle to Search (Google) | Ultrasonic in-display fingerprint sensor, AI Face Unlock | Wi-Fi 7, Bluetooth 6.0, NFC, Dual SIM/eSIM SupportDescription Xiaomi 15 UltraXiaomi 15 Ultra is here, bringing cutting-edge technology and a premium flagship experience. Powered by the Snapdragon 8 Elite processor, this phone ensures lightning-fast performance in every use case. With up to 16GB RAM and 1TB storage, you’ll never have to worry about speed or space. If you love photography, here is a Leica-powered quad-camera system featuring a 200MP ultra telephoto lens, a 50MP 1-inch main sensor, and two additional lenses for unmatched detail and clarity. From ultra-wide landscapes to zoomed-in portraits, every shot looks professional. Plus, it supports 8K video recording and cinematic features, so your videos will look as stunning as your photos. The 6.73-inch WQHD+ AMOLED display with a 120Hz refresh rate and 3200 nits brightness delivers ultra-smooth visuals, making gaming and streaming more immersive. With Xiaomi’s 5410mAh Surge Battery and 90W HyperCharge, you can go all day without worrying about power. IP68 water-resistant body, Xiaomi’s advanced cooling system, and premium build make this device durable. Whether you're capturing memories, enjoying entertainment, or pushing limits with AI tools, the Xiaomi 15 Ultra will impress you. Xiaomi 15 Ultra Features Capture every moment in any light with a Leica-powered quad-camera system.Enjoy smooth and vibrant visuals with a large AMOLED display.A powerful chipset ensures a fast and reliable performance. Smart AI features assist in writing, voice commands, and creative tasks.A long-lasting battery with ultra-fast charging keeps you powered up.Durable and water-resistant design combined with an advanced cooling system."
-      },
-      "variants": []
     }
   }
 ]
