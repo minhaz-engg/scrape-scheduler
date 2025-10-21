@@ -10387,6 +10387,291 @@ Product details of premium quality cotton polo t shirt for men-Polo TshirtProduc
 ---
 
 
+## Splendid Refined Taste -Indispensable -Upscale Living -Polo Shirt for men - Multicolor- Inventive Choice- Unique Inspiration  
+**DocID:** `daraz_313983027`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/splendid-refined-taste-indispensable-upscale-living-polo-shirt-for-men-multicolor-inventive-choice-unique-inspiration-i313983027.html
+**Price:** ৳ 350  
+**Rating:** 4.7/5
+
+**Description:**
+Product details of Trendy Fashionable Cotton Polo Shirt For MenProduct Type: Polo Shirt Material: Cotton Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) Occasion: Casual Winter Wear and sports. 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Ahmed Lifestyle Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29" This Product is comfortable and can worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and are easy to clean. It is perfect to wear with jeans and gabardine pant. Short sleeves design with a regular fit for men. This product is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable.We are, offers a wide selection of products from renowned brands in Bangladesh with a promise of fast, safe and easy online shopping experience through Daraz. The seller comes closer to the huge customers on this leading online shopping platform of all over Bangladesh and serving to a greater extent for achieving higher customer satisfaction. The brands working with Daraz are not only serving top class products but also are dedicated to acquiring brand loyalty.
+
+---
+
+
+## Best quality cotton pk polo shirt for men-Polo T shirt  
+**DocID:** `daraz_313383544`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/pk-i313383544.html
+**Price:** ৳ 275  
+**Rating:** 3.0/5
+
+**Description:**
+Product details of New Fashionable cotton polo t shirt for men-Product Type: Polo Shirt. Material: Cotton. Gender: Men Fit Type: Regular Fit. Stylish Design. 100% QC Pass. Export Quality Swing.. GSM: 200 (+-10). Occasion: Casual Winter Wear and sports... 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Takdhoom.com Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29
+
+---
+
+
+## Bangladesh Asia CupJersey 2025 polo t shirt for men by rks mega mall  
+**DocID:** `daraz_334567100`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/rks-i334567100.html
+**Price:** ৳ 249  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Bangladesh World Cup Polo Cricket jersey for Man By Rks Fashion bd 2023Product details of Stylist premium Quality Summer Polo Shirt For MenBest In Budget RangeProduct Type: Polo ShirtMaterial: Jersey FabricsGender: MenFit Type: Regular FitStylish Design100% QC Pass.Export Quality SwingGSM: 160+SIze- [M--chest 36 length--26] ,[L----chest 38---length---27 ] [XL----chest--40 ---length--28],[XXL---chest--42 length---29] Best quality polo t shirt Product details of Bangladesh World Cup Polo Cricket jersey for Man By Rks Fashion bd 2023Product details of Stylist premium Quality Summer Polo Shirt For MenBest In Budget RangeProduct Type: Polo ShirtMaterial: Jersey FabricsGender: MenFit Type: Regular FitStylish Design100% QC Pass.Export Quality SwingGSM: 160+SIze- [M--chest 36 length--26] ,[L----chest 38---length---27 ] [XL----chest--40 ---length--28],[XXL---chest--42 length---29]Best quality polo t shirt
+
+---
+
+
+## Polo shirt for men, premium quality  
+**DocID:** `daraz_347981453`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i347981453.html
+**Price:** ৳ 499  
+**Rating:** 1.0/5
+
+**Description:**
+• Premium quality half sleeve polo shirt for men • Multi-colour with smart style and regular fit • Made of exclusive summer PK cotton fabrics • Fashionable Korean, party, retro & vintage, office, street style • Ideal for Bangladesh, made of premium quality cotton • Complementary product: half sleeve polo shirt • Collection: Exclusive Summer, perfect for any occasionProduct Type: Premium Polo T-shirtMain materials: CottonGender: MenStylish DesignHigh-Quality PK Cotton FabricFabric: 100% Cotton100% QC CheckReturn AcceptableMade in: BangladeshFabrication: 190- 200 GSMSize: M, L, XLM: Chest - 38-39 ", Length - 28"L: Chest - 40-41 ", Length - 29'' XL: Chest - 42-43 ", Length – 30”
+
+---
+
+
+## smart quality cotton pk polo shirt for men-Polo T shirt  
+**DocID:** `daraz_343778219`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/pk-i343778219.html
+**Price:** ৳ 290  
+**Rating:** 5.0/5
+
+**Description:**
+Product details Highlights· ProductType: Polo T-shirt· Material: cotton· Gender: Men· Fit Type: Regular Fit· Stylish Design· 100% QC Pass.· Export Quality Swing· GSM: 210 (+- 10)· Occasion: Casual Summer Wear and sports.· 7 days Return Easy Return· Made in: Bangladesh·· Brand: Takdhoom.com · Size Chart:· M - Chest - 38", Length – 28”· L - Chest - 40"Length - 29"· XL- Chest - 42", Length – 30" Premium quality Polo Shirt with 100% QC pass product. Fabric and swing is very high quality. This Polo Shirt is suitable for any condition of winter. It's casual looking and also very stylish. About : Takdhoom.com is a trusted and reliable fashion product seller in all over the Bangladesh. Ahmed lifestyle manufactures quality products. Always we follow our quality. We Provides premium quality 100% QC pass product & always remind that “a return customer is our business asset”. Specifications of Premium Cotton Casual Polo T-shirt for Men - Polo T Shirt
+
+---
+
+
+## premium quality cotton polo t shirt for men-Polo Tshirt  
+**DocID:** `daraz_523022667`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i523022667.html
+**Price:** ৳ 325  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of premium quality cotton polo t shirt for men-Polo TshirtProduct Type: Polo Shirt. Material: Cotton. Gender: Men Fit Type: Regular Fit. Stylish Design. 100% QC Pass. Export Quality Swing.. GSM: 200 (+-10). Occasion: Casual Winter Wear and sports... 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Takdhoom.com Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29 #Poloshirt #Poloshirtlover Product details of premium quality cotton polo t shirt for men-Polo TshirtProduct Type: Polo Shirt.Material: Cotton.Gender: MenFit Type: Regular Fit.Stylish Design.100% QC Pass.Export Quality Swing..GSM: 200 (+-10).Occasion: Casual Winter Wear and sports...7 days Return Easy ReturnMade in: BangladeshPrint QC PassedBrand: Takdhoom.comSize Chart:M - Chest – 37/38", Length – 27”L - Chest – 39/40" ,Length - 28"XL- Chest – 41/42", Length – 29#Poloshirt#Poloshirtlover
+
+---
+
+
+## Men'S Custom Slim Fit Pony Embroidered Short-Sleeved Polo Shirt- Black  
+**DocID:** `daraz_290943556`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/mens-custom-slim-fit-pony-embroidered-short-sleeved-polo-shirt-black-polo-t-shirt-for-men-polo-t-shirt-i290943556.html
+**Price:** ৳ 820  
+**Rating:** 4.3/5
+
+**Description:**
+𝟏𝟎𝟎% 𝐄𝐱𝐩𝐨𝐫𝐭 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 Knit & Dyeing Fabric, 𝟏𝟎𝟎% Cotton, 𝐆𝐒𝐌: +/- 230 Collar Style: Black Wrinkle Free, Machine Washable S= 39-40” Chest, Length 27” inches M= 41-42” Chest, Length 28” inches L= 43-44” Chest, Length 29” inches XL=45-46” Chest, Length 30” inches XXL=47-48” Chest, Length 31” inches #polo t shirt for men
+
+---
+
+
+## SMUG Premium Elite Edition Contrast Polo - soft touch and comfortable for day-long usage-White  
+**DocID:** `daraz_365197343`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** SMUG  
+**URL:** https://www.daraz.com.bd/products/smug-i365197343.html
+**Price:** ৳ 399  
+**Rating:** 4.3/5
+
+**Description:**
+The t-shirt has a soft touch which makes it very comfortable for day-long usage.Tshirt Size Chart Size : M (CHEST 38 LENGTH 27) L (CHEST 40 LENGTH 28) XL (CHEST 42 LENGTH 29) XXL (CHEST 44 LENGTH 29.5) SMUG is a clothing brand based in Bangladesh. We focus on carefully selecting the best clothing that is comfortable, looks great, and makes you confident. We are manufacture export oriented quality garments product which maintaining all criteria for Asian export curriculum also trying to confirm exclusive design and using latest technology of garments. Tshirt Size Chart Size : M (CHEST 38 LENGTH 27) L (CHEST 40 LENGTH 28) XL (CHEST 42 LENGTH 29) XXL (CHEST 44 LENGTH 29.5)SMUG is a clothing brand based in Bangladesh.We focus on carefully selecting the best clothing that is comfortable, looks great, and makes you confident.We are manufacture export oriented quality garments product which maintaining all criteria for Asian export curriculum also trying to confirm exclusive design and using latest technology of garments.
+
+---
+
+
+## GoodMan Premium Quality Navy Blue Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_526108191`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** Goodman  
+**URL:** https://www.daraz.com.bd/products/-i526108191.html
+**Price:** ৳ 840  
+**Rating:** 4.9/5
+
+**Description:**
+Brand : GoodMan Product Type: Men's Polo Shirt. Summer Collection Fabric: S/J - 200 GSM, Mercerized Cotton Fabric, Soft Hand feel. Wash: Softener and Silicon wash. Fabric Test: Shrinkage Test, Color Fastness, Tear Strength, Pilling Resistance. Style: Casual Type: Polo Shirt. Gender: Men Production Country: Bangladesh 100% Export Quality. Color: Navy Mixed (Same as Picture) GoodMan Premium Polo T Shirt.This Polo T-Shirt made with soft hand feel Knit fabric which features 95% cotton and 5% Lycra. The polo T-Shirt is very comfortable to wear in all season. It has a soft touch feel with body.Size: M, L, XL, XXL M: Chest= 39", Length=27.5" L: Chest= 41", Length= 28.5" XL: Chest= 43", Length= 29.5" XXL: Chest= 45", Length= 31"
+
+---
+
+
+## SMUG Premium Elite Edition Contrast Polo - soft touch and comfortable for day-long usage-Pest Color  
+**DocID:** `daraz_378023779`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** SMUG  
+**URL:** https://www.daraz.com.bd/products/smug-i378023779.html
+**Price:** ৳ 399  
+**Rating:** 4.9/5
+
+**Description:**
+The t-shirt has a soft touch which makes it very comfortable for day-long usage. Tshirt Size Chart Size : M (CHEST 38 LENGTH 27) L (CHEST 40 LENGTH 28) XL (CHEST 42 LENGTH 29) XXL (CHEST 44 LENGTH 29.5) SMUG is a clothing brand based in Bangladesh.We focus on carefully selecting the best clothing that is comfortable, looks great, and makes you confident.We are manufacture export oriented quality garments product which maintaining all criteria for Asian export curriculum also trying to confirm exclusive design and using latest technology of garments. Tshirt Size Chart Size : M (CHEST 38 LENGTH 27) L (CHEST 40 LENGTH 28) XL (CHEST 42 LENGTH 29) XXL (CHEST 44 LENGTH 29.5)SMUG is a clothing brand based in Bangladesh.We focus on carefully selecting the best clothing that is comfortable, looks great, and makes you confident.We are manufacture export oriented quality garments product which maintaining all criteria for Asian export curriculum also trying to confirm exclusive design and using latest technology of garments.
+
+---
+
+
+## RL Men's Triple Pony Embroidered Polo Shirt- Black  
+**DocID:** `daraz_183903281`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/rl-i183903281.html
+**Price:** ৳ 870  
+**Rating:** 3.7/5
+
+**Description:**
+𝟏𝟎𝟎% 𝐄𝐱𝐩𝐨𝐫𝐭 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 Knit & Dyeing Fabric, 𝟏𝟎𝟎% Cotton, 𝐆𝐒𝐌: +/- 230 Collar Style: Black Wrinkle Free, Machine Washable S= 39-40” Chest, Length 27” inches M= 41-42” Chest, Length 28” inches L= 43-44” Chest, Length 29” inches XL=45-46” Chest, Length 30” inches XXL=47-48” Chest, Length 31” inches #Polo T Shirt
+
+---
+
+
+## Black Synthetic Full Sleeve Men's Polo T-Shirt - Stylish and Casual - Modern Comfort for a Contemporary Look  
+**DocID:** `daraz_325274728`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/black-synthetic-full-sleeve-mens-polo-t-shirt-stylish-and-casual-modern-comfort-for-a-contemporary-look-i325274728.html
+**Price:** ৳ 350  
+**Rating:** 3.0/5
+
+**Description:**
+Export Quality: synthetic jersey/polyesterr polo full sieeve T -Shirt Fabric: 100% synthetic Fabrication: 170+GSM Size: M, L, XL M: (chest -38 '', length-28 '') L :( chest-40 '', length-29 ") XL: ( chest -42 ", length-30") 100% export quality and 100% quality control polo t-shirts.T-Shirt Measurements: Asian and Regular Fit.Quality: Enthusiasm original polo t shirt.Status: Comfortable and fashionable exclusive polo t-shirt.
+
+---
+
+
+## Exclusive cotton polo t shirt for men-polo shirt  
+**DocID:** `daraz_367498779`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i367498779.html
+**Price:** ৳ 299  
+**Rating:** 4.5/5
+
+**Description:**
+Product details of stylish design cotton half sleeve polo t shirt for men-polo shirt ProductType: Polo T-shirt Material: cotton Gender: Men Fit Type: Regular Fit Stylish Design· 100% QC Pass. Export Quality Swing· GSM: 170 (+-10)· Occasion: Casual Summer Wear and sports.· 7 days Return Easy Return· Made in: Bangladesh· All-Over Printed· Print QC Passed· Brand: Takdhoom Size Chart:· M - Chest - 38", Length – 28”· L - Chest - 40"Length - 29" XL- Chest - 42", Length – 30"
+
+---
+
+
+## MULTICOLOUR EXCOLUSIVE COTTON SHORT SLEEVE POLO SHART FOR MEN  
+**DocID:** `daraz_300098856`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i300098856.html
+**Price:** ৳ 185  
+**Rating:** 3.0/5
+
+**Description:**
+Product type : POLO SHART Product Brand : SP DRESS WORLD Product Material : Pure Cotton Fabric GSM: 165-170. 100% Export Quality and 100% Quality control POLO SHART. T-Shirt Measurement: Asian and Regular Fit. Quality: Incentive original POLO SHART. Status: Comfortable and Fashionable Exclusive POLO SHART. Quantity of Product : 1, 2,3,4,5 …. Product Colour :(Same As Picture) Product Size : M, L, XL Size: M=Long-27, Chest-36 L=Long-28, Chest-38 XL=Long-29, Chest-40. Product Type : Casual Shop Name: SP DRESS WORLD Applicable Scene: Daily Sleeve Length : Short Sleeve Applicable Season: WINTER, Spring and Summer Production Country : Bangladesh Area of Use : Office, University, Party, Any Festival Extra Facility : 7 Days Return Policy Material: Cotton Collar: O-Neck Sleeve Style: Regular sleeve Hooded: No Gender: MEN Pattern Type: CONTRAST Place Of Origin: Bangladesh type1: printed POLO SHART.men winter POLO SHART type2: Mens POLO SHART fashion . type3: fashion print long sleeve POLO SHART FOR men Style: Fashion Welcome to my store Step 1: Filtered product Attributes: { "Product Title": "MULTICOLOUR EXCOLUSIVE COTTON SHORT SLEEVE POLO SHART FOR MEN", "Main Material": "Cotton", "Category Path": "Fashion&gt;Men&gt;Clothing&gt;Polo Shirts"} Step 2: additional Key Words: None Step 3: Introducing the exclusive Multicolor Cotton Short Sleeve Polo Shirt for men, a versatile addition to your wardrobe. Crafted from high-quality cotton, this shirt offers comfort and breathability. The vibra …
+
+---
+
+
+## GoodMan Premium Quality Olive Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_525262568`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** Goodman  
+**URL:** https://www.daraz.com.bd/products/-i525262568.html
+**Price:** ৳ 699  
+**Rating:** 4.5/5
+
+**Description:**
+Brand : GoodMan Product Type: Men's Polo Shirt. Summer Collection Fabric: S/J - 200 GSM, 95% Cotton, 5% Elastance, Soft Hand feel. Wash: Softener and Silicon wash. Fabric Test: Shrinkage Test, Color Fastness, Tear Strength, Pilling Resistance. Style: Casual Type: Polo Shirt. Gender: Men Production Country: Bangladesh 100% Export Quality. Color: Olive (Same as Picture) GoodMan Premium Polo T Shirt.This Polo T-Shirt made with soft hand feel Knit fabric which features 95% cotton and 5% Lycra. The polo T-Shirt is very comfortable to wear in all season. It has a soft touch feel with body.Size: M, L, XL, XXL M: Chest= 39", Length=27.5" L: Chest= 41", Length= 28.5" XL: Chest= 43", Length= 29.5" XXL: Chest= 45", Length= 31"
+
+---
+
+
+## Premium Quality polo shirt for men's  
+**DocID:** `daraz_319110314`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i319110314.html
+**Price:** ৳ 239  
+**Rating:** 4.8/5
+
+**Description:**
+Premium Quality polo shart for Men's Size. M.L.Xl.M. Chest.38.Length.27.L.Chest.39.Length.28.Xl.Chest.40.Length.29.Premium Quality polo shart for Men's Size. M.L.Xl.M. Chest.38.Length.27.L.Chest.39.Length.28.Xl.Chest.40.Length.29.
+
+---
+
+
+## Black Mesh Polo T-Shirt for Men – Red White Collar | Slim Fit | Breathable | Casual & Office Wear  
+**DocID:** `daraz_537199141`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i537199141.html
+**Price:** ৳ 190  
+**Rating:** 0.0/5
+
+**Description:**
+Key Features (Daraz Highlights):✅ High Quality Mesh Fabric – Lightweight & Breathable ✅ Stylish Red & White Collar and Sleeve Border ✅ Slim Fit – Perfect for Daily & Office Use ✅ Sweat-Resistant, Quick Dry Material ✅ Suitable for All Seasons – Summer Friendly Washing & Care: • Cold wash only • Do not bleach • Do not tumble dry • Iron on low heat if needed Product Description:Stay cool and confident with this stylish Black Mesh Polo T-Shirt for Men. Designed with breathable, lightweight mesh fabric, this t-shirt ensures all-day comfort in hot weather. The modern red and white collar design adds a premium touch to your casual or work outfit. Perfect for outings, office, or daily use – this slim-fit tee is your new go-to. ✅ Fabric: Premium Polyester Mesh ✅ Design: Red-White Ribbed Collar & Cuffs ✅ Fit: Slim Fit | Soft & Stretchy ✅ Occasion: Casual / Office / Everyday
+
+---
+
+
+## GoodMan Premium Quality Turquoise Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_540762292`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** Goodman  
+**URL:** https://www.daraz.com.bd/products/-i540762292.html
+**Price:** ৳ 690  
+**Rating:** 4.7/5
+
+**Description:**
+Brand : GoodMan Product Type: Men's Polo Shirt. Summer Collection Fabric: Pique Fabric - 210 GSM, 95%Cotton 5% Spandex, Soft Hand feel. Wash: Softener and Silicon wash. Fabric Test: Shrinkage Test, Color Fastness, Tear Strength, Pilling Resistance. Style: Casual Type: Polo Shirt. Gender: Men Production Country: Bangladesh 100% Export Quality. Color: Turquoise (Same as Picture) GoodMan Premium Polo T Shirt.This Polo T-Shirt made with soft hand feel Knit fabric which features 95% cotton and 5% Lycra. The polo T-Shirt is very comfortable to wear in all season. It has a soft touch feel with body.Size: M, L, XL, XXLM: Chest= 39", Length=27.5"L: Chest= 41", Length= 28.5"XL: Chest= 43", Length= 29.5"XXL: Chest= 45", Length= 31"
+
+---
+
+
+## Combo Pack of 3 Classic Fit Polo T-Shirt .  
+**DocID:** `daraz_130800188`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/3-i130800188.html
+**Price:** ৳ 599  
+**Rating:** 3.8/5
+
+**Description:**
+Sleeve Type: Half, Fit Type: Regular Closure Type: Button. Solid Polo, Vibrant Colours Package Content: 3 Pcs T-Shirts Pack Cotton half sleeve polos for men are a versatile and stylish clothing option that can be dressed up or down. They are made from a soft, breathable fabric that is perfect for warm weather. polos also have a slightly textured surface that gives them a unique look and feel. This polo is perfect for the young and smart person. It is normally associated with collar and placket with typically two or three buttons, and an optional pocket. A dress-length version of the shirt is called a polo dress. It is made of cotton fabrics. This polo will make a fashion conscious person like you smarter than ever. It is comfortable during your workout and is easy to clean.
+
+---
+
+
 ## Versatile -Hot Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men- Avant-garde Any Color  
 **DocID:** `daraz_347609148`
 **Source:** Daraz  
@@ -14078,6 +14363,21 @@ Lining: Leather LAMBRGN Sole: Leather insole, Rubber sole Lace-up Material: calf
 ---
 
 
+## New Trendy Black And Blue Color SINCE1991 Casual Sneakers Canvas Shoes For Men  
+**DocID:** `daraz_324240148`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/since1991-i324240148.html
+**Price:** ৳ 385  
+**Rating:** 3.7/5
+
+**Description:**
+Casual Sneaker ShoesCash On Delivery Service Color: Blue & BlackSize: 40,41,42,43Material: Coton,Leather & Eva Sole.#Shoes#Full_shoes#Half_shoes#Sneakers_shoes#Sports_shoes#Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -17658,6 +17958,36 @@ Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublaminatio
 
 **Description:**
 Product details of Stylist premium Quality Summer Jersey t Shirt For Men Best In Budget Range Material: Jersey Fabrics over size Jersey Available Gender: Men Fit Type: Regular Fit Stylish Design Export Quality Swing #jersey #Portugal #Rolando
+
+---
+
+
+## B - D Short Sleeve Collar Polo Football Jersey For Man - Half Sleeve Polo - Banglades Fan Jersey  
+**DocID:** `daraz_326543562`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i326543562.html
+**Price:** ৳ 290  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Bangladesh ODI Jersey For Men - Half Sleeve Polo Jersey For Men - Bangladesh Cricket Jersey 2025-26  
+**DocID:** `daraz_347718606`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-26-i347718606.html
+**Price:** ৳ 380  
+**Rating:** 3.7/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#CricketJersey #CricketWorldCupjersey #T20Jersey #T20WorldCupJersey2025-2026 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura Fabric(Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
 
 ---
 
@@ -21243,6 +21573,66 @@ NO return is applicable if the seal is broken• 10-day seller replacement guara
 
 **Description:**
 Display: 6.6” V-Notch Display | 180Hz Touch Sampling Rate | 90Hz Refresh Rate Processor: Unisoc Tiger T606 SoC Memory: 8GB RAM | 128GB Storage Rear Camera: 52MP UHD AI Dual Cameras Audio: Dual Stereo Speakers | 200% Sound Level Battery: 5000mAh Security: Side-Mounted Fingerprint Scanner Features: Dual View Video Mode Operating System: Android™ 14 with R OS No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Display: 6.6” V-Notch Display | 180Hz Touch Sampling Rate | 90Hz Refresh RateProcesso …
+
+---
+
+
+## Honor X6c(6+128gb) ডিসপ্লে: 6.61''TFT LCD, 120Hz,35W ফাস্ট চার্জিং সহ 5300mah Battery  
+**DocID:** `daraz_551119086`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Honor  
+**URL:** https://www.daraz.com.bd/products/honor-x6c6128gb-661tft-lcd-120hz35w-5300mah-battery-i551119086.html
+**Price:** ৳ 14,899  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand :Honor ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM : 6GBROM : 128GB▪︎ Display :6.61 inches,105.3 cm2 (~84.9% screen-to-body ratio)▪︎ Main Camera :50 MP, f/1.8, (wide), PDAFQVGA, (depth)▪︎ Selfie Camera :5 MP, f/2.2,(wide)Video1080p@30fps▪︎ Charging & Battrie:Li-Po 5300 mAhCharging35W wired▪︎ OS :Android 15, Magic OS 9▪︎ Features :Fingerprint (side-mounted), accelerometer, proximity▪︎ Dimension :164 x 75.6 x 8.4 mm (6.46 x 2.98 x 0.33 in)▪︎ Brand :Honor ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM : 6GBROM : 128GB▪︎ Display :6.61 inches,105.3 cm2 (~84.9% screen-to-body ratio)▪︎ Main Camer …
+
+---
+
+
+## Google pixel 9 Official  
+**DocID:** `daraz_531375658`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Google Pixel  
+**URL:** https://www.daraz.com.bd/products/google-pixel-9-i531375658.html
+**Price:** ৳ 89,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationModelPixel 9BrandGoogleNetworkGSM / HSPA / LTE / 5GDimensions152.8 x 72 x 8.5 mmWeight198 gSIMNano-SIM and eSIMDisplay TypeOLED | 120Hz, HDR10+ | 1800 nits (HBM) | 2700 nits (peak) | Always-on displayDisplay Size6.3 inchesDisplay Resolution1080 x 2424 pixelsOSAndroid 14, up to 7 major Android upgradesChipsetGoogle Tensor G4 (4 nm)CPUOcta-coreMemory128GB 12GB RAM, 256GB 12GB RAM | UFSMain Camera50 MP, f/1.7, 25mm (wide) | 48 MP, f/1.7, 123˚ (ultrawide) | Dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take | 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDRSelfie Camera10.5 MP, f/2.2, 20mm (ultrawide) | Auto-HDR, panorama | 4K@30/60fps, 1080p@30/60fpsSoundStereo LoudspeakersBattery InfoLi-Ion 4700 mAh | Non-removable | 27W wiredSensorsFingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer | Satellite SOS serviceDescription Pixel 9The Google Pixel 9 dazzles with an impressive design and a durable build, marking a first for the series. It features an enhanced soft …
+
+---
+
+
+## Infinix Smart 10 4GB/64GB (Official)  
+**DocID:** `daraz_541507521`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Infinix  
+**URL:** https://www.daraz.com.bd/products/infinix-smart-10-4gb64gb-i541507521.html
+**Price:** ৳ 10,399  
+**Rating:** 0.0/5
+
+**Description:**
+Size: 6.67 inches Type: IPS LCD Resolution: HD+ 720 x 1600 pixels Refresh Rate: 60Hz / 90Hz / 120Hz (adaptive) Brightness: 560 nits (typical), 700 nits (HBM) Chipset: T7250 CPU: Octa-core SIM: Dual Nano SIM + MicroSD Network: 2G / 3G / 4G / 4.5G Wi-Fi: 802.11 a/b/g/n/ac OS Version: XOS 15.1, based on Android™ 15 No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Infinix Smart 10 4GB/64GB SpecificationsPerformance:OS: XOS 15.1 Based on Android 15Chipset: UNISOC T7250CPU: Octa-core (2x 1.8 GH …
+
+---
+
+
+## Xiaomi 15 Ultra - Global  
+**DocID:** `daraz_526953517`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Xiaomi  
+**URL:** https://www.daraz.com.bd/products/xiaomi-15-i526953517.html
+**Price:** ৳ 144,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.BrandXiaomiBodyBlack & White: 161.3 x 75.3 x 9.35 mm, 226g | Silver Chrome: 161.3 x 75.3 x 9.48 mm, 229g | Build: IP68 Water & Dust ResistantPlatformSnapdragon 8 Elite (3nm) | 2x Prime Core (4.32GHz) + 6x Performance Core (3.53GHz) | Adreno 830 | Xiaomi HyperOS 2ModelXiaomi 15 UltraNetworkGSM / HSPA / LTE / 5GRam16GB LPDDR5XDisplay6.73" WQHD+ AMOLED | 3200 nits peak brightness | 120Hz LTPO | Xiaomi Shield Glass 2.0 | Dolby Vision | HDR10+Storage512GB / 1TB UFS 4.1 (No microSD)Main CameraLeica Quad Camera: 50MP Main, 1" sensor, f/1.63, OIS | 200MP Periscope Telephoto, 100mm, f/2.6, OIS, 120x digital zoom | 50MP 70mm Floating Telephoto, f/1.8, OIS | 50MP Ultra-wide, 115° FOV, f/2.2Selfie Camera32MP In-display Camera, f/2.0, 90° FOVSoundStereo speakers | Dolby Atmos | Hi-Res Audio | 4-Mic ArrayBattery Info5410mAh | 90W wired HyperCharge | 80W wireless HyperChargeOther Features / InfoXiaomi 3D Dual-Channel IceLoop | AI Writing, AI Speech Recognition, AI Interpreter, AI Creativity Assistant, Circle to Search (Google) | Ultrasonic in-display …
 
 ---
 
