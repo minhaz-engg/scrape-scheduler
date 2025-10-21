@@ -13480,6 +13480,604 @@ Product Type: Sneakers Converse Color: Black and White Material: Soft Fabric wit
 ---
 
 
+## New Aerating Plate Shoes Men's Fashionable All-Matching Platform White Shoes Sports Casual Borad Shoes Fashionable Shoes  
+**DocID:** `daraz_546051424`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i546051424.html
+**Price:** ৳ 3,204  
+**Rating:** 5.0/5
+
+**Description:**
+New Aerating Plate Shoes Men's Fashionable All-Matching Platform White Shoes Sports Casual Borad Shoes Fashionable Shoes
+
+---
+
+
+## Sneakers Men Casual Shoes Men Fashion Sneakers Light Weight - Walk in Style  
+**DocID:** `daraz_320814521`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i320814521.html
+**Price:** ৳ 402  
+**Rating:** 3.3/5
+
+**Description:**
+?Upper Material: Synthetic ?Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant ?Closure Type: Lace-Up ?Outsole Material: Rubber ?Lining Material: Mesh ?Season: Summer ?Insole Material: EVA ?Pattern Type: Mixed Colors ?Fit: Fits smaller than usual. Please check this store's sizing info ?
+
+---
+
+
+## New Best Collection 2025 Comfortable Stylish & Fashionable Sports Look, Lace Up, Slip-on & Pull-on, Light Weight - White and Black Color Combination Sneaker For Men - Perfect For Any Occasion  
+**DocID:** `daraz_530192906`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-i530192906.html
+**Price:** ৳ 780  
+**Rating:** 5.0/5
+
+**Description:**
+PU leather material for stylish and comfortable sneakers Lace-up closure for a secure and adjustable fit. Medium cut upper height for a trendy look New arrival 2024 model with a fashionable sports look
+
+---
+
+
+## New 2024 Hot Collection JS-202404 Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_342151992`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-202404-i342151992.html
+**Price:** ৳ 650  
+**Rating:** 4.0/5
+
+**Description:**
+Product Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China We maintain the quality of every product of this shop"JS DREEM POINT" keeping in mind the customer, we pack every shoe according to the size of the order. So that the customer gets the perfect size. So you can feel free to buy from this
+
+---
+
+
+## With Eid Gift Hot Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_350468527`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i350468527.html
+**Price:** ৳ 511  
+**Rating:** 5.0/5
+
+**Description:**
+• Stylish and fashionable PU leather sneakers for men. • Lace-up closure for a secure and adjustable fit. • Medium cut upper height for a trendy look. • Suitable for party, office, street style, and rock and roll. • Perfect for summer with a new arrival collection. • Versatile PU leather material for summer wear. • Ideal for men's fashion in the summer season. • Exclusive Converse shoes for a trendy and stylish look.Step 1: Filtered productAttributes: - Leather Material: PU - Product Title: Hot Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men - Men Shoes Closure: Lace-up - Sneaker Upper Height: Medium Cut - Collection: New Arrival - Men's Trend: Party, Office, Street Style, Rock and Roll - Clothing Material: PU Leather - Listed Year Season: Summer - Season: Summer - Category Path: Fashion&gt;Men&gt;Shoes&gt;Sneakers - Main Material: PU Leather Step 2: additionalKeyWords: ["Stylish", "Fashionable", "Exclusive", "Summer", "Winter", "Sneakers", "Converse", "Men", "Lace-up", "Medium Cut", "New Arrival", "Party", "Office", "Street Style", "Rock and Roll", "PU Leather"] Step 3: Introducing the Hot Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men. These lace-up sneakers feature a medium cut upper, making them perfect for various occasions such as parties, office wear, street style, and rock and roll vibes. Crafted from high-quality PU leather, these sneakers are a new arrival in the fashion s …
+
+---
+
+
+## Fashionable Casual Shoes For Men - Black - Shoe For Boys - Sneakers  
+**DocID:** `daraz_292577554`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/fashionable-casual-shoes-for-men-black-shoe-for-boys-sneakers-i292577554.html
+**Price:** ৳ 399  
+**Rating:** 5.0/5
+
+**Description:**
+Item Type:casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-Odor Lining Material:Mesh Insole Material:EVA Upper Material:Flyknit Fit:Fits true to size, take your normal size Colour:Black,Ash Feature:Lightweight, comfortable,Fashion Season:Spring, Summer, Autumn, Winter
+
+---
+
+
+## Shoes for Men Sneakers Lightweight Breathable Comfortable Casual Shoes for Walking  
+**DocID:** `daraz_201435113`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i201435113.html
+**Price:** ৳ 1,000  
+**Rating:** 5.0/5
+
+**Description:**
+Sneaker for men. Shoes for men. Summer sneaker. Summer shoes for men. shoes for men 2021 Running shoes Casual shoes Sports breathable shoes gym shoes for men walking shoes . The quality is depend on the price, we have thousands of products, we can't promise that all the products have the same quality, for we need to satisfy different customer's requirements, some one needs high quality, some one needs low price.
+
+---
+
+
+## New Trendy Black Blue And Grey Color EXPRESS Casual Canvas Sneakers Shoes For Men New Collection And Breathable Shoes For Man  
+**DocID:** `daraz_546772932`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i546772932.html
+**Price:** ৳ 469  
+**Rating:** 4.2/5
+
+**Description:**
+Casual Sneaker Shoes Cash On Delivery Service Lightweight & Comfortable Color: Blue,Black & Grey Size: 40,41,42,43 Material: Coton,Leather & Eva Sole. #Shoes #Full_shoes #Half_shoes #Sneakers_shoes #Sports_shoes #Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।
+
+---
+
+
+## Lavish indulgent - Black And Blue Color Canvas Sneaker Casual Shoes For Men M001 - Insoles For Shoes - Easy To maintain - Elite Expression  
+**DocID:** `daraz_312812623`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/lavish-indulgent-black-and-blue-color-canvas-sneaker-casual-shoes-for-men-m001-insoles-for-shoes-easy-to-maintain-elite-expression-i312812623.html
+**Price:** ৳ 399  
+**Rating:** 3.0/5
+
+**Description:**
+Material: Canvas Color: Black & Blue Size: 40,41,42,43 Feature: Casual Shoes#shoes #Shoes_for_mens #Sneakers_Shoes #Sports_sneakers #সু_জুতা #Shoes #Sneakers #Casual_Shoes #insoles for shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.মানের মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা গ্যারান্টি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই। আমাদের বিভিন্ন গ্রাহকদের চাহিদা মেটাতে হবে। কিছু পণ্য উচ্চ মানের প্রয়োজন এবং কিছু কম দাম প্রয়োজন.তাই আমরা সব গ্রাহকদের বিবেচনায় বিভিন্ন মানের পণ্য আছে. দাম অনুযায়ী আমাদের পণ্যের মান অনেক ভালো।
+
+---
+
+
+## Indispensable -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Innovative  
+**DocID:** `daraz_336218533`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i336218533.html
+**Price:** ৳ 724  
+**Rating:** 5.0/5
+
+**Description:**
+Product Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.Product Type: Sneakers ConverseColor: Black and WhiteMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableCountry of Origin:ChinaMen footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.
+
+---
+
+
+## Trendy Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes - Shoes -Tammim Shop  
+**DocID:** `daraz_196085408`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i196085408.html
+**Price:** ৳ 1,200  
+**Rating:** 4.0/5
+
+**Description:**
+Sneaker for men. Shoes for men. Summer sneaker. Summer shoes for men. shoes for men 2021 Running shoes Casual shoes Sports breathable shoes gym shoes for men walking shoes #ShoesForMen #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #জুতাছেলেদের #shoesformen #shoe for boys #shoes for men #জুতা ছেলেদের #sneakers for men #juta #sneakers #white shoes Sneaker for men. Shoes for men. Summer sneaker. Summer shoes for men. shoes for men 2021 Running shoes Casual shoes Sports breathable shoes gym shoes for men walking shoes
+
+---
+
+
+## Athleisure - Avant Grade - Upscale Need - Blue Color Winter Canvas Sneakers for Men M002 - Sensible - Must Have - Designed - Urban Vibes  
+**DocID:** `daraz_312998878`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/athleisure-avant-grade-upscale-need-blue-color-winter-canvas-sneakers-for-men-m002-sensible-must-have-designed-urban-vibes-i312998878.html
+**Price:** ৳ 399  
+**Rating:** 5.0/5
+
+**Description:**
+Material: Canvas Color: Black & Blue Size: 40,41,42,43 Feature: Casual Shoes #shoes #Shoes_for_mens #Sneakers_Shoes #Sports_sneakers We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.মানের মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা গ্যারান্টি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই। আমাদের বিভিন্ন গ্রাহকদের চাহিদা মেটাতে হবে। কিছু পণ্য উচ্চ মানের প্রয়োজন এবং কিছু কম দাম প্রয়োজন.তাই আমরা সব গ্রাহকদের বিবেচনায় বিভিন্ন মানের পণ্য আছে. দাম অনুযায়ী আমাদের পণ্যের মান অনেক ভালো।
+
+---
+
+
+## Unique Design Premium Quality Stylish And Fashionable Sneakers For Men By Best Collection BD  
+**DocID:** `daraz_468089894`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i468089894.html
+**Price:** ৳ 599  
+**Rating:** 4.0/5
+
+**Description:**
+এই জুতাগুলো আরামদায়ক এবং খুবই টেকসই। ওয়াশ করে দীর্ঘদিন রাফ ইউজ করতে পারবেন। রোদ বৃষ্টি ঝড় শীত গ্রীষ্ম বর্ষা দৃশ্য যে কোন সিজনে ব্যবহার করতে পারবেন। এগুলোর ভেতরের ইনসুল খুবই সফট এবং উন্নত।তাই দীর্ঘক্ষণ পড়ে থাকলেও পা থেকে দুর্গন্ধ আসবে না এবং পা ঘামবে না,অস্বস্তি অনুভব হবে না পা গরম হবে না। আউটলুক খুবই সুন্দর।যেকোনো আউটফিটের সাথে মানানসই। আমরা সব সময় মোবাইল ফোন দিয়ে তুলে অরজিনাল ছবি ব্যবহার করি তাই ছবি এবং বাস্তবের সাথে ব্যবধান হওয়ার সম্ভাবনা খুবই কম। ফুল ক্যাশ অন ডেলিভারিতে অর্ডার করার সুবিধা। সাইজ নিয়ে কোন সমস্যা হলে খুবই দ্রুত সময়ের মধ্যে এক্সচেঞ্জ সুবিধা। ডেলিভারি ম্যান থাকাকালীন প্রোডাক্ট চেক করে পেমেন্ট করার সুবিধা। খুবই দ্রুত সময়ের মধ্যে বাংলাদেশের যে কোন প্রান্তে হোম ডেলিভারি সুবিধা।ব্যবসা একদিনের জন্য নয়" আমরা দীর্ঘমেয়াদী ব্যবসা করার জন্য কাস্টমারকে সর্বদা রিজেনেবল প্রাইস এর মধ্যে সর্বোচ্চ কোয়ালিটি দেওয়ার চেষ্টা করি। তাই নিশ্চিন্তে নিশ্চিন্তে আমাদের থেকে অর্ডার করতে পারেন।এই জুতাগুলো আরামদায়ক এবং খুবই টেকসই। ওয়াশ করে দীর্ঘদিন রাফ ইউজ করতে পারবেন। রোদ বৃষ্টি ঝড় শীত গ্রীষ্ম বর্ষা দৃশ্য যে কোন সিজনে ব্যবহার করতে পারবেন। এগুলোর ভেতরের ইনসুল খুবই সফট এবং উন্নত।তাই দীর্ঘক্ষণ পড়ে থাকলেও পা থেকে দুর্গন্ধ আসবে না এবং পা ঘামবে না,অস্বস্তি অনুভব হবে না পা গরম হবে না। আউটলুক খুবই সুন্দর।যেকোনো আউটফিটের সাথে মানানসই। আমরা সব সময় মোবাইল ফোন দিয়ে তুলে অরজিনাল ছবি ব্যবহার করি তাই ছবি এবং বাস্তবের সাথে ব্যবধান হওয়ার সম্ভাবনা খুবই কম। ফুল ক্যাশ অন ডেলিভারিতে অর্ডার করার সুবিধা। সাইজ নিয়ে কোন সমস্যা হলে খুবই দ্রুত সময়ের মধ্যে এক্সচেঞ্জ সুবিধা। ডেলিভারি ম্যান থাকাকা …
+
+---
+
+
+## Indispensable -Quality And Durablity -Flix Fashion sneakers for men lightweight fashionable breathable shoes for men- Innovative  
+**DocID:** `daraz_322902157`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/indispensable-quality-and-durablity-flix-fashion-sneakers-for-men-lightweight-fashionable-breathable-shoes-for-men-innovative-i322902157.html
+**Price:** ৳ 1,490  
+**Rating:** 5.0/5
+
+**Description:**
+Product Category Sports casual shoes Place of origin Wenzhou, Zhejiang, China Style Korean version Features Breathable Brand Flix Footwear Applicable gender male Pattern Color matching Upper material Artificial PU Applicable sports General Inner material Mesh Upper height Low help Toe shape Round head height of heel Flat heel Insole material EVA Fastest DeliveryWe provide fastest delivery services to our customer in allover Bangladesh. Inside Dhaka we deliver our product within next 2 days. Outside Dhaka we deliver it next 3 daysQUALITYAll our product manufactured in China Guangzhou province. In fact quality is not merely a buzzword for us; it is an inherent part of our work culture. Quality being the essence of creativity is reflected in all our designs. Every stage of the production process is monitored to ensure that our clients get nothing but the best. Each and every piece is thoroughly checked at the finishing stage before it is finally packed and shipped to its destination. The idea of doing it is to give you true value for money in all times to come.VALUE FOR MONEYPeople urge you to choose from their products because they are cheap. But are they worth the value? We do not claim our products to be the cheapest, but definitely guarantee that they carry best value for your money. After all, Quality comes with a price tag.IN TOUCH WITH TIMEWe regularly visit all major footwear & fashion industry trade shows across the globe. This activity keeps us upgraded as far as lates …
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Sneakers for Men  
+**DocID:** `daraz_365343348`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i365343348.html
+**Price:** ৳ 520  
+**Rating:** 5.0/5
+
+**Description:**
+Lining: Artificial Leather Sole: Leather insole, Rubber sole Lace-up Material: calfskin Sole colour: white & black Closure type: Lacing Lining: Leather Toe cap: Round toe Special: white ,black Gender: Men Season: all Insole: Artificial Leather Very quality and durable product Lining: Artificial LeatherSole: Leather insole, Rubber soleLace-upMaterial: calfskinSole colour: white & blackClosure type: LacingLining: LeatherToe cap: Round toeSpecial: white ,blackGender: MenSeason: allInsole: Artificial LeatherVery quality and durable productLining: Artificial LeatherSole: Leather insole, Rubber soleLace-upMaterial: calfskinSole colour: white & blackClosure type: LacingLining: LeatherToe cap: Round toeSpecial: white ,blackGender: MenSeason: allInsole: Artificial LeatherVery quality and durable product
+
+---
+
+
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_340638443`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i340638443.html
+**Price:** ৳ 550  
+**Rating:** 1.0/5
+
+**Description:**
+Product Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones. Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.Product Type: Sneakers ConverseColor: Black and WhiteMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableCountry of Origin:China
+
+---
+
+
+## Men's summer sneakers Men's sneakers breathable mesh summer sports shoes Casual sneakers free shipping shoes  
+**DocID:** `daraz_546048850`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i546048850.html
+**Price:** ৳ 3,196  
+**Rating:** 5.0/5
+
+**Description:**
+Men's summer sneakers Men's sneakers breathable mesh summer sports shoes Casual sneakers free shipping shoesWelcome BUQU Fashion Shoes Store1.Choose the size according to your foot length (don't choose the size according to the usual size in your country!!!) please choose Size 34 , if your foot length is22cm. please choose Size 35 , if your foot length is22.5cm. please choose Size 36, if your foot length is 23cm. please choose Size 37, if your foot length is 23.5cm. please choose Size 38, if your foot length is 24cm. please choose Size 39 , if your foot length is24.5cm. please choose Size 40, if your foot length is 25cm. please choose Size 41, if your foot length is 25.5cm. please choose Size 42, if your foot length is 26cm. please choose Size 43, if your foot length is 26.5cm. 2. Due to manual measurement, please allow 0-0.5cm error in size. 3. If you have any questions, please contact our customer service first, we will help you solve it.Dear friends, thanks for shopping in BUQU shoes store!We sincerely hope that from the moment you open the packaging, you will feel happy and satisfied. If you are not satisfied with the product you received, I hope you will not give us negative reviews at will. Please contact us, we will definitely provide you with a satisfactory solution! Thank you very much, thank you
+
+---
+
+
+## Embrace Comfort and Style in the New Black Winter Canvas Shoes For Men - Ideal for Every Season Fashionable Design for the Modern Man  
+**DocID:** `daraz_412343417`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i412343417.html
+**Price:** ৳ 365  
+**Rating:** 5.0/5
+
+**Description:**
+New Arrival Casual Sneaker Shoes Cash On Delivery Service Color: Black Size: 40,41,42,43 Material: Cotton,Leather & Eva Sole. #Shoes #Full_shoes #Half_shoes #Sneakers_shoes #Sports_shoes #Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## Premium Quality Black Color HALF SHOES Casual Canvas Sneakers Shoes For Men M9090  
+**DocID:** `daraz_463361036`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/m9090-i463361036.html
+**Price:** ৳ 415  
+**Rating:** 5.0/5
+
+**Description:**
+New Arrival Shoes Casual Half Shoes Cash On Delivery Service Lightweight & Comfortable Color: Black & Blue Size: 40,41,42,43 Material: Coton,Leather & Eva Sole. 7 days Return Guarantee We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## Men's low-top thick-shoes fashion all-match breathable mesh shoes soft-soled comfortable color matching casual shoes  
+**DocID:** `daraz_295495082`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** Flix Footwear  
+**URL:** https://www.daraz.com.bd/products/-i295495082.html
+**Price:** ৳ 1,890  
+**Rating:** 4.2/5
+
+**Description:**
+Product Category Sports casual shoes Applicable age Youth (18-40 years old) Place of origin Hebei Baoding style Korean version Features Shock absorption, breathable, lightweight, wear resistant, wrapped, non-slip Item number DFYL appropriate season Spring, autumn, summer Applicable gender male Upper material net Sole material rubber Applicable sports General purpose Whether stock Yes Inventory type Whole order Wearing style Front tie popular elements Sewing thread, cross straps, color matching, totem Heel shape Alien Inner material net Source category Spot Fastest shipping time 1 Opening depth Shallow mouth (less than 7cm) Upper height Low help Toe shape Round head height of heel Low heel (1-3CM) Sole craft Injection shoes Insole material Textile Applicable scene Leisure Listed year season (time to market) Autumn of 2023 Latest delivery time 2 days colour White yellow DFYL, black red DFYL size 40,41,42,43,44 FASTEST DELIVERYWe provide the fastest delivery services to our customers all over Bangladesh. Inside Dhaka, we deliver our product within the next 2 days. Outside Dhaka, we will deliver it next 3 days.QUALITYAll our products are manufactured in China Guangzhou province. In fact quality is not merely a buzzword for us; it is an inherent part of our work culture. Quality being the essence of creativity is reflected in all our designs. Every stage of the production process is monitored to ensure that our clients get nothing but the best. Each and every piece is thoroughly c …
+
+---
+
+
+## North Star VALERIO Cool & Easy Shoe for Men  
+**DocID:** `daraz_468940545`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** Bata  
+**URL:** https://www.daraz.com.bd/products/north-star-valerio-i468940545.html
+**Price:** ৳ 1,099  
+**Rating:** 4.7/5
+
+**Description:**
+Product Type: Sneaker Material: Upper: PU Sole: PVC Color: Brown Gender: MEN Brand:SPARX These classic slip-ons are the basic cool ones that everyone considers essential to their collection. These modern-day style staples utilize a durable PU upper and an iconic PVC sole, providing exceptional grip on a variety of surfaces. To call yourself a sneakerhead, you must own these light slip-ons by North Star. FEATURES: - Type: Slip-On Sneaker - Gender: Men - Upper Material: PU - Color: Brown - Sole: PVC - Closing: Closed STYLE TIPS: Slim- & tapered-fit denim, loose t-shirts (with or without prints) & casual outerwear are your essential staples when it comes to dressing these sneakers.
+
+---
+
+
+## Hot Collection of Stylish and Fashionable Winter and Summer Exclusive Low Top Sneakers Converse Shoes for Men - Easy To Maintain  
+**DocID:** `daraz_313755234`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i313755234.html
+**Price:** ৳ 554  
+**Rating:** 4.4/5
+
+**Description:**
+Product Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.
+
+---
+
+
+## Black Grey Blue and Khaki Korean Canvas Sneakers Shoes for Men - Perfect for Every Season Effortless Casual Chic and Comfort  
+**DocID:** `daraz_320430772`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i320430772.html
+**Price:** ৳ 390  
+**Rating:** 5.0/5
+
+**Description:**
+Material: Canvas Color: Black,Gray, Khaki,Blue Size:40,41,42,43. Feature: Casual Shoes #shoes #Shoes_for_mens #Sneakers_Shoes #Sports_sneakers গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.
+
+---
+
+
+## Versatile -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Avant-garde  
+**DocID:** `daraz_325552878`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i325552878.html
+**Price:** ৳ 550  
+**Rating:** 1.0/5
+
+**Description:**
+Product Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.
+
+---
+
+
+## Premium Quality - Grey Color Korean Canvas Sneakers Shoes for Men Slip On Casual Shoes - Insoles For Shoes - Couture - High-end  
+**DocID:** `daraz_312807616`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/premium-quality-grey-color-korean-canvas-sneakers-shoes-for-men-slip-on-casual-shoes-insoles-for-shoes-couture-high-end-i312807616.html
+**Price:** ৳ 399  
+**Rating:** 4.3/5
+
+**Description:**
+Material: Canvas Color: Black,Gray, Khaki Size:40,41,42,43. Feature: Casual Shoes #shoes #Shoes_for_mens #Sneakers_Shoes #Sports_sneakers #insoles for shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.মানের মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা গ্যারান্টি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই। আমাদের বিভিন্ন গ্রাহকদের চাহিদা মেটাতে হবে। কিছু পণ্য উচ্চ মানের প্রয়োজন এবং কিছু কম দাম প্রয়োজন.তাই আমরা সব গ্রাহকদের বিবেচনায় বিভিন্ন মানের পণ্য আছে. দাম অনুযায়ী আমাদের পণ্যের মান অনেক ভালো।
+
+---
+
+
+## Sneakers Men Casual Shoes Men Fashion Sneakers Light Weight - Unleash Trendsetting Comfort  
+**DocID:** `daraz_210692491`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/sneakers-men-casual-shoes-men-fashion-sneakers-light-weight-unleash-trendsetting-comfort-i210692491.html
+**Price:** ৳ 399  
+**Rating:** 5.0/5
+
+**Description:**
+Mobile Camera Picture Item Type:casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-Odor Lining Material:Mesh Insole Material:EVA Upper Material:Flyknit Fit:Fits true to size, take your normal size Colour:Black,Red, Blue Feature:Lightweight, comfortable,Fashion Season:Spring, Summer, Autumn, Winter Mobile Camera PictureItem Type:casual shoesOutsole Material:RubberFeature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-OdorLining Material:MeshInsole Material:EVAUpper Material:FlyknitFit:Fits true to size, take your normal sizeColour:Black,Red, BlueFeature:Lightweight, comfortable,FashionSeason:Spring, Summer, Autumn, Winter
+
+---
+
+
+## New Lambor Ghini Sneaker Men Casual Shoes - Sneakers For Men - Shoe For Boys - White Shoes  
+**DocID:** `daraz_328484154`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/new-lambor-ghini-sneaker-men-casual-shoes-sneakers-for-men-shoe-for-boys-white-shoes-i328484154.html
+**Price:** ৳ 530  
+**Rating:** 4.5/5
+
+**Description:**
+Lining: Leather LAMBRGN Sole: Leather insole, Rubber sole Lace-up Material: calfskin Sole colour: white & black Closure type: Lacing Lining: Leather Toe cap: Round toe Special: white ,black Gender: Men Season: all Insole: Leather Very quality and durable product #Sneakers #juta #জুতা ছেলেদের #shoes for men #white shoes &lt;style&gt; pre { white-space: pre-wrap; } &lt;/style&gt;Introducing the New Lambor Ghini Sneaker Men Casual Shoes, the perfect addition to any fashion-forward man's shoe collection. These sneakers for men are made with high-quality artificial leather, ensuring durability and comfort with every step. The lace-up closure provides a secure fit, making them perfect for any casual occasion. The white shoes are versatile and can be paired with any outfit, making them a must-have for any fashion-conscious man. Whether you're running errands or hanging out with friends, these shoes for boys will keep you looking stylish and feeling comfortable all day long.
+
+---
+
+
+## Running Sneakers Black Color Casual Lace-Up Shoes Winter And Summer Men'S Shoes - Shoe For Boys - Shoes For Men - - Sneakers For Men - Shoe For Boys - Shoe For Boys - Sneakers  
+**DocID:** `daraz_211206835`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/running-sneakers-black-color-casual-lace-up-shoes-winter-and-summer-mens-shoes-shoe-for-boys-shoes-for-men-sneakers-for-men-shoe-for-boys-shoe-for-boys-sneakers-i211206835.html
+**Price:** ৳ 495  
+**Rating:** 3.5/5
+
+**Description:**
+Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes #ShoeForBoys #ShoesForMen #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #SneakersForMen #shoe for boys #shoes for men #juta #shoe for boys #shoes for men #juta #sneakers
+
+---
+
+
+## Eid New Shoes Collection Black Cotton Fabrics Sneaker Shoes Slip-Ons & Sneakers for Men C002  
+**DocID:** `daraz_351987697`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/c002-i351987697.html
+**Price:** ৳ 499  
+**Rating:** 4.7/5
+
+**Description:**
+Product type: shoes Main Material: Rubber,Silicone,Artficial,Leather Color: Black,Brown/Chocolate Size: 40,41,42,34 100% Authentic Product Elegant look Stylish design Comfortable to wear This is New Model Comfortable to wear Lightweight and long lasting Here is 3 Type of Sandal - Choose Your One Production by step Follow Us............. We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## New Trendy Black Blue And Grey Color EXPRESS Casual Canvas Sneakers Shoes For Men New Collection And Breathable Shoes For Man  
+**DocID:** `daraz_546826764`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i546826764.html
+**Price:** ৳ 328  
+**Rating:** 5.0/5
+
+**Description:**
+Casual Sneaker Shoes Cash On Delivery Service Lightweight & Comfortable Color: Blue,Black & Grey Size: 40,41,42,43 Material: Coton,Leather & Eva Sole. #Shoes #Full_shoes #Half_shoes #Sneakers_shoes #Sports_shoes #Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।
+
+---
+
+
+## shoes for men casual fashionable sneaker men's shoes trend all-match sneakers for men  
+**DocID:** `daraz_469493707`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** Flix Footwear  
+**URL:** https://www.daraz.com.bd/products/-i469493707.html
+**Price:** ৳ 990  
+**Rating:** 5.0/5
+
+**Description:**
+Product Category Sports casual shoes Applicable age Youth (18-40 years old) Place of origin Hebei Baoding style Korean version Features Shock absorption, breathable, lightweight, wear resistant, wrapped, non-slip Item number DFYL appropriate season Spring, autumn, summer Applicable gender male Upper material net Sole material rubber Applicable sports General purpose Whether stock Yes Inventory type Whole order Wearing style Front tie popular elements Sewing thread, cross straps, color matching, totem Heel shape Alien Inner material net Source category Spot Fastest shipping time 1 Opening depth Shallow mouth (less than 7cm) Upper height Low help Toe shape Round head height of heel Low heel (1-3CM) Sole craft Injection shoes Insole material Textile Applicable scene Leisure Listed year season (time to market) Autumn of 2023 Latest delivery time 2 days colour White yellow DFYL, black red DFYL size 40,41,42,43,44 FASTEST DELIVERYWe provide the fastest delivery services to our customers all over Bangladesh. Inside Dhaka, we will deliver our product within the next 2 days. Outside Dhaka, we will deliver it next 3 days.QUALITYAll our products are manufactured in China Guangzhou province. Quality is not merely a buzzword for us; it is an inherent part of our work culture. Quality being the essence of creativity is reflected in all our designs. Every stage of the production process is monitored to ensure that our clients get nothing but the best. Every piece is thoroughly checked at th …
+
+---
+
+
+## Indispensable-Quality And Durability-Stylish Blue And Green Color SUPERAR Sports Sneakers Shoes For Men-Canvas Shoes For Summer M38  
+**DocID:** `daraz_548304267`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/m38-i548304267.html
+**Price:** ৳ 539  
+**Rating:** 3.7/5
+
+**Description:**
+New Arrival Casual Sneakers Shoes Cash On Delivery Service Color: Blue & Green Eva Sole & Artificial Leather Upper Size: 40,41,42,43. #Shoes #Full_shoes #Half_shoes #Sneakers_shoes #Sports_shoes #Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_322742945`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i322742945.html
+**Rating:** 0.0/5
+
+**Description:**
+Product Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones. Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.Product Type: Sneakers ConverseColor: Black and WhiteMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableCountry of Origin:China
+
+---
+
+
+## High-Quality Sports' Sneakers Men's Casual Shoes Men's Fashion Sneakers Flyknit Lightweight Slip-On Men  
+**DocID:** `daraz_230913341`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i230913341.html
+**Price:** ৳ 445  
+**Rating:** 3.5/5
+
+**Description:**
+Mobile Camera Picture Item Type:casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-Odor Lining Material:Mesh Insole Material:EVA Upper Material:Flyknit Fit:Fits true to size, take your normal size Colour:Black,Red, Blue Feature:Lightweight, comfortable,Fashion Season:Spring, Summer, Autumn, Winter Mobile Camera PictureItem Type:casual shoesOutsole Material:RubberFeature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-OdorLining Material:MeshInsole Material:EVAUpper Material:FlyknitFit:Fits true to size, take your normal sizeColour:Black,Red, BlueFeature:Lightweight, comfortable,FashionSeason:Spring, Summer, Autumn, Winter
+
+---
+
+
+## New Collection 5G High-Quality Sneakers - Men's Casual Fashion Sneakers for Year-Round Comfort and Style  
+**DocID:** `daraz_157682808`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/new-collection-5g-high-quality-sneakers-mens-casual-fashion-sneakers-for-year-round-comfort-and-style-i157682808.html
+**Rating:** 0.0/5
+
+**Description:**
+Appropriate season: Spring, Autumn, Summer Style: Leisure Upper material: Mesh layer Popular elements: Breathable Features: Breathable Product Type: Casual Shoes Version:Korean Version Main Material: Light Rubber Sole Washable, Breathable, Lightweight, Wear Resistant #shoe for boys #shoes for men #juta #sneakers
+
+---
+
+
+## Super Casual Sneakers for Men  
+**DocID:** `daraz_170106242`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i170106242.html
+**Price:** ৳ 1,250  
+**Rating:** 4.3/5
+
+**Description:**
+Insole Material:EVA Man Shoe Material: Knitted Upper+ PVC Outsole Lining Material: Cotton Fabric Color:BlackyYellow Size: 39-44 Features: Fashionable, Comfortable & Durable Season: Autumn, Spring, Summer & Winter Insole Material:EVAMan Shoe Material: Knitted Upper+ PVC OutsoleLining Material: Cotton FabricColor: Blacky redSize: 39-44Features: Fashionable, Comfortable & DurableSeason: Autumn, Spring, Summer & Winter
+
+---
+
+
+## YRZL Outdoor Hiking Shoes Men Sneakers Slip on Casual Men Shoes Breathable Suede Leather Shoe Anti-skid Walking Shoes Footwear  
+**DocID:** `daraz_546072805`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/yrzl-i546072805.html
+**Price:** ৳ 3,168  
+**Rating:** 5.0/5
+
+**Description:**
+YRZL Outdoor Hiking Shoes Men Sneakers Slip on Casual Men Shoes Breathable Suede Leather Shoe Anti-skid Walking Shoes Footwear
+
+---
+
+
+## Fashionable Black Grey Blue and Khaki Color Korean Canvas Sneakers Shoes for Men Slip On Casual Shoes  
+**DocID:** `daraz_340165275`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i340165275.html
+**Price:** ৳ 399  
+**Rating:** 4.4/5
+
+**Description:**
+Material: Canvas Color: Black,Gray, Khaki,Blue Size:40,41,42,43. Feature: Casual Shoes Uper: Cotton Cloths And Artificial Leather Sole: EVA Canvas #shoes #Shoes_for_mens #Sneakers_Shoes #Sports_sneakers গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.
+
+---
+
+
+## HNY New Summer collection 2024 Stylish Fashionable Keds Shoes For Men  
+**DocID:** `daraz_387125996`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/hny-2024-i387125996.html
+**Price:** ৳ 550  
+**Rating:** 4.8/5
+
+**Description:**
+pre { white-space: pre-wrap; } • Stylish and fashionable sneakers for men. • Suitable for both winter and summer seasons. • White and blue color combination. • Medium cut upper height with lace-up closure. • Made of soft fabric with rubber sole. • Artificial leather main material .• Perfect for casual wear. • Exclusive Converse shoes collection. pre { white-space: pre-wrap; }• Stylish and fashionable sneakers for men.• Suitable for both winter and summer seasons.• White and blue color combination.• Medium cut upper height with lace-up closure.• Made of soft fabric with rubber sole.• Artificial leather main material.• Perfect for casual wear.• Exclusive Converse shoes collection.
+
+---
+
+
+## New Lambor Ghini Sneaker Men Casual Shoes - Sneakers For Men - Shoe For Boys  
+**DocID:** `daraz_244878066`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/new-lambor-ghini-sneaker-men-casual-shoes-sneakers-for-men-shoe-for-boys-i244878066.html
+**Price:** ৳ 500  
+**Rating:** 3.8/5
+
+**Description:**
+Lining: Leather LAMBRGN Sole: Leather insole, Rubber sole Lace-up Material: calfskin Sole colour: white & black Closure type: Lacing Lining: Leather Toe cap: Round toe Special: white ,black Gender: Men Season: all Insole: Leather Very quality and durable product #Sneakers #juta #জুতা ছেলেদের #shoes for men #white shoes &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;style&gt; pre { white-space: pre-wrap; } &lt;/style&gt;&lt;/head&gt;&lt;body&gt;Step 1: Filtered productAttributes: { "productTitle": "New Lambor Ghini Sneaker Men Casual Shoes - Sneakers For Men - Shoe For Boys", "categoryPath": "Fashion&gt;Men&gt;Shoes&gt;Sneakers", "Men Shoes Closure": "Lace-up", "Main Material": "Artificial Leather" } Step 2: additionalKeyWords: None Step 3: Introducing the New Lambor Ghini Sneaker Men Casual Shoes, designed for style and comfort. These sneakers for men feature a lace-up closure and are crafted with high-quality artificial leather, ensuring durability and a sleek look. Perfect for casual wear, these shoes are a must-have for boys who appreciate both fashion and functionality. Step 4: The tone of voice is in accordance with Informative. Product Description: Introducing the New Lambor Ghini Sneaker Men Casual Shoes, designed for style and comfort. These sneakers for men feature a lace-up closure and are crafted with high-quality artificial leather, ensuring durability and a sleek look. Perfect for casual wear, these shoes are a must-have for boys who appreciate both fashion and …
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -16465,6 +17063,601 @@ Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublaminatio
 
 **Description:**
 Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2025-26 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Ronaldo Thai Premium Football Jersey For Man - Half Sleeve T Shirt - Portugal Football Jersey 2025  
+**DocID:** `daraz_531285771`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/ronaldo-2025-i531285771.html
+**Price:** ৳ 340  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for ManProduct Type: T-shirtPrint: 100% QualitySublamination PrintColor: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura FabricGender: Men/WomanStylish and ComfortableSize: M, L, XL, XXLSize: M-Length 26, Chest 36Size: L-Length 27,Chest 38Size: XL-Length 28,Chest 40Size: XXL-Length 29,Chest 42
+
+---
+
+
+## Brazil Short Sleeve Jersey 2025/2026 Thai Premium Football Jersey For Men - Brazil Football Jersey 2025  
+**DocID:** `daraz_547365136`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i547365136.html
+**Price:** ৳ 349  
+**Rating:** 0.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2025-26 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Man Jersey 2025/2026 Thai Premium Football Jersey For Men - half sleeve t-shirt - Man Football Jersey 2025  
+**DocID:** `daraz_314120189`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i314120189.html
+**Price:** ৳ 340  
+**Rating:** 4.8/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Al-Hilal polo Jersey ,Thai Premium Football Jersey Football  
+**DocID:** `daraz_321356585`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i321356585.html
+**Price:** ৳ 149  
+**Rating:** 4.3/5
+
+**Description:**
+Product details of Manchester City Jersey ,Thai Premium Football Jersey Product Type: T-shirt Print: 100% Quality Color: 100% Guarantee Product: Same as Design Main Material: Poly Cotton Fabric (jersey fabric) Gender: Men Stylish and Fashionable Size: M, L, XL Size: M-Length 26,Chest 38 Size: L-Length 27,Chest 40 Size : XL-Length 28,Chest 42 and XXL--chest 43 length 29
+
+---
+
+
+## Inter miami new 3rd kit jersey 2024-25 half sleeves  
+**DocID:** `daraz_490044235`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/3-2024-25-i490044235.html
+**Price:** ৳ 249  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Inter miami new 3rd kit jersey 2024 half sleevesProduct Type: T-shirt Print: 100% Quality Color: 100% Guarantee Product: Same as Design Main Material: Poly Cotton Fabric (jersey fabric) Gender: Men Stylish and Fashionable Size: M, L, XL, XXL Size: M-Length 26,Chest 38 Size: L-Length 27,Chest 40 Size : XL-Length 28,Chest 42 Size : XXL-Length 28, Chest 44 Product Type: T-shirt Print: 100% Quality Color: 100% Guarantee Product: Same as Design Main Material: Poly Cotton Fabric (jersey fabric) Gender: Men Stylish and Fashionable Size: M, L, XL, XXL Size: M-Length 26,Chest 38 Product details of Inter miami new 3rd kit jersey 2024 half sleevesProduct Type: T-shirtPrint: 100% QualityColor: 100% GuaranteeProduct: Same as DesignMain Material: Poly Cotton Fabric (jersey fabric)Gender: MenStylish and FashionableSize: M, L, XL, XXLSize: M-Length 26,Chest 38Size: L-Length 27,Chest 40Size : XL-Length 28,Chest 42Size : XXL-Length 28, Chest 44Product Type: T-shirtPrint: 100% QualityColor: 100% GuaranteeProduct: Same as DesignMain Material: Poly Cotton Fabric (jersey fabric)Gender: MenStylish and FashionableSize: M, L, XL, XXLSize: M-Length 26,Chest 38
+
+---
+
+
+## Real Madrid dragon kit Thai Premium Football Jersey For Men - Long Sleeve Polo - Real Madrid Jersey 2005  
+**DocID:** `daraz_247794855`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/psg-thai-premium-football-jersey-jersey-i247794855.html
+**Price:** ৳ 380  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## PSG Football Jersey - Black And White  
+**DocID:** `daraz_260532324`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/psg-football-jersey-black-and-white-i260532324.html
+**Price:** ৳ 199  
+**Rating:** 4.1/5
+
+**Description:**
+Product details of PSG Football Jersey - Black and White Product Material: 100% Polyester Colour: Black Half Sleeve High Quality Digital Print Feature: Quick Dry,Breathable and soft to wear 100% recycled polyester doubleknit Lightweight fabric with a silky feel Sweat-wicking Climalite fabric Feature: Anti-Shrink, Anti-Wrinkle, Breathable, Anti-pilling The Best Quality Jersey #JerseyFootball Size Guideline:M : Length-26 inch, Width-36 inchL : Length-27 inch, Width-38 inchXL: Length-28 inch, Width-40 inchXXL: Length-29 inch, Width-42 inchGlobal IT is a Bangladeshi Brand that comes with different types of Information Technology related items, useful gadgets, sports and other local products. People of every class of Bangladesh is in the concern of Global IT. Global IT is very careful about the Quality and Service for making the value of the brand high enough to be famous in the local market of Bangladesh. You will like the product and come back again, InshaAllah.
+
+---
+
+
+## Liverpool home kit jersey premium half sleeves 2025/26  
+**DocID:** `daraz_325663264`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/202526-i325663264.html
+**Price:** ৳ 339  
+**Rating:** 5.0/5
+
+**Description:**
+Brand : No Brand Product Type: T-shirt Print: 100% Quality Logo : Embroidery Color: 100% Guarantee Product: Same as Design Main Material: Mesh Fabric Gender: Men/Woman Stylish and Comfortable Size : M,L,XL,2XL M : Length 27 chest 38 L: Length 28 chest 40 XL : Length 29 chest 42 2XL: Length 30 cBrand : No BrandProduct Type: T-shirtPrint: 100% QualityLogo : EmbroideryColor: 100% GuaranteeProduct: Same as DesignMain Material: Mesh FabricGender: Men/WomanStylish and ComfortableSize : M,L,XL,2XLM : Length 27 chest 38L: Length 28 chest 40XL : Length 29 chest 422XL: Length 30 chest 44
+
+---
+
+
+## B-d Short sleeve Football Jersey for Man - Half Sleeve - Banglades Fan Jersey  
+**DocID:** `daraz_325745706`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i325745706.html
+**Price:** ৳ 260  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Inter Milan Jersey 2025/2026 Thai Premium Football Jersey For Men - Half Sleeve Jersey - Inter Milan Football Jersey 2025  
+**DocID:** `daraz_221479035`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i221479035.html
+**Price:** ৳ 350  
+**Rating:** 4.3/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Morocco Short Sleeve Football Jersey For Men - Morocco Football Jersey 2025-2026  
+**DocID:** `daraz_278545163`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-2026-i278545163.html
+**Rating:** 0.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManCricket Club JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura Fabricআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## China jersey t shirt for man mash Fabric  
+**DocID:** `daraz_294179046`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/china-jersey-t-shirt-for-man-mash-fabric-i294179046.html
+**Rating:** 0.0/5
+
+**Description:**
+China mash fabric jersey t shirt for men. Brand name : IPTI apparels Size : M,L,XL Color : Light blue.size details : Size M : chest 38" long 27"Size L : chest 40" long 28"size XL : Chest 42" long 29"
+
+---
+
+
+## New Balance Short Sleeve T Shirt For Man - Half Sleeve T Shirt - Jersey  
+**DocID:** `daraz_247099708`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i247099708.html
+**Price:** ৳ 249  
+**Rating:** 4.6/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura Fabric(Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Santus Short Sleeve Football Jersey For Man - Santos Futebol Clube Jersey - Santos Jersey 2025-26  
+**DocID:** `daraz_524048927`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/santus-santos-futebol-santos-2025-26-i524048927.html
+**Rating:** 0.0/5
+
+**Description:**
+Product details of Santus Short Sleeve Football Jersey For Man - Santos Futebol Clube Jersey - Santos Jersey 2025-26Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#CricketJersey #CricketWorldCupjersey #T20Jersey #T20WorldCupJersey2024-25 #জার্​#SantosFutebolClubeJerseyFormen2025​#naymer​#naymer10​#clubnewjersey​#nayme​#santosclub​#Newclub #Footballclub #jerseyformen2025-2026​#club Product details of Santus Short Sleeve Football Jersey For Man - Santos Futebol Clube Jersey - Santos Jersey 2025-26Jersey for ManClub JerseyProduct Type: JerseyPrint: 100% QualitySublamination PrintColor: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura FabricGender: Men/WomanStylish and ComfortableSize: M, L, XL, XXL,XXXLSize: M-Length 26,Chest 36Size: L-Length 27,Chest 38Size : XL-Length 28,Chest 40Size : XXL-Length 29,Chest 42Size : 3XL-Length 30,Chest 44. We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are …
+
+---
+
+
+## Juventus Jersey 2025/2026 Thai Premium Football Jersey For Man - Half Sleeve - Juventus Jersey 2025  
+**DocID:** `daraz_221464014`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/juventus-20252026-juventus-2025-i221464014.html
+**Price:** ৳ 350  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#CricketJersey #CricketWorldCupjersey #T20Jersey #T20WorldCupJersey2025 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Argentina Jersey 2025/2026 Thai Premium Foodball Jersey for Men - Half Sleeve Jersey - Argentina Football Jersey 2025  
+**DocID:** `daraz_269547345`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i269547345.html
+**Price:** ৳ 350  
+**Rating:** 3.9/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Argentina champion 3 ⭐ copa America full sleeve 2024 Thai premium Jersey  
+**DocID:** `daraz_324444127`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/3-2024-i324444127.html
+**Price:** ৳ 399  
+**Rating:** 4.1/5
+
+**Description:**
+# Thai fabric# Embroidery logo # Size: M, L, XL, XXL# Size: M-Length 26,Chest 36# Size: L-Length 27,Chest 38# Size : XL-Length 28,Chest 40# Size : XXL-Length 29,Chest 42# Size: M, L, XL, XXL# Size: M-Length 26,Chest 36# Size: L-Length 27,Chest 38# Size : XL-Length 28,Chest 40# Size : XXL-Length 29,Chest 42
+
+---
+
+
+## Brazil Short Sleeve Football Jersey For Men - Brazil Jersey 2024-25  
+**DocID:** `daraz_469966773`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-25-i469966773.html
+**Price:** ৳ 270  
+**Rating:** 3.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2024-25 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Argentina World Cup Jersey 2025/2026 Thai Premium Football Jersey For Man - Argentina Football Jersey 2025  
+**DocID:** `daraz_273625868`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i273625868.html
+**Price:** ৳ 350  
+**Rating:** 4.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 #ArgentinaJersey2026WorldCupOriginal #ArgentinaJersey2026WorldCup #jersey Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## AC Milan Jersey 2025/2026 Thai Premium Football Jersey For Men - AC Milan Football Jersey 2025  
+**DocID:** `daraz_542539656`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i542539656.html
+**Price:** ৳ 411  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2025-26 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Germany Short Sleeve Polo Football Jersey For Men - Germany PK Polo t shirt - Germany Jersey  
+**DocID:** `daraz_313476281`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i313476281.html
+**Price:** ৳ 219  
+**Rating:** 3.3/5
+
+**Description:**
+Jersey for ManClub Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: PK Fabric (Jersey Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as DesignMain Material: PK Fabric (Jersey Fabric)যে কোন দলের জার্সিতে নিজের নাম দিয়ে বানাতে চাইলে বা আপনার দলে জার্সি বানাতে চাইলে আমাদের সাথে যোগাযোগ করুন। নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। bdbazar06
+
+---
+
+
+## New Balance Full Sleeve Jersey For Men - Long Sleeve T Shirt - Jersey  
+**DocID:** `daraz_270325699`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i270325699.html
+**Price:** ৳ 269  
+**Rating:** 3.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura Fabric(Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Tottenham Jersey - Player Edition Jersey - Tottenham Football Club - Home/Away Kit - Special Fans Version Jersey Club Jersey 2024/25 - Thai Fabrics - Short Sleeve - New Football Jersey - UEFA Champions League 2024 Design - Premium  
+**DocID:** `daraz_303857985`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/tottenhamjersey-player-edition-jersey-tottenhamfootball-club-homeaway-kit-special-fans-version-jersey-club-jersey-202425-thai-fabrics-short-sleeve-new-football-jersey-uefa-champions-league-2024-design-premium-i303857985.html
+**Rating:** 0.0/5
+
+**Description:**
+● Brand: NIHERZ ● Logo: Embroidery ● Fit: Regular Fit ● Neck: High Quality Ribbed O-Neck ● Size: M, L, XL, XXL ● M Size Chest 36.5 Length 27 ● L Size Chest 38 Length 27.5 ● XL Size Chest 40 Length 28.5 ● XXL Size Chest 42 Length 29 ● Authenticity: 100 Percent Authentic ● Material: 100% polyester ● Fabrics: Mesh Cotton ● Especially Designed for Comfort Outdoor Sports ● Brand: NIHERZ ● Logo: Embroidery ● Fit: Regular Fit ● Neck: High Quality Ribbed O-Neck ● Size: M, L, XL, XXL ● M Size Chest 36.5 Length 27 ● L Size Chest 38 Length 27.5 ● XL Size Chest 40 Length 28.5 ● XXL Size Chest 42 Length 29 ● Authenticity: 100 Percent Authentic ● Material: 100% polyester ● Fabrics: Mesh Cotton ● Especially Designed for Comfort Outdoor Sports
+
+---
+
+
+## Al-Nassr Jersey 2025/2026 Thai Premium Football Jersey For Man - Long Sleeve Jersey - Al Nassr Jersey 2025  
+**DocID:** `daraz_335244734`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/al-nassr-al-nassr-2024-2025-i335244734.html
+**Price:** ৳ 380  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## B-d Short Sleeve Football Jersey For Men - Half Sleeve - Banglades Fan Jersey  
+**DocID:** `daraz_413967646`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i413967646.html
+**Price:** ৳ 260  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Man city new home kit jersey 24/25 Half sleeves  
+**DocID:** `daraz_321778109`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2425-i321778109.html
+**Price:** ৳ 329  
+**Rating:** 5.0/5
+
+**Description:**
+Brand : No BrandProduct Type: T-shirtPrint: 100% QualityLogo : EmbroideryColor: 100% GuaranteeProduct: Same as DesignMain Material: Mesh FabricGender: Men/WomanStylish and ComfortableSize : M,L,XL,2XLM : Length 27 chest 38L: Length 28 chest 40XL : Length 29 chest 422XL: Length 30 chest 44premium QualityMesh fabric, comfortablesize : M, L, XL, XXLlatest update version#jersey #FootballkitBrand : No BrandProduct Type: T-shirtPrint: 100% QualityLogo : EmbroideryColor: 100% GuaranteeProduct: Same as DesignMain Material: Mesh FabricGender: Men/WomanStylish and ComfortableSize : M,L,XL,2XLM : Length 27 chest 38L: Length 28 chest 40XL : Length 29 chest 422XL: Length 30 chest 44premium QualityMesh fabric, comfortablesize : M, L, XL, XXLlatest update version#jersey #Footballkit
+
+---
+
+
+## Arsenal home Jersey away 2025  
+**DocID:** `daraz_305004185`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-i305004185.html
+**Price:** ৳ 330  
+**Rating:** 4.5/5
+
+**Description:**
+Product Type: T-shirt Print: 100% Quality Full Body Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 পণ্যের ধরন: টি-শার্টপ্রিন্ট: 100% গুণমানরঙ: 100% গ্যারান্টিপণ্য: ডিজাইন হিসাবে একইপ্রধান উপাদান: পলি কটন ফ্যাব্রিক (জার্সি ফ্যাব্রিক)লিঙ্গ: পুরুষআড়ম্বরপূর্ণ এবং ফ্যাশনেবলআকার: এম, এল, এক্সএল, এক্সএক্সএলআকার: M-দৈর্ঘ্য 26, বুক 36আকার: L-দৈর্ঘ্য 27, বুক 38আকার: XL-দৈর্ঘ্য 28, বুক 40আকার: XXL-দৈর্ঘ্য 29, বুক 42
+
+---
+
+
+## Portugal Short Sleeve Football Jersey For Men - Portugal Jersey 2024-2025  
+**DocID:** `daraz_469957347`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-2025-i469957347.html
+**Price:** ৳ 270  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2024-25 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Cristiano Ronaldo CR7 Combo All Teams Special Jersey - Player Edition Jersey - Special Fans Version Jersey National Jersey 2024/2025 - Thai Fabrics - Short Sleeve - New Football Jersey - All League 2025 Design - Premium  
+**DocID:** `daraz_303862905`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/cristiano-ronaldo-cr7-combo-all-teams-special-jersey-player-edition-jersey-special-fans-version-jersey-national-jersey-20242025-thai-fabrics-short-sleeve-new-football-jersey-all-league-2025-design-premium-i303862905.html
+**Price:** ৳ 348  
+**Rating:** 3.0/5
+
+**Description:**
+● Brand: NIHERZ ● Logo: Embroidery ● Fit: Regular Fit ● Neck: High Quality Ribbed O-Neck ● Size: M, L, XL, XXL ● M Size Chest 36.5 Length 27 ● L Size Chest 38 Length 27.5 ● XL Size Chest 40 Length 28.5 ● XXL Size Chest 42 Length 29 ● Authenticity: 100 Percent Authentic ● Material: 100% polyester ● Fabrics: Mesh Cotton ● Especially Designed for Comfort Outdoor Sports ● Brand: NIHERZ ● Logo: Embroidery ● Fit: Regular Fit ● Neck: High Quality Ribbed O-Neck ● Size: M, L, XL, XXL ● M Size Chest 36.5 Length 27 ● L Size Chest 38 Length 27.5 ● XL Size Chest 40 Length 28.5 ● XXL Size Chest 42 Length 29 ● Authenticity: 100 Percent Authentic ● Material: 100% polyester ● Fabrics: Mesh Cotton ● Especially Designed for Comfort Outdoor Sports
+
+---
+
+
+## Argentina World Cup Thai Premium Football Jersey for Men - Argentina Football Jersey 2025  
+**DocID:** `daraz_273623969`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-i273623969.html
+**Price:** ৳ 350  
+**Rating:** 3.7/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Liverpool Jersey 2025/2026 Thai Premium Football Jersey For Men - Liverpool Football Jersey 2025  
+**DocID:** `daraz_540813090`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i540813090.html
+**Price:** ৳ 411  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2025-26 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Neymar JR. Combo All Teams Special Jersey Jersey - Player Edition Jersey - Special Fans Version Jersey National Jersey 2024/2025 - Thai Fabrics - Short Sleeve - New Football Jersey - World Cup 2022 - UEFA Champions League 2025 Design - Premium  
+**DocID:** `daraz_303866090`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/neymar-jr-combo-all-teams-special-jersey-jersey-player-edition-jersey-special-fans-version-jersey-national-jersey-20242025-thai-fabrics-short-sleeve-new-football-jersey-world-cup-2022-uefa-champions-league-2025-design-premium-i303866090.html
+**Price:** ৳ 348  
+**Rating:** 2.0/5
+
+**Description:**
+● Brand: NIHERZ ● Logo: Embroidery ● Fit: Regular Fit ● Neck: High Quality Ribbed O-Neck ● Size: M, L, XL, XXL ● M Size Chest 36.5 Length 27 ● L Size Chest 38 Length 27.5 ● XL Size Chest 40 Length 28.5 ● XXL Size Chest 42 Length 29 ● Authenticity: 100 Percent Authentic ● Material: 100% polyester ● Fabrics: Mesh Cotton ● Especially Designed for Comfort Outdoor Sports ● Brand: NIHERZ ● Logo: Embroidery ● Fit: Regular Fit ● Neck: High Quality Ribbed O-Neck ● Size: M, L, XL, XXL ● M Size Chest 36.5 Length 27 ● L Size Chest 38 Length 27.5 ● XL Size Chest 40 Length 28.5 ● XXL Size Chest 42 Length 29 ● Authenticity: 100 Percent Authentic ● Material: 100% polyester ● Fabrics: Mesh Cotton ● Especially Designed for Comfort Outdoor Sports
+
+---
+
+
+## Liverpool FC Jersey - Player Edition Jersey - Liverpool FC LFC Football Club - Home/Away Kit - Special Fans Version Club Jersey 2024/25 - Thai Fabrics - Short Sleeve - New Football Jersey - UEFA Champions League 2024 Design - Premium  
+**DocID:** `daraz_306499512`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/liverpool-fc-jersey-player-edition-jersey-liverpool-fc-lfc-football-club-homeaway-kit-special-fans-version-club-jersey-202425-thai-fabrics-short-sleeve-new-football-jersey-uefa-champions-league-2024-design-premium-i306499512.html
+**Rating:** 0.0/5
+
+**Description:**
+● Brand: NIHERZ ● Logo: Embroidery ● Fit: Regular Fit ● Neck: High Quality Ribbed O-Neck ● Size: M, L, XL, XXL ● M Size Chest 36.5 Length 27 ● L Size Chest 38 Length 27.5 ● XL Size Chest 40 Length 28.5 ● XXL Size Chest 42 Length 29 ● Authenticity: 100 Percent Authentic ● Material: 100% polyester ● Fabrics: Mesh Cotton ● Especially Designed for Comfort Outdoor Sports ● Brand: NIHERZ ● Logo: Embroidery ● Fit: Regular Fit ● Neck: High Quality Ribbed O-Neck ● Size: M, L, XL, XXL ● M Size Chest 36.5 Length 27 ● L Size Chest 38 Length 27.5 ● XL Size Chest 40 Length 28.5 ● XXL Size Chest 42 Length 29 ● Authenticity: 100 Percent Authentic ● Material: 100% polyester ● Fabrics: Mesh Cotton ● Especially Designed for Comfort Outdoor Sports
+
+---
+
+
+## Ronaldo 7 Al-Nassr Thai Premium Football Jersey For Man - Al Nassr Jersey  
+**DocID:** `daraz_362453554`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/ronaldo-7-al-nassr-al-nassr-i362453554.html
+**Price:** ৳ 450  
+**Rating:** 4.5/5
+
+**Description:**
+Product details of Ronaldo 7 Al-Nassr Thai Premium Football Jersey For Man - Al Nassr JerseyJersey for Man Club Jersey Product Type: T-shirt Print: 100% Quality Sublamination Print and Logo Embroidery Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric (Thai Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. #jersey #jersey football #football jersey Product details of Ronaldo 7 Al-Nassr Thai Premium Football Jersey For Man - Al Nassr JerseyJersey for ManClub JerseyProduct Type: T-shirtPrint: 100% QualitySublamination Print and Logo EmbroideryColor: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura Fabric (Thai Fabric)Gender: Men/WomanStylish and ComfortableSize: M, L, XL, XXLSize: M-Length 26,Chest 36Size: L-Length 27,Chest 38Size : XL-Length 28,Chest 40Size : XXL-Length 29,Chest 42. We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey#jersey football#football jersey
+
+---
+
+
+## Bayern Munich 2025/2026 Thai Premium Football Jersey For Men - Long Sleeve - Bayern Munich Jersey 2025  
+**DocID:** `daraz_550232423`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/bayern-20252026-bayern-2025-i550232423.html
+**Price:** ৳ 369  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. #FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2025-26 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Bayern Munich Jersey 2025/2026 Thai Premium Football Jersey For Men - Bayern Football Jersey 2025  
+**DocID:** `daraz_540881426`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/bayern-20252026-bayern-2025-i540881426.html
+**Price:** ৳ 436  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2025-26 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Manchester City Short Sleeve Polo Thai Premium Club Jersey For Man - Manchester City Football Jersey 2025  
+**DocID:** `daraz_316766744`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-i316766744.html
+**Price:** ৳ 349  
+**Rating:** 4.8/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2025-26 #জার্সি Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Bayern Munich Thai Premium Football Jersey For Man - Bayern Munich Football Jersey 2025-26  
+**DocID:** `daraz_279690002`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/bayern-bayern-2025-26-i279690002.html
+**Price:** ৳ 340  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Lionel Messi GOAT Combo All Teams Special Jersey - Player Edition Jersey - Special Fans Version Jersey National Jersey 2024/2025 - Thai Fabrics - Short Sleeve - New Football Jersey - All League 2025 Design - Premium  
+**DocID:** `daraz_303876635`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/lionel-messi-goat-combo-all-teams-special-jersey-player-edition-jersey-special-fans-version-jersey-national-jersey-20242025-thai-fabrics-short-sleeve-new-football-jersey-all-league-2025-design-premium-i303876635.html
+**Price:** ৳ 348  
+**Rating:** 5.0/5
+
+**Description:**
+● Brand: NIHERZ ● Logo: Embroidery ● Fit: Regular Fit ● Neck: High Quality Ribbed O-Neck ● Size: M, L, XL, XXL ● M Size Chest 36.5 Length 27 ● L Size Chest 38 Length 27.5 ● XL Size Chest 40 Length 28.5 ● XXL Size Chest 42 Length 29 ● Authenticity: 100 Percent Authentic ● Material: 100% polyester ● Fabrics: Mesh Cotton ● Especially Designed for Comfort Outdoor Sports ● Brand: NIHERZ ● Logo: Embroidery ● Fit: Regular Fit ● Neck: High Quality Ribbed O-Neck ● Size: M, L, XL, XXL ● M Size Chest 36.5 Length 27 ● L Size Chest 38 Length 27.5 ● XL Size Chest 40 Length 28.5 ● XXL Size Chest 42 Length 29 ● Authenticity: 100 Percent Authentic ● Material: 100% polyester ● Fabrics: Mesh Cotton ● Especially Designed for Comfort Outdoor Sports
+
+---
+
+
+## Premium Quality Portugal Away Jersey 2024 | Portugal Euro Jersey 2024  
+**DocID:** `daraz_358765241`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-2024-i358765241.html
+**Price:** ৳ 350  
+**Rating:** 3.4/5
+
+**Description:**
+Product details of Stylist premium Quality Summer Jersey t Shirt For Men Best In Budget Range Material: Jersey Fabrics over size Jersey Available Gender: Men Fit Type: Regular Fit Stylish Design Export Quality Swing #jersey #Portugal #Rolando
 
 ---
 
@@ -19469,6 +20662,587 @@ NO return is applicable if the seal is broken• 10-day seller replacement guara
 
 **Description:**
 NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.iQOO Neo 10 Full SpecificationsBODYDimensions164.7 x 77 x 8.5 mm (6.48 x 3.03 x 0.33 in)Weight192 g (6.77 oz)ColorsRed, Mint, BlackBody MaterialGlass front, plastic frame, glass or leather backSIMsDual SIM (Nano-SIM, dual stand-by)Water & DustNoDISPLAYSize6.78 inchesTypeLTPO AMOLED, 1B colors, 144Hz, HDR10, 1300 nits (peak)Resolutions1260 x 2800 pixels, 20:9 ratioPPI453 ppi densityMulti touchYesProtection–NETWORKS2GGSM 850 / 900 / 1800 / 1900 – SIM 1 & SIM 2CDMA 8003GHSDPA 850 / 900 / 1700(AWS) / 21004G1, 2, 3, 4, 5, 7, 8, 19, 28, 28, 34, 38, 39, 40, 415G1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSASpeedHSPA, LTE-A, 5GGPRSYesEDGEYesCAMERARear Dual50 MP, f/1.88, (wide), 1/1.49″, 1.0µm, PDAF, OIS8 MP, f/2.2, 114 (ultrawide)FeaturesLED flash, HDR, panoramaVideos8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EISFront16 MP, f/2.45, (wide)1080p@30fpsHARDWAREOSAndroid 15ChipsetMediatek Dimensity 9400+ (4 nm)CPUOcta-core (1×3.00 GHz Cortex-X2 & 3×2.50 GHz Cortex-A710 & 4×1.80 GHz Cortex-A510))GPUImmortalis-G715 MC11RAM16GBStorage256GB / 512GBCard SlotNoB …
+
+---
+
+
+## iPhone 17 256GB | 512GB (Physical Sim only)  
+**DocID:** `daraz_553754475`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** iphone  
+**URL:** https://www.daraz.com.bd/products/iphone-17-256gb-512gb-physical-sim-only-i553754475.html
+**Price:** ৳ 159,999  
+**Rating:** 0.0/5
+
+**Description:**
+Premium Design: Glass front with Ceramic Shield 2, aluminum frame, and IP68 dust and water resistance. Immersive Display: 6.3-inch LTPO Super Retina XDR OLED, 120Hz refresh rate, HDR10, and 3000 nits peak brightness. Powerful Performance: Apple A19 chipset with hexa-core CPU and Apple GPU for unmatched speed and graphics. Dual Main Camera System: 48MP wide and 48MP ultrawide with advanced OIS, HDR, and 4K Dolby Vision HDR video recording. High-Resolution Front Camera: 18MP wide lens with OIS, SL 3D depth sensor, Dolby Vision HDR, and spatial audio. Next-Generation Connectivity: Extensive 5G band support, Wi-Fi 7, Bluetooth 6.0, Ultra Wideband (gen2), GPS with multi-band positioning, and satellite SOS. Long-Lasting Battery: 3692 mAh with fast wired charging (50% in 20 minutes), MagSafe/Qi2 wireless charging, and reverse charging support. Ample Storage: Available in 256GB and 512GB NVMe options with 8GB RAM. Colors: Black, White, Mist Blue, Sage, and Lavender. No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product …
+
+---
+
+
+## iQOO neo10R Indian 8/128/256  
+**DocID:** `daraz_529999454`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** IQOO  
+**URL:** https://www.daraz.com.bd/products/iqoo-neo10r-8128256-i529999454.html
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.BrandiQOOModelNeo 10R 5GNetworkGSM / HSPA / LTE / 5GDimensions163.7 x 75.9 x 8 mmWeight196 gSIMNano-SIM + Nano-SIMDisplay TypeAMOLED | 1B colors | 144Hz | HDR10+ | 4500 nits (peak)Display Size6.78 inchesDisplay Resolution1260 x 2800 pixelsOSAndroid 15, Funtouch 15ChipsetQualcomm Snapdragon 8s Gen 3CPUOcta-coreMemory128GB 8GB RAM, 256GB 8GB RAM, 256GB 12GB RAMMain Camera50 MP (wide), 8 MP (ultrawide), 4K videoSelfie Camera32 MP, 4K videoSoundStereo speakers, 24-bit/192kHz Hi-Res audioBattery Info6400 mAh, 80W fast charging, 7.5W reverse wiredSensorsFingerprint (under display), accelerometer, gyro, proximity, compassDescription iQOO Neo 10R 5GLife moves fast, and so should your phone. Vivo iQOO Neo 10R 5G is here to effortlessly keep up with everything you do. From stunning visuals on its 6.78-inch AMOLED screen to blazing-fast performance, this phone makes every moment better. You can dive into your favorite games, streaming videos, or capturing memories; the Snapdragon 8s Gen 3 chip ensures everything runs smoothly. The 50MP dual camer …
+
+---
+
+
+## Honor 200 (8/256GB RAM ROM) Unofficial Chinese Varriant  
+**DocID:** `daraz_538807470`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/honor-200-8256gb-ram-rom-i538807470.html
+**Price:** ৳ 34,320  
+**Rating:** 0.0/5
+
+**Description:**
+Honor 200 (8GB RAM) OverviewHonor 200 (8GB+256GB) is one of the most competitive smartphones at present in the market. The other versions of the Honor 200 have the Honor 200 8GB+256GB, Honor 200 16GB+256GB, and the Honor 200 16 GB+512GB models. Basically the main differences between these variants can be summarized in RAM size and internal memory, which is something customers look for.DescriptionOperating SystemAndroidOS Versionv14User InterfaceMagicOS 8ChipsetQualcomm Snapdragon 7 Gen 3CPUOcta core (2.63 GHz, Single core, Cortex A715 + 2.4 GHz, Tri core, Cortex A715 + 1.8 GHz, Quad core, Cortex A510)CPU Cores8 CoresArchitecture64 bitFabrication4 nmGPUAdreno 720DisplayDisplay TypeOLEDScreen Size6.7 inches (17.02 cm)Resolution1200x2664 px (FHD+)Pixel Density436 ppiScreen to Body Ratio89.96 %Screen ProtectionGorilla GlassBezel-less DisplayYes with punch-hole displayTouch ScreenCapacitive Touchscreen, Multi-touchBrightness4000 nitsHDR 10 / HDR + supportHDRRefresh Rate120 HzNotchPunch-holePrimary CameraCamera SetupTripleResolution50 MP, f/2.0, Wide Angle, Primary Camera, 12 MP, f/2.2, Ultra-Wide Angle Camera, 50 MP, f/2.4, Telephoto CameraAutofocus YesOISYesFlash LED flashImage Resolution8150 x 6150 PixelsSettingsExposure compensation, ISO controlZoomDigital ZoomShooting ModesContinuous Shooting, High Dynamic Range mode (HDR)Aperturef/2.0Camera FeaturesAuto Flash, Custom Watermark, Face detection, Filters, Smile detection, Dual Video Recording, Touch to focusVideo Recording3840x2 …
+
+---
+
+
+## iQOO Z10 Turbo Pro 12-256 CN  
+**DocID:** `daraz_557099816`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Vivo  
+**URL:** https://www.daraz.com.bd/products/iqoo-z10-12-256-cn-i557099816.html
+**Price:** ৳ 38,099  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Smartphone Full SpecificationsCategoryDetailsNetworkTechnology: GSM / HSPA / LTE / 5GLaunchAnnounced: 2025, April 28 Status: Available. Released 2025, April 28BodyDimensions: 163.7 x 75.9 x 8.1 mm (6.44 x 2.99 x 0.32 in) Weight: 206 g (7.27 oz) Build: Glass front, plastic back, plastic frame SIM: Nano-SIM + Nano-SIM IP Rating: IP65 dust tight and water resistant (low pressure water jets)DisplayType: AMOLED, 1B colors, 144Hz, 4320Hz PWM, HDR, 2000 nits (HBM), 4400 nits (peak) Size: 6.78 inches, 111.0 cm² (~89.3% screen-to-body ratio) Resolution: 1260 x 2800 pixels, 20:9 ratio (~453 ppi density)PlatformOS: Android 15, OriginOS 5 Chipset: Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm) CPU: Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720) GPU: Adreno 825MemoryCard slot: No Internal: 256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAM UFS 4.1Main CameraDual: 50 MP, f/1.8, (wide), 1/1.95", 0.8µm, PDAF, OIS 8 MP, f/2.2, (ultrawide) Features: Color spectrum sensor, LED flash, HDR, …
+
+---
+
+
+## Xaiomi Redmi 13 (6+128)  
+**DocID:** `daraz_386987544`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Xiaomi  
+**URL:** https://www.daraz.com.bd/products/xaiomi-redmi-13-6-128-i386987544.html
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• One-year brand warranty is available (as per standard procedure)• 7-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• Before ordering if there is any confusion please contact the seller through chat.• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.• As the price of the product is volatile, the cost of any product may change at any moment aligned with the market price.• Please leave a review if you are satisfied with your purchase.For any feedback, please reach out to the seller.Storage & RAM:RAM: 6GBROM: 128GBDisplay:6.79 inches, 109.5 cm2 (~85.1% screen-to-body ratio)MAIN CAMERADual108 MP, f/1.8, (wide), 1/1.67", 0.64µm, PDAF2 MP, f/2.4, (macro)Charging & Battery: Li-Po 5000 mAhOS :Android 13, Realme UI TSensorsFingerprint (side-mounted), accelerometer, proximity, compassDimensions 168.6 x 76.3 x 8.3 mm (6.64 x 3.00 x 0.33 in)• NO return is applicable if the seal is broken• One-year brand warranty is available (as per standard procedure)• 7-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) s …
+
+---
+
+
+## Realme 15 5G &gt; 8- 128 / 256 indian  
+**DocID:** `daraz_543515729`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Realme  
+**URL:** https://www.daraz.com.bd/products/realme-15-5g-8-128-256-i543515729.html
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Unmatched Display BrillianceThe Realme 15 redefines smartphone visuals with its groundbreaking 6.8-inch OLED display, setting new standards in its class. Boasting an extraordinary 6500 nits peak brightness - the highest in any smartphone - it delivers perfect visibility even under harsh sunlight. The 144Hz refresh rate ensures buttery-smooth scrolling and gaming, while the industry-leading 4608Hz PWM dimming significantly reduces eye strain during prolonged use. With a crisp 1280 x 2800 resolution (453 ppi) and support for 1 billion colors, every image pops with stunning clarity and vibrant hues. The 91.2% screen-to-body ratio achieved through minimal bezels and Gorilla Glass protection creates an immersive viewing experience that rivals premium flagships.Military-Grade Durability Meets EleganceRealme has engineered the 15 to withstand life's toughest challenges without compromising on style. Available in three sleek color variants with subtly different thickness profiles (7.66mm to 7.96mm), it maintains an impressively lightweight des …
+
+---
+
+
+## Redmi k80 12/256 chaina  
+**DocID:** `daraz_521233212`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Xiaomi  
+**URL:** https://www.daraz.com.bd/products/redmi-k80-12256-chaina-i521233212.html
+**Price:** ৳ 39,899  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken* 10-day seller replacement guarantee* No returns will be applicable in case of change of mind.* In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable* 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Xiaomi Redmi K80 Full SpecificationsBODYDimensions160.3 x 75 x 8.1 mm (6.31 x 2.95 x 0.32 in)Weight206 g (7.27 oz)ColorsBlack, White, Mint, BlueBody MaterialGlass front (Gorilla Glass Victus), glass back, aluminum frameSIMsDual SIM (Nano-SIM, dual stand-by)Water & DustIP68 dust/water resistant (up to 2.5m for 30 min)DISPLAYSize6.67 inchesTypeOLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 1800 nits (HBM), 3200 nits (peak)Resolutions1440 x 3200 pixels, 20:9 ratioPPI526 ppi densityMulti touchYesProtectionCorning Gorilla Glass 7iNETWORKS2GGSM 850 / 900 / 1800 / 1900 – SIM 1 & SIM 2CDMA 8003GHSDPA 850 / 900 / 1700(AWS) / 1900 / 2100CDMA2000 1x4G1, 2, 3, 4, 5, 7, 8, 18, 19, 26, 34, 38, 39, 40, 41, 42 LTE5G1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSASpeedHSPA , LTE, 5GGPRSYesEDGEYesCAMERARear Dual50 MP, f/1.6, 24mm (wide), 1/1.55″, 1.0µm, dual pixel PDAF, OIS8 MP, (ultrawide)FeaturesLED flash, HDR, panoramaVideos8K@24fps, 4K@24/30/60fps, 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EISFront20 MPHDR1080p@30/60fps, 720p@120fps, HDRHARDWAREOSAndr …
+
+---
+
+
+## Tecno Spark 40 Pro (8/128GB Ram Rom) Official  
+**DocID:** `daraz_546788111`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/tecno-spark-40-pro-8128gb-ram-rom-i546788111.html
+**Price:** ৳ 19,999  
+**Rating:** 0.0/5
+
+**Description:**
+Tecno Spark 40 Pro (8/128GB)Display: 6.78 inches, 1.5K Ultra Bright AMOLED Processor: Mediatek Helio G100 Ultimate (6nm) Camera: 50MP + 13MP Features: Under Display Fingerprint sensor DescriptionOperating SystemAndroid 15ProcessorMediaTek Helio 100 UltimateNetwork2G3G4GDimension163.67*75.87*6.69mmDisplay144Hz 6.78'' AMOLED Flexible DisplayResolution1224*2720CameraFront: 13MPRear: 50MP, Rear Dual FlashMemory128GB+16GB* (8GB Extended RAM)ConnectivityGPSWiFiBTFMOTGNFCSensorSoftware GyroscopeInfrared Remote ControlBattery Capacity5200mAh45W Super ChargingLoudspeakerDual SpeakersDolby AtmosTecno Spark 40 Pro (8/128GB)The Tecno Spark 40 Pro (8/128GB) is designed for users who demand more more speed, more clarity, more innovation. With a dazzling AMOLED display, a powerful MediaTek chipset, and a massive battery, this phone redefines what you expect from a mid-range device. Whether you're gaming, creating content, or just scrolling endlessly, the Spark 40 Pro is built to impress.Tecno Spark 40 Pro SpecificationDive into immersive visuals with a 6.78-inch 1.5K AMOLED screen that shines at an impressive peak brightness of 4500 nits. Whether you’re outside under direct sunlight or watching late-night content, the Corning Gorilla Glass 7i ensures top-tier durability while the ultra-thin bezels bring you closer to a truly edge-to-edge experience. The 144Hz refresh rate keeps animations silky smooth, perfect for gaming or rapid multitasking.Display Size: 6.78-inchDisplay Type: 1.5K Ultra …
+
+---
+
+
+## Xiaomi Poco X7 Pro 5G (12+256GB)  
+**DocID:** `daraz_528811818`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Xiaomi  
+**URL:** https://www.daraz.com.bd/products/xiaomi-poco-x7-pro-5g12-256gb-i528811818.html
+**Price:** ৳ 42,999  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand : Xiaomi ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year seller warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM : 12GB▪︎ ROM: 256GB▪︎ Display: 6.67inches▪︎ Main Camera : 50 MP Wide | 8 MP Ultrawide▪︎ Selfie camera : 20 MP Wide▪︎ Charging & Battery :6000 mAh | non-removable | 90W wired▪︎ OS :Android 15 | HyperOS 2▪︎Features : Fingerprint (under display, optical), accelerometer, gyro, proximity, compass▪︎ Dimensions : 160.8 x 75.2 x 8.3 mm▪︎ Brand : Xiaomi ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year seller warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM : 12GB▪︎ ROM: 256GB▪︎ Display: 6.67inches▪︎ Main Camera : 50 MP Wide | 8 MP Ultrawide▪︎ Selfie camera : 20 MP Wide▪︎ Charging & Battery :6000 mAh | …
+
+---
+
+
+## infinix GT 30 pro 12/256 Official  
+**DocID:** `daraz_539568585`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Infinix  
+**URL:** https://www.daraz.com.bd/products/infinix-gt-30-pro-12256-i539568585.html
+**Price:** ৳ 41,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. Infinix GT 30 Pro Full SpecificationsGeneralBrandInfinixModelGT 30 ProDevice TypeSmartphoneRelease Date25 May 2025Status AvailableHardware & Software8Operating SystemAndroidOS Versionv15User InterfaceXOS 15ChipsetMediatek Dimensity 8350 UltimateCPUOcta-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510)CPU Cores8 CoresArchitecture64 bitFabrication4 nmGPUMali G615-MC6Display8Display TypeAMOLEDScreen Size6.78 inches (17.22 cm)Resolution1224x2720 px (FHD+)Aspect Ratio20:9Pixel Density440 ppiScreen to Body Ratio89.4%Screen ProtectionCorning Gorilla Glass 7iBezel-less DisplayYes with punch-hole displayTouch ScreenCapacitive Touchscreen, Multi-touchBrightness4500 nitsRefresh Rate144 HzNotchPunch-holeCameras8Primary CameraCamera SetupDualResolution108 MP, f/1.9, Wide Angle, Primary Camera, 8 MP, f/2.2, Ultra-Wide Angle CameraAutofocus YesFlash Dual-LED flashImage Resolution12000 x 9000 PixelsSettingsExposure compensation, ISO controlZoomDigital ZoomShooting ModesContinuous Shooting, High Dynamic Range mode (HDR)Ap …
+
+---
+
+
+## iPhone 17 Pro Global (1 Year Apple International Warranty)  
+**DocID:** `daraz_556369233`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Apple  
+**URL:** https://www.daraz.com.bd/products/17-1-i556369233.html
+**Price:** ৳ 186,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO RETURN applicable if the seal is broken! Physical SpecificationsBuild: Glass front (Ceramic Shield 2), aluminum alloy frame, aluminum alloy back / glass back (Ceramic Shield) Weight: 206 g (7.27 oz) Dimensions: 150 × 71.9 × 8.8 mm (5.91 × 2.83 × 0.35 in) NetworkSIM Options:Nano-SIM + eSIM + eSIM (max 2 active, International) Speed: HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps 2G Bands: GSM 850 / 900 / 1800 / 1900; CDMA 800 / 1900 3G Bands: HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100; CDMA2000 1xEV-DO 4G Bands: LTE 5G Bands: SA/NSA/Sub6; SA/NSA/Sub6/mmWave DisplaySize: 6.3 inches, 96.4 cm² (~89.4% screen-to-body ratio) Type: LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak) Resolution: 1206 × 2622 pixels, 19.5:9 ratio (~460 ppi density) ProcessorCPU: Hexa-core GPU: Apple GPU (6-core graphics) Chipset: Apple A19 Pro (3 nm) MemoryInternal: 256GB 12GB RAM, 512GB 12GB RAM, 1TB 12GB RAM Card Slot: No Main CameraTriple Setup:48 MP, f/1.6, 24mm (wide), 1/1.28", 1.22µm, dual pixel PDAF, sensor-shift OIS 48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55", 0.7µm, PDAF, 3D sensor-shift OIS, 4x optical zoom 48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55", 0.7µm, PDAF TOF 3D LiDAR scanner (depth) Video: 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, ProRes RAW, Apple Log 2, 3D (spatial) video/audio, stereo sound recording Features: Dual-LED dual-tone flash, HDR (photo/panorama) Selfie …
+
+---
+
+
+## Symphony ATOM 5 (4+64GB) Official  
+**DocID:** `daraz_526824523`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Symphony  
+**URL:** https://www.daraz.com.bd/products/5-4-64gb-i526824523.html
+**Price:** ৳ 8,489  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand : Symphony ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 4GBROM: 64GB▪︎ Display: 6.74inches▪︎ Main Camera : 52 MP, Primary Camera, 2 MP, Camera▪︎ Selfie Camera : 5 MP, Primary Camera▪︎ Charging & Battery : 5000 mAh, Li-Poly (Lithium Polymer)▪︎ OS : Android v14▪︎ Feature : Notification Sensor Light, Proximity, Sensor Accelerometer▪︎ Dimension : 164.5 x 76 x 8.95 mm▪︎ Brand : Symphony ▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year Brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 4GBROM: 64GB▪︎ Display: 6.74inches▪︎ Main Camera : 52 MP, Primary Camera, 2 MP, Camera▪︎ Selfie Camera : 5 MP, Primary Camera▪︎ Charging & Battery : 5000 m …
+
+---
+
+
+## iphone 15 128GB (USA/Euro/Japan/China) Smartphone  
+**DocID:** `daraz_324454812`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** iphone  
+**URL:** https://www.daraz.com.bd/products/iphone-15-128gb-eurojpchina-smartphone-i324454812.html
+**Price:** ৳ 92,377  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken One-year service warranty is available (as per standard procedure) 7-day seller replacement guarantee No returns will be applicable in case of change of mind. In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable Before ordering if there is any confusion please contact the seller through chat. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the price of the product is volatile, the cost of any product may change at any moment aligned with the market price. Please leave a review if you are satisfied with your purchase.For any feedback, please reach out to the seller. Brand: Apple Model: iPhone 15 Display Size: 6.1 inches Display Type: Super Retina XDR OLED, HDR10, Dolby Vision, 1000–2000 nits Display Resolution: 1179 x 2556 pixels Chipset: Apple A16 Bionic (4 nm) Memory: 128GB | 256GB | 512GB Main Camera: 48 MP (wide) | 12 MP (ultrawide) | Dual-LED dual-tone flash, HDR (photo/panorama) | 4K@24/25/30/60fps, , HDR, Dolby Vision HDR (up to 60fps), Cinematic mode (4K@30fps) Selfie Camera: 12 MP, f/1.9, 23mm (wide) | SL 3D, (depth/biometrics sensor) | HDR, Cinematic mode (4K@30fps) | 4K@24/25/30/60fps gyro-EIS Battery Info: Li-Ion | non-removable, wired Type-C charging, 15W wireless (MagSafe) iPhone 15The Apple iPhone 15 features a …
+
+---
+
+
+## Infinix Hot 60i &gt; [8GB/256GB] OFFICIAL  
+**DocID:** `daraz_547747203`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Infinix  
+**URL:** https://www.daraz.com.bd/products/infinix-hot-60i-8gb256gb-i547747203.html
+**Price:** ৳ 16,499  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Infinix Hot 60i DescriptionThe Infinix Hot 60i is a feature-packed smartphone designed to deliver smooth performance, stylish looks, and reliable battery life at an affordable price point.It comes with a 6.7-inch HD+ IPS LCD display offering a 120Hz refresh rate, 700 nits brightness, and a punch-hole design with Gorilla Glass protection. The slim bezels ensure an immersive viewing experience, making it great for videos, gaming, and everyday use.Under the hood, the Hot 60i is powered by the MediaTek Helio G81 Ultimate chipset with an Octa-core CPU (2x Cortex-A75 + 6x Cortex-A55) and ARM G52 MC2 GPU, delivering smooth multitasking and gaming. It runs on Android v15 with XOS 15.1 UI, paired with 6GB LPDDR4X RAM and 128GB storage, expandable up to 1TB via microSD.For photography, the device features a 50MP dual rear camera setup (f/1.8 wide + 0.08MP auxiliary lens) with HDR, digital zoom, and dual-LED flash. It supports 2K video recording at 30fps. On the front, it has an 8MP selfie camera (f/2.0) capable of HD video recording.In terms of …
+
+---
+
+
+## iPhone 14 128GB Global Variant  
+**DocID:** `daraz_345303976`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Apple  
+**URL:** https://www.daraz.com.bd/products/iphone-14-128gb-i345303976.html
+**Price:** ৳ 77,499  
+**Rating:** 0.0/5
+
+**Description:**
+NO RETURN applicable if the seal is broken Display Size 6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio) Type Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak) Resolution 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density) Memory Internal 128GB 6GB RAM Card slot No Processor Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard) GPU Apple GPU (4-core graphics) Chipset Apple A15 Bionic (5 nm) Main Camera Dual 12 MP, f/1.6, 26mm (wide), 1.7µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.4, 120˚, 13mm (ultrawide) Video 4K@24/30/60fps, 1080p@30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec. Features Dual-LED dual-tone flash, HDR (photo/panorama) Selfie Camera Video 4K@24/25/30/60fps, 1080p@30/60/120fps, gyro-EIS Single 12 MP, f/2.2, 23mm (wide), 1/3.6" SL 3D, (depth/biometrics sensor) Features HDR Operating System iOS 16, upgradable to iOS 17.2 Sensors Face ID, accelerometer, gyro, proximity, compass, barometer Ultra Wideband (UWB) support Emergency SOS via satellite (SMS sending/receiving) Nano-SIM and eSIM - International Dual eSIM with multiple numbers - USA Dual SIM (Nano-SIM, dual stand-by) - China IP68 dust/water resistant (up to 6m for 30 min) Apple Pay (Visa, MasterCard, AMEX certified) Dimensions 146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in) Build Glass front (Corning-made glass), glass back (Corning-made glass), aluminum frame NO RETURN applicable if the seal is brokenDisplay Size 6.1 inches, 90.2 cm2 (~86.0% screen-t …
+
+---
+
+
+## Honor 200 12/512 - International  
+**DocID:** `daraz_473564467`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Honor  
+**URL:** https://www.daraz.com.bd/products/honor-200-12512-i473564467.html
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken* 10-day seller replacement guarantee* No returns will be applicable in case of change of mind.* In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable* 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordeHonor 200 Full SpecificationsNETWORKTechnologyGSM / CDMA / HSPA / CDMA2000 / LTE / 5G2G bandsGSM 850 / 900 / 1800 / 1900 – SIM 1 & SIM 2CDMA 8003G bandsHSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100CDMA2000 1x4G bandsLTE5G bandsSA/NSASpeedHSPA, LTE, 5GLAUNCHAnnounced2024, May 27StatusAvailableBODYDimensions161.5 x 74.6 x 7.7 mm (6.36 x 2.94 x 0.30 in)Weight187 g (6.60 oz)SIMDual SIM (Nano-SIM, dual stand-by)DISPLAYTypeOLED, 1B colors, 120Hz, HDR, 4000 nits (peak)Size6.7 inches, 108.5 cm2 (~90.0% screen-to-body ratio)Resolution1200 x 2664 pixels (~436 ppi density)PLATFORMOSAndroid 14, MagicOS 8ChipsetQualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)CPUOcta-core (1×2.63 GHz Cortex-A715 & 4×2.4 GHz Cortex-A715 & 3×1.8 GHz Cortex-A510)GPUAdreno 720MEMORYCard slotNoInternal256GB 8GB RAM, 256GB 12GB RAM, 256GB 16GB RAM, 512GB 12GB RAM, 512GB 16GB RAMMAIN CAMERATriple50 MP, f/2.0, (wide), 1/1.56″, 1.0µm, PDAF, OIS 50 MP, f/2.4, (telephoto), PDAF, OIS, 2.5x optical zoom 12 MP, f/2.2, 112˚ (ultrawide), AFFeaturesLED flash, HDR, panoramaVideo4K@30fps, 10 …
+
+---
+
+
+## poco x7 - indian 8-128/256  
+**DocID:** `daraz_523727402`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Xiaomi  
+**URL:** https://www.daraz.com.bd/products/-i523727402.html
+**Price:** ৳ 28,599  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Xiaomi Poco X7 SpecificationsNETWORKTechnologyGSM / HSPA / LTE / 5G2G bandsGSM 850 / 900 / 1800 / 19003G bandsHSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 21004G bands1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 28, 38, 40, 41, 42, 48, 665G bands1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41, 66, 77, 78 SA/NSA/Sub6SpeedHSPA, LTE, 5GLAUNCHAnnounced2025, January 09StatusAvailableBODYDimensions162.3 x 74.4 x 8.4 mm or 8.6 mmWeight185.5 g or 190 g (6.70 oz)BuildGlass front (Gorilla Glass Victus 2), plastic back or silicone polymer back (eco leather)SIMNano-SIM + Nano-SIMIP68 dust/water resistant (up to 1.5m for 30 min) IP69 (market/region dependent)DISPLAYTypeAMOLED, 68B colors, 120Hz, HDR10+, Dolby Vision, 1200 nits (HBM), 3000 nits (peak)Size6.67 inches, 107.4 cm2 (~88.9% screen-to-body ratio)Resolution1220 x 2712 pixels, 20:9 ratio (~446 ppi density)ProtectionCorning Gorilla Glass Victus 2Always-on displayPLATFORMOSAndroid 14, HyperOSChipsetMediatek Dimensity 7300 Ultra (4 nm)CPUOcta-core (4×2.5 GHz Cortex-A78 & 4×2.0 GHz Cortex-A55)GPUMali-G615 MC2MEMORYCard …
+
+---
+
+
+## Samsung Galaxy M36 5G &gt; 6-128  
+**DocID:** `daraz_543292518`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Samsung  
+**URL:** https://www.daraz.com.bd/products/samsung-galaxy-m36-5g-6-128-i543292518.html
+**Price:** ৳ 23,699  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Samsung Galaxy M36 5G Ensure monster level productivity and stay powered up with Samsung’s Galaxy M36 5G smartphone. Comes with superior new design which looks spectacular at first glance, and not to mention it’s three iconic colors which feels fashionable. Besides its amazing design, the phone feels awesome from the inside too. As you get a Super AMOLED panel on the large display, which makes your content viewing much more immersive than regular devices. Besides to give you quicker multitasking, there’s octa-core processing power to make sure you run apps hassle-free. There’s also three useful camera lenses on the rear, which gives you stunning photos for outdoor photography. Moreover, if you love taking high-res videos, you get 4K recording supported. And to improve your every usage, there’s Samsung’s One UI, which gives you improved multitasking like voice focus, quick share and more. Above all, to play games and watch movies for longer hours there’s a large battery inside with 25W fast charging. Samsung Galaxy M36 5G FeaturesSlimme …
+
+---
+
+
+## Honor 200 Lite 5G (8+256GB)  
+**DocID:** `daraz_457700847`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Honor  
+**URL:** https://www.daraz.com.bd/products/honor-200-lite-5g-8-256gb-i457700847.html
+**Price:** ৳ 39,999  
+**Rating:** 0.0/5
+
+**Description:**
+Brand: Honor ▪︎ NO RETURN applicable if the seal is broken▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 8GBROM: 256GB▪︎ Display: 6.7 inches, 108.0 cm2 (~89.9% screen-to-body ratio)▪︎ MAIN CAMERADual108 MP, f/1.8, (wide), PDAF5 MP, f/2.2, (ultrawide)2 MP, f/2.4, (macro)▪︎ Charging & Battery: Li-Po 5000 mAh▪︎ OS :Android 13, Realme UI T▪︎ SensorsFingerprint (side-mounted), accelerometer, proximity, compass▪︎ Dimensions161.1 x 74.6 x 6.8 mm (6.34 x 2.94 x 0.27 in)▪︎ Brand: Honor ▪︎ NO RETURN applicable if the seal is broken▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM:RAM: 8GBROM: 256GB▪︎ Display: 6.7 inches, 108.0 cm2 (~89.9% screen-to-body ratio)▪︎ MAIN CAMERADual108 MP, f/1.8, (wide), PDAF5 MP, f/2.2, (ultrawide)2 MP, f/2.4, (macro)▪︎ Charging & Battery …
+
+---
+
+
+## iQOO Z10 8/256  
+**DocID:** `daraz_530002580`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** IQOO  
+**URL:** https://www.daraz.com.bd/products/iqoo-z10-8256-i530002580.html
+**Price:** ৳ 34,199  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.iQOO Z10 Full SpecificationsBODYDimensions163.4 x 76.4 x 7.9 mm (6.43 x 3.01 x 0.31 in)Weight199 g (7.02 oz)ColorsStellar Black, Glacier SilverBody Material–SIMsNano-SIM + Nano-SIMWater & DustSplash resistantMIL-STD-810H compliant** does not guarantee ruggedness or use in extreme conditionsDISPLAYSize6.77 inchesTypeAMOLED, 120Hz, 5000 nits (peak)Resolutions1080 x 2392 pixels, 20:9 ratioPPI388 ppi densityMulti touchYesProtection–NETWORKS2GGSM 850 / 900 / 1800 / 1900 – SIM 1 & SIM 23GHSDPA 850 / 900 / 21004G1, 3, 5, 8, 28, 38, 40, 415G1, 3, 5, 8, 28, 38, 40, 41, 77, 78 SA/NSASpeedHSPA, LTE-A, 5GGPRSYesEDGEYesCAMERARear Dual50 MP, f/1.8, (wide), 1/1.95″, 0.8µm, PDAF, OIS2 MP, f/2.4, (depth)FeaturesLED flash, HDR, panoramaVideos4K@30fps, 1080p@30/60fps, gyro-EISFront8 MP, f/2.0, (wide)1080p@30fpsHARDWAREOSAndroid 15, up to 2 major Android upgrades, Funtouch 15ChipsetQualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)CPUOcta-core (1×2.5 GHz Cortex-A720 & 3×2.4 GHz Cortex-A720 & 4×1.8 GHz Cortex-A520)GPUAdreno 710 (940 MHz)RAM8GB / 12GBStorage128GB / …
+
+---
+
+
+## Redmi 15C - 8/256 - Official  
+**DocID:** `daraz_546736077`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Redmi  
+**URL:** https://www.daraz.com.bd/products/redmi-15c-8256-i546736077.html
+**Price:** ৳ 17,499  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Redmi 15C SpecificationsCategorySpecificationGeneralBrandRedmiModelRedmi 15CNetworkGSM / HSPA / LTESIMNano-SIM + Nano-SIMDisplayDisplay TypeIPS LCD, 120HzDisplay Size6.9 inches (~84.3% screen-to-body ratio)Display Resolution720 × 1600 pixels, 20:9 ratio (~254 ppi density)Display FeaturesLarge display with smooth 120Hz refresh rateProtectionCorning Gorilla Glass 3PlatformOSAndroid 15, HyperOS 2ChipsetMediatek Helio G81 Ultra (12 nm)CPUOcta-core (2×2.0 GHz Cortex-A75 & 6×1.8 GHz Cortex-A55)GPUMali-G52 MC2MemoryVariants128GB + 4GB RAM / 256GB + 4GB RAMExpandable StoragemicroSDXC supportedCameraMain Camera50 MP (wide)Selfie Camera8 MP (wide)Battery & ChargingBattery Capacity6000 mAhCharging33W wiredSensorsFingerprintSide-mountedOther SensorsAccelerometer, Compass, Virtual Proximity SensingRedmi 15C – OfficialThe Redmi 15C combines a large immersive display, long-lasting battery, and smooth performance at an affordable price. Built for everyday use, it comes with a massive 6.9-inch IPS LCD display with a 120Hz refresh rate, ensuring fluid s …
+
+---
+
+
+## Walton ZENX 1 8GB Rapid RAM and 64GB ROM  
+**DocID:** `daraz_526823076`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Walton  
+**URL:** https://www.daraz.com.bd/products/walton-zenx-1-8gb-rapid-ram-and-64gb-rom-i526823076.html
+**Price:** ৳ 9,998  
+**Rating:** 0.0/5
+
+**Description:**
+Display: 6.6” V-Notch Display | 180Hz Touch Sampling Rate | 90Hz Refresh Rate Processor: Unisoc Tiger T606 SoC Memory: 8GB RAM Rear Camera: 52MP UHD AI Dual Cameras Audio: Dual Stereo Speakers | 200% Sound Level Battery: 5000mAh Security: Side-Mounted Fingerprint Scanner Features: Dual View Video Mode Operating System: Android™ 14 with R OS No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Display: 6.6” V-Notch Display | 180Hz Touch Sampling Rate | 90Hz Refresh RateProcessor: Unisoc Tiger …
+
+---
+
+
+## Vivo V60 &gt; 12--256  
+**DocID:** `daraz_545942196`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Vivo  
+**URL:** https://www.daraz.com.bd/products/vivo-v60-12-256-i545942196.html
+**Price:** ৳ 49,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Vivo V60 The Vivo V60 is now officially available in Bangladesh with three variants: 128GB / 256GB / 512GB storage and 8GB / 12GB / 16GB RAM.This premium smartphone comes with a 6500mAh powerful battery supported by 90W fast charging, runs on Android 15, and is powered by the Qualcomm Snapdragon 7 Gen 4 (4 nm) chipset.Vivo V60 HighlightsLarge Display: 6.77-inch AMOLED panel with sharp visuals.Performance: Equipped with Snapdragon 7 Gen 4 for smooth multitasking and gaming.Camera Setup: 50MP triple rear camera + 50MP front camera for detailed photography.Battery Life: Massive 6500mAh battery with 90W charging – perfect for heavy users.Connectivity: 5G supported, dual SIM, expandable storage.Reasons to BuyHigh-capacity battery with super-fast chargingLatest Android 15 OS with powerful Snapdragon processorHuge RAM & storage options, suitable for gamers & power usersPremium AMOLED display with smooth visuals5G connectivity for faster internet experienceOur VerdictThe Vivo V60 is one of the best smartphones under 70,000 Taka in Bangladesh. …
+
+---
+
+
+## Galaxy S25 Ultra  
+**DocID:** `daraz_523433248`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Samsung  
+**URL:** https://www.daraz.com.bd/products/galaxy-ultra-i523433248.html
+**Price:** ৳ 133,999  
+**Rating:** 0.0/5
+
+**Description:**
+No return is applicable if the seal is broken. 10-day seller replacement guarantee. No returns will be applicable in case of change of mind. In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. BrandSamsungModelGalaxy S25 UltraNetworkGSM / CDMA / HSPA / EVDO / LTE / 5GDimensions162.8 x 77.6 x 8.2 mmWeight218 gSIMNano-SIM + eSIM | Dual Nano-SIMDisplay TypeDynamic LTPO AMOLED 2XDisplay Size6.9 inchesDisplay Resolution1440 x 3120 pixelsOSAndroid 15, One UI 7ChipsetQualcomm Snapdragon 8 EliteCPUOcta-coreMemory12GB RAM | 256GB/512GB/1TB storageMain CameraQuad: 200 MP (wide), 10 MP (telephoto), 50 MP (periscope telephoto), 50 MP (ultra-wide) | LED flash, auto-HDR, panorama | Laser AF | 8K@24/30fps, 4K@30/60fps, 1080p, 10-bit HDR, HDR10+, stereo sound rec., gyro-EISSelfie Camera12 MP | HDR, HDR10+ | 4K@30/60fps, 1080p@30fpsSoundStereo speakers, 32-bit/384kHz audio, tuned by AKGBattery InfoLi-Ion 5000 mAh | Non-removable | 45W wired | 25W wireless (Qi2) | 4.5W Reverse WirelessSensorsFingerprint (under display, ultrasonic)DescriptionSamsung Galaxy S25 Ultra 5GSamsung Galaxy S25 series is set to introduce a range of innovative AI features, enhancing user experience with smarter interactions. Powered by the Qualcomm Snapdragon 8 Elite c …
+
+---
+
+
+## Honor 400 Pro (12GB+512GB RAM ROM) Official  
+**DocID:** `daraz_542624393`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/honor-400-pro-12gb-512gb-ram-rom-i542624393.html
+**Price:** ৳ 79,999  
+**Rating:** 0.0/5
+
+**Description:**
+Honor 400 Pro Price in Bangladesh August 2025The Honor 400 Pro is now available in variants (256/512GB 12GB RAM ROM/RAM). Its price is 79999 Taka in Bangladesh. The 400 Pro has a 5300mAh battery with 100W fast charging. This device runs on Android 15 and is powered by the Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm) chipset.Key SpecificationsStorage512GB RAM12GB Main Camera200+50+12MP Front Camera50+2MP Display6.7''1280x2800p BatteryLi-Ion 5300mAh On-screen 100W First Charging Waterproof, IP68/IP69 Wi-Fi 7 (5G) Gorilla Glass Bluetooth 5.4 Honor 400 Pro Full SpecificationsGeneralBrandHonorModel400 ProDevice TypeSmartphoneRelease Date23 May 2025Status AvailableHardware & SoftwareOperating SystemAndroidOS Versionv15User InterfaceMagicOS 9ChipsetQualcomm SM8650-AB Snapdragon 8 Gen 3CPUOcta-core (1x3.0 GHz Cortex-X4 & 5x2.95 GHz Cortex-A720 & 2x2.0 GHz Cortex-A520)CPU Cores8 CoresArchitecture64 bitFabrication4 nmGPUAdreno 750DisplayDisplay TypeAMOLEDScreen Size6.7 inches (17.02 cm)Resolution1280x2800 px (FHD+)Aspect Ratio19.5:9Pixel Density460 ppiScreen to Body Ratio89.5%Screen ProtectionMohs level 4Bezel-less DisplayYes with punch-hole displayTouch ScreenCapacitive Touchscreen, Multi-touchBrightness5000 nitsHDR 10 / HDR + supportHDRRefresh Rate120 HzNotchPunch-holeCamerasPrimary CameraCamera SetupTripleResolution200 MP, f/1.9, Wide Angle, Primary Camera, 50 MP, f/2.4, Telephoto Camera, 12 MP, f/2.2, Ultra-Wide Angle CameraAutofocus YesOISYesFlash LED FlashImage Resolution16000 x …
+
+---
+
+
+## iQOO Z10x [6/128GB]  
+**DocID:** `daraz_529934961`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** IQOO  
+**URL:** https://www.daraz.com.bd/products/iqoo-z10x-6128gb-i529934961.html
+**Price:** ৳ 21,400  
+**Rating:** 0.0/5
+
+**Description:**
+Physical SpecificationBuild: Glass front, plastic back, plastic frame Weight: 204g (7.20 oz) Dimensions: 165.7 x 76.3 x 8.1 mm (6.52 x 3.00 x 0.32 in) NetworkSIM: Nano-SIM + Nano-SIM Speed: HSPA, LTE, 5G 2G Bands: GSM 850 / 900 / 1800 / 1900 3G Bands: HSDPA 850 / 900 / 2100 4G Bands: 1, 3, 5, 8, 28, 38, 40, 41 5G Bands: 1, 3, 5, 8, 28, 40, 77, 78 SA/NSA DisplaySize: 6.72 inches, 108.8 cm² (~86.0% screen-to-body ratio) Type: IPS LCD, 120Hz, 1050 nits (HBM) Resolution: 1080 x 2408 pixels, 20:9 ratio (~393 ppi density) ProcessorCPU: Octa-core (4×2.5 GHz Cortex-A78 & 4×2.0 GHz Cortex-A55) GPU: Mali-G615 MC2 Chipset: MediaTek Dimensity 7300 (4 nm) MemoryInternal Storage & RAM:128GB 6GB RAM 128GB 8GB RAM 256GB 8GB RAM Card Slot: No Main CameraDual Camera Setup:50 MP, f/1.8 (wide), PDAF 2 MP, f/2.4 (depth) Video: 4K, 1080p, gyro-EIS Features: Ring-LED flash, panorama Selfie CameraSingle: 8 MP (wide) Video: 1080p@30fps Operating SystemOS: Android 15 Update Support: Up to 2 major Android upgrades UI: Funtouch 15 ConnectivityNFC: No USB: USB Type-C 2.0, OTG Radio: No Wi-Fi: Wi-Fi 802.11 a/b/g/n/ac/6, dual-band Bluetooth: 5.4, A2DP, LE 3.5mm Jack: Unspecified FeaturesSensors: Fingerprint (side-mounted), accelerometer, gyro, proximity, compass Loudspeaker: Yes BatteryType: Li-Ion 6500 mAh Charging: 44W wired, We aim to provide accurate info from trusted sources like the manufacturer's website. If you find any mistakes, please let us know. **
+
+---
+
+
+## Techo POVA Curve 5G 8-256 OFFICIAL  
+**DocID:** `daraz_557183169`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Tecno  
+**URL:** https://www.daraz.com.bd/products/techo-pova-5g-8-256-i557183169.html
+**Price:** ৳ 32,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Smartphone Full SpecificationsCategoryDetailsNetworkTechnology: GSM / HSPA / LTE / 5GLaunchAnnounced: 2025, May 29 Status: Available. Released 2025, June 05BodyDimensions: 164.3 x 74.6 x 7.5 mm (6.47 x 2.94 x 0.30 in) Weight: 188.5 g (6.67 oz) Build: Glass front (Gorilla Glass 7i), plastic frame, plastic back SIM: Nano-SIM + Nano-SIM IP64 dust tight & water resistant (splashes)DisplayType: AMOLED, 144Hz, 2304Hz PWM, 1300 nits (peak) Size: 6.78 inches, 109.9 cm² (~89.7% screen-to-body ratio) Resolution: 1080 x 2436 pixels (~393 ppi density) Protection: Corning Gorilla Glass 7iPlatformOS: Android 15 (planned upgrade to Android 16), HIOS 15 Chipset: Mediatek Dimensity 7300 Ultimate (4 nm) CPU: Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55) GPU: Mali-G615 MC2MemoryCard slot: No Internal: 128GB 6GB RAM, 128GB 8GB RAM Storage Type: UFS 2.2Main CameraDual: 64 MP, f/1.8, (wide), 1/1.73", 0.8µm, PDAF + 2 MP, f/2.4 (depth) Features: LED flash, HDR, panorama Video: 4K@30fps, 1080p@30fpsSelfie CameraSingle: 13 MP Video: 4K@30fps, 1080p@30 …
+
+---
+
+
+## iphone 15 Pro Max 256GB/512GB/1TB (Canada - Non Active) Smartphone  
+**DocID:** `daraz_323985966`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** iphone  
+**URL:** https://www.daraz.com.bd/products/iphone-15-pro-max-256gb512gb1tb-canada-non-active-smartphone-i323985966.html
+**Price:** ৳ 189,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken One-year service warranty is available (as per standard procedure) 7-day seller replacement guarantee No returns will be applicable in case of change of mind. In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable Before ordering if there is any confusion please contact the seller through chat. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the price of the product is volatile, the cost of any product may change at any moment aligned with the market price. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Brand: Apple Model: iPhone 15 Pro Display Size: 6.1 inches Display Type: LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000–2000 nits Display Resolution: 1179 x 2556 pixels Chipset: Apple A17 Pro (3 nm) Memory: 128GB | 256GB | 512GB Main Camera: 48 MP (wide) | 12 MP (periscope telephoto) | 12 MP (ultrawide) | TOF 3D LiDAR scanner (depth) | Dual-LED dual-tone flash, HDR (photo/panorama) | 4K@24/25/30/60fps 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, Cinematic mode (4K@24/30 fps), 3D (spatial) Selfie Camera: 12 MP (wide) | SL 3D, (depth/biometrics sensor) | HDR, Cinematic mode (4K@24/30fps) | 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS Batte …
+
+---
+
+
+## Iphone 14  
+**DocID:** `daraz_466834240`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Apple  
+**URL:** https://www.daraz.com.bd/products/iphone-14-i466834240.html
+**Price:** ৳ 76,499  
+**Rating:** 0.0/5
+
+**Description:**
+* NO return is applicable if the seal is broken* 10-day seller replacement guarantee* No returns will be applicable in case of change of mind.* In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable* 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Apple iPhone 14 The Apple iPhone 14 is a futuristic and visionary phone with an ingenious design and improved features. It features an innovative 12-megapixel camera with many astonishing features that allow you to capture more crisp and detailed photos. The iPhone 14 also has an exclusive safety feature that can help save lives. To run all of these vital features, it has a powerful chip that makes it extremely powerful and smooth. iPhone 14 Features Remarkable cutting-edge design with endurable aluminum bezel and ceramic shield Super Retina XDR OLED Display shows everything with supreme clarity and sharpnessStunning dual camera with plentiful features results mind altering photographs An exclusive Action Mode feature is added for super smooth and steady videosApple Bionic chipset with Apple GPU for uncompromising performance A durable battery with prime optimization allows you to explore a full day-longSOS via satellite accompanies you with your emergency situation Certified Dust/Water Resistant for use it boundless in any weather c …
+
+---
+
+
+## Vivo Y21d [8/128GB] - Official  
+**DocID:** `daraz_552994354`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Vivo  
+**URL:** https://www.daraz.com.bd/products/vivo-y21d-8128gb-i552994354.html
+**Price:** ৳ 22,200  
+**Rating:** 0.0/5
+
+**Description:**
+Physical SpecificationWeight: 209 g Dimensions: 166.14 × 77.01 × 8.39 mm NetworkSIM: Dual 4G 2G bands: Supported 3G bands: Supported 4G bands: Supported DisplaySize: 6.68 inches (16.96 cm) Type: IPS LCD Resolution: 1608 × 720 ProcessorChipset: Unisoc T7225 MemoryDetails not specified Main CameraDual: 50 MP (f/1.8) + 0.08 MP (f/3.0) Video: 1080p Selfie CameraSingle: 5 MP (f/2.2) Video: 1080p Operating SystemOS: Funtouch OS 15 ConnectivityNFC: Not supported USB: Type-C (USB 2.0) Radio: Supported Wi-Fi: 2.4 GHz / 5 GHz Bluetooth: 5.2 3.5 mm Jack: Yes BatteryCapacity: 6500 mAh Charging: 44 W fast charging AudioLoudspeaker: Yes, We aim to provide accurate info from trusted sources like the manufacturer's website. If you find any mistakes, please let us know.
+
+---
+
+
+## Tecno Spark 40pro+(8+256gb) ডিসপ্লে: 6.78'' AMOLED,120hz, 33w ফাস্ট চার্জিং সহ 5200mah  
+**DocID:** `daraz_547911689`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Tecno  
+**URL:** https://www.daraz.com.bd/products/tecno-spark-40pro-8-256gb-678-amoled-120hz-33w-5200mah-i547911689.html
+**Price:** ৳ 23,499  
+**Rating:** 0.0/5
+
+**Description:**
+▪︎ Brand :Tecno▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any product may change at any moment due to technical reasons."▪︎ Storage & RAM : 8GBROM : 256GB▪︎ Display : 6.78 inches, 111.0 cm2 (~89.3% screen-to-body ratio)▪︎ Main Camera :50 MP, f/1.6, (wide), 1/2.8", 0.64µm, PDAFAuxiliary lens▪︎ Selfie Camera :13 MP, f/2.2, (wide), 1/3.1", 1.12µm▪︎ Charging & Battery :5200 mAhCharging45W wired, 100% in 55 min30W wireless5W reverse wireless10W reverse wiredBypass charging▪︎ OS :Android 15, up to 3 major Android upgrades, HIOS 15▪︎ Feature :Fingerprint (under display, optical), accelerometer, gyro, proximity, compass Circle to Search▪︎ Dimension :163.9 x 75.8 x 6.5 mm (6.45 x 2.98 x 0.26 in)▪︎ Brand :Tecno▪︎ NO RETURN applicable if the seal is broken▪︎ 1 - year brand warranty available▪︎ No returns will be applicable in case of a later change of mind.▪︎ In Accidental Case Mobile (Broken Display, Dent, Burn, Shocked, Water Damage or Manual Update or Root) Void Warranty.▪︎ Before ordering, it is requested to know about the stock and delivery of the product.▪︎ As the price of the product is volatile, the cost of any pro …
+
+---
+
+
+## Tecno Spark 40 [6/128GB] - Official  
+**DocID:** `daraz_539460562`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Tecno  
+**URL:** https://www.daraz.com.bd/products/tecno-spark-40-6128gb-i539460562.html
+**Price:** ৳ 14,350  
+**Rating:** 0.0/5
+
+**Description:**
+Dimensions: 165.6 x 77 x 7.7 mm (6.52 x 3.03 x 0.30 in) SIM: Nano-SIM + Nano-SIM Network Speed: HSPA, LTE 2G Bands: GSM 850 / 900 / 1800 / 1900 3G Bands: HSDPA 900 / 2100 4G Bands: LTE DisplaySize: 6.67 inches (~84.2% screen-to-body ratio) Type: IPS LCD, 120Hz Resolution: 720 x 1600 pixels (20:9 ratio, ~263 ppi) ProcessorCPU: Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55) GPU: Mali-G52 MC2 Chipset: Mediatek Helio G81 (12 nm) Card Slot: microSDXC Main CameraSingle: 50 MP (wide), PDAF + auxiliary lens Video: 1440p@30fps, 1080p@30fps Features: Dual-LED flash Selfie CameraSingle: 8 MP (wide) Video: 1080p@30fps Features: Dual-LED flash Operating SystemOS: Android 15, HIOS 15 ConnectivityNFC: No USB: USB Type-C Radio: FM Radio Wi-Fi: Yes Bluetooth: Yes 3.5mm Jack: Yes FeaturesSensors: Side-mounted fingerprint, unspecified sensors BatteryType: 5200 mAh Charging: 45W wired, 100% in 55 minutes
+
+---
+
+
+## Vivo Y29 5G  
+**DocID:** `daraz_526281714`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Vivo  
+**URL:** https://www.daraz.com.bd/products/vivo-y29-5g-i526281714.html
+**Price:** ৳ 20,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.NetworkTechnologyGSM / HSPA / LTE / 5GLaunchAnnounced2024, December 24StatusAvailable. Released 2024, December 24BodyDimensions165.8 x 76.1 x 8.1 mm (6.53 x 3.00 x 0.32 in)Weight198 g (6.98 oz)BuildGlass front, plastic back, plastic frameSIMNano-SIM + Nano-SIM IP64 dust tight and water resistant (water splashes)MIL-STD-810H compliant** does not guarantee ruggedness or use in extreme conditionsDisplayTypeIPS LCD, 120Hz, 1000 nits (HBM)Size6.68 inches, 107.4 cm2 (~85.1% screen-to-body ratio)Resolution720 x 1608 pixels, 20:9 ratio (~264 ppi density)PlatformOSAndroid 14, Funtouch 14ChipsetMediatek Dimensity 6300 (6 nm)CPUOcta-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)GPUMali-G57 MC2MemoryCard slotmicroSDXC (uses shared SIM slot)Internal128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM eMMC 5.1Main CameraSingle50 MP, f/1.8, (wide), 1/1.95", 0.8µm, PDAFAuxiliary lensFeaturesRing-LED flash, panoramaVideo1080p@30fpsSelfie cameraSingle8 MP, f/2.0, (wide)Video1080p@30fpsSoundLoudspeakerYes, with dual speakers3.5mm jackYesCommsWL …
+
+---
+
+
+## X200 FE 12/512 Global  
+**DocID:** `daraz_540896058`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Vivo  
+**URL:** https://www.daraz.com.bd/products/x200-fe-12512-i540896058.html
+**Price:** ৳ 87,199  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.NetworkTechnologyGSM / HSPA / LTE / 5GLaunchAnnounced2025, June 23StatusAvailable. Released 2025, July 05BodyDimensions150.8 x 71.8 x 8 mm (5.94 x 2.83 x 0.31 in)Weight186 g (6.56 oz)BuildGlass front, aluminum frame, glass backSIMNano-SIM + Nano-SIM + eSIM (max 2 at a time)Nano-SIM + Nano-SIM IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)DisplayTypeLTPO AMOLED, 1B colors, 120Hz, 2160Hz PWM, HDR10+, 4500 / 5000 nits (peak)Size6.31 inches, 97.6 cm2 (~90.2% screen-to-body ratio)Resolution1216 x 2640 pixels, 19.5:9 ratio (~461 ppi density)ProtectionSchott Xensation Core or Shield Glass, Mohs level 5PlatformOSAndroid 15, up to 4 major Android upgrades, Funtouch 15ChipsetMediatek Dimensity 9300+ (4 nm)CPUOcta-core (1x3.4 GHz Cortex-X4 & 3x2.85 GHz Cortex-X4 & 4x2.0 GHz Cortex-A720)GPUImmortalis-G720 MC12MemoryCard slotNoInternal256GB 12GB RAM, 512GB 12GB RAM, 512GB 16GB RAM UFS 3.1Main CameraTriple50 MP, f/1.9, 23mm (wide), 1/1.56", 1.0µm, PDAF50 MP, f/2.7, 70mm (periscope telephoto), 1/ …
+
+---
+
+
+## Samsung Galaxy Z Fold7 &gt; 12-256/512  
+**DocID:** `daraz_543541371`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Samsung  
+**URL:** https://www.daraz.com.bd/products/samsung-galaxy-z-7-12-256512-i543541371.html
+**Price:** ৳ 192,599  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.Samsung Galaxy Z Fold7 Get your movie moments come alive and dive into gaming instantly with Samsung’s Galaxy Z Fold7. This fold is not any normal device, it unfolds into a creative canvas and while folded it becomes a pocket-friendly smartphone. And this folding and unfolding is protected with the world's greatest Armor FlexHinge design which makes it thinner than before. Besides its incredible built quality, you also get a stunning large display when unfolded to view your movies immersively. And when folded, it’s ready for your everyday productivity in one compact package. Talking about productivity, there's the Snapdragon's Elite chipset inside, which gives you octa-core processing for handling your everyday tasks and gaming activity smoothly. Moreover, you can also capture gorgeous photos and videos from its rear triple camera lens. When you require better photography edits, there’s Galaxy AI, ready for all your magic edits & customization. All that awesome power can be enjoyed longer with a large battery inside, which gives you ho …
+
+---
+
+
+## Infinix Note 50 Pro+ 5G 12GB/256GB (Official)  
+**DocID:** `daraz_541512642`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Infinix  
+**URL:** https://www.daraz.com.bd/products/infinix-note-50-pro-5g-12gb256gb-i541512642.html
+**Price:** ৳ 54,499  
+**Rating:** 0.0/5
+
+**Description:**
+No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. SpecificationPhysical SpecificationBuildGlass front, aluminum frame, glass backWeight209 g (7.37 oz)Dimensions163.4 x 74.5 x 8 mm (6.43 x 2.93 x 0.31 in)NetworkSIMNano-SIM + Nano-SIMSpeedHSPA, LTE, 5G2G bandsGSM 850 / 900 / 1800 / 19003G bandsHSDPA 850 / 900 / 1700(AWS) / 1900 / 21004G bands1, 2, 3, 4, 5, 7, 8, 12, 17, 20, 28, 38, 40, 41, 42, 665G bands1, 3, 5, 7, 8, 12, 20, 28, 38, 40, 41, 66, 71, 77, 78 SA/NSA/Sub6DisplaySize6.78 inches, …
+
+---
+
+
+## Realme Note 60 4GB Ram and 64GB/128GB Rom (Official)  
+**DocID:** `daraz_435087907`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Realme  
+**URL:** https://www.daraz.com.bd/products/realme-note-60-4gb-ram-and-64gb128gb-rom-official-i435087907.html
+**Price:** ৳ 12,199  
+**Rating:** 0.0/5
+
+**Description:**
+Brand: Realme Warranty Information: 2 Years Official Warranty Additional Features: ArmorShell Protection | TÜV Rheinland High Reliability Certification | AI Boost Engine | 90Hz Eye Comfort Display | 7.84mm comfortable grip | Rainwater Smart Touch | IP64 OS: realme UI based on Android 14 Chipset: Unisoc T612 Processor: Octa-core (up to 1.8GHz Clock Speed) RAM: 4GB (Expandable up to 8GB) ROM: 64GB SIM Card Slot: Dual Nano SIM + microSD Network: 2G/3G/4G Display: 6.74” LCD Display with Mini Capsule 2.0 (Interact with your notifications and functionality directly through front display hole) Display Features: Resolution: 1600*720 | Refresh rate: 90Hz | Sampling rate: 180Hz (Max), 120Hz (Default) | Brightness: 450nits (Typ), 560nits (HBM) | Dimming mode: DC Rear Camera: 32MP Super Clear Camera Mechanism: f/1.8 | 4-in-1 output 1.4 μm | AF | 1080P video taking Photography: Rear portrait mode | Night mode Front Camera: 5MP with Flicker Sensor Photography: Portrait Battery: 5000mAh Battery | 10W Fast Charge | USB Type-C Connectivity: Wi-Fi 5 | Bluetooth 5.0 | 3.5mm Jack No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regard …
+
+---
+
+
+## One Plus 13T . 12/256 China  
+**DocID:** `daraz_531296518`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** OnePlus  
+**URL:** https://www.daraz.com.bd/products/one-plus-13t-12256-i531296518.html
+**Price:** ৳ 64,999  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.BrandOnePlusProcessorSnapdragon 8 Elite (3nm), Adreno 830 GPUSpeakerStereo speakers, no 3.5mm jackNetworkGSM / HSPA / LTE / 5GDimensions150.8 x 71.7 x 8.2 mmWeight185 gBuildGlass front, aluminum alloy frame, IP65 dust/water resistantSIMDual Nano-SIM + eSIM (any 2 active)RamUp to 16GB RAMCamera50MP (wide) + 50MP (telephoto, 2x zoom), OIS, Dolby Vision video | Front Camera: 16MP, HDR, panoramaConnectivityWi-Fi 7, Bluetooth 5.4, NFC, USB-C 2.0, IR blasterDisplay6.32" LTPO AMOLED, 120Hz, HDR10+, Dolby Vision, 1216 x 2640 px (~460 ppi)OSAndroid 15, OxygenOS 15StorageUp to 1TB UFS 4.0 storageSensorsIn-display fingerprint, gyro, accelerometer, compass, Circle to SearchBattery Life6260mAh, 80W wired, 5W reverse wiredDescription OnePlus 13T 5GGet ready to experience flagship performance with the OnePlus 13T 5G, a phone designed to push boundaries. Its 6.32-inch LTPO AMOLED display offers vibrant colors, smooth 120Hz refresh rate, and HDR10+ support, which is perfect for entertainment lovers. Powered by the cutting-edge Snapdragon 8 Elite chipse …
+
+---
+
+
+## Walton ZENX 1T 8GB Rapid RAM and 128GB ROM  
+**DocID:** `daraz_526801571`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Walton  
+**URL:** https://www.daraz.com.bd/products/walton-zenx-1t-8gb-rapid-ram-and-128gb-rom-i526801571.html
+**Price:** ৳ 11,495  
+**Rating:** 0.0/5
+
+**Description:**
+Display: 6.6” V-Notch Display | 180Hz Touch Sampling Rate | 90Hz Refresh Rate Processor: Unisoc Tiger T606 SoC Memory: 8GB RAM | 128GB Storage Rear Camera: 52MP UHD AI Dual Cameras Audio: Dual Stereo Speakers | 200% Sound Level Battery: 5000mAh Security: Side-Mounted Fingerprint Scanner Features: Dual View Video Mode Operating System: Android™ 14 with R OS No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Display: 6.6” V-Notch Display | 180Hz Touch Sampling Rate | 90Hz Refresh RateProcesso …
 
 ---
 
