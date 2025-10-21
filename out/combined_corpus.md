@@ -5820,6 +5820,602 @@ Standing screen display size - ‎13.5 Inches Max Screen Resolution - 2256 x 150
 ---
 
 
+## Infinix InBook X2 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11, 14 Inch FHD Laptop  
+**DocID:** `daraz_337010252`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/infinix-inbook-x2-11th-gen-i5-1155g7-25-to-45ghz-8gb-512gb-ssd-win-11-14-inch-fhd-laptop-i337010252.html
+**Price:** ৳ 64,500  
+**Rating:** 0.0/5
+
+**Description:**
+Infinix InBook X2 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11, 14 Inch FHD LaptopIntel 11th Gen Core i5-1155G7 2.5 To 4.5GHz, 4 Cores, 8 Threads, 8MB Cache8GB LPDDR4X RAM512GB PCIe NVMe M.2 SSD14" Inch FHD (1920 X 1080) IPS DisplayIntel Iris Xe GraphicsWindows 11 Home2 Years Warranty﻿Specification:Brand: InfinixSeries: InBookModel: X2Color: Silver, BlueProcessor: Intel 11th Gen Core i5-1155G7 2.5 To 4.5GHz, 4 Cores, 8 Threads, 8MB CacheMemory: 8GB LPDDR4X RAMStorage: 512GB PCIe NVMe M.2 SSDDisplay: 14" Inch FHD (1920 X 1080) IPS, 16:9, 300 nits, 100%sRGBGraphics: Intel Iris Xe GraphicsOperating System: Windows 11 HomeKeyboard: Full-size Backlit Chiclet KeyboardTouchpad: Touchpad with Multi-touchAudio: 2W x 2, DTS Audio Processing, Microphone x 2WebCam: FHD video Dual-Star light HDWi-Fi: IEEE 802.11a/b/g/n/acBluetooth: 5.1USB(s): 2x USB 3.0, 1x USB-C (data),1x USB-C (support data, charging and DisplayPort)HDMI: 1x HDMI 1.4SD Card: 1x SD card slotAudio Jack: 1x 3.5 mm Headset and Microphone JackBattery: Li-ion 50 WhAdapter: 45W USB-C Power AdapterDimensions: 323.3 X 211.1 X 14.8 mmWeight: 1.24 KgWarranty: 2 Years
+
+---
+
+
+## HP 15-fd1110TU (A19J9PA) Intel Core 3 100U 1.2 to 4.7GHz, 8GB DDR4, 512GB SSD, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_522533171`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-15-fd1110tu-a19j9pa-intel-core-3-100u-12-to-47ghz-8gb-ddr4-512gb-ssd-win-11-156-inch-fhd-laptop-i522533171.html
+**Price:** ৳ 66,299  
+**Rating:** 0.0/5
+
+**Description:**
+Intel Core 3 100U 1.2 to 4.7GHz, 6 Cores, 8 Threads, 10MB CPU Cache Processor 8GB DDR4 3200MHz RAM 512GB PCle NVme M.2 SSD 15.6 Inch (1920 X 1080) FHD Display Intel Graphics Windows 11 Home 2 Years Brand Warranty HP 15-fd1110TU (A19J9PA) Intel Core 3 100U 1.2 to 4.7GHz, 8GB DDR4, 512GB SSD, Windows 11, 15.6 Inch FHD Display Laptop Brand: HPModel: 15-fd1110TUPart Number: A19J9PABody Color: SilverProcessor: Intel Core 3 100U 1.2 to 4.7GHz, 6 Cores, 8 Threads, 10MB CPU Cache ProcessorMemory: 8GB DDR4 3200MHz RAMStorage: 512GB PCle NVme M.2 SSDGraphics: Intel GraphicsDisplay: 15.6 Inch (1920 X 1080) FHD DisplayOperating System: Windows 11 HomeWi-Fi: Wi-Fi 6E MT7902 (1X1)Bluetooth Version: 5.3Keyboard: Full Size Soft Grey Keyboard with Numeric KeypadPointing Device: TouchpadWebCam: 720P HD (Privacy Shutter)Audio: Dual Speakers & Integrated Dual Array Digital Microphones (Noise Reduction)Ports: 2 X USB Type-A, 1 X USB Type-C, 1 X HDMI 1.4b, 1 X Headphone & Microphone Combo PortBattery: Li-ion 41Wh 3 CellAdapter: 45W Smart AC Power AdapterCertifications: ENERGY STAR Certified, EPEAT Gold RegisteredCounty of Origin: USADimension: 359.8 X 236 X 18.6 mmWeight: 1.65 KgWarranty: 2 Years Brand Warranty
+
+---
+
+
+## Tecno Megabook K15SDA Ryzen 5 7430U 2.3GHz to 4.3GHz, 16GB, 512GB SSD, 15.6 Inch FHD LED Laptop  
+**DocID:** `daraz_555775445`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Tecno  
+**URL:** https://www.daraz.com.bd/products/tecno-megabook-k15sda-ryzen-5-7430u-23ghz-to-43ghz-16gb-512gb-ssd-156-inch-fhd-led-laptop-i555775445.html
+**Price:** ৳ 59,750  
+**Rating:** 0.0/5
+
+**Description:**
+AMD Ryzen 5 7430U 2.3GHz to 4.3GHz, 6 Core, 12 Thread, 19MB Cache Processor 16GB 3200MHz LPDDR4 RAM 512GB NVMe PCIe SSD 15.6 Inch (1980 x 1080) FHD LED Display AMD Radeon Graphics 2 Years Brand Warranty Brand: TecnoModel: Megabook K15SDAProduct Type: TraditionalForm Factor: ClamshellBody Color: Moonshine SilverBody Material: Metal + PlasticProcessor Brand: AMDProcessor Type: Ryzen 5Processor Model: Ryzen 5 7430UGeneration: Ryzen 7000 SeriesProcessor Frequency: 2.3GHz to 4.3GHzCore: 6Thread: 12CPU Cache: 19MBRAM Capacity: 16GBRAM Details: 1 x 16GB RemovableRAM Type: LPDDR4RAM Speed: 3200MHzRAM Slot: 2Empty RAM Slot: 1Max. RAM Support: 32GBStorage: 512GBStorage Type: SSDSSD Interface: PCle 3.0Compatible Memory Cards: TF CardDisplay Size: 15.6 InchDisplay Resolution (Pixel): 1920 x 1080Display Type: FHD LED DisplayDisplay Refresh Rate: 60 HzLED Backlight: YesAnti-Glare Screen: YesNative Aspect Ratio: 16:9Display Brightness: 300 nitsColor Gamut: 45% NTSCGraphics Card: AMD RadeonGraphics Memory: IntegratedGraphics Memory Size: SharedOperating System: Free DosPre-loaded Application: Tecno PC Manager, OSD APPFinger Print Sensor: YesSecurity Chip: Firmware TPMCable Lock Slot: YesRear Camera Resolution: 1MPKeyboard Layout: Chiclet KeyboardPointing Device: TouchpadAudio System: AI Conference, DTS Immersive SoundBuilt-in Speakers: YesBuilt-in Microphone: YesNo of Microphones: 2WiFi: WiFi 5Bluetooth: Bluetooth 5.1Ethernet LAN: YesUSB 3 Port: 2 x USB 3.1USB Type C: 1 x USB Type-C (Charge) …
+
+---
+
+
+## Asus VivoBook 15 M1505YA AMD Ryzen 7 7730U 8GB RAM, 512GB SSD Indie Black Laptop  
+**DocID:** `daraz_548636671`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-15-m1505ya-amd-7-7730u-8gb-ram-512gb-ssd-i548636671.html
+**Price:** ৳ 82,500  
+**Rating:** 0.0/5
+
+**Description:**
+Laptop Brand - Asus, Laptop Series - VivoBook, Laptop Model - Asus VivoBook 15 M1505YA, Processor Brand - AMD, Processor Type - Ryzen 7, Processor Generation - Ryzen, Processor Model - Ryzen 7 7730U, Processor Base Frequency - 2.00GHz, Processor Max Turbo Frequency - 4.50GHz, Processor Core - 8, Processor Thread - 16, Processor Cache - 20MB, NPU - No, Chipset - AMD SoC Platform, Display Size - 15.6 Inch, Display Technology - FHD LED Display, Panel Type - OLED, Display Resolution - 1920x1080, Display Surface - Glossy, Touch Display - No, Display Refresh Rate - 60 Hz, Brightness - 600nits, Display Features - 16:9 aspect ratio, 0.2ms response time, Color gamut 100% DCI-P3, Gamut mapping Yes, Contrast ratio 1,000,000:1, VESA CERTIFIED Display HDR True Black 600, Color depth 1.07 billion colors, Pantone PANTONE Validated, Low blue light 65% less harmful blue light, Screen-to-body ratio 86%, Secondary Screen Size - No Secondary Screen, Secondary Screen Technology - No Secondary Screen, Secondary Screen Resolution - No Secondary Screen, Memory (RAM) - 8GB, Installed Memory Details - 1 x 8GB Non Removable, Memory Type - DDR4, Total Memory Slot - No, Empty Memory Slot - No, Max Memory Support - 8GB, Storage - 512GB SSD, Installed HDD Type - No HDD, HDD RPM - No HDD, HDD Expansion Slot - Unmentioned, Installed SSD Type - NVMe PCIe, Installed SSD Generation - Gen 3, SSD Expansion Slot - Unmentioned, Storage Upgrade - Unmentioned, Optical Drive - No-ODD, Multimedia Card Slot - No, Graphi …
+
+---
+
+
+## Walton Laptop Tamarind MX511G Core i5 Intel 11th Generation Processor 8GB DDR4 3200MHz RAM 512GB M.2 2280 SSD Display Full HD with 100% sRGB  
+**DocID:** `daraz_298893135`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/walton-laptop-tamarind-mx511g-core-i5-intel-11th-generation-processor-8gb-ddr4-3200mhz-ram-512gb-m2-2280-ssd-display-full-hd-with-100-srgb-i298893135.html
+**Price:** ৳ 55,550  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: Intel® Core™ i5-1135G7 Processor Ghz: 1.7GHz - 3.0GHz, up to 4.1GHz Cache Memory: 8MB Intel® Smart Cache RAM: 8GB DDR4 3200MHz RAM Storage: 512GB M.2 2280 SSD, PCIe Gen3x4 interface Communication: Wi-Fi 6.0 (802.11ax(2x2)) + BT 5.2 Color: Sky Blue
+
+---
+
+
+## Acer Aspire 5 5M-A515-58GM (NX.KGZSI.001) 13th Gen i5-1335U 3.4 to 4.6GHz, 8GB, 512GB SSD, RTX2050 4GB Graphics, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_322917937`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Acer  
+**URL:** https://www.daraz.com.bd/products/acer-aspire-5-5m-a515-58gm-nxkgzsi001-13th-gen-i5-1335u-34-to-46ghz-8gb-512gb-ssd-rtx2050-4gb-graphics-156-inch-fhd-laptop-i322917937.html
+**Price:** ৳ 97,000  
+**Rating:** 0.0/5
+
+**Description:**
+Acer Aspire 5 5M-A515-58GM (NX.KGZSI.001) 13th Gen i5-1335U 3.4 to 4.6GHz, 8GB, 512GB SSD, RTX2050 4GB Graphics, 15.6 Inch FHD LaptopIntel 13th Gen i5-1335U 3.4 to 4.6GHz, 8 Core, 12 Thread, 12MB Cache8GB DDR5 RAM512GB NVMe PCIe SSD15.6 Inch (1920 x 1080) FHD IPS DisplayNVidia RTX 2050 4GB GDDR6 Graphics 2 Years Official Brand WarrantySpecification:Brand: AcerSeries: Aspire 5Model: 5M-A515-58GMPart No: NX.KGZSI.001Color: Steel GrayProcessor: Intel 13th Gen i5-1335U 3.4 to 4.6GHz, 8 Core, 12 Thread, 12MB CacheMemory: 8GB DDR5 RAMStorage: 512GB NVMe PCIe SSDDisplay: 15.6 Inch FHD (1920 x 1080) IPS, 60 Hz, 16:9 aspect ratio, Acer ComfyViewGraphics: NVidia RTX 2050 4GB GDDR6 Graphics Operating System: Free DosKeyboard: Backlight KeyboardWebCam: 720p HDAudio: Stereo Speakers, Built-in-MicrophoneWi-Fi: WI-FI 6Bluetooth: Bluetooth 5.1USB(s): 2x USB 3.2 Gen 1 Type-A, 1 x USB Type-CHDMI Port: 1x HDMIAudio Combo Jack: Mic and Headphone ComboBattery: 50Wh 3-cell Li-ionAdapter: 65W AC Power AdapterTotal RAM Slot: 2 (Max. 32GB RAM Support)Dimensions: 362.9 x 241.26 x 19.9mmWeight: 1.78 kgWarranty: 2 Years
+
+---
+
+
+## Lenovo IP Slim 3i 11th Gen Core i3-1115G4 3 to 4.1GHz, 8GB, 512GB SSD, Win 11 Home, 15.6 Inch FHD Laptop #82H802MXIN  
+**DocID:** `daraz_312932928`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ip-slim-3i-11th-gen-core-i3-1115g4-3-to-41ghz-8gb-512gb-ssd-win-11-home-156-inch-fhd-laptop-82h802mxin-i312932928.html
+**Price:** ৳ 62,400  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IP Slim 3i 11th Gen Core i3-1115G4 3 to 4.1GHz, 8GB, 512GB SSD, Win 11 Home, 15.6 Inch FHD Laptop #82H802MXINIntel 11th Gen Core i3-1115G4 3 to 4.1GHz, 2 Cores, 4 Threads, 6MB Cache8GB 3200MHz DDR4 RAM512GB M.2 NVME SSD15.6 Inch (1920 x 1080) FHD DisplayIntel UHD GraphicsWindows 11 Home2 Years Official Brand Warranty
+
+---
+
+
+## Asus VivoBook GO 15 E1504FA (BQ1153W) AMD Ryzen 5-7520U 2.8 to 4.3 GHz, 16GB, 512GB SSD, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_518982493`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-vivobook-go-15-e1504fa-bq1153w-amd-ryzen-5-7520u-28-to-43-ghz-16gb-512gb-ssd-win-11-156-inch-fhd-laptop-i518982493.html
+**Price:** ৳ 76,200  
+**Rating:** 0.0/5
+
+**Description:**
+AMD Ryzen 5-7520U 2.8 to 4.3GHz, 4 Cores, 8 Threads, 6MB Cache 16GB LPDDR5 RAM 512GB PCIe NVMe M.2 SSD 15.6 Inch FHD (1920 X 1080) IPS Display Windows 11 Home 2 Years International Warranty Specification:Brand: AsusSeries: VivoBookModel: E1504FAPart No: BQ1153WProduct Type: Traditional LaptopForm Factor: ClamshellBody Color: Grey GreenBody Material: PlasticProcessor Brand: AMDProcessor Type: Ryzen 5Processor Model: Ryzen 5 7520UProcessor Frequency: 2.8 to 4.3 GHzCore: 4Thread: 8CPU Cache: 6MBRAM Capacity: 16GBRAM Details: 1 x 16GB Non-RemovableRAM Type: LPDDR5Storage: 512GBStorage Type: SSDSSD Interface:M.2 NVMe PCIe 3.0Display Size: 15.6 InchDisplay Resolution: 1920x1080Display Type: Full HDPanel Type: IPSDisplay Refresh Rate: 60 HzAnti-Glare screen: YesGraphics Card: AMD RadeonGraphics Memory: IntegratedGraphics Memory Size: SharedOperating System: Windows 11 HomeSecurity Chip: Firmware TPMCamera Resolution: 720p HD WebCamKeyboard Back-lit: YesPointing Device: TouchPadBuilt-in Speakers: YesBuilt-in Microphone: YesNetwork: Wi-Fi 6E (802.11ax)Bluetooth: Bluetooth 5.3USB 2 Port: 1 x USB 2.0 Type-AUSB 3 Port: 1 x USB 3.2 Gen 1 Type-AType C Port: 1 x USB 3.2 Gen 1 Type-CHDMI Port: 1x HDMICombo Audio Jack: 1x Headphone & MicrophoneBattery Capacity: 42WhrsBattery Technology: Li-ionNo of Battery Cell: 3 CellAdapter Power: 45WAdapter Type: AC AdapterDimensions: 360.3 x 232.5 x 17.9mmWeight: 1.63 kgWarranty: 2 YearsCountry Of Origin: Taiwan Made in: China
+
+---
+
+
+## Infinix InBook Y2 Plus 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_337005385`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/infinix-inbook-y2-plus-11th-gen-i5-1155g7-25-to-45ghz-8gb-512gb-ssd-win-11-156-inch-fhd-laptop-i337005385.html
+**Price:** ৳ 60,700  
+**Rating:** 0.0/5
+
+**Description:**
+Infinix InBook Y2 Plus 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11, 15.6 Inch FHD LaptopIntel 11th Gen Core i5-1155G7 2.5 To 4.5GHz, 4 Cores, 8 Threads, 8MB Cache8GB LPDDR4X RAM512GB PCIe NVMe M.2 SSD15.6" Inch FHD (1920 X 1080) IPS DisplayIntel Iris Xe GraphicsWindows 11 Home2 Years Warranty﻿Specification:Brand: InfinixSeries: InBookModel: Y2 PlusColor: Silver, BlueProcessor: Intel 11th Gen Core i5-1155G7 2.5 To 4.5GHz, 4 Cores, 8 Threads, 8MB CacheMemory: 8GB LPDDR4X RAMStorage: 512GB PCIe NVMe M.2 SSDDisplay: 15.6" Inch FHD (1920 X 1080) IPS, 16:9, 60 Hz, Anti-Glare, 260 nits, 60% NTSCGraphics: Intel Iris Xe GraphicsOperating System: Windows 11 HomeKeyboard: Full-size Backlit Chiclet KeyboardTouchpad: Touchpad with Multi-touchAudio: 2W x 2 & Microphone x 2WebCam: FHD video Dual-Star light HDWi-Fi: IEEE 802.11a/b/g/n/acBluetooth: 5.1USB(s): 2x USB 3.0, 1x USB-C (data),1x USB-C (support data, charging and DisplayPort)HDMI: 1x HDMI 1.4SD Card: 1x SD card slotAudio Jack: 1x 3.5 mm Headset and Microphone JackBattery: Li-ion 50 WhAdapter: 45W USB-C Power AdapterDimensions: 360.3 X 237 X 17.95 mmWeight: 1.8 KgWarranty: 2 Years
+
+---
+
+
+## Lenovo ThinkPad X1 Carbon G9 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 512GB SSD, Iris Graphics, 14 Inch WUXGA Laptop (20XXS89Y00-3Y)  
+**DocID:** `daraz_312251246`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-thinkpad-x1-carbon-g9-11th-gen-core-i7-1165g7-28-to-47ghz-16gb-512gb-ssd-iris-graphics-14-inch-wuxga-laptop-20xxs89y00-3y-i312251246.html
+**Price:** ৳ 246,500  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo ThinkPad X1 Carbon G9 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 512GB SSD, Iris Graphics, 14 Inch WUXGA Laptop (20XXS89Y00-3Y)Intel 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 4 Cores, 8 Threads, 12MB Cache16GB DDR4 RAM512GB SSD14 Inch WUXGA (1920x1200) DisplayIntel Iris Xe Graphics3 Years Warranty
+
+---
+
+
+## Lenovo IP Slim 3i #81WD004QIN# 10th Gen i3- 1005G1 1.2 to 3.4GHz, 4GB, 1TB, Win10, 14FHD Laptop  
+**DocID:** `daraz_206808751`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ip-slim-3i-81wd004qin-10th-gen-i3-1005g1-12-to-34ghz-4gb-1tb-win10-14fhd-laptop-i206808751.html
+**Price:** ৳ 46,500  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo IP Slim 3i #81WD004QIN# 10th Gen i3- 1005G1 Intel Core i3-1005G1 Processor 1.2 to 3.4GHz, 2Core, 4Thread, 4M Cache 4GB DDR4 RAM 1TB HDD 14 "FHD (1920x1080) IPS Display Intel UHD Graphics 2 Years Warranty SpecificationProcessor: Intel Corei3-1005G1 Processor 1.2 to 3.4GHz, 2Core, 4Thread, 4M CacheDisplay: 14.0"FHD IPS AntiGlare LEDBacklight Narrow Bezel 1920x1080Memory: 4GB DDR4 SODIMM 2667MHz RAMStorage: 1TB HDDGraphics: Intel UHD GraphicsOperating System: Windows 10 HomeBattery: 2 Cell Li-PolymerAdapter: 65WAudio: 2 x 1.5W speakers Dolby AudioKeyboard: Full size English (US)WebCam: HD Webcam with Privacy ShutterCard Reader: SD card readerWi-Fi: WiFi 2 x 2, 1 x 1 ACBluetooth: Bluetooth Version5.0USB (s): 2 x USB 3.1 (Gen 1) USB 2.0HDMI: HDMI 1.4bAudio Jack Combo: Headphone / miccomboExtra RAM Slot: Yes (Upgrade ableup to 16 GB)Extra M.2 Slot: YesSupported SSD Type: M.2 NVME PCIeDimensions (W x D x H): 327.1mm x 241mm x19.99mmWeight: Starting at 1.6kgColor(s): Platinum Grey Warranty: 2 Years
+
+---
+
+
+## HP Envy x360 Convertible 14-ES0033 13th Gen Core i7-1355U 3.7 to 5GHz, 16GB, 1TB SSD, Windows 11, 14 Inch FHD IPS Touch Laptop  
+**DocID:** `daraz_351659275`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-envy-x360-convertible-14-es0033-13th-gen-core-i7-1355u-37-to-5ghz-16gb-1tb-ssd-windows-11-14-inch-fhd-ips-touch-laptop-i351659275.html
+**Price:** ৳ 138,000  
+**Rating:** 0.0/5
+
+**Description:**
+HP Envy x360 Convertible 14-ES0033 13th Gen Core i7-1355U 3.7 to 5GHz, 16GB, 1TB SSD, Windows 11, 14 Inch FHD IPS Touch LaptopIntel 13th Gen Core i7-1355U 3.7 to 5GHz, 10 Cores, 12 Threads, 12MB cache16GB DDR4 3200MHz RAM1TB PCIe NVMe M.2 SSD14" FHD (1920 x 1080) IPS Touch DisplayIntel Iris Xe GraphicsWindows 11 Home2 Years Seller WarrantySpecification:Brand: HPSeries: ENVYModel: 14-es0033Color: Natural SilverProcessor: Intel 13th Gen Core i7-1355U 3.7 to 5GHz, 10 Cores, 12 Threads, 12MB cacheMemory: 16GB DDR4 3200MHz RAMStorage: 1TB PCIe NVMe M.2 SSDDisplay: 14" FHD (1920 x 1080), multitouch-enabled, IPS, edge-to-edge glass, micro-edge, 300 nits, 100% sRGBGraphics: Intel Iris Xe GraphicsOperating System: Windows 11 HomeKeyboard: Full-size, Backlit, Natural Silver KeyboardWeb Camera: HP True Vision 5MP IR camera with Camera Shutter,Audio: Audio by Bang & Olufsen; Dual speakers, Integrated dual Array MicWiFi: Intel Wi-Fi 6E AX211 (2x2)Bluetooth: Bluetooth 5.3USB: 2x Thunderbolt 4 with USB Type-C 40Gbps (USB Power, DP1.4); 1x USB Type-A 10Gbps (Sleep and Charge); 1x USB Type-A 10GbpsCard Reader: 1 microSD Media Card ReaderAudio Jack: 1 Headphone/Microphone ComboBattery: 4-cell, 66 Wh Li-ion PolymerAdapter: 65W USB Type-C power adapterDimensions (W x D x H): 298 x 215 x 16 mmWeight: 1.34 kgWarranty: 2 Years
+
+---
+
+
+## HP 250 G10 13th Gen Core i3-1315U 3.3 to 4.5GHz, 8GB RAM, 512GB SSD, 15.6" FHD Laptop  
+**DocID:** `daraz_327348287`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-250-g10-13th-gen-core-i3-1315u-33-to-45ghz-8gb-ram-512gb-ssd-156-fhd-laptop-i327348287.html
+**Price:** ৳ 53,950  
+**Rating:** 0.0/5
+
+**Description:**
+HP 250 G10 13th Gen Core i3-1315U 3.3 to 4.5GHz, 8GB RAM, 512GB SSD, 15.6" FHD LaptopIntel 13th Gen Core i3-1315U 3.3 to 4.5GHz, 6 Cores, 8 Threads, 10MB Cache8GB DDR4 3200MHz RAM512GB PCIe NVMe SSD15.6 Inch FHD (1920 X 1080) DisplayIntel UHD Graphics3 Years WarrantySpecification:﻿Brand: HPModel: 250 G10Color: SilverProcessor: Intel 13th Gen Core i3-1315U 3.3 to 4.5GHz, 6 Cores, 8 Threads, 10MB CacheMemory: 8GB DDR4 3200MHz RAMStorage: 512GB PCIe NVMe SSDDisplay: 15.6" diagonal, FHD (1920 x 1080), IPS, anti-glare, 250 nits, 45% NTSCGraphics: Intel UHD GraphicsOperating System: Free DosWebCam: 720P HDKeyboard: Full-Size Textured island-style keyboardAudio: Stereo Speakers, Dual Digital MicrophoneWi-Fi Version: Realtek Wi-Fi 6Bluetooth Version: 5.3LAN: RJ-45/Ethernet portUSB(s): 2x USB-A 3.2 Gen1 Type-A, 1x USB 3.2 Gen1 Type-C (data transfer only)HDMI: 1x HDMI 1.4bCard Reader: 1x SD/SDHC/SDXCAudio Port: 1 X Headphone/Microphone ComboBattery: 3 Cell, 41 Wh Li-ionAdapter: 45W AC Power AdapterDimensions: 36 x 23.6 x 1.86 cmWeight: 1.52 kgWarranty: 3 Years
+
+---
+
+
+## Chuwi GemiBook XPro Intel Celeron N150 14.1 inch Full HD Laptop  
+**DocID:** `daraz_529921984`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** CHUWI  
+**URL:** https://www.daraz.com.bd/products/chuwi-gemibook-xpro-intel-n100-141-hd-i529921984.html
+**Price:** ৳ 39,000  
+**Rating:** 0.0/5
+
+**Description:**
+✔ 14.1” Full HD IPS Display – Sharp visuals with ultra-narrow bezels ✔ Intel 12th Gen Celeron N100 – Efficient quad-core processor up to 3.4GHz ✔ 8GB LPDDR5 RAM – Fast multitasking performance ✔ 256GB SSD Storage – Quick boot-up and app loading, expandable up to 1TB ✔ Intel UHD Graphics – Smooth visuals for work, streaming & light gaming ✔ Windows 11 Home – Modern, secure, and user-friendly interface ✔ Wi-Fi 6 + Bluetooth 5.2 – Faster wireless connectivity ✔ USB-C, USB-A 3.0, HDMI, SD Slot – All essential ports included ✔ 2.0MP Webcam with Privacy Shutter – Ideal for video calls ✔ 38Wh Battery – Up to 5.5 hours of usage on a single charge ✔ Slim & Lightweight – Just 1.46kg and 19mm thin, easy to carry ✅ General SpecificationsModel: GemiBook XProBody Material: Plastic + Aluminum AlloyColor: Space GreyWeight: Approx. 1.46 kgThickness: 19mm🖥️ DisplaySize: 14.1-inchResolution: 1920 × 1080 (Full HD)Display Type: IPS, Anti-GlareAspect Ratio: 16:9Bezel: Ultra-narrow🧠 ProcessorCPU: Intel 12th Gen Celeron N100 (Alder Lake-N)Base Frequency: 0.8 GHzMax Turbo Frequency: Up to 3.4 GHzCores/Threads: 4 Cores / 4 ThreadsLithography: 10nmTDP: 6W🎮 GraphicsGPU: Intel UHD GraphicsShared Memory: Yes (integrated)🔧 System Memory & StorageRAM: 8GB LPDDR5 (soldered, not upgradable)Storage: 256GB M.2 SSD (Expandable up to 1TB)Memory Slot: 1x M.2 Slot (2280 SATA/NVMe supported)🔌 Input / Output Ports1 x USB-C 3.01 x USB-A 3.01 x HDMI1 x 3.5mm Headphone Jack1 x DC Charging Port1 x MicroSD Card Slot🔋 Batt …
+
+---
+
+
+## Asus VivoBook GO 15 L1504FA (NJ1508) AMD Ryzen 5-7520U 2.8 to 4.3 GHz, 16GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_536275829`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-vivobook-go-15-l1504fa-nj1508-amd-ryzen-5-7520u-28-to-43-ghz-16gb-512gb-ssd-156-inch-fhd-laptop-i536275829.html
+**Price:** ৳ 68,500  
+**Rating:** 0.0/5
+
+**Description:**
+AMD Ryzen 5-7520U 2.8 to 4.3GHz, 4 Cores, 8 Threads, 6MB Cache 16GB LPDDR5 RAM 512GB PCIe NVMe M.2 SSD 15.6 Inch FHD (1920 X 1080) IPS Display 2 Years Official Warranty Specification:Brand: AsusSeries: VivoBookModel: L1504FAPart No: NJ1508Product Type: Traditional LaptopForm Factor: ClamshellBody Color: Grey GreenBody Material: PlasticProcessor Brand: AMDProcessor Type: Ryzen 5Processor Model: Ryzen 5 7520UProcessor Frequency: 2.8 to 4.3 GHzCore: 4Thread: 8CPU Cache: 6MBRAM Capacity: 16GBRAM Details: 1 x 16GB Non-RemovableRAM Type: LPDDR5Storage: 512GBStorage Type: SSDSSD Interface:M.2 NVMe PCIe 3.0Display Size: 15.6 InchDisplay Resolution: 1920x1080Display Type: Full HDPanel Type: IPSDisplay Refresh Rate: 60 HzAnti-Glare screen: YesGraphics Card: AMD RadeonGraphics Memory: IntegratedGraphics Memory Size: SharedSecurity Chip: Firmware TPMCamera Resolution: 720p HD WebCamKeyboard Back-lit: YesPointing Device: TouchPadBuilt-in Speakers: YesBuilt-in Microphone: YesNetwork: Wi-Fi 6E (802.11ax)Bluetooth: Bluetooth 5.3USB 2 Port: 1 x USB 2.0 Type-AUSB 3 Port: 1 x USB 3.2 Gen 1 Type-AType C Port: 1 x USB 3.2 Gen 1 Type-CHDMI Port: 1x HDMICombo Audio Jack: 1x Headphone & MicrophoneBattery Capacity: 42WhrsBattery Technology: Li-ionNo of Battery Cell: 3 CellAdapter Power: 45WAdapter Type: AC AdapterDimensions: 360.3 x 232.5 x 17.9mmWeight: 1.63 kgWarranty: 2 YearsCountry Of Origin: Taiwan Made in: China
+
+---
+
+
+## ASUS VivoBook 15 X1500EA Core i3 11TH Gen Laptop - 8GB DDR4 RAM - 1TB HDD - Intel UHD Graphics - Indie Black #X1500EA-BQ2456W  
+**DocID:** `daraz_288216855`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-15-x1500ea-i3-11th-8gb-ddr4-ram-1tb-hdd-uhd-x1500ea-bq2456w-i288216855.html
+**Price:** ৳ 71,000  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: Intel® Core™ i3-1115G4 Processor 3.0 GHz (6M Cache, up to 4.1 GHz, 2 cores) Total System Memory: 8GB DDR4 on board How to upgrade memory: Upgradable\n Need to remove bottom/top case Storage: 1TB SATA 5400RPM 2.5" HDD 1x DDR4 SO-DIMM slot 1x M.2 2280 PCIe 3.0x4 1x STD 2.5” SATA HDD Intergrated GPU: Intel® UHD Graphics Panel Size: 15.6-inch Resolution: FHD (1920 x 1080) 16:9 aspect ratio, 60Hz refresh rate Backlit: LED Backlit Brightness: 250nits IPS-level: IPS-level Panel Color gamut: 45% NTSC color gamut Operating System: Windows 11 Home - ASUS recommends Windows 11 Pro for business Color: Indie Black Front-facing camera: VGA camera Wireless: Wi-Fi 5(802.11ac) (Dual band) 1*1 + Bluetooth 4.1 1x HDMI 1.4 1x 3.5mm Combo Audio Jack 1x DC-in\n1x USB 3.2 Gen 1 Type-A 1x USB 3.2 Gen 1 Type-C 2x USB 2.0 Type-A Audio: "Built-in speaker Built-in microphone" Voice control: with Cortana support AC Adapter: ø4.0, 45W AC Adapter, Output: 19V DC, 2.37A, 45W, Input: 100~240V AC 50/60Hz universal Battery: 37WHrs, 2S1P, 2-cell Li-ion Keyboard type: Backlit Chiclet Keyboard with Num-key Included in the Box: Backpack
+
+---
+
+
+## ASUS Vivobook Go 15 (E1504FA-BQ372W) AMD Ryzen 5 16GB RAM 512GB SSD Laptop  
+**DocID:** `daraz_535991768`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-go-15-e1504fa-bq372w-amd-5-16gb-ram-512gb-ssd-i535991768.html
+**Price:** ৳ 75,670  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: AMD Ryzen 5 7520U RAM & Storage: 16GB LPDDR5 Memory, 512GBM.2 NVMe PCIe 3.0 SSD Graphics: AMD Radeon Graphics Display: 15.6-inch Full HD (1920 x 1080) Certifications: US MIL-STD 810H military-grade standard Introducing the ASUS VivoBook Go 15 (E1504FA-BQ372W) - Where Power Meets Portability! Experience the perfect blend of performance and mobility with the ASUS VivoBook Go 15. Powered by the AMD Ryzen 5 7520U Mobile Processor, this laptop offers seamless computing for both work and play. With a generous 16GB of LPDDR5 RAM, multitasking is a breeze, ensuring you can effortlessly switch between tasks without slowdowns. Say goodbye to storage constraints with the spacious 512GB M.2 NVMe PCIe 3.0 SSD, which not only provides ample space for your files but also ensures lightning-fast access. The integrated AMD Radeon Graphics enhance your visual experience, making movie streaming and light gaming a delight. Immerse yourself in the vibrant visuals of the 15.6-inch FHD display, boasting a crystal-clear 1920 x 1080 resolution and a versatile 16:9 aspect ratio. This laptop combines power with portability, featuring a slim and lightweight design that's perfect for your on-the-go lifestyle. With multiple connectivity options, including USB and HDMI ports, and dependable Wi-Fi, staying connected has never been easier. Upgrade your computing experience with the ASUS VivoBook Go 15 (E1504FA-BQ372W) and discover a world of possibilities at your fingertips!
+
+---
+
+
+## Dell Latitude 15 3520 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 512GB SSD, 15.6 Inch HD Laptop  
+**DocID:** `daraz_326813654`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Dell  
+**URL:** https://www.daraz.com.bd/products/dell-latitude-15-3520-11th-gen-i3-1115g4-3-to-41ghz-8gb-512gb-ssd-156-inch-hd-laptop-i326813654.html
+**Price:** ৳ 60,000  
+**Rating:** 0.0/5
+
+**Description:**
+Dell Latitude 15 3520 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 512GB SSD, 15.6 Inch HD LaptopIntel Core i3-1115G4 3 to 4.1GHz, 2Cores, 4Threads, 6MB Cache Processor8GB DDR4 3200MHz RAM512GB PCIe NVMe M.2 SSD15.6 Inch HD (1366x768) LED DisplayIntel UHD Graphics3 Years Official Brand WarrantySpecification:Brand: DellModel: Latitude 15 3520Color: BlackProcessor: Intel Core i3-1115G4 3 to 4.1GHz, 2Cores, 4Threads, 6MB CacheMemory: 8GB DDR4 3200MHz RAMStorage: 512GB PCIe NVMe M.2 SSDDisplay: 15.6 Inch HD (1366x768) 220 nit, LED-BacklitGraphics: Intel UHD GraphicsOperating System: Free DosKeyboard: Non-Backlit KeyboardWebCam: 720p at 30 fps HD CameraAudio: 2 W x 2 Stereo Speakers, Single-Integrated MicrophoneWi-Fi: Intel Wi-Fi 6 2x2Bluetooth: Bluetooth 5.2USB: 1 x USB 2.0; 2x USB 3.2 Gen 1 Type-A, 1x USB 3.2 Gen 2 Type-CHDMI: 1x HDMI 1.4Card Reader: uSD 3.0 card slotAudio Combo Jack: 1 x Headphone/Microphone ComboBattery: 3-cell, 42Wh BatteryAdapter: 65W Power AdapterDimensions (W x D x H): 361 x 240.9 x 18.06mmWeight: 1.79 KGWarranty: 3 Years
+
+---
+
+
+## Asus VivoBook Go 15 L1504FA (NJ1342) Ryzen 5-7520U 2.80 to 4.30 GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_540748560`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-vivobook-go-15-l1504fa-nj1342-ryzen-5-7520u-280-to-430-ghz-8gb-512gb-ssd-156-inch-fhd-laptop-i540748560.html
+**Price:** ৳ 65,400  
+**Rating:** 0.0/5
+
+**Description:**
+AMD Ryzen 5-7520U 2.8 to 4.3 GHz, 4 Core, 8 Thread, 6MB Cache Processor 8GB DDR5 RAM 512GB NVMe PCIe SSD 15.6 Inch (1920 X 1080) FHD Display 2 Years Official Warranty Specification:Brand: Asus Series: VivoBook Model: Asus VivoBook Go 15 L1504FA Part No: NJ1342 Product Type: Traditional Form Factor: Clamshell Body Color: Mixed Black Body Material: Plastic Processor Brand: AMD Processor Type: Ryzen 5 Processor Model: Ryzen 5-7520U Processor Frequency: 2.8 to 4.30 GHz Core: 4 Thread: 8 CPU Cache: 6MB RAM Capacity: 8GB RAM Details: 8GB (On Board) RAM Type: DDR5 Storage: 512GB Storage Type: SSD SSD Interface: M.2 NVMe PCIe 3.0 Display Size: 15.6 Inch Display Resolution (Pixel): 1920 X 1080 Display Type: Full HD Display Refresh Rate: 60Hz Color Gamut: 45% NTSC Display Brightness: 250nits Display Feature: Anti-glare display,TÜV Rheinland-certified Graphics Card: AMD Radeon Graphics Graphics Memory: Integrated Graphics Memory Size: Shared Security Chip: Trusted Platform Module (Firmware TPM) Camera Resolution: 720p HD Camera Keyboard Layout: Backlit Chiclet Keyboard Keyboard Back-lit: Yes Numeric Key pad: Yes Pointing Devic: TouchPad Audio System: SonicMaster Built-in Speakers: Yes No of Built-in Speakers: 2 Built-in Microphone: Yes No of Microphones: 1 WiFi: Wi-Fi 6E(802.11ax) (Dual band) 1*1 Bluetooth: Bluetooth 5.3 Wireless Card USB 2 Port: 1 x USB 2.0 Type-A (data speed up to 480Mbps) USB 3 Port: 1x USB 3.2 Gen 1 Type-A (data speed up to 5Gbps) USB Type C: 1x USB 3.2 Gen 1 Type-C …
+
+---
+
+
+## Asus VivoBook 15 F1504ZA (NJ699) Intel 12th Gen Core i5-1235U 1.3 to 4.4 GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_504988645`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-vivobook-15-f1504za-nj699-intel-12th-gen-core-i5-1235u-13-to-44-ghz-8gb-512gb-ssd-156-inch-fhd-laptop-i504988645.html
+**Rating:** 0.0/5
+
+**Description:**
+Intel 12th Gen i5-1235U 1.3 to 4.4 GHz, 10 Core, 12 Thread, 12MB Cache Processor 8GB DDR4 RAM 512GB NVMe PCIe SSD 15.6 Inch (1920 X 1080) FHD Display 2 Years Official Warranty Specification: Brand: Asus Series: VivoBook Model: Asus VivoBook 15 F1504ZA Part No: NJ699 Product Type: Traditional Form Factor: Clamshell Body Color: Quiet Blue Body Material: Plastic Processor Brand: Intel Processor Type: Core i5 Processor Model: Core i5-1235U Generation: 12th Gen Processor Frequency: 1.3 to 4.0 GHz Core: 10 Thread: 12 CPU Cache: 12MB RAM Capacity: 8GB RAM Details: 1 x 8GB Non Removable RAM Type: DDR4 RAM Slot: 1 Empty RAM Slot: 1 Max. RAM Support: 16GB Storage: 512GB Storage Type: SSD SSD Interface: PCIe NVMe Display Size: 15.6 Inch Display Resolution (Pixel): 1920 X 1080 Display Type: Full HD Panel Type: IPS Display Refresh Rate: 60Hz Color Gamut: 45% NTSC Display Brightness: 250nits Display Feature: LED Backlit,Anti-glare display,TÜV Rheinland-certifiedScreen-to-Body Ratio: 84% Graphics Card: Intel Iris Xe Graphics Graphics Memory: Integrated Graphics Memory Size: Shared Security Chip: Trusted Platform Module Camera Resolution: 720p HD CameraKeyboard Layout: Chiclet Keyboard Numeric Key pad: Yes Pointing Device: TouchPad Audio System: SonicMaster Built-in Speakers: Yes No of Built-in Speakers: 2 Built-in Microphone: Yes No of Microphones: 1 WiFi: Wi-Fi 6E(802.11ax) (Dual band) 1*1 Bluetooth: Bluetooth 5.3 Wireless Card USB 2 Port: 1x USB 2.0 Type-A (data speed up to 480Mbps) USB 3 …
+
+---
+
+
+## Lenovo V15 G4 ABP (82YYA00MLK) Ryzen 5-7430U 16GB RAM 512GB SSD 15.6-inch FHD Laptop  
+**DocID:** `daraz_535995779`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-v15-g4-abp-82yya00mlk-ryzen-5-7430u-16gb-ram-512gb-ssd-156-fhd-i535995779.html
+**Price:** ৳ 64,210  
+**Rating:** 0.0/5
+
+**Description:**
+Certifications: MIL-STD-810H military test passed Processor: AMD Ryzen 5 7430U RAM & Storage: 16GB DDR4 RAM, 512GB M.2 PCIe 4.0x4 NVMe SSD IGPU: Integrated AMD Radeon Graphics Display: 15.6-inch Full HD (1920x1080) Processor Model Ryzen 5 7430UProcessor Frequency Upto 4.3GHzProcessor Core 6 CoresProcessor Thread 12 ThreadsCPU Cache 3MB L2 16MB L3Chipset AMD SoC PlatformDisplay Size 15.6-inchDisplay Type IPSDisplay Resolution Full HD (1920x1080)Display Features Anti-glare TÜV Rheinland Low Blue Light (Software Solution)Brightness 300nitsRAM 16GB-3200 (8GB Soldered DDR4-3200 + 8GB SO-DIMM DDR4-3200)RAM Type DDR4Total RAM Slot One memory soldered to system board One DDR4 SO-DIMM slot (Dual-channel capable)Max Memory Up to 16GB (8GB soldered + 8GB SO-DIMM) DDR4-3200 offeringStorage Capacity 512GBStorage Type M.2 PCIe 4.0x4 NVMe SSDStorage Support Models with 45Wh battery: one drive 1x M.2 SSD 1x M.2 SSD up to 512GB SSDGraphics Model Integrated AMD Radeon GraphicsGraphics Memory SharedKeyboard Type Non-backlit, English (EU)TouchPad Buttonless Mylar surface multi-touch touchpad, Supports Precision TouchPad (PTP), 62 x 104 mm (2.44 x 4.09 inches)NumberPad YesWebCam HD 720p with Privacy ShutterSpeaker Stereo speakers 1.5W x2, Dolby AudioMicrophone 2x, ArrayAudio Features High Definition (HD) Audio, Realtek ALC3287 codec Dolby AudioHDMI Port 1x HDMI 1.4bUSB 2 Port 1x USB 2.0USB 3 Port 1x USB 3.2 Gen 1Headphone & Microphone Port 1x Headphone/microphone combo jack (3.5mm)USB Type-C / Th …
+
+---
+
+
+## ASUS Vivobook 15 X1504ZA-NJ1453W 12th Gen Core i7 16GB RAM 512GB SSD 15.6" FHD Laptop  
+**DocID:** `daraz_536043226`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-15-x1504za-nj1453w-12th-i7-16gb-ram-512gb-ssd-156-fhd-i536043226.html
+**Price:** ৳ 88,690  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: 12th Gen Intel Core i7-1255U RAM & Storage: 16GB DDR4 Memory, 512GB M.2 NVMe PCIe 4.0 SSD Graphics: Intel Iris Xᵉ Graphics Display: 15.6-inch Full HD (1920 x 1080) Certifications: US MIL-STD 810H military-grade standard Processor Model Intel Core i7-1255U ProcessorProcessor Frequency Up to 4.7 GHzProcessor Core 10 CoresProcessor Thread 12 ThreadsCPU Cache 12M CacheDisplay Size 15.6-inchDisplay Resolution FHD (1920 x 1080) 16:9 aspect ratioDisplay Features Anti-glare displayTÜV Rheinland-certified84%Brightness 250nitsRefresh Rate 60HzColor Gamut 45% NTSC color gamutRAM 16GB(8GB DDR4 on board)(8GB DDR4 SO-DIMM)RAM Type DDR4*Dual-channel memory support requires at least one SO-DIMM module.Total RAM Slot 1x DDR4 SO-DIMM slotStorage Capacity 512GBStorage Type M.2 NVMe PCIe 4.0 SSDStorage Support 1x M.2 2280 PCIe 4.0x4Graphics Model Intel Iris Xᵉ Graphics*Intel Iris Xᵉ Graphics is only available in models with Intel Core i5/i7/i9 processors and dual-channel memory.Graphics Memory SharedKeyboard Type Backlit Chiclet KeyboardTouchPad Precision TouchpadWebCam 720p HD camera; With privacy shutterSpeaker Built-in speakerMicrophone Built-in array MicrophoneAudio Features SonicMasterwith Cortana voice-recognition supportHDMI Port 1x HDMI 1.4USB 2 Port 1x USB 2.0 Type-A (data speed up to 480Mbps)USB 3 Port 2x USB 3.2 Gen 1 Type-A (data speed up to 5Gbps)Headphone & Microphone Port 1x 3.5mm Combo Audio JackUSB Type-C / Thunderbolt Port 1x USB 3.2 Gen 1 Type-C (data speed up to 5G …
+
+---
+
+
+## HP - 15s-du3786TU - 11th Gen - i3-1115G4 3.0 to 4.1GHz - 4GB RAM - 1TB HDD - 15.5 Inch FHD - Laptop  
+**DocID:** `daraz_214182418`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-15s-du3786tu-11th-gen-i3-1115g4-30-to-41ghz-4gb-ram-1tb-hdd-155-inch-fhd-laptop-i214182418.html
+**Price:** ৳ 57,400  
+**Rating:** 0.0/5
+
+**Description:**
+HP 15s-du3786TU 11th Gen i3-1115G4 3.0 to 4.1GHz, 4GB RAM, 1TB HDD, 15.5 Inch FHD Laptop Intel Core i3-1115G4 (up to 4.1 GHz, 6 MB L3 cache, 2 cores) 4 GB DDR4-2666 MHz RAM 1 TB 5400 rpm SATA HDD Intel UHD Graphics 15.6" FHD (1920 x 1080) IPS Display Battery type: 3-cell, 41 Wh Li-ion Spill-resistant Keyboard 2 Years Warranty Specification:Brand: HPModel:15s-du3786TUProcessor: Intel Core i3-1115G4 (up to 4.1 GHz, 6 MB L3cache, 2 cores)Display:15.6" diagonal, FHD (1920 x 1080),micro-edge, anti-glare, 250 nits, 45% NTSCMemory:4 GB DDR4-2666 MHz RAMStorage: 1 TB 5400 rpm SATA HDDGraphics: Intel UHD GraphicsOperating System: Windows 10 HomeBattery type:3-cell, 41 Wh Li-ionKeyboard: Spill-resistant KeyboardWeb Cam: HP True Vision 720p HD camera with integrateddual array digital microphonesLAN: Integrated 10/100/1000 GbE LANWi-Fi: Realtek RTL8822CE 802.11a/b/g/n/ac (2x2) Wi-FiBluetooth: Bluetooth 5Network Interface: Integrated 10/100/1000 GbE LANExpansion Slots:1 multi-format SD media card readerExternal Ports:1 SuperSpeed USB Type-C 5Gbps signalingrate; 2 SuperSpeed USB Type-A 5Gbps signaling rate; 1 HDMI 1.4b; 1 RJ-45; 1 ACsmart pin; 1 headphone/microphone comboSupported SSD Type: M.2 NVMeDimensions (W x D x H):35.85 x 24.2 x 1.99 cmWeight: 1.75 kgWarranty: 02 Years Warranty (Terms & condition Apply As Per HP)
+
+---
+
+
+## Asus Vivobook 15 OLED (M1505YA-L1238) – AMD Ryzen 7 7730U, 16 GB DDR4 RAM, 512 GB SSD, AMD Radeon Graphics, 15.6″ FHD OLED Display, Windows 11  
+**DocID:** `daraz_537115499`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-15-oled-m1505ya-l1238-amd-7-677730u-16-ddr4-ram-512-gb-ssd-amd-156-fhd-oled-windows-11-i537115499.html
+**Rating:** 0.0/5
+
+**Description:**
+Powerful AMD Ryzen 7 7730U processor (8 cores, 16 threads, up to 4.5 GHz boost) 16 GB DDR4 RAM (8 GB onboard + 8 GB slot, dual-channel) for smooth multitasking Fast and spacious 512 GB PCIe NVMe SSD storage Stunning 15.6″ Full HD OLED display with rich colors, deep blacks, and quick 0.2 ms response Integrated AMD Radeon Graphics for everyday visuals and light creative work Modern connectivity: USB‑C, USB‑A, HDMI, combo audio jack, DC-in Features backlit keyboard, fingerprint sensor, privacy-shutter webcam, and SonicMaster audio Lightweight design, around 1.70 kg, ideal for work or study on the go Advanced wireless with Wi‑Fi 6E and Bluetooth 5.3 Durable build tested to MIL‑STD‑810H standards The Asus Vivobook 15 OLED (M1505YA-L1238) is designed to deliver a premium visual experience alongside solid everyday performance. Powered by the AMD Ryzen 7 7730U, this laptop handles multitasking, office work, streaming, and creative tasks with ease. With 16 GB of DDR4 RAM in dual-channel and a 512 GB PCIe SSD, it boots quickly and keeps apps running smoothly.The centerpiece is its 15.6-inch Full HD OLED display, offering brilliant contrast, vibrant colors, and a fast 0.2 ms response time, making it perfect for both work and entertainment. The integrated AMD Radeon Graphics manages daily graphics needs effortlessly. Additional features like the backlit keyboard, fingerprint login, privacy shutter on the webcam, and SonicMaster-tuned speakers improve usability.Connectivity is comprehensi …
+
+---
+
+
+## ASUS Vivobook Go 15 E1504FA-BQ522 Ryzen 5 7520U 16GB RAM 512GB SSD 15.6-inch FHD Laptop  
+**DocID:** `daraz_536019376`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-go-15-e1504fa-bq522-5-7520u-16gb-ram-512gb-ssd-156-fhd-i536019376.html
+**Price:** ৳ 74,220  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: AMD Ryzen 5 7520U RAM & Storage: 16GB LPDDR5 Memory, 512GB M.2 NVMe PCIe 3.0 SSD Graphics: AMD Radeon Graphics Display: 15.6-inch Full HD (1920 x 1080) Certification: US MIL-STD 810H military-grade standard Processor Model Ryzen 5 7520UProcessor Frequency Up to 4.3GHzProcessor Core 4 coresProcessor Thread 8 ThreadsCPU Cache 6MB CacheDisplay Size 15.6-inchDisplay Type IPS-level PanelDisplay Resolution Full HD (1920 x 1080)Display Features Anti-glare displayTÜV Rheinland-certifiedAspect Ratio: 16:9Screen-to-body ratio: 84%Brightness 250nitsRefresh Rate 60Hz refresh rateColor Gamut 45% NTSCRAM 16GB (Onboard)RAM Type LPDDR5Storage Capacity 512GBStorage Type M.2 NVMe PCIe 3.0 SSDStorage Support 1x M.2 2280 PCIe 3.0x2Graphics Model AMD Radeon GraphicsGraphics Memory SharedKeyboard Type Backlit Chiclet KeyboardTouchPad Precision TouchpadNumberPad YesWebCam 720p HD cameraWith privacy shutterSpeaker Built-in speakerMicrophone Built-in array microphoneAudio Features SonicMasterwith Cortana voice-recognition supportHDMI Port 1x HDMI 1.4USB 2 Port 1x USB 2.0 Type-A (data speed up to 480Mbps)USB 3 Port 1x USB 3.2 Gen 1 Type-A (data speed up to 5Gbps)Headphone & Microphone Port 1x 3.5mm Combo Audio JackUSB Type-C / Thunderbolt Port 1x USB 3.2 Gen 1 Type-C (data speed up to 5Gbps)Power connector 1x DC-inWiFi Wi-Fi 6E(802.11ax) (Dual band) 1*1Bluetooth Bluetooth 5.3 Wireless Card (*Bluetooth version may change with OS version different.)Security Chip Trusted Platform Module (Firmw …
+
+---
+
+
+## Lenovo Yoga Slim 7i (82EV00AFIN-3Y) 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 1TB SSD, Win 11 Home, 13.3 Inch WQXGA Laptop  
+**DocID:** `daraz_313267115`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-yoga-slim-7i-82ev00afin-3y-11th-gen-core-i7-1165g7-28-to-47ghz-16gb-1tb-ssd-win-11-home-133-inch-wqxga-laptop-i313267115.html
+**Price:** ৳ 186,000  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo Yoga Slim 7i (82EV00AFIN-3Y) 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 1TB SSD, Win 11 Home, 13.3 Inch WQXGA LaptopIntel 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 4 Cores, 8 Threads, 12MB Cache16GB 4266MHz DDR4 RAM1TB M.2 NVME SSD13.3 Inch WQXGA (2560x1600) IPS DisplayIntel Iris Xe GraphicsWindows 11 Home3 Years Official Brand WarrantySpecification:Brand: LenovoModel: Yoga Slim 7iProduct No: 82EV00AFINColor: Moon WhiteProcessor: Intel 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 4 Cores, 8 Threads, 12MB CacheMemory: 16GB 4266MHz DDR4 RAMStorage: 1TB M.2 NVME SSDGraphics: Intel Iris Xe GraphicsDisplay: 13.3" WQXGA (2560x1600) Low power IPS 300nits Anti-glare, 100% sRGBOperating System: Windows 11 HomeOffice Application: MS Office 2021Keyboard: Standard Backlit keyboardSpeaker: Stereo Speakers, 2W x2, Dolby AudioMicrophone: 2x, ArrayWebCam: HD 720p + IR, ToF SensorWiFi: Wi-Fi 6 11ax, 2x2Bluetooth: Bluetooth 5.1USB(s): 1x USB-C 3.2 Gen 2, 2x Thunderbolt 4, 1x USB-C 3-in-1 HubAudio Jack: 1x Headphone/Microphone ComboBattery: 50Wh Li-ionAdapter: 65W adapterDimensions (W x D x H): 295.88 x 208.85 x 14.25-15 mmWeight: 966g Warranty: 3 Years (1 Year for Battery & Adapter)
+
+---
+
+
+## HP 15-fd0292TU (A0MW3PA) Intel Core i5-1334U 13th Gen, 1.30 to 4.60 GHz, 8GGB SSD, Windows 11, 15.6 Inch FHD Display Moonlight Blue Laptop  
+**DocID:** `daraz_523105941`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-15-fd0292tu-a0mw3pa-intel-core-i5-1334u-13th-gen-130-460-ghz-8ggb-ssd-windows-11-156-fhd-moonlight-i523105941.html
+**Price:** ৳ 77,100  
+**Rating:** 0.0/5
+
+**Description:**
+Intel Core i5-1334U 13th Gen, 1.3 to 4.6GHz, 10 Cores, 12 Threads, 12MB L3 CPU Cache Processor 8GB DDR4 3200MHz RAM 512GB PCle NVme M.2 SSD 15.6 Inch (1920 x 1080) FHD Display Intel Iris Xe Graphics Windows 11 Home (Genuine) 2 Years Brand Warranty HP 15-fd0292TU (A0MW3PA) Intel Core i5-1334U 13th Gen, 1.30 to 4.60 GHz, 8GGB SSD, Windows 11, 15.6 Inch FHD Display Moonlight Blue Laptop Brand: HPModel: 15-fd0292TUPart Number: A0MW3PABody Color: Moonlight BlueProcessor: Intel Core i5-1334U 13th Gen 1.30 to 4.60 GHz, 10 Cores, 12 Threads, 12MB L3 Cache ProcessorMemory: 8GB DDR4 3200 MHz RAMStorage: 512GB PCle NVme M.2 SSDGraphics: Intel Iris Xe GraphicsDisplay: 15.6 Inch (1920 X 1080) FHD DisplayOperating System: Windows 11 HomeWi-Fi: Realtek Wi-Fi 6 (2X2)Bluetooth Version: 5.3Keyboard: Full Size Soft Grey Keyboard with Numeric KeypadPointing Device: TouchpadWebCam: 720P HDAudio: Dual Speakers & Integrated Dual Array Digital MicrophonesExternal Ports: 2 X USB Type-A, 1 X USB Type-C, 1 X HDMI, 1 X Headphone & Microphone Combo PortBattery: Li-ion 41Wh 3 CellAdapter: 45W Smart AC Power AdapterIn the Box: Laptop, Bag, Battery, Power Cables, Adapter, User Manual Guide.County of Origin: USADimension: 359.8 X 236 X 18.6 mmWeight: 1.59 KgWarranty: 2 Years Brand Warranty
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15IRU10 (83KD000QLK) Intel Core 3-100U 8GB RAM 512GB SSD 15.3-inch WUXGA Laptop  
+**DocID:** `daraz_548714269`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-ideapad-slim-3i-15iru10-83kd000qlk-intel-core-3-100u-8gb-ram-512gb-ssd-153-inch-wuxga-laptop-i548714269.html
+**Price:** ৳ 58,500  
+**Rating:** 0.0/5
+
+**Description:**
+Certifications: MIL-STD-810H military Test Passed Webcam: FHD 1080p + IR with Privacy Shutter RAM & Storage: 8GB DDR5 Memory, 512GB M.2 PCIe 4.0x4 NVMe SSD Storage Support: 2x M.2 SSD (M.2 2242 SSD up to 1TB) Display: 15.3-inch WUXGA (1920x1200) with TÜV Rheinland Low Blue Light Certification Processor BrandIntelProcessor ModelIntel Core 3 100UProcessor FrequencyUp to 4.7GHzProcessor Core6 Core (2P + 4E)Processor Thread8 ThreadsCPU Cache10MBChipsetIntel SoC PlatformDisplay Size15.3-inchDisplay TypeIPSDisplay ResolutionWUXGA (1920x1200)Display FeaturesAnti-glareBrightness300nitsColor Gamut45% NTSCRAM8GB SolderedRAM TypeDDR5-4800UpgradeableYesTotal RAM SlotOne memory soldered to system boardOne DDR5 SO-DIMM slotDual-channel capableMax MemoryUp to 24GB (8GB soldered + 16GB SO-DIMM)DDR5-4800 offeringStorage Capacity512GBStorage TypeM.2 2242 PCIe 4.0x4 NVMe SSDExtra M.2 SlotYesStorage SupportMax Storage Support:Up to two drives, 2x M.2 SSDM.2 2242 SSD up to 1TBStorage Slot:Two M.2 2242 PCIe 4.0 x4 slotsGraphics ModelIntegrated Intel GraphicsGraphics MemorySharedKeyboard TypeNon-backlit, English (EU)TouchPadButtonless Mylar surface multi-touch touchpadSupports Precision TouchPad (PTP)75 x 120 mm (2.95 x 4.72 inches)NumberPadYesWebCamFHD 1080p + IR with Privacy ShutterSpeakerStereo speakers2W x2, optimized with Dolby AudioMicrophone2x, ArrayAudio FeaturesHigh Definition (HD) AudioCard Reader1x SD card readerHDMI Port1x HDMI 1.4USB 3 Port2x USB-A (USB 5Gbps / USB 3.2 Gen 1)Headphone …
+
+---
+
+
+## Lenovo Yoga Slim 7i Carbon #82EV006JIN# 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 1TB SSD, Win10 13.3 Inch Laptop  
+**DocID:** `daraz_216234503`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-yoga-slim-7i-carbon-82ev006jin-11th-gen-core-i7-1165g7-28-to-47ghz-16gb-1tb-ssd-win10-133-inch-laptop-i216234503.html
+**Price:** ৳ 142,200  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo Yoga Slim 7i Carbon #82EV006JIN# 11th Gen Core i7-1165G7 Model: YOGA Slim 7i Carbon Intel Core i7-1165G7 Processor (12M Cache, 2.8 to 4.7GHz) 16GB DDR4 4266MHz RAM 1TB NVMe PCIe 4.0 SSD 13.3″ QHD (2560×1600) IPS Display SpecificationProcessor: Intel Core i7-1165G7 Processor (12M Cache, 2.80 GHz up to 4.70 GHz)Display: 13.3″ QHD (2560×1600) Low power IPS 300nits Anti-glare, 100% sRGB, Dolby VisionMemory: 16GB DDR4 4266MHz RAMStorage: 1TB M.2 2280 PCIe 4.0×4 NVMe SSDGraphics: Intel Iris Xe GraphicsOperating System: Win10 HomeBattery: Integrated 50WhAdapter: 65W USB-C Slim (3-pin)Audio: High Definition (HD) AudioStereo speakers, 2W x2, Dolby Atmos, Harman Speakers2x, Array MicrophoneSpecial Feature: Firmware TPM 2.0OfficeOffice Home and Student 2019Optical Drive: N/AWebCam: 720p + IR + ToF SensorWi-Fi: 11ax, 2×2Bluetooth: Bluetooth 5.1USB (s): 1x USB-C 3.2 Gen 2 (support data transfer, Power Delivery 3.0, DisplayPort 1.4 and Always On)2x Thunderbolt 4 / USB4 40Gbps (support data transfer, Power Delivery 3.0 and DisplayPort 1.4)Audio Jack Combo: 1x Headphone / microphone combo jack (3.5mm)Extra RAM Slot: N/AExtra M.2 Slot: N/ASupported SSD Type: NVMeDimensions (W x D x H): 295.88 x 208.85 x 14.25-15 mmWeight: 966gColor(s): Moon WhiteBody Material: Carbon Fiber (Top), Magnesium-aluminium (Bottom)Warranty: 2 Years
+
+---
+
+
+## HP Envy x360 Convertible 14-ES0033 13th Gen Core i7-1355U 3.7 to 5GHz, 16GB, 1TB SSD, Windows 11, 14" IPS FHD Touch Laptop  
+**DocID:** `daraz_351642766`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-envy-x360-convertible-14-es0033-13th-gen-core-i7-1355u-37-to-5ghz-16gb-1tb-ssd-windows-11-14-ips-fhd-touch-laptop-i351642766.html
+**Rating:** 0.0/5
+
+**Description:**
+HP Envy x360 Convertible 14-ES0033 13th Gen Core i7-1355U 3.7 to 5GHz, 16GB, 1TB SSD, Windows 11, 14" IPS FHD Touch LaptopIntel 13th Gen Core i7-1355U 3.7 to 5GHz, 10 Cores, 12 Threads, 12MB cache16GB DDR4 3200MHz RAM1TB PCIe NVMe M.2 SSD14" FHD (1920 x 1080) IPS Touch DisplayIntel Iris Xe GraphicsWindows 11 Home2 Years Seller WarrantySpecification:Brand: HPSeries: ENVYModel: 14-es0033Color: Natural SilverProcessor: Intel 13th Gen Core i7-1355U 3.7 to 5GHz, 10 Cores, 12 Threads, 12MB cacheMemory: 16GB DDR4 3200MHz RAMStorage: 1TB PCIe NVMe M.2 SSDDisplay: 14" FHD (1920 x 1080), multitouch-enabled, IPS, edge-to-edge glass, micro-edge, 300 nits, 100% sRGBGraphics: Intel Iris Xe GraphicsOperating System: Windows 11 HomeKeyboard: Full-size, Backlit, Natural Silver KeyboardWeb Camera: HP True Vision 5MP IR camera with Camera Shutter,Audio: Audio by Bang & Olufsen; Dual speakers, Integrated dual Array MicWiFi: Intel Wi-Fi 6E AX211 (2x2)Bluetooth: Bluetooth 5.3USB: 2x Thunderbolt 4 with USB Type-C 40Gbps (USB Power, DP1.4); 1x USB Type-A 10Gbps (Sleep and Charge); 1x USB Type-A 10GbpsCard Reader: 1 microSD Media Card ReaderAudio Jack: 1 Headphone/Microphone ComboBattery: 4-cell, 66 Wh Li-ion PolymerAdapter: 65W USB Type-C power adapterDimensions (W x D x H): 298 x 215 x 16 mmWeight: 1.34 kgWarranty: 2 Years
+
+---
+
+
+## Dell Inspiron 15 3501 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 1TB HDD + 128GB SSD, Windows 10 Home, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_275327479`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Dell  
+**URL:** https://www.daraz.com.bd/products/dell-inspiron-15-3501-11th-gen-i3-1115g4-3-to-41ghz-8gb-1tb-hdd-128gb-ssd-windows-10-home-156-inch-fhd-laptop-i275327479.html
+**Price:** ৳ 59,000  
+**Rating:** 0.0/5
+
+**Description:**
+Dell Inspiron 15 3501 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 1TB HDD + 128GB SSD, Windows 10 Home, 15.6 Inch FHD Laptop Intel Core i3-1115G4 3 to 4.1GHz, 2 Cores, 4 Threads, 6M Cache 8GB 3200MHz DDR4 RAM 1TB HDD + 128GB SSD Intel UHD Graphics 15.6 Inch FHD (1920x1080) Display 2 Years Official Brand Warranty Specification:Brand:DellModel:Inspiron 15 3501Color:Silver, BlackProcessor:Intel Core i3-1115G4 3 to 4.1GHz, 2 Cores, 4 Threads,6M CacheDisplay:15.6" FHD(1920x1080), Anti-Glare DisplayMemory:8GB 3200MHz DDR4 RAMStorage:1TB HDD + 128GB SSDGraphics:Intel UHD GraphicsOperating System:Windows 10Battery:3-Cell, 42Wh battery unitKeyboard:Standard KeyboardCard Reader:1 x SD Card ReaderWi-Fi:Wireless802.11ac 1x1Bluetooth:YesUSB (s):1 x USB 2.0 Gen 1 Type-A,2 x USB 3.2 Gen 1 Type-AHDMI:1 x HDMI 1.4bAudio Jack Combo:1 combo headphone / microphone jackExtra RAM Slot:YesSupported SSD Type:m.2 NVMe SSDDimensions (H x W x D):18 X 363.96 X 249mmWeight:2.2 kgWarranty:02 Years Warranty
+
+---
+
+
+## Asus VivoBook 15 X1504VA (NJ739N) 13th Gen Core i3-1315U 1.20 to 4.5 GHz 16GB, 512GB SSD, 15.6 inch FHD Laptop  
+**DocID:** `daraz_535984851`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-vivobook-15-x1504va-nj739n-13th-gen-core-i3-1315u-120-to-45-ghz-16gb-512gb-ssd-156-inch-fhd-laptop-i535984851.html
+**Price:** ৳ 63,600  
+**Rating:** 0.0/5
+
+**Description:**
+Intel 13th Gen i3-1315U 1.20 to 4.5 GHz,6 Core,8 Thread,10MB Cache Processor 16GB DDR4 RAM 512GB NVMe PCIe SSD 15.6 Inch (1920 X 1080) FHD Display 2 Years Official Warranty Specification:Brand: AsusSeries: VivoBookModel: Asus VivoBook 15 X1504VAPart No: NJ739NProduct Type: TraditionalForm Factor: ClamshellBody Material: PlasticBody Color: Quiet BlueProcessor Brand: IntelProcessor Type: Core i3Processor Model: i3-1315UGeneration: 13th GenProcessor Frequency: 1.20 to 4.50 GHzCore: 6Thread: 8CPU Cache: 10MBRAM Capacity: 16GBRAM Details: 16GB ( 8GB Non Removable)RAM Type: DDR4RAM Slot: YesEmpty RAM Slot: 1Max. RAM Support: 16GBStorage: 512GB SSDStorage Type: SSDSSD Interface: M.2 NVMe PCIe 3.0Display Size: 15.6 InchDisplay Resolution (Pixel): 1920x1080Display Type: Full HDDisplay Refresh Rate: 60HzDisplay Feature: LED Backlit, 16:9 aspect ratio, 45% NTSC color gamutDisplay Brightness: 250nitsGraphics Card: Intel UHDGraphics Memory: IntegratedGraphics Memory Size: SharedPre-loaded Application: MyASUS, ScreenXpert, GlideXSecurity Chip: Firmware TPMCamera Resolution: 720p HDKeyboard Layout: Chiclet KeyboardNumeric Key pad: YesPointing Device: TouchPadAudio System: SonicMasterBuilt-in Speakers: YesNo of Built-in Speakers: 2Built-in Microphone: YesNo of Microphones: 1WiFi: Wi-Fi 5(802.11ac) (Dual band)Bluetooth: Bluetooth 5.2USB 2 Port: 1 x USB 2.0USB 3 Port: 2 x USB 3.2 Gen 1 USB Type C: 1x USB 3.2 Gen 1HDMI Port: 1x HDMI 1.4Combo Audio Jack: 1x 3.5mm Combo Audio JackBattery Capacity …
+
+---
+
+
+## Tecno Megabook K15SDA Ryzen 5 7430U 2.3GHz to 4.3GHz, 16GB, 512GB SSD, 15.6 Inch FHD LED Laptop  
+**DocID:** `daraz_555780339`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Tecno  
+**URL:** https://www.daraz.com.bd/products/tecno-megabook-k15sda-ryzen-5-7430u-23ghz-to-43ghz-16gb-512gb-ssd-156-inch-fhd-led-laptop-i555780339.html
+**Price:** ৳ 59,700  
+**Rating:** 0.0/5
+
+**Description:**
+AMD Ryzen 5 7430U 2.3GHz to 4.3GHz, 6 Core, 12 Thread, 19MB Cache Processor 15.6 Inch (1980 x 1080) FHD LED Display 512GB NVMe PCIe SSD 16GB 3200MHz LPDDR4 RAM AMD Radeon Graphics 2 Years Brand Warranty Brand: TecnoModel: Megabook K15SDAProduct Type: TraditionalForm Factor: ClamshellBody Color: Moonshine SilverBody Material: Metal + PlasticProcessor Brand: AMDProcessor Type: Ryzen 5Processor Model: Ryzen 5 7430UGeneration: Ryzen 7000 SeriesProcessor Frequency: 2.3GHz to 4.3GHzCore: 6Thread: 12CPU Cache: 19MBRAM Capacity: 16GBRAM Details: 1 x 16GB RemovableRAM Type: LPDDR4RAM Speed: 3200MHzRAM Slot: 2Empty RAM Slot: 1Max. RAM Support: 32GBStorage: 512GBStorage Type: SSDSSD Interface: PCle 3.0Compatible Memory Cards: TF CardDisplay Size: 15.6 InchDisplay Resolution (Pixel): 1920 x 1080Display Type: FHD LED DisplayDisplay Refresh Rate: 60 HzLED Backlight: YesAnti-Glare Screen: YesNative Aspect Ratio: 16:9Display Brightness: 300 nitsColor Gamut: 45% NTSCGraphics Card: AMD RadeonGraphics Memory: IntegratedGraphics Memory Size: SharedOperating System: Free DosPre-loaded Application: Tecno PC Manager, OSD APPFinger Print Sensor: YesSecurity Chip: Firmware TPMCable Lock Slot: YesRear Camera Resolution: 1MPKeyboard Layout: Chiclet KeyboardPointing Device: TouchpadAudio System: AI Conference, DTS Immersive SoundBuilt-in Speakers: YesBuilt-in Microphone: YesNo of Microphones: 2WiFi: WiFi 5Bluetooth: Bluetooth 5.1Ethernet LAN: YesUSB 3 Port: 2 x USB 3.1USB Type C: 1 x USB Type-C (Charge) …
+
+---
+
+
+## Lenovo Yoga Slim 7i #82BH00D8IN# 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 1TB SSD, Win10, 14 Inch Laptop  
+**DocID:** `daraz_216233049`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-yoga-slim-7i-82bh00d8in-11th-gen-core-i7-1165g7-28-to-47ghz-16gb-1tb-ssd-win10-14-inch-laptop-i216233049.html
+**Price:** ৳ 138,000  
+**Rating:** 0.0/5
+
+**Description:**
+Lenovo Yoga Slim 7i #82BH00D8IN# 11th Gen Core i7-1165G7 Model: YOGA Slim 7i Intel Core i7-1165G7 Processor (12M Cache, 2.8 to 4.7GHz) 16GB DDR4 3200Mhz RAM 1TB NVMe SSD 14″ FHD (1920×1080) Touch Display SpecificationProcessor: Intel Core i7-1165G7 Processor (12M Cache, 2.80 GHz up to 4.70 GHz)Display: 14″ FHD (1920×1080) IPS 300nits Glossy AGC DRAGONTAIL Glass 10P Touch DisplayMemory: 16GB DDR4 3200Mhz RAMStorage: 1TB NVMe SSDGraphics: Intel Iris Xe GraphicsOperating System: Win10 HomeBattery: Fast Charging Enable. Up to 14 Hours.Based on testing with Mobile Mark 2014. Battery life varies significantly with settings, usage, and other factors.Audio: Audio Combo JackOptical Drive: N/AWebCam: 720p + IR + ToF SensorCard Reader: 4-in-1 Card Reader (SD, SDHC, SDXC, MMC)Wi-Fi: 802.11ac, 2×2 Wireless LANBluetooth: Bluetooth 5.0USB (s): 2 x USB 3.1 Gen 2 , USB-C (Thunderbolt + DP + Power Delivery)HDMI: 1x HDMIAudio Jack Combo: YesExtra RAM Slot: N/AExtra M.2 Slot: N/ASupported SSD Type: NVMeDimensions (W x D x H): 321.6mm X 208.18mm X 14.9mmWeight: 1.55 KGColor(s): SLATE GREYWarranty: 2 Years
+
+---
+
+
+## ASUS Zenbook 14 (UM3402YA-KP301W) AMD Ryzen 7 16GB RAM 512GB SSD Laptop  
+**DocID:** `daraz_536221990`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-zenbook-14-um3402ya-kp301w-amd-7-16gb-ram-512gb-ssd-i536221990.html
+**Rating:** 0.0/5
+
+**Description:**
+CPU: AMD Ryzen 7 5825U Mobile Processor RAM: LPDDR4X 16GB Storage: 512GB M.2 NVMe PCIe 3.0 SSD IGPU: AMD Radeon Graphics Display: 14.0-inch WQXGA (2560 x 1600) 16:10 aspect ratio The ASUS Zenbook 14 UM3402YA-KP301W is a premium ultraportable laptop powered by the AMD Ryzen 7 7730U processor. It features a stunning 14″ WUXGA OLED display with vibrant visuals and a 90Hz refresh rate. Its 16GB RAM and 512GB SSD ensure high performance and responsiveness. With a sleek Jade Black chassis, long battery life, and smart AI features, it’s perfect for professionals on the go.
+
+---
+
+
+## HP 15-fc0266AU AMD Ryzen 3 7320U 8GB RAM 512GB SSD 15.6 Inch FHD Display Natural Silver Laptop  
+**DocID:** `daraz_549116763`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-15-fc0266au-amd-3-7320u-8gb-ram-512gb-ssd-156-fhd-i549116763.html
+**Price:** ৳ 51,500  
+**Rating:** 0.0/5
+
+**Description:**
+Laptop Brand - HP, Laptop Series - 15, Laptop Model - HP 15-fc0266AU, Processor Brand - AMD, Processor Type - Ryzen 3, Processor Generation - Ryzen, Processor Model - Ryzen 3 7320U, Processor Base Frequency - 2.40GHz, Processor Max Turbo Frequency - 4.10GHz, Processor Core - 4, Processor Thread - 8, Processor Cache - 6MB, NPU - No, Chipset - AMD integrated SoC, Display Size - 15.6 Inch, Display Technology - FHD LED Display, Display Resolution - 1920x1080, Coating Technology - Anti-Glare, Touch Display - No, Display Refresh Rate - Unmentioned, Display Bezel - Slim Bezel, Brightness - 250 Nits, Display Features - Micro-edge, 45% NTSC, Screen-to-body ratio (without speakers) 85%, Secondary Screen Size - No Secondary Screen, Secondary Screen Technology - No Secondary Screen, Secondary Screen Resolution - No Secondary Screen, Memory (RAM) - 8GB, Installed Memory Details - 1 x 8GB Non Removable, Memory Type - LPDDR5, Memory Bus (MHz) - 5500MHz, Total Memory Slot - Unmentioned, Empty Memory Slot - Unmentioned, Max Memory Support - Unmentioned, Storage - 512GB SSD, Installed HDD Type - No HDD, HDD RPM - No HDD, HDD Expansion Slot - Unmentioned, Installed SSD Type - NVMe PCIe, SSD Expansion Slot - Unmentioned, Storage Upgrade - Unmentioned, Optical Drive - No-ODD, Graphics Chipset - AMD Radeon 610M Graphics, Graphics Memory Accessibility - Integrated, Graphics Memory - Shared, Graphics Memory Type - Not Applicable, LAN - No, WiFi - Realtek Wi-Fi 6 (1x1), Bluetooth - Bluetooth 5.3, USB …
+
+---
+
+
+## Lenovo ThinkPad E14 Gen 6 Core Ultra 5 125H 16GB RAM 512GB SSD 14.0-inch WUXGA Copilot+ PC  
+**DocID:** `daraz_536030679`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** Lenovo  
+**URL:** https://www.daraz.com.bd/products/lenovo-thinkpad-e14-gen-6-core-ultra-5-125h-16gb-ram-512gb-ssd-140-wuxga-copilot-pc-i536030679.html
+**Price:** ৳ 107,060  
+**Rating:** 0.0/5
+
+**Description:**
+Intel Core Ultra 5 125H Processor (14 Cores, up to 4.5 GHz, 18MB Cache) 16GB LPDDR5x RAM, 512GB PCIe Gen4 SSD Storage 14-inch FHD+ (1920 x 1200) IPS, 300 nits Anti-glare Display Intel Arc Graphics (Integrated) Copilot+ AI features for next-level productivity Full range of ports: USB-C, USB-A, HDMI, RJ-45, Audio Combo Jack Backlit keyboard, Fingerprint reader Lightweight and durable chassis, 1.41 kg Lenovo ThinkPad E14 Gen 6 (21M7S0R800) Core Ultra 5 125H 16GB RAM 512GB SSD 14.0-inch WUXGA Copilot+ PCLenovo ThinkPad E14 Gen 6 (21M7S0R800) Core Ultra 5 125H 16GB RAM 512GB SSD 14.0-inch WUXGA Copilot+ PC is a versatile and efficient laptop designed for business users. This laptop is equipped with an Intel Core Ultra 5-125H Processor with Intel AI Boost, which provides up to 4.5GHz frequency of clock speed with an 18MB cache. This high-frequency processor ensures efficient performance for everyday tasks and multitasking. It comes with 16GB DDR5-5600MHz Bus memory. The laptop has a respective 512GB M.2 NVMe SSD with an Unoccupied SSD Slot. The NVMe SSD provides ample space for storing your files, documents, multimedia content, and software applications with a faster response time. It has Integrated Intel Arc Graphics, one of the world's most powerful notebook graphics. Lenovo ThinkPad E14 Gen 6 comes with a stunning 14.0-inch WUXGA (1920x1200) IPS display with a 300-nits brightness.A 3-cell 57Wh Internal battery is included for long-term backup powering it. For the fastest wireles …
+
+---
+
+
+## Asus VivoBook 15 X1504VA (NJ725) 13th Gen Core i3-1315U 1.20 to 4.5 GHz 8GB, 512GB SSD, 15.6-inch FHD Laptop  
+**DocID:** `daraz_536001376`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-vivobook-15-x1504va-nj725-13th-gen-core-i3-1315u-120-to-45-ghz-8gb-512gb-ssd-156-inch-fhd-laptop-i536001376.html
+**Price:** ৳ 62,000  
+**Rating:** 0.0/5
+
+**Description:**
+Intel 13th Gen i3-1315U 1.20 to 4.5 GHz,6 Core,8 Thread,10MB Cache Processor 8GB DDR4 RAM 512GB NVMe PCIe SSD 15.6 Inch (1920 X 1080) FHD Display 2 Years Official Warranty Specification:Brand: Asus Series: VivoBookModel: Asus VivoBook 15 X1504VAPart No: NJ725Product Type: TraditionalForm Factor: ClamshellBody Material: PlasticBody Color: Cool SilverProcessor Brand: IntelProcessor Type: Core i3Processor Model: i3-1315UGeneration: 13th GenProcessor Frequency: 1.20 to 4.50 GHzCore: 6Thread: 8CPU Cache: 10MBRAM Capacity: 8GBRAM Details: 1x 8GB (Non Removable)RAM Type: DDR4RAM Speed: 3200MHzRAM Slot: YesEmpty RAM Slot: 1Max. RAM Support: 16GBStorage: 512GB SSDStorage Type: SSDSSD Interface: M.2 NVMe PCIe 3.0Display Size: 15.6 InchDisplay Resolution (Pixel): 1920x1080Display Type: Full HDDisplay Refresh Rate: 60HzDisplay Feature: LED Backlit, 16:9 aspect ratio, 45% NTSC color gamutDisplay Brightness: 250nitsGraphics Card: Intel UHDGraphics Memory: IntegratedGraphics Memory Size: SharedPre-loaded Application: MyASUS, ScreenXpert, GlideXOperating System: Free-DosSecurity Chip: Firmware TPMCamera Resolution: 720p HDKeyboard Layout: Chiclet KeyboardNumeric Key pad: YesPointing Device: TouchPadAudio System: SonicMasterBuilt-in Speakers: YesNo of Built-in Speakers: 2Built-in Microphone: YesNo of Microphones: 1WiFi: Wi-Fi 5(802.11ac) (Dual band)Bluetooth: Bluetooth 5.2USB 2 Port: 1 x USB 2.0USB 3 Port: 2 x USB 3.2 Gen 1 USB Type C: 1x USB 3.2 Gen 1HDMI Port: 1x HDMI 1.4Combo Audio Jack: 1 …
+
+---
+
+
+## HP 250 G8 (5C3R7PA) Intel Celeron N4020 1.1 to 2.8GHz, 8GB RAM, 512GB SSD, Win 11, 15.6 Inch FHD Dark Ash Silver Laptop  
+**DocID:** `daraz_527037496`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** HP  
+**URL:** https://www.daraz.com.bd/products/hp-250-g8-5c3r7pa-intel-celeron-n4020-11-to-28ghz-8gb-ram-512gb-ssd-win-11-156-inch-fhd-dark-ash-silver-laptop-i527037496.html
+**Price:** ৳ 41,299  
+**Rating:** 0.0/5
+
+**Description:**
+Intel Celeron N4020 1.10 to 2.80 GHz, 2 Cores, 2 Threads, 4MB Cache Processor 8GB DDR4 3200 MHz RAM 512GB SATA SSD 15.6 Inch (1920 X 1080) FHD Display Intel UHD Graphics Windows 11 Home LAN Port Firmware TPM 2.0 Security Chip 2 Years Brand Warranty HP 250 G8 (5C3R7PA) Intel Celeron N4020 1.1 to 2.8GHz, 8GB RAM, 512GB SSD, Win 11, 15.6 Inch FHD Dark Ash Silver Laptop Brand: HPModel: 250 G8Part Number: 5C3R7PABody Color: Dark Ash SilverProcessor: Intel Celeron N4020 1.10 to 2.80 GHz, 2 Cores, 2 Threads, 4MB L2 Cache ProcessorMemory: 8GB DDR4 3200 MHz RAMStorage: 512GB SATA SSDGraphics: Intel UHD GraphicsDisplay: 15.6 Inch (1920 X 1080) FHD DisplayOperating System: Windows 11 HomeWi-Fi: Realtek 802.11a/b/g/n/ac (2X2)Bluetooth Version: 5.0Keyboard: Full Size Keyboard with Numeric KeypadPointing Device: TouchpadWebCam: 720P HDAudio: Stereo Speakers & Integrated Digital MicrophonesSecurity Chip: Firmware TPM 2.0Ports: 2 X USB Type-A, 1 X USB Type-C, 1 X HDMI, 1 X RJ45 LAN Port, 1 X Headphone & Microphone Combo Port, 1 X Multimedia SD Card ReaderBattery: Li-ion 41Wh 3 CellAdapter: 45W Smart AC Power AdapterIn the Box: Laptop, Bag, Battery, Power Cables, Adapter, User Manual Guide.County of Origin: USADimension: 357.8 X 242.1 X 19.8 mmWeight: 1.74 KgWarranty: 2 Years Brand Warranty (1 Year Warranty for Battery & Adapter)
+
+---
+
+
+## ASUS Vivobook 16 A1605VA-MB952W 13th Gen Core i3 8GB RAM 512GB SSD 16.0-inch WUXGA Laptop  
+**DocID:** `daraz_536016218`
+**Source:** Daraz  
+**Category:** laptops  
+**Brand:** ASUS  
+**URL:** https://www.daraz.com.bd/products/asus-16-a1605va-mb952w-13th-i3-8gb-ram-512gb-ssd-160-wuxga-i536016218.html
+**Price:** ৳ 66,770  
+**Rating:** 0.0/5
+
+**Description:**
+Processor: 13th Gen Intel Core i3-1315U RAM & Storage: 8GB DDR4 Memory, 512GB M.2 NVMe PCIe 4.0 SSD Graphics: Intel UHD Graphics Display: 16.0-inch WUXGA (1920 x 1200) Certifications: US MIL-STD 810H military-grade standard ASUS Vivobook 16 A1605VA-MB952W 13th Gen Core i3 8GB RAM 512GB SSD 16.0-inch WUXGA Laptop is powered by an Intel Core i3-1315U Processor, offering efficient performance for everyday tasks. This processor can easily handle common tasks such as web browsing, document editing, and multimedia playback. It comes with 8GB DDR4 on board. The laptop has a 512GB M.2 NVMe PCIe 4.0 SSD, offering ample storage space for your files and documents. The Intel UHD Graphics Card ensures decent graphics performance for basic applications and multimedia. With a WUXGA (1920 x 1200) 16:10 aspect ratio display, the laptop delivers vibrant visuals, a fuller viewing angle, and a wider color range. This display features 300nits brightness.For a long time back up it has 42WHrs, 3S1P, 3-cell Li-ion battery. You can enjoy your outdoor work or movie time without worrying about plugging the laptop into power. For better wireless connectivity it has the latest Wi-Fi 6E(802.11ax) (Dual band) 1*1 + Bluetooth 5.3 Wireless Card (*Bluetooth version may change with OS version different.). This laptop has a SonicMaster, Built-in speaker, and Built-in array microphone that provides a stunning audio experience. It has a variety of ports, including 1x USB 2.0 Type-A (data speed up to 480Mbps), 1x …
+
+---
+
+
 ## Mackbook AIR M1 13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -9198,6 +9794,599 @@ Product details of Stylist premium Quality Summer Polo Shirt For Men Best In Bud
 ---
 
 
+## Multi Color Cotton Polo T-Shirt For Men Men's Classic Fit Short Sleeve Dual Tipped Collar Polo Shirt  
+**DocID:** `daraz_128736726`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/multi-color-cotton-polo-t-shirt-for-men-mens-classic-fit-short-sleeve-dual-tipped-collar-polo-shirt-i128736726.html
+**Price:** ৳ 218  
+**Rating:** 4.4/5
+
+**Description:**
+Ã‚Â High Quality Ã‚Âfabrics Product type: T-shirt Material: Cotton and polyster mix Gender: Men Stylish Designabric Fabric: 100% Cotton Fabrication: 170 GSM Size: M, L, XL. Measurement (In Inch): M(C-36 inch, L-26 inch), L(C-38 inch, L-28 inch), XL(C-40 inch, L-29 inch). Color: As same as picture.
+
+---
+
+
+## Maroon Cotton Polo For Men  
+**DocID:** `daraz_125438300`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i125438300.html
+**Price:** ৳ 344  
+**Rating:** 2.0/5
+
+**Description:**
+Product details of Maroon Cotton Polo For Men Product Type: Polo Color: Maroon Main Material: Cotton Gender: Men Style: Casual Product details of Maroon Cotton Polo For Men Product Type: Polo Color: Maroon Main Material: Cotton Gender: Men Style: Casual
+
+---
+
+
+## Men's New Summer Fashion Casual Printed Short Sleeve T-Shirt  
+**DocID:** `daraz_533281779`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i533281779.html
+**Price:** ৳ 787  
+**Rating:** 5.0/5
+
+**Description:**
+High-Quality Material: Made from 100% cotton, these polo shirts are crafted with exceptional comfort and durability in mind ensuring a soft and breathable wear for extended periods.Customizable Design: Our polo shirts support 7 days of sample order lead time, allowing for prompt customization and efficient production, ideal for businesses and individuals looking to create personalized promotional wear.Durable and Long-Lasting: With a regular fit, jersey fabric, and 200-gram fabric weight, these polo shirts are built to withstand frequent wear and tear, making them a great choice for work wear or everyday casual attire. Eco-Friendly and Sustainable: As a 100% cotton product, these polo shirts are an eco-friendly alternative to synthetic materials, appealing to environmentally-conscious consumers and businesses.Versatile and Adaptable: The short sleeve design and casual style make these polo shirts suitable for a range of occasions,from work wear to casual outings, catering to diverse user preferences, such as the user’s office attire or preferred styleHigh-Quality Material: Made from 100% cotton, these polo shirts are crafted with exceptional comfort and durability in mind ensuring a soft and breathable wear for extended periods.Customizable Design: Our polo shirts support 7 days of sample order lead time, allowing for prompt customization and efficient production, ideal for businesses and individuals looking to create personalized promotional wear.Durable and Long-Lasting: Wi …
+
+---
+
+
+## sports polo tshirt for summer  
+**DocID:** `daraz_367347335`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i367347335.html
+**Price:** ৳ 350  
+**Rating:** 4.7/5
+
+**Description:**
+QUALITY OF T-SHIRT IS VERY GOOD 100% CHINI GURA MASH FEBRIS Size : M,L,XL,XXL M--CHEST 36--LENGTH 26.5 L-- CHEST 38--LENGTH 27.5 XL--CHEST 40--LENGTH 28.5 XXL--CHEST 42--LENGTH 29.5 Step 1: - Product Title: summer polo t shirt for men - Category Path: Fashion&gt;Men&gt;Clothing&gt;Polo Shirts - Main Material: Mesh Step 2: - Additional Keywords: summer, men, polo shirt, mesh Step 3: • Summer polo t-shirt for men in breathable mesh material. • Perfect for casual wear and outdoor activities. • Classic polo shirt design for a timeless look. Step 4: - No false information found. Step 5: - Return the product highlights to the user. QUALITY OF T-SHIRT IS VERY GOOD100% CHINI GURA MASH FEBRISSize : M,L,XL,XXLM--CHEST 36--LENGTH 26.5L-- CHEST 38--LENGTH 27.5XL--CHEST 40--LENGTH 28.5XXL--CHEST 42--LENGTH 29.5
+
+---
+
+
+## The Boys Polo t Shirt for men by rks fashion  
+**DocID:** `daraz_323939865`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/rks-fashion-i323939865.html
+**Price:** ৳ 175  
+**Rating:** 3.0/5
+
+**Description:**
+Product details of Stylist premium Quality Summer Polo Shirt For MenBest In Budget RangeProduct Type: Polo ShirtMaterial: Jersey FabricsGender: MenFit Type: Regular FitStylish Design100% QC Pass.Export Quality SwingGSM: 160+SIze- [M--chest 36 length--26] ,[L----chest 38---length---27 ] [XL----chest--40 ---length--28],[XXL---chest--42 length---29]Best quality polo t shirtM--length 27---chest 37 ( লম্বায় ৫.৬----ওজন ৬০ এর মধ্যে) L----28------39 (৫.৬----৬৩ ওজন এর মধ্যে) Xl---29-----41 (5.8 ------68 মধ্যে) Xxl---30---43---(৫.৮+----85 এর মধ্যে ওজন)Product details of Stylist premium Quality Summer Polo Shirt For MenBest In Budget RangeProduct Type: Polo ShirtMaterial: Jersey FabricsGender: MenFit Type: Regular FitStylish Design100% QC Pass.Export Quality SwingGSM: 160+SIze- [M--chest 36 length--26] ,[L----chest 38---length---27 ] [XL----chest--40 ---length--28],[XXL---chest--42 length---29]Best quality polo t shirt
+
+---
+
+
+## SMUG Premium Polo Shirt - Fabric soft and comfortable - Petrol Color  
+**DocID:** `daraz_302431860`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** SMUG  
+**URL:** https://www.daraz.com.bd/products/smug-i302431860.html
+**Price:** ৳ 299  
+**Rating:** 4.5/5
+
+**Description:**
+Tshirt Size Chart Size : M (CHEST 38 LENGTH 27) L (CHEST 40 LENGTH 28) XL (CHEST 42 LENGTH 29) XXL (CHEST 44 LENGTH 29.5) SMUG is a clothing brand based in Bangladesh. We focus on carefully selecting the best clothing that is comfortable, looks great, and makes you confident. We are manufacture export oriented quality garments product which maintaining all criteria for Asian export curriculum also trying to confirm exclusive design and using latest technology of garments. Tshirt Size Chart Size :M (CHEST 38LENGTH 27)L (CHEST 40LENGTH 28)XL (CHEST 42LENGTH 29)XXL (CHEST 44LENGTH 29.5)SMUG is a clothing brand based in Bangladesh.We focus on carefully selecting the best clothing that is comfortable, looks great, and makes youconfident.We are manufacture export oriented quality garments product which maintaining all criteria for Asian export curriculum also trying to confirmexclusive design and using latest technology of garments.
+
+---
+
+
+## pemium quality cotton polo shirt for men-open 65 polo  
+**DocID:** `daraz_137804494`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/65-i137804494.html
+**Rating:** 0.0/5
+
+**Description:**
+Product details Product Type: Polo Shirt Material: Cotton Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) Occasion: Casual Winter Wear and sports. 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Dhaka Fashion Wear Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29"
+
+---
+
+
+## EiD Special Premium Cotton Polo Shirt For Men  
+**DocID:** `daraz_299581794`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i299581794.html
+**Price:** ৳ 248  
+**Rating:** 3.0/5
+
+**Description:**
+Product Type: Polo Shirt Material: PK Cotton Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 190-200 (+-10) Occasion: Casual Summer Wear and sports. 7 days Return Easy Return Made in: Bangladesh All-Over Printed Print QC Passed Brand: Mehirima Mall Size Chart: M - Chest - 38", Length – 28” L - Chest - 40"Length - 29" XL- Chest - 42", Length – 30" Product Type: Polo ShirtMaterial: PK CottonGender: MenFit Type: Regular FitStylish Design100% QC Pass.Export Quality SwingGSM: 190-200 (+-10)Occasion: Casual Summer Wear and sports.7 days Return Easy ReturnMade in: BangladeshAll-Over PrintedPrint QC PassedBrand: Mehirima MallSize Chart:M - Chest - 38", Length – 28”L - Chest - 40"Length - 29"XL- Chest - 42", Length – 30"
+
+---
+
+
+## Eid Special Fashionable Cotton Polo Shirt For Men - Polo Shirt  
+**DocID:** `daraz_521903222`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i521903222.html
+**Price:** ৳ 309  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Premium style Polo Shirt for men - Polo T ShirtProduct details Special Premium Cotton Polo Shirt For Men Product Type: Polo Shirt Material: Cotton Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing G.S.M: 200 (+-10) Occasion: Casual Summer Wear and sports. 7 days Return Easy Return Made in: Bangladesh Print QC Passed Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29" This polo is perfect for a young and smart person. It is normally associated with a collar and placket with typically two or three buttons and an optional pocket. A dress-length version of the shirt is called a polo dress. It is made of cotton fabrics. This polo will make a fashion-conscious person like you smarter than ever. It is comfortable during your workout and easy to clean.
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_393740472`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i393740472.html
+**Price:** ৳ 349  
+**Rating:** 3.6/5
+
+**Description:**
+Product details of Stylist premium Quality Summer Polo Shirt For MenProduct Type: Polo Shirt Material: Cotton Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) Occasion: Casual Winter Wear and sports. 7 days Return Easy Return Made in: Bangladesh Print QC Passed Size Chart: M - Chest – 38", Length – 27” L - Chest – 40" ,Length - 28" XL- Chest – 42", Length – 29" This polo is perfect for the young and smart person. It is normally associated with collar and placket with typically two or three buttons, and an optional pocket. A dress-length version of the shirt is called a polo dress. It is made by cotton fabrics. This polo will make a fashion conscious person like you smarter than ever. It is comfortable during your workout and are easy to clean.
+
+---
+
+
+## Versatile -Five Star Brazil Pink Color Polo White T-Shirt For Men Stylist New Premium Quality By RKS Mega Mall- Avant-garde  
+**DocID:** `daraz_314752092`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/versatile-five-star-brazil-pink-color-polo-white-t-shirt-for-men-stylist-new-premium-quality-by-rks-mega-mall-avant-garde-i314752092.html
+**Price:** ৳ 199  
+**Rating:** 4.7/5
+
+**Description:**
+Product details of Stylist premium Quality Summer Polo Shirt For Men Best In Budget Range Product Type: Polo Shirt Material: Jersey Fabrics Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) SIze- M,L,XL,XXL Occasion: Casual Winter Wear and sports.
+
+---
+
+
+## Classic fit half sleeve casual polo t-shirt for man  
+**DocID:** `daraz_128742417`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i128742417.html
+**Price:** ৳ 192  
+**Rating:** 3.8/5
+
+**Description:**
+সুতি এবং লিনেন মিক্স কাপর খুবি আরামদায়ক । সব সময় বাসাই পরা যাবে । দেকতে অনেক সুন্দর , পরে অনেক আরাম । যেকোনো অনুষ্ঠানে পরে যাবার মত । নিজের মোবাইল থেকে তোলা ছবি । মোবাইল এর Regulation এর কারনে ছবি এর কালার কিছুটা হেরফের দেকতে পারেন। T-shirt টি আপনার পছন্দ হবে । বাংলাদেশ এ আমাদের নিজস্ব কারখানায় তৈরি। আমাদের মাপ L = Length 28" - Chest 38" XL = Length 29" - Chest 40" Size measurement Guide :
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts - Polo T Shirt For Men  
+**DocID:** `daraz_302002998`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/cotton-half-sleeve-polo-shirts-for-men-multicolor-polo-shirts-polo-t-shirt-for-men-i302002998.html
+**Price:** ৳ 440  
+**Rating:** 5.0/5
+
+**Description:**
+Product type: Polo T-shirt Material: synthetic Gender: Men Stylish Design High Quality synthetic fabric Fabric: 70% synthetic 30% Cotton Fabrication: 180+ GSM M, L, XLM: M= (chest -38 '', length-28 '') L :( chest-40 '', length-29 ") XL: ( chest -42 ", length-30")This Polo T-Shirt for Men's comfortable and can be worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful Polo shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and is easy to clean. It is perfect to wear with jeans and gabardine pant. Short Sleeve design with a regular fit for men. It is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable #polo t shirt for men This Polo T-Shirt for Men's comfortable and can be worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful Polo shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and is easy to clean. It is perfect to wear with jeans and gabardine pant. Short Sleeve design with a regular fit for men. It is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable
+
+---
+
+
+## SMUG Exclusive Navy Polo Shirt - Fabric soft and comfortable  
+**DocID:** `daraz_311835632`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** SMUG  
+**URL:** https://www.daraz.com.bd/products/smug-i311835632.html
+**Price:** ৳ 360  
+**Rating:** 4.3/5
+
+**Description:**
+Tshirt Size Chart Size : M (CHEST 38 LENGTH 27) L (CHEST 40 LENGTH 28) XL (CHEST 42 LENGTH 29) XXL (CHEST 44 LENGTH 29.5) SMUG is a clothing brand based in Bangladesh. We focus on carefully selecting the best clothing that is comfortable, looks great, and makes you confident. We are manufacture export oriented quality garments product which maintaining all criteria for Asian export curriculum also trying to confirm exclusive design and using latest technology of garments. Tshirt Size Chart Size :M (CHEST 38LENGTH 27)L (CHEST 40LENGTH 28)XL (CHEST 42LENGTH 29)XXL (CHEST 44LENGTH 29.5)SMUG is a clothing brand based in Bangladesh.We focus on carefully selecting the best clothing that is comfortable, looks great, and makes youconfident.We are manufacture export oriented quality garments product which maintaining all criteria for Asian export curriculum also trying to confirmexclusive design and using latest technology of garments.
+
+---
+
+
+## Green Cotton Polo For Men - Polo T Shirt For Men  
+**DocID:** `daraz_106036508`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i106036508.html
+**Price:** ৳ 358  
+**Rating:** 3.8/5
+
+**Description:**
+Product details of Green Cotton Short Sleeve Polo for Men Product Type: Polo Color: Green Main Material: Cotton Stylish and fashionable Gender: Men #polo t shirt for men
+
+---
+
+
+## Ensemble Yourself - Upscale Need - Premium Multicolour Cotton Polo t-Shirt For Men - Sensible - Must Have - Understated Sophistication  
+**DocID:** `daraz_253315222`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/ensemble-yourself-upscale-need-premium-multicolour-cotton-polo-t-shirt-for-men-sensible-must-have-understated-sophistication-i253315222.html
+**Rating:** 0.0/5
+
+**Description:**
+Product type : T- shirt Product Brand : ASMART LTD. Product Material : Pure Cotton Fabric GSM: 165-170. 100% Export Quality and 100% Quality control T-Shirt. T-Shirt Measurement: Asian and Regular Fit. Quality: Incentive original T-Shirt. Status: Comfortable and Fashionable Exclusive T-shirt. Quantity of Product : 1, 2,3,4,5 …. Product Colour :(Same As Picture) Product Size : M, L, XL Size: M=Long-27, Chest-36 L=Long-28, Chest-38 XL=Long-29, Chest-40. Product Type : Casual Shop Name: ASMART LTD. Applicable Scene: Daily Sleeve Length : Short Sleeve Applicable Season: WINTER, Spring and Summer Production Country : Bangladesh Area of Use : Office, University, Party, Any Festival Extra Facility : 7 Days Return Policy Material: Cotton Collar: O-Neck Sleeve Style: Regular sleeve Hooded: No Gender: MEN Pattern Type: Print Place Of Origin: Bangladesh type1: printed t shirt men winter t-shirt . type2: Mens t- shirts fashion . type3: fashion print long sleeve t shirt men Style: Fashion Welcome to my store All T-shirt in stock whole year! If you do drop shopping and need picture. Please contract usWe are selling this product from “ASMART LTD..”. We plan to offer low cost products to our customers.We choose good quality local fabrics ,and we choose those fabrics to make good quality domestic product. We select skilled craftsmen to make each of our products. So the cutting and finishing of our product is very perfect.We always provide products that match the image. Proper QC is done befor …
+
+---
+
+
+## Elevate Comfort with JPN Polo Shirt for Men in Yellow - Perfect for All Seasons - Stylish and Comfortable  
+**DocID:** `daraz_168548105`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/elevate-comfort-with-jpn-polo-shirt-for-men-in-yellow-perfect-for-all-seasons-stylish-and-comfortable-i168548105.html
+**Price:** ৳ 285  
+**Rating:** 4.4/5
+
+**Description:**
+Product details Highlights· ProductType: polo shirt· Material: cotton· Gender: Men· Fit Type: Regular Fit· Stylish Design· 100% QC Pass.· Export Quality Swing· GSM: 210 (+- 10)· Occasion: Casual winter,Summer Wear and sports.· 7 days Return Easy Return· Made in: Bangladesh·· Brand: Takdhoom.com · Size Chart:· M - Chest - 38", Length – 28”· L - Chest - 40"Length - 29"· XL- Chest - 42", Length – 30" Premium quality Polo Shirt with 100% QC pass product. Fabric and swing is very high quality. This Polo Shirt is suitable for any condition of winter. It's casual looking and also very stylish. About : Takdhoom.com is a trusted and reliable fashion product seller in all over the Bangladesh. Ahmed lifestyle manufactures quality products. Always we follow our quality. We Provides premium quality 100% QC pass product & always remind that “a return customer is our business asset”. Specifications of Premium Cotton Casual Polo T-shirt for Men - Polo T Shirt#TShirtForMan #TShirt #tshirtforman #tshirt 38 28 L 40 29 XL 42 30 #polo t shirt for men #polo t shirt
+
+---
+
+
+## Stylish Cotton Fabrics T-shirt For Men-Polo Shirt - Comfortable and Suitable for All Seasons and Occasions  
+**DocID:** `daraz_313227198`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/stylish-cotton-fabrics-t-shirt-for-men-polo-shirt-comfortable-and-suitable-for-all-seasons-and-occasions-i313227198.html
+**Price:** ৳ 185  
+**Rating:** 3.2/5
+
+**Description:**
+Product details of New Fashionable cotton polo t shirt for men-Product Type: Polo Shirt. Material: Cotton. Gender: Men Fit Type: Regular Fit. Stylish Design. 100% QC Pass. Export Quality Swing.. GSM: 200 (+-10). Occasion: Casual summer Wear and sports... 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Takdhoom.com Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29 Product details of New Fashionable cotton polo t shirt for men-Product Type: Polo Shirt.Material: Cotton.Gender: MenFit Type: Regular Fit.Stylish Design.100% QC Pass.Export Quality Swing..GSM: 200 (+-10).Occasion: Casual summer Wear and sports...7 days Return Easy ReturnMade in: BangladeshPrint QC PassedBrand: Takdhoom.comSize Chart:M - Chest – 37/38", Length – 27”L - Chest – 39/40" ,Length - 28"XL- Chest – 41/42", Length – 29
+
+---
+
+
+## Versatile -Good Shape Polo T-Shirt For Man - T-Shirt  
+**DocID:** `daraz_200902660`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/versatile-good-shape-polo-t-shirt-for-man-t-shirt-t-shirt-for-man-t-shirt-for-man-t-shirt-for-man-t-shirt-avant-garde-i200902660.html
+**Price:** ৳ 199  
+**Rating:** 4.6/5
+
+**Description:**
+Product Type: Polo t-shirt Main Material: Cotton Soft and smooth fabric Comfortable to wear Fashionable and smart design Size: L,XL L---Chest -36- 38 "Lenght - 29" XL--- Chest -38- 40 ", Lenght- 30" Meet uniform requirements with Nautica solid polos made from breathable stretch cotton and durable polyester to deliver all-day comfort This solid and free-of-logos polo design features ribbing at the cuffs and collar, button placket, short sleeves and straight vented hems for an "un-tucked" Style Available in a variety of colors and sizes
+
+---
+
+
+## Stylish Premium Quality cotton Polo Shirt for Men  
+**DocID:** `daraz_529963035`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i529963035.html
+**Rating:** 0.0/5
+
+**Description:**
+Product Type: Polo T- Shirt Main Material:100% Cotton Gender: Men Stylish and fashionable Perfect Fitting Gsm-190+𝐒𝐢𝐳𝐞 𝐃𝐞𝐭𝐚𝐢𝐥𝐬: M, L, XL,XXLM = Chest 38″, Length 27″L = Chest 40″, Length 28″XL = Chest 42″, Length 29″XXL = Chest 44″, Length 30″High-Quality Material: Made from 100% cotton, these polo shirts are crafted with exceptional comfort and durability in mind, ensuring a soft and breathable wear for extended periods.Customizable Design: Our polo shirts support 7 days of sample order lead time, allowing for prompt customization and efficient production, ideal for businesses and individuals looking to create personalized promotional wear.Durable and Long-Lasting: With a regular fit, jersey fabric, and 200-gram fabric weight, these polo shirts are built to withstand frequent wear and tear, making them a great choice for work wear or everyday casual attire.Eco-Friendly and Sustainable: As a 100% cotton product, these polo shirts are an eco-friendly alternative to synthetic materials, appealing to environmentally-conscious consumers and businesses.Versatile and Adaptable: The short sleeve design and casual style make these polo shirts suitable for a range of occasions, from work wear to casual outings, catering to diverse user preferences, such as the user’s office attire or preferred styleProduct Type: Polo T- Shirt Main Material:100% Cotton
+
+---
+
+
+## Premium Cotton Polo T Shirt for Men - Stay Stylish and Comfortable in All Seasons and Occasions  
+**DocID:** `daraz_367137505`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i367137505.html
+**Price:** ৳ 309  
+**Rating:** 4.3/5
+
+**Description:**
+Product details of Premium Quality Eid Special Summer Polo Shirt menProduct Type: Polo Shirt Material: Cotton Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) Occasion: Casual Winter Wear and sports. 7 days Return Easy Return Made in: Bangladesh Print QC Passed Size Chart: M - Chest – 38", Length – 27” L - Chest – 40" ,Length - 28" XL- Chest – 42", Length – 29" This Product is comfortable and can worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and are easy to clean. It is perfect to wear with jeans and gabardine pant. Short sleeves design with a regular fit for men. This product is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable.We are, offers a wide selection of products from renowned brands in Bangladesh with a promise of fast, safe and easy online shopping experience through Daraz. The seller comes closer to the huge customers on this leading online shopping platform of all over Bangladesh and serving to a greater extent for achieving higher customer satisfaction. The brands working with Daraz are not only serving top class products but also are dedicated to acquiring brand loyalty.
+
+---
+
+
+## Manfare Premium Zipper Polo For Men | MFP-32  
+**DocID:** `daraz_528173412`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** Manfare  
+**URL:** https://www.daraz.com.bd/products/manfare-premium-zipper-polo-for-men-mfp-32-i528173412.html
+**Rating:** 0.0/5
+
+**Description:**
+Polo Shirt Specification:● 100% Organic Thermal Cotton Fabrics● Premium Quality Cuff Collar. ● Premium Metal Zipper.● Branded Embroidered Logo● Quality Controlled (QC) Finishing.● Regular Fit● Yarn Count : 26s● GSM : 190-200● Color Type: Reactive Dye● Dye Finishing: Enzyme and Silicon Washed● Durable, Soft & Fast Dry About the CategoryPolo T-shirts have become a wardrobe staple for the urban man. It has evolved over the decades and has become a must-have for stylish men of all ages.With our uniquely designed Polos, go out into the world with pride and confidence. Because we believe the world is yours to conquer, and we must dress you for it.Let Manfare bring out the best in you! Polo Shirt Specification:● 100% Organic Thermal Cotton Fabrics● Premium Quality Cuff Collar. ● Premium Metal Zipper.● Branded Embroidered Logo● Quality Controlled (QC) Finishing.● Regular Fit● Yarn Count : 26s● GSM : 190-200● Color Type: Reactive Dye● Dye Finishing: Enzyme and Silicon Washed● Durable, Soft & Fast Dry Care Instruction:● Machine Wash Cold● Do Not Bleach● Do Not Soak● Tumble Dry Low● Wash Separately● Warm Iron● Do Not Dry Clean About the BrandWith the growing demand for Business-Casual clothing, Manfare has introduced multiple categories to cater to the needs of the masses.Manfare strives to get you everything you need, at the moment you need, and at the price you need!Our top-of-the-line Polo T-shirt collection lets you stay confident throughout any business or casual event. Get Noticed …
+
+---
+
+
+## Bayern Munich Official Design Polo T-shirt  
+**DocID:** `daraz_540598756`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** Shohure  
+**URL:** https://www.daraz.com.bd/products/bayern-munich-official-design-polo-t-shirt-i540598756.html
+**Price:** ৳ 750  
+**Rating:** 5.0/5
+
+**Description:**
+Fabric : Cotton PK Polo Fabric, GSM 190-200 Cuff - Collar : Lycra polyester 2x1 rib Product Type: Half Sleeve Polo Tshirt Logo: Hidency Printe Gernder : Male Smart-Casual Style Polo t-shirts strike a perfect balance between casual and formal wear, making them ideal for both relaxed and semi-professional settings.Collared Design The signature collar adds a touch of refinement, setting it apart from regular t-shirts and giving it a polished, structured look.Versatile Pairing Polo shirts can be paired with jeans, chinos, shorts, or even blazers—making them a versatile wardrobe staple.Comfortable Fit Made from breathable fabrics like cotton or polyester blends, polo t-shirts offer comfort for all-day wear, especially in warm weather.Ideal for Branding The neat design and chest area of polos make them perfect for embroidery or printing logos, making them popular for uniforms and promotional wear.
+
+---
+
+
+## Premium Polo Shirts - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_249892829`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/premium-polo-shirts-polo-t-shirt-for-men-polo-t-shirt-i249892829.html
+**Price:** ৳ 199  
+**Rating:** 5.0/5
+
+**Description:**
+100% same as picture 7 days Return Policy Product Quality money back guarantee. Sleeve : Half Sleeve Fabric : 100 % Cotton Size- M, L, XL M - Length 27" chest 37" L - Length 28" chest: 39" XL - Length 29" chest 41" Made in Bangladesh A perfect casual wear #polo t shirt for men #Polo T Shirt
+
+---
+
+
+## Premium quality polo shirt for men's  
+**DocID:** `daraz_526511104`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i526511104.html
+**Price:** ৳ 229  
+**Rating:** 5.0/5
+
+**Description:**
+Premium Quality polo shirt for mens.Size...S:M:L:XL.:XXL.......S:Length:27.=chest=38.M:Length:28.=chest39.L:Length:29.=chest.40.Xl:Length30=Chest.42XXL:Lengt:31=chest:44....Premium Quality polo shirt for mens.Size...S:M:L:XL.:XXL.......S:Length:27.=chest=38.M:Length:28.=chest39.L:Length:29.=chest.40.Xl:Length30=Chest.42XXL:Lengt:31=chest:44....
+
+---
+
+
+## Premium Stylish Polo Shirts for Men - Comfortable and Soft Wear  
+**DocID:** `daraz_365207161`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i365207161.html
+**Price:** ৳ 350  
+**Rating:** 4.5/5
+
+**Description:**
+Tshirt Size Chart Size : M (CHEST 38 LENGTH 27) L (CHEST 40 LENGTH 28) XL (CHEST 42 LENGTH 29) XXL (CHEST 44 LENGTH 29.5) * (GSM 160-165)#polo t shirt 1/ Fashionable personality leisure clothes.2/ Good looking clothes, welcome everyone to buy.3/ Great for Daily,Casual,I am sure you will like it!Mens Premium Quality t-shirt that offers a much smoother, silky feel and more structured, mid-weight fit than the regular t-shirts . The t-shirts are made with finest quality Combed Compact , features astonishing ~160 GSM on just gives an smooth and compact construction.Reactive Dye, enzyme and silicon washedPreshurnk to minimize shrinkageSilk Screen printed
+
+---
+
+
+## Premium White Color Polo Shirt For men  
+**DocID:** `daraz_241285554`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i241285554.html
+**Price:** ৳ 350  
+**Rating:** 4.9/5
+
+**Description:**
+Thickness 155-165 GSM : GSM is a measure that describes the weight of the tee. For fast-fashion 155-165 GSM t-shirts are very comfortable. Mostly referred to as softer and safer for skin. Lycra fiber transforms fabrics into better fitting, durable clothes and comfort that lasts for long. : This type of fabric allows moisture removal from the body and absorbs liquid. : The best quality of print is ensured for a lasting impression. Tshirt Size Chart Size : M (CHEST 38 LENGTH 27) L (CHEST 40 LENGTH 28) XL (CHEST 42 LENGTH 29) XXL (CHEST 44 LENGTH 29.5) #polo t shirt #polo t shirt #polo t shirt Thickness 155-165 GSM : GSM is a measure that describes the weight of the tee. For fast-fashion 155-165 GSM t-shirts are very comfortable.Mostly referred to as softer and safer for skin. Lycra fiber transforms fabrics into better fitting, durable clothes and comfort that lasts for long. : This type of fabric allows moisture removal from the body and absorbs liquid. : The best quality of print is ensured for a lasting impression.
+
+---
+
+
+## Half Sleeve Premium Polo Tshirt Cotton Collar - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_299948898`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/half-sleeve-premium-polo-tshirt-cotton-collar-polo-t-shirt-for-men-polo-t-shirt-i299948898.html
+**Price:** ৳ 189  
+**Rating:** 3.0/5
+
+**Description:**
+Product details of Half Sleeve Premium Polo Tshirt Cotton CollarFabric: 100% Cotton Color: As per Image Size: M,L,XL, Size measurement Guide : M - Length 28" - Chest 38" L - Length 29" - Chest 40" XL - Length 30" - Chest 42" Specifications of Half Sleeve Premium Polo Tshirt Cotton CollarBrandNo Brand SKU247592447_BD-1193407795 Main MaterialCotton What’s in the boxHalf Sleeve Premium Polo Tshirt Cotton Collar#Polo Shirts #polo t shirt
+
+---
+
+
+## White color all over sublimation print polo shirt  
+**DocID:** `daraz_225998360`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i225998360.html
+**Rating:** 0.0/5
+
+**Description:**
+Product Type: Polo Shirt Material: PP [Jersy] ALL Over Sublimation Print Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM:170 Occasion: Casual Summer Wear sports. 7 days Return Easy Return Made in: Bangladesh Size; M&lt;L&lt;XL M Chest - 36 ", Length -27" L Chest - 38" , Length - 28" XL Chest - 40 ", Length – 29"
+
+---
+
+
+## Stylish Premium Quality Summer Drop shoulder Polo Shirt for Men  
+**DocID:** `daraz_526564610`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i526564610.html
+**Price:** ৳ 570  
+**Rating:** 3.0/5
+
+**Description:**
+Fabric: waffle Cod: drop polo 100% Export Quality Oriented Our Own Factory Product's Quality Controlled (QC) Finishing. Unique Design ​ Fabric: waffle Cod: drop polo100% Export Quality Oriented Our Own Factory Product's Quality Controlled (QC) Finishing. Unique Design ​
+
+---
+
+
+## Classic Fit Cotton Polo Shirt For Men  
+**DocID:** `daraz_344290322`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i344290322.html
+**Price:** ৳ 239  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Classic Fit Cotton Polo Shirt For Men - Polo T ShirtProduct Type: Polo Shirt Material: Cotton Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) Occasion: casual winter wear and sports. 7-Day Easy Return Made in: Bangladesh Print QC Passed Size Chart: M: Chest: 37/38", Length: 27” L: Chest: 39/40"; length: 28" Size Chart: M: Chest: 37/38", Length: 27” L: Chest: 39/40"; length: 28" XL: Chest: 41/42", Length: 29 XL: Chest: 41/42", Length: 29 Connect With Clothes is a trusted and reliable fashion product seller in all of Bangladesh. Connect With Clothes is a trusted manufacturer of quality products. Always, we follow our quality. We provide premium-quality, 100% QC-pass products and always remind customers that “a return customer is our business asset.
+
+---
+
+
+## Stylish Cotton Fabrics T Shirt for Men - Style with Comfortable Polo T Shirt for All Seasons and Occasions  
+**DocID:** `daraz_313227234`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/stylish-cotton-fabrics-t-shirt-for-men-style-with-comfortable-polo-t-shirt-for-all-seasons-and-occasions-i313227234.html
+**Rating:** 0.0/5
+
+**Description:**
+Product details of New Fashionable cotton polo t shirt for men-Product Type: Polo Shirt. Material: Cotton. Gender: Men Fit Type: Regular Fit. Stylish Design. 100% QC Pass. Export Quality Swing.. GSM: 200 (+-10). Occasion: Casual summer Wear and sports... 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Takdhoom.com Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29 Product details of New Fashionable cotton polo t shirt for men-Product Type: Polo Shirt.Material: Cotton.Gender: MenFit Type: Regular Fit.Stylish Design.100% QC Pass.Export Quality Swing..GSM: 200 (+-10).Occasion: Casual summer Wear and sports...7 days Return Easy ReturnMade in: BangladeshPrint QC PassedBrand: Takdhoom.comSize Chart:M - Chest – 37/38", Length – 27”L - Chest – 39/40" ,Length - 28"XL- Chest – 41/42", Length – 29
+
+---
+
+
+## Men's Blue Color Chaina Exclusive Short Sleeve Polo -Shirt .  
+**DocID:** `daraz_346148779`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i346148779.html
+**Price:** ৳ 184  
+**Rating:** 3.3/5
+
+**Description:**
+Product Highlights : Step 1: - Product Title: Men's Blue Color Exclusive Short Sleeve Polo Shirt- Category Path: Fashion &gt; Men &gt; Clothing &gt; Polo Shirts- Main Material: SyntheticStep 2:- Chaina, Exclusive, Short Sleeve, Polo Shirt, Blue ColorStep 3:• Men's short sleeve polo shirt in exclusive blue color.• Made with high-quality synthetic material for comfort.• Perfect addition to your men's fashion collection.• Versatile and stylish for various casual occasions. Product Brand : ABIDA WORLD Fabric GSM: 165-170. 100% Export Quality and 100% Quality control Polo Shirt T-Shirt Measurement: Asian and Regular Fit. Status: Comfortable and Fashionable Exclusive Polo Shirt Product Color :(Same As Picture) Product Size : M, L, XL Size: M=Long-27, Chest-36 L=Long-28, Chest-38 XL=Long-29, Chest-40. Applicable Season: WINTER, Spring and Summer Production Country : Bangladesh Area of Use : Office, University, Party, Any Festival Extra Facility : 7 Days Return Policy Sleeve Style: Regular sleeve Pattern Type: Print Product Description : Step 1:The product Attributes contain valid information. Step 2:No additional Key Words provided. Step 3: Introducing the Men's Blue Color Chaina Exclusive Short Sleeve Polo Shirt, crafted with synthetic material for a comfortable fit. This stylish polo shirt is a must-have for men's fashion, perfect for casual or semi-formal occasions. The vibrant blue color adds a pop of personality to any outfit, making it a versatile wardrobe essential. Whether y …
+
+---
+
+
+## New Stylish Cotton Polo - Multi Color  
+**DocID:** `daraz_350935594`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i350935594.html
+**Rating:** 0.0/5
+
+**Description:**
+Product Type: Polo T-shirt Main materials: cotton Gender: Men Stylish Design Cotton Fabric... 100% QC Made in: Bangladesh Size: M,L,XL M : Chest - 37 ", Length - 27" L : Chest - 39 " , Length - 28'' XL : Chest - 42 ", Length – 30....
+
+---
+
+
+## Chelsea Official Design Polo T-shirt  
+**DocID:** `daraz_540606224`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** Shohure  
+**URL:** https://www.daraz.com.bd/products/chelsea-official-design-polo-t-shirt-i540606224.html
+**Price:** ৳ 750  
+**Rating:** 5.0/5
+
+**Description:**
+Fabric : Cotton PK Polo Fabric, GSM 190-200 Cuff - Collar : Lycra polyester 2x1 rib Product Type: Half Sleeve Polo Tshirt Logo: Hidency Printe Gernder : Male Smart-Casual Style Polo t-shirts strike a perfect balance between casual and formal wear, making them ideal for both relaxed and semi-professional settings.Collared Design The signature collar adds a touch of refinement, setting it apart from regular t-shirts and giving it a polished, structured look.Versatile Pairing Polo shirts can be paired with jeans, chinos, shorts, or even blazers—making them a versatile wardrobe staple.Comfortable Fit Made from breathable fabrics like cotton or polyester blends, polo t-shirts offer comfort for all-day wear, especially in warm weather.Ideal for Branding The neat design and chest area of polos make them perfect for embroidery or printing logos, making them popular for uniforms and promotional wear.
+
+---
+
+
+## Casual Sports Quick-drying Lapel Short-sleeved POLO Shirt Cycling Suit Fitness Suit For Men  
+**DocID:** `daraz_546050517`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i546050517.html
+**Price:** ৳ 1,440  
+**Rating:** 5.0/5
+
+**Description:**
+Casual Sports Quick-drying Lapel Short-sleeved POLO Shirt Cycling Suit Fitness Suit For MenCasual Sports Quick-drying Lapel Short-sleeved POLO Shirt Cycling Suit Fitness Suit For MenType: Quick-drying short-sleeved POLO shirtWeight: 130gSize: S M L XL 2XL 3XL 4XLFabric: 100% Polyester fiberColor: 8 colorsSupport: Retail and wholesaleSIZE CHARTTag SizeLength(cm)Shoulder(cm)Chest(cm)Height(cm)S6041.588155-160M634292160-165L6643.596165-70XL6845100170-1752XL7046.5104175-1803XL7248108180-1854XL7549.5112185-190
+
+---
+
+
+## Men's Exclusive U.S Polo T-Shirt - Polo T Shirt  
+**DocID:** `daraz_228266407`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/mens-exclusive-us-polo-t-shirt-polo-t-shirt-i228266407.html
+**Price:** ৳ 405  
+**Rating:** 2.5/5
+
+**Description:**
+Product details of Men's Exclusive U.S Polo T-Shirt Fabrics: Birdseye Cotton GSM: 210+ Size: S, M, L, XL Measurement: S: Body:38', Full Length: 27' M: Body: 40', Full Length: 28' L: Body: 42', Full Length: 29' XL: Body: 44', Full Length: 30'#polo t shirt
+
+---
+
+
+## New Trending Men Half Sleeve Casual Zipper Polo T Shirt Men Rib cotton Polo T Shirt  
+**DocID:** `daraz_530559514`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i530559514.html
+**Price:** ৳ 277  
+**Rating:** 5.0/5
+
+**Description:**
+Half Sleeve Premium 1/1 rib Cotton Febrics Casual Zipper polo T Shirt for Men Product Type: Casual Zipper polo T Shirt Color:same as picture Main Material: Cotton Gender: Men Stylish and fashionable Perfect Fitting Collection for Men Comfortable to wear Perfect for any Occasion Size: M, L, XL M= Chest : 38, Length : 27 L = Chest : 40, Length : 28 XL=Chest : 42, Length : 29 This Casual Zipper polo T Shirt for Men's comfortable and can be worn for regular use. It is a perfect wear for men. You will love to wear this luxurious and gorgeous Zipper polo T Shirt just for its versatile usability and diversified fashion sense. It is generally made of light, great quality cotton fabrics and is easy to clean. It is perfect to wear with jeans,gabardine and any casual or formal pant. It is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable.
+
+---
+
+
+## Upgrade Your Style with Fashionable Cotton Polo T-Shirt for Men - Perfect for All Seasons - Combining Style and Comfort  
+**DocID:** `daraz_306617093`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/upgrade-your-style-with-fashionable-cotton-polo-t-shirt-for-men-perfect-for-all-seasons-combining-style-and-comfort-i306617093.html
+**Price:** ৳ 299  
+**Rating:** 4.4/5
+
+**Description:**
+Product details -Product Type: Polo Shirt. Material: Cotton. Gender: Men Fit Type: Regular Fit. Stylish Design. 100% QC Pass. Export Quality Swing.. GSM: 200 (+-10). Occasion: Casual Winter Wear and sports... 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Takdhoom.com Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29
+
+---
+
+
+## premium quality cotton polo t shirt for men-Polo Tshirt  
+**DocID:** `daraz_522988835`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i522988835.html
+**Price:** ৳ 325  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of premium quality cotton polo t shirt for men-Polo TshirtProduct Type: Polo Shirt. Material: Cotton. Gender: Men Fit Type: Regular Fit. Stylish Design. 100% QC Pass. Export Quality Swing.. GSM: 200 (+-10). Occasion: Casual Winter Wear and sports... 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Takdhoom.com Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29 #Poloshirt #Poloshirtlover Product details of premium quality cotton polo t shirt for men-Polo TshirtProduct Type: Polo Shirt.Material: Cotton.Gender: MenFit Type: Regular Fit.Stylish Design.100% QC Pass.Export Quality Swing..GSM: 200 (+-10).Occasion: Casual Winter Wear and sports...7 days Return Easy ReturnMade in: BangladeshPrint QC PassedBrand: Takdhoom.comSize Chart:M - Chest – 37/38", Length – 27”L - Chest – 39/40" ,Length - 28"XL- Chest – 41/42", Length – 29#Poloshirt#Poloshirtlover
+
+---
+
+
 ## Versatile -Hot Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men- Avant-garde Any Color  
 **DocID:** `daraz_347609148`
 **Source:** Daraz  
@@ -11698,6 +12887,599 @@ Material: CanvasColor: Black,Gray, Khaki,BlueSize:40,41,42,43.Feature: Casual Sh
 ---
 
 
+## New Premium Men's Shoe Stylish Formal & Fashion Shoes For Party Or Official Use Elegant - Shoe For Boys - Shoe For Boys - Shoe For Boys  
+**DocID:** `daraz_290988156`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/new-premium-mens-shoe-stylish-formal-fashion-shoes-for-party-or-official-use-elegant-shoe-for-boys-shoe-for-boys-shoe-for-boys-i290988156.html
+**Price:** ৳ 399  
+**Rating:** 4.0/5
+
+**Description:**
+Style: Formal & Fashion Color: Black Gender: Men Size: 40/41//42/43 Material: Rubber/Cotton Sole Type: Soft PU Elegant Lace: Formal & Fashion Type: Lace Less Shoes shoe for boys shoes for men জুতা ছেলেদের juta
+
+---
+
+
+## North Star NADAL Cool & Easy Shoe for Men  
+**DocID:** `daraz_468959235`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** North Star  
+**URL:** https://www.daraz.com.bd/products/-i468959235.html
+**Price:** ৳ 999  
+**Rating:** 4.5/5
+
+**Description:**
+Product Type: Sneaker Material: Upper: Canvas Sole: PVC Color: Navy Blue Gender: MEN Brand:NORTH STAR These classic canvas slip-ons are the basic cool ones that everyone considers essential to their collection. These modern-day style staples utilize a durable canvas upper and an iconic PVC sole, providing exceptional grip on a variety of surfaces. To call yourself a sneakerhead, you must own these light slip-ons by North Star. FEATURES: - Type: Slip-On Sneaker - Gender: Men - Upper Material: Canvas - Color: Navy Blue - Sole: PVC - Closing: Closed STYLE TIPS: Slim- & tapered-fit denim, loose t-shirts (with or without prints) & casual outerwear are your essential staples when it comes to dressing these sneakers.
+
+---
+
+
+## Comfortable Sports Sneakers - Stylish Lace-Up Trendy Shoes for Men - Comfortable for All Seasons  
+**DocID:** `daraz_309100004`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i309100004.html
+**Price:** ৳ 1,430  
+**Rating:** 3.8/5
+
+**Description:**
+High quality fabrics shoes Casual converse Stylish and comfortable Comfortable Lace up closing Rubber soul High quality fabrics shoesCasual converseStylish and comfortableComfortableLace up closingRubber soulHigh quality fabrics shoesCasual converseStylish and comfortableComfortableLace up closing
+
+---
+
+
+## Fashionable Dark Grey Color Sneakers Shoes For Men M006 - Shoe For Boys - Shose For Men - Shoe For Boys - White Shoes  
+**DocID:** `daraz_293800567`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/m006-i293800567.html
+**Price:** ৳ 1,080  
+**Rating:** 4.3/5
+
+**Description:**
+উপাদান: ক্যানভাস রঙ: ধূসর আকার: 40,41,42,43 বৈশিষ্ট্য: নৈমিত্তিক জুতা #shoe for boys #shoes for men #juta #Sneakers #juta #জুতা ছেলেদের #shoes for men #white shoes গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.
+
+---
+
+
+## High Qulaity Sports' Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men  
+**DocID:** `daraz_317305390`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i317305390.html
+**Price:** ৳ 394  
+**Rating:** 5.0/5
+
+**Description:**
+item Type:casual shoesOutsole Material:RubberFeature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-OdorLining Material:MeshInsole Material:EVAUpper Material:FlyknitFit:Fits true to size, take your normal sizeColour:Black,Red, GreyFeature:Lightweight, comfortable,FashionSeason:Spring, Summer, Autumn,item Type:casual shoesOutsole Material:RubberFeature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-OdorLining Material:MeshInsole Material:EVAUpper Material:FlyknitFit:Fits true to size, take your normal sizeColour:Black,Red, GreyFeature:Lightweight, comfortable,FashionSeason:Spring, Summer, Autumn,
+
+---
+
+
+## Stylish Lace-Up Comfort - Trendy Sports Sneakers, Comfortable Shoes for Men - All-Season Athletic Fashion  
+**DocID:** `daraz_316995129`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/stylish-lace-up-comfort-trendy-sports-sneakers-comfortable-shoes-for-men-all-season-athletic-fashion-i316995129.html
+**Price:** ৳ 498  
+**Rating:** 3.9/5
+
+**Description:**
+Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes
+
+---
+
+
+## Premium Quality - Hot Collection Stlysh Running Sports Sneakers Casual Lace-up Shoes Winter and Summer Men's Shoes - Couture - High-end  
+**DocID:** `daraz_341044218`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/premium-quality-hot-collection-stlysh-running-sports-sneakers-casual-lace-up-shoes-winter-and-summer-mens-shoes-couture-high-end-i341044218.html
+**Price:** ৳ 496  
+**Rating:** 5.0/5
+
+**Description:**
+Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes Upper Material: SyntheticFeature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-AbsorbantClosure Type: Lace-UpOutsole Material: RubberLining Material: MeshSeason: SummerInsole Material: EVAPattern Type: Mixed ColorsFit: Fits smaller than usual. Please check this store's sizing infoShoe Type: BasicDepartment Name: AdultItem Type: casual shoes
+
+---
+
+
+## Premium Quality - White-Green Canvas Sneakers | New Collection for Men"  
+**DocID:** `daraz_324589468`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/premium-quality-white-green-canvas-sneakers-new-collection-for-men-i324589468.html
+**Price:** ৳ 429  
+**Rating:** 3.3/5
+
+**Description:**
+New Arrival Casual Sneaker Shoes Cash On Delivery Service Color: White & Green. Size: 40,41,42,43 Material: Cotton,Leather & Eva Sole. #Shoes #Full_shoes #Half_shoes #Sneakers_shoes #Sports_shoes #Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## Comfortable Black Color Winter Canvas Shoes For Men Fashionable And New Designed Shoes For Men M27  
+**DocID:** `daraz_325471736`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/m27-i325471736.html
+**Price:** ৳ 375  
+**Rating:** 1.0/5
+
+**Description:**
+New Arrival Casual Sneaker Shoes Cash On Delivery Service Color: Black Size: 40,41,42,43 Material: Cotton,Leather & Eva Sole. #Shoes #Full_shoes #Half_shoes #Sneakers_shoes #Sports_shoes #Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## New Trendy Premium Quality Korean Canvas Casual Stylish and Fashionable Summer and Winter Sneakers Collection for Men  
+**DocID:** `daraz_348866088`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i348866088.html
+**Rating:** 0.0/5
+
+**Description:**
+• Premium quality PU leather material in trendy multicolor design • Lace-up closure for a secure and comfortable fit • Medium cut sneaker upper height for a stylish look • New arrival collection perfect for summer season • Versatile for party, retro, office, street style, and more • Fashionable Korean canvas casual sneakers for men • Ideal for both summer and winter seasons • Perfect addition to any stylish and fashionable wardrobeStep 1: Filtered productAttributes: - Leather Material: PU - Product Title: New Trendy Premium Quality Korean Canvas Casual Stylish and Fashionable Summer and Winter Sneakers Collection for Men - Color: Multicolor - Men Shoes Closure: Lace-up - Sneaker Upper Height: Medium Cut - Collection: New Arrival - Men's Trend: Party, Retro & Vintage, Office, Minimalist, Street Style, Rock and Roll - Clothing Material: PU Leather - Listed Year Season: Summer - Season: Summer - Category Path: Fashion&gt;Men&gt;Shoes&gt;Sneakers - Main Material: PU Leather Step 2: additionalKeyWords: Korean, Canvas, Stylish, Fashionable, Summer, Winter, Collection, Men, Sneakers Step 3: Introducing the New Trendy Premium Quality Korean Canvas Sneakers Collection for Men. These stylish and fashionable sneakers are designed for both summer and winter seasons, featuring a medium cut and multicolor PU leather material. The lace-up closure ensures a secure fit, while the trendy design caters to various men's trends including party, retro & vintage, office, minimalist, street style, a …
+
+---
+
+
+## Indispensable -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Innovative  
+**DocID:** `daraz_340380939`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i340380939.html
+**Price:** ৳ 724  
+**Rating:** 3.4/5
+
+**Description:**
+Product Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.Product Type: Sneakers ConverseColor: Black and WhiteMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableCountry of Origin:ChinaMen footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.
+
+---
+
+
+## Fashionable Black Blue And Grey Color Canvas Sneakers Half Shoes For Men - Shoes - À¦›À§‡À¦²À§‡À¦¦À§‡À¦° À¦Œà§À¦¤À¦¾ - À¦¸À§ À¦Œà§À¦¤À¦¾ - Shoes  
+**DocID:** `daraz_288522010`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/fashionable-black-blue-and-grey-color-canvas-sneakers-half-shoes-for-men-shoes-aaaaaaa-aaaa-aa-aaaa-shoes-i288522010.html
+**Price:** ৳ 405  
+**Rating:** 4.6/5
+
+**Description:**
+উপাদান: ক্যানভাস রঙ: কালো এবং নীল আকার: 40,41,42,43 বৈশিষ্ট্য: নৈমিত্তিক জুতা #shoes #ছেলেদের জুতা #সু জুতা We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## School Shoes For Boys or Girls Panda comfortable Shoes  
+**DocID:** `daraz_201943915`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i201943915.html
+**Price:** ৳ 780  
+**Rating:** 4.8/5
+
+**Description:**
+Panda Fashionable Casual White Sneakers for MenColor White Inner Material Synthetic Outer Material Synthetic Leather Model Name Casual Men's And Boys White Color Ideal For Men Occasion casual Size:37/38/39/40/41/42/43/44 Panda school shoes Panda Fashionable Casual White Sneakers for MenColor WhiteInner Material SyntheticOuter Material Synthetic LeatherModel Name Casual Men's And Boys White ColorIdeal For Men Occasion casual
+
+---
+
+
+## Bubble White Sneaker For Men  
+**DocID:** `daraz_209766633`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i209766633.html
+**Rating:** 0.0/5
+
+**Description:**
+• Bubble White Sneaker for Men • Fashionable and comfortable design • Lace-up closure for secure fit • Made with EVA, PVC, and PU Leather • Perfect for casual wear • Ideal for men's fashion • Lightweight and durable materials • Versatile for any outfit • Great addition to any shoe collectionInsole Material: EVA Man Shoe Material: Knitted Upper+ PVC Outsole Lining Material: Cotton Fabric Size: 39-44 Features: Fashionable, Comfortable & Durable Season: Autumn, Spring, Summer & Winter, Colour: BubbleWhite
+
+---
+
+
+## Mens smart sneakers black  
+**DocID:** `daraz_257013762`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i257013762.html
+**Rating:** 0.0/5
+
+**Description:**
+Insole Material:EVA Man Shoe Material: Knitted Upper+ PVC Outsole Lining Material: Cotton Fabric Color: Black lambergn Size: 39-44 Features: Fashionable, Comfortable & Durable Season: Autumn, Spring, Summer & Winter
+
+---
+
+
+## ADAIA Sneakers Shoes For Men in Black And Grey - Low Top Sneaker for Every Season Stylish Comfort for the Modern Gentleman  
+**DocID:** `daraz_321182758`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/adaia-sneakers-shoes-for-men-in-black-and-grey-low-top-sneaker-for-every-season-stylish-comfort-for-the-modern-gentleman-i321182758.html
+**Price:** ৳ 390  
+**Rating:** 4.5/5
+
+**Description:**
+Material: Canvas Color: Black & Grey Size: 40,41,42,43 Feature: Casual Shoes #shoes #Shoes_for_mens #Sneakers_Shoes #Sports_sneakers গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.
+
+---
+
+
+## Indispensable -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Innovative  
+**DocID:** `daraz_323289347`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/indispensable-hot-collection-stylish-and-fashionable-winter-and-summer-exclusive-sneakers-converse-shoes-for-men-innovative-i323289347.html
+**Price:** ৳ 550  
+**Rating:** 3.3/5
+
+**Description:**
+Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.
+
+---
+
+
+## shoes for men flying woven breathable trendy men's shoes -casual sneaker spring sneakers for men  
+**DocID:** `daraz_233520022`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** Flix Footwear  
+**URL:** https://www.daraz.com.bd/products/-i233520022.html
+**Price:** ৳ 1,840  
+**Rating:** 4.4/5
+
+**Description:**
+Product Category Sports casual shoes Origin China Style sports Function Breathable Brand Flix appropriate season summer, spring, autumn Applicable gender male Upper material fly woven mesh Sole material jelly bottom Applicable sports Universal way of dressing front tie popular elements color matching heel shape flat heel inner material net Opening depth Ayacucho (7 cm or less) Upper height low help Toe shape round head Height of heel flat heel Insole material Textiles Shape shoes Applicable scene sports Gross weight 0.5 kg Fastest DeliveryWe provide fastest delivery services to our customer in allover Bangladesh.Inside Dhaka we deliver our product within next 2 days.Outside Dhaka we deliver it next 3 days.QUALITYAll our product manufactured in China Guangzhou province.In fact quality is not merely a buzzword for us; it is an inherent part of our work culture. Quality being the essence of creativity is reflected in all our designs. Every stage of the production process is monitored to ensure that our clients get nothing but the best. Each and every piece is thoroughly checked at the finishing stage before it is finally packed and shipped to its destination. The idea of doing it is to give you true value for money in all times to come.VALUE FOR MONEYPeople urge you to choose from their products because they are cheap. But are they worth the value? We do not claim our products to be the cheapest, but definitely guarantee that they carry best value for your money. After all, Qual …
+
+---
+
+
+## Qualify-Athletic Mesh Lace Up Shoe Sneaker for Man with Medium Cut Height - Unmatched Comfort and Durability  
+**DocID:** `daraz_298855731`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i298855731.html
+**Rating:** 0.0/5
+
+**Description:**
+Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.
+
+---
+
+
+## Men's Sneakers Converse Running Casual Lace-up Shoes Winter and Summer Men's Shoes  
+**DocID:** `daraz_318632207`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i318632207.html
+**Price:** ৳ 433  
+**Rating:** 5.0/5
+
+**Description:**
+Men's Casual Canvas Loafers Slip On Low Top Shoes Moccasin Sneakers Fashion Comfy Item Specifics: Gender:Men's Toe Shape:Round Upper Material:Canvas Outsole Material:Rubber Occasion:Casual, Outdoor,Daily Features:Slip Resistant, Breathable Fastening:Slip on Color:Black. Toe Shape:Round Upper Material:Canvas Outsole Material:Rubber Occasion:Casual, Outdoor,Daily Features:Slip Resistant, Breathable Fastening:Slip on
+
+---
+
+
+## Running Sneakers White Color Casual Lace-up Shoes Winter and Summer Men's Shoes - Stay Active in Style  
+**DocID:** `daraz_209460500`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i209460500.html
+**Price:** ৳ 374  
+**Rating:** 3.2/5
+
+**Description:**
+?Upper Material: Synthetic ?Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant ?Closure Type: Lace-Up ?Outsole Material: Rubber ?Lining Material: Mesh ?Season: Summer ?Insole Material: EVA ?Pattern Type: Mixed Colors ?Fit: Fits smaller than usual. Please check this store's sizing info ?Shoe Type: Basic ?Department Name: Adult ?Item Type: casual shoes #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #জুতাছেলেদের #shoesformen
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Shoe For Boys - Shoe For Boys - Shoes For Men  
+**DocID:** `daraz_482859364`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i482859364.html
+**Price:** ৳ 460  
+**Rating:** 4.5/5
+
+**Description:**
+Product Type: Sneakers Converse Color: Black Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones. Product Type: Sneakers ConverseColor: BlackMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableMen footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.
+
+---
+
+
+## New Best classical Gym and Rauf Used 2025 Comfortable Stylish & Fashionable Sports Look, Lace Up, Slip-on & Pull-on, Light Weight - White and Black Color Combination Sneaker For Men - Perfect For Any Occasion  
+**DocID:** `daraz_546784265`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-i546784265.html
+**Rating:** 0.0/5
+
+**Description:**
+PU leather material for stylish and comfortable sneakers Lace-up closure for a secure and adjustable fit. Medium cut upper height for a trendy look New arrival 2024 model with a fashionable sports look
+
+---
+
+
+## Stylish Sneakers shoes For men For Boy  
+**DocID:** `daraz_534807412`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i534807412.html
+**Price:** ৳ 249  
+**Rating:** 4.1/5
+
+**Description:**
+New Excellent StyleExcellent craftsmanshippractical and fashionableComfortable and softBrand NewNew Excellent StyleExcellent craftsmanshippractical and fashionableComfortable and softBrand New
+
+---
+
+
+## North Star VALERIO Sneaker for Men  
+**DocID:** `daraz_362313185`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** North Star  
+**URL:** https://www.daraz.com.bd/products/north-star-valerio-i362313185.html
+**Price:** ৳ 1,299  
+**Rating:** 4.8/5
+
+**Description:**
+Product Type: Sneaker Material: PU Color: White Gender: Men Brand: NORTH STAR Introducing the North Star Men's Casual Lace-Up Sneaker, a versatile and affordable footwear option reminiscent of the classic low-cut & neat-flat sneaker style. Crafted from durable PU with sleek and convenient colorways, these sneakers offer both a timeless appeal and modern comfort for the fashion-forward man on the go. Designed for everyday wear, these lace-up sneakers feature a closed construction with a TPR sole for reliable traction and durability across various terrains. Theis shoe ensures all-day comfort whether you're running errands or hanging out with friends. FEATURES: - Type: Casual Lace-Up Sneaker - Gender: Men - Upper Material: PU - Color: White - Sole: TPR - Closing: Closed Style Tips: Keep it simple yet refined by pairing these sneakers with tailored chinos and a button-down shirt. Roll up the cuffs for a contemporary touch and accessorize with a sleek watch for a polished and put-together look.
+
+---
+
+
+## Fashionable White Green And Red Color Full Casual Canvas Sneakers Shoes For Men For Walking M12 - Stylish and Comfortable Sneakers  
+**DocID:** `daraz_321169889`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/fashionable-white-green-and-red-color-full-casual-canvas-sneakers-shoes-for-men-for-walking-m12-stylish-and-comfortable-sneakers-i321169889.html
+**Price:** ৳ 299  
+**Rating:** 4.4/5
+
+**Description:**
+Full & Half Shoes Cash On Delivery Service Color: White,Green, Red Size: 40,41,42,43 Material: Coton,Leather & Eva Sole. #Shoes #Full_shoes #Half_shoes #Sneakers_shoes #Sports_shoes #Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## Lambergn Black Sneaker - for Men  
+**DocID:** `daraz_218414938`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/lambergn-i218414938.html
+**Price:** ৳ 950  
+**Rating:** 5.0/5
+
+**Description:**
+Insole Material: EVA Man Shoe Material: Knitted Upper+ PVC Outsole Lining Material: Cotton Fabric Size: 39-44 Features: Fashionable, Comfortable & Durable Season: Autumn, Spring, Summer & Winter, Colour: Clear White #জুতাছেলেদের #SneakersForMen #Juta #Sneakers #জুতাছেলেদের#NewModel Insole Material: EVA Man Shoe Material: Knitted Upper+ PVC Outsole Lining Material: Cotton Fabric Size: 39-44 Features: Fashionable, Comfortable & Durable Season: Autumn, Spring, Summer & Winter, Colour: Black
+
+---
+
+
+## 2025 New Trendy Black And Grey Color SAMBA Canvas Sneakers Shoes For Men Lightweight And New Collection Shoes For Man  
+**DocID:** `daraz_525043590`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-samba-i525043590.html
+**Price:** ৳ 750  
+**Rating:** 3.9/5
+
+**Description:**
+New Arrival Casual Sneaker Shoes Cash On Delivery Service Color: Black And Grey Size: 40,41,42,43 Material: Coton,Leather & Eva Sole. #Shoes #Full_shoes #Half_shoes #Sneakers_shoes #Sports_shoes #Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
+## Shoes for Men Sneakers Lightweight Breathable Comfortable Casual Shoes for Walking  
+**DocID:** `daraz_201432412`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i201432412.html
+**Price:** ৳ 1,000  
+**Rating:** 3.0/5
+
+**Description:**
+Sneaker for men. Shoes for men. Summer sneaker. Summer shoes for men. shoes for men 2021 Running shoes Casual shoes Sports breathable shoes gym shoes for men walking shoes The quality is depend on the price, we have thousands of products, we can't promise that all the products have the same quality, for we need to satisfy different customer's requirements, some one needs high quality, some one needs low price.
+
+---
+
+
+## Hot Stylish and Fashionable Summer and Winter Exclusive Sneakers For Men  
+**DocID:** `daraz_462257582`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/hot-stylish-and-fashionable-summer-and-winter-exclusive-sneakers-for-men-i462257582.html
+**Price:** ৳ 699  
+**Rating:** 5.0/5
+
+**Description:**
+• PU leather material for durable and stylish sneakers.• Lace-up closure for a secure and adjustable fit.• Medium cut upper height for a trendy look.• Versatile for party, office, street style, and rock and roll.• Suitable for summer season with PU leather material.• New arrival exclusive sneakers for men's fashion.• Fashionable and stylish design for summer and winter wear.• Perfect for men's street style and casual fashion. • PU leather material for durable and stylish sneakers.• Lace-up closure for a secure and adjustable fit.• Medium cut upper height for a trendy look.• Versatile for party, office, street style, and rock and roll.• Suitable for summer season with PU leather material.• New arrival exclusive sneakers for men's fashion.• Fashionable and stylish design for summer and winter wear.• Perfect for men's street style and casual fashion.
+
+---
+
+
+## 7171/ New Collection Premium Quality Black And Blue Color FRENCH Casual Canvas Shoes For Men M7171  
+**DocID:** `daraz_555760425`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/7171-m7171-i555760425.html
+**Price:** ৳ 469  
+**Rating:** 3.0/5
+
+**Description:**
+New Arrival Shoes Casual Sneaker Shoes Cash On Delivery Service Lightweight & Comfortable Color: Black & Blue Size: 40,41,42,43 Material: Coton,Leather & Eva Sole. 7 days Return Guarantee গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.
+
+---
+
+
+## WHITE MEN SHOES 2024 - White Shoes  
+**DocID:** `daraz_344324961`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-i344324961.html
+**Price:** ৳ 1,150  
+**Rating:** 4.2/5
+
+**Description:**
+Product details of WHITE MEN SHOES 2024 Made In China Import from Direct China Styleis China Sports Shoes 2020 Very soft and comfortable Size: EU: 41.42,43 Its Korean version Sports shoes 100% Original Product Appropriate eason summer Autumn and Winter Applicable gender male WHITE Color Sole Outside color WHITE Inner material cloth Sole material rubber Applicable sports and General purpose #white shoes Product descriptions from the supplierOverviewProduct Description MaterialPUFunctionComfortableSample timeAbout 10 days after paymentMOQ50pcs for stock items,2000pcs for ODM&OEM items.Capacity500,000pcs per monthsPayment termTT, DIA, D/P, Paypal, Secure Payment,Trade Assurance, Western Unionpackage1 pair/bag.2 pairs or more into the carton, the default is no shoe box, but we will protect the shoes from damage. Because if there is a box of shoes, the volume is large, it will cost a lot of shipping, but if you still need the box, call us and let us adjust the shipping for you before you pay.Direvery time15 days after receiving payment for stock itemProduct DescriptionClosure TypeLace-upGenderMaleProduct nameSneakers
+
+---
+
+
+## China Shoes for boys. Dj case shoes for men high quality & comfortable use soft.  
+**DocID:** `daraz_290229222`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i290229222.html
+**Price:** ৳ 500  
+**Rating:** 4.1/5
+
+**Description:**
+China shoesSize, 40/41/42/43Clour..White High quality fabrics shoes Casual converse Stylish and comfortable Comfortable Lace up closing Rubber soul High quality fabrics shoes Casual converse Stylish and comfortable Comfortable Lace up closing
+
+---
+
+
+## Black Cotton Fabrics Sneaker Shoes Slip-Ons & Sneakers for Men  
+**DocID:** `daraz_341066064`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i341066064.html
+**Price:** ৳ 459  
+**Rating:** 5.0/5
+
+**Description:**
+Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for MenLining: Artificial Leather Sole: Leather insole, Rubber sole Lace-up Material: calfskin Sole colour: white & black Closure type: Lacing Lining: Leather Toe cap: Round toe Special: white ,black Gender: Men Season: all Insole: Artificial Leather Very quality and durable product Product details of Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for MenLining: Artificial LeatherSole: Leather insole, Rubber soleLace-upMaterial: calfskinSole colour: white & blackClosure type: LacingLining: LeatherToe cap: Round toeSpecial: white ,blackGender: MenSeason: allInsole: Artificial LeatherVery quality and durable product
+
+---
+
+
+## Air Force 1 Low - Sneakers - Premium Quality - Shoes For Men  
+**DocID:** `daraz_329137910`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/1-i329137910.html
+**Price:** ৳ 2,250  
+**Rating:** 4.3/5
+
+**Description:**
+Brand : No Brand Very Long Lasting Product And Many Years Usable Size : 40,41,42,43,44, Air Force 1 Premium Quality Made In Vietnam High Quality #Nike #AirForce1 #AirForce1Premium #AirForce #Shoes For Man #Shoes #জুতা &lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;style&gt; pre { white-space: pre-wrap; } &lt;/style&gt;&lt;/head&gt;&lt;body&gt;Introducing the Air Jordan 1 Low - Sneakers, the perfect addition to any sneakerhead's collection. These premium quality shoes for men are made with high-quality leather, ensuring both durability and style. The lace-up closure provides a secure fit, while the low upper height adds a sleek and modern touch. These sneakers are perfect for any casual occasion, whether it's a night out with friends or a day running errands. Don't miss out on the chance to elevate your shoe game with the Air Jordan 1 Low - Sneakers.&lt;/body&gt;&lt;/html&gt;
+
+---
+
+
+## Shoes for men plain rubber artificial fashionable sneakers for CASUAL wearing .  
+**DocID:** `daraz_202492849`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i202492849.html
+**Price:** ৳ 399  
+**Rating:** 3.9/5
+
+**Description:**
+Totto print Glassy fabrics Slip on Rubber sool Comfortable Trendy Classy Light weight Print shoes #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #SneakersForMen #Juta #Sneakers #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦°#NewModel #ShoesForMen #à¦œà§à¦¤à¦¾à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #জুতাছেলেদের #shoesformen #shoe for boys #shoes for men #juta #shoe for boys #shoes for men #juta Loafers Pull onRubber sool Stylish Casual useTrendyRunning shoesWalking shoes
+
+---
+
+
+## Unique Design Premium Quality Stylish And Fashionable Sneakers For Men By Best Collection BD  
+**DocID:** `daraz_505479502`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i505479502.html
+**Price:** ৳ 699  
+**Rating:** 5.0/5
+
+**Description:**
+এই জুতাগুলো আরামদায়ক এবং খুবই টেকসই। ওয়াশ করে দীর্ঘদিন রাফ ইউজ করতে পারবেন। রোদ বৃষ্টি ঝড় শীত গ্রীষ্ম বর্ষা দৃশ্য যে কোন সিজনে ব্যবহার করতে পারবেন। এগুলোর ভেতরের ইনসুল খুবই সফট এবং উন্নত।তাই দীর্ঘক্ষণ পড়ে থাকলেও পা থেকে দুর্গন্ধ আসবে না এবং পা ঘামবে না,অস্বস্তি অনুভব হবে না পা গরম হবে না। আউটলুক খুবই সুন্দর।যেকোনো আউটফিটের সাথে মানানসই। আমরা সব সময় মোবাইল ফোন দিয়ে তুলে অরজিনাল ছবি ব্যবহার করি তাই ছবি এবং বাস্তবের সাথে ব্যবধান হওয়ার সম্ভাবনা খুবই কম। ফুল ক্যাশ অন ডেলিভারিতে অর্ডার করার সুবিধা। সাইজ নিয়ে কোন সমস্যা হলে খুবই দ্রুত সময়ের মধ্যে এক্সচেঞ্জ সুবিধা। ডেলিভারি ম্যান থাকাকালীন প্রোডাক্ট চেক করে পেমেন্ট করার সুবিধা। খুবই দ্রুত সময়ের মধ্যে বাংলাদেশের যে কোন প্রান্তে হোম ডেলিভারি সুবিধা।ব্যবসা একদিনের জন্য নয়" আমরা দীর্ঘমেয়াদী ব্যবসা করার জন্য কাস্টমারকে সর্বদা রিজেনেবল প্রাইস এর মধ্যে সর্বোচ্চ কোয়ালিটি দেওয়ার চেষ্টা করি। তাই নিশ্চিন্তে নিশ্চিন্তে আমাদের থেকে অর্ডার করতে পারেন।এই জুতাগুলো আরামদায়ক এবং খুবই টেকসই। ওয়াশ করে দীর্ঘদিন রাফ ইউজ করতে পারবেন। রোদ বৃষ্টি ঝড় শীত গ্রীষ্ম বর্ষা দৃশ্য যে কোন সিজনে ব্যবহার করতে পারবেন। এগুলোর ভেতরের ইনসুল খুবই সফট এবং উন্নত।তাই দীর্ঘক্ষণ পড়ে থাকলেও পা থেকে দুর্গন্ধ আসবে না এবং পা ঘামবে না,অস্বস্তি অনুভব হবে না পা গরম হবে না। আউটলুক খুবই সুন্দর।যেকোনো আউটফিটের সাথে মানানসই। আমরা সব সময় মোবাইল ফোন দিয়ে তুলে অরজিনাল ছবি ব্যবহার করি তাই ছবি এবং বাস্তবের সাথে ব্যবধান হওয়ার সম্ভাবনা খুবই কম। ফুল ক্যাশ অন ডেলিভারিতে অর্ডার করার সুবিধা। সাইজ নিয়ে কোন সমস্যা হলে খুবই দ্রুত সময়ের মধ্যে এক্সচেঞ্জ সুবিধা। ডেলিভারি ম্যান থাকাকা …
+
+---
+
+
+## Brake: Sneaker Keds New Fashionable Collection 2024 For Men  
+**DocID:** `daraz_383101427`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-i383101427.html
+**Rating:** 0.0/5
+
+**Description:**
+Clean, fresh, understated style that takes your breath away. That's what you'll see when you pull these out of their box. Tonal 3-Stripes on the uncluttered synthetic foam upper rock a heritage vibe. A cushiony midsole adds soft support over the retro rubber outsole. Details Regular fit Lace closure Synthetic foam upper Cushioned feel Textile lining EVA sockliner Rubber outsole
+
+---
+
+
+## Lavish indulgent - Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Easy To maintain  
+**DocID:** `daraz_322674450`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/lavish-indulgent-hot-collection-stylish-and-fashionable-winter-and-summer-exclusive-sneakers-converse-shoes-for-men-easy-to-maintain-i322674450.html
+**Rating:** 0.0/5
+
+**Description:**
+Product Type: Sneakers Converse Color: Black and White Material: Soft Fabric with Rubber Sole Gender: Men Weight: Very Light and Durable Country of Origin:China Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones. Men footwear is intended to protect and comfort the human foot while the wearer is doing various activities. Footwear is also used as an item of decoration and fashion. The design of footwear has varied enormously through time and from culture to culture, with appearance originally being tied to function. Additionally, fashion has often dictated many design elements, such as whether shoes have very high heels or flat ones.Product Type: Sneakers ConverseColor: Black and WhiteMaterial: Soft Fabric with Rubber SoleGender: MenWeight: Very Light and DurableCountry of Origin:China
+
+---
+
+
+## Comfortable Stylish & Fashionable Sports Look Lace Up Canvas Sneakers Shoes For Men  
+**DocID:** `daraz_339798595`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i339798595.html
+**Price:** ৳ 510  
+**Rating:** 4.7/5
+
+**Description:**
+• Stylish and fashionable sneakers for men. • Made of high-quality PU leather material. • Medium cut upper height with lace-up closure. • Perfect for parties and all-year-round wear. • Exclusive collection for 2024. • Ideal for fashion-forward men. • Versatile for both winter and summer seasons. • Artificial leather material for durability. • Listed for summer year season. • Category path: Fashion&gt;Men&gt;Shoes&gt;Sneakers.Step 1: Filtered productAttributes: { "Product Title": "Comfortable Stylish & Fashionable Sports Look Lace Up Canvas Sneakers Shoes For Men", "Men Shoes Closure": "Lace-up", "Main Material": "PU Leather", "Category Path": "Fashion&gt;Men&gt;Shoes&gt;Sneakers" } Step 2: additionalKeyWords: None Step 3: Introducing the Comfortable Stylish & Fashionable Sports Look Lace Up Canvas Sneakers Shoes for Men. These lace-up sneakers are crafted with PU leather, offering a perfect blend of comfort and style. The sleek design and fashionable sports look make them a versatile choice for various occasions. Whether you're hitting the gym or going for a casual outing, these sneakers provide the perfect combination of comfort and trendiness. Elevate your fashion game with these stylish and durable sneakers. Step 4: The tone of voice is in accordance with Informative. Product Description: Introducing the Comfortable Stylish & Fashionable Sports Look Lace Up Canvas Sneakers Shoes for Men. These lace-up sneakers are crafted with PU leather, offering a perfect blend of comfor …
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -14084,6 +15866,605 @@ Product Type: T-shirt Print: 100% Quality Color: 100% Guarantee Product: Same as
 
 **Description:**
 Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: PP Micro Fabric (Jersey Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as DesignMain Material: PP Micro Fabric (Jersey Fabric)যে কোন দলের জার্সিতে নিজের নাম দিয়ে বানাতে চাইলে বা আপনার দলে জার্সি বানাতে চাইলে আমাদের সাথে যোগাযোগ করুন। নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। bdbazar06
+
+---
+
+
+## বারসা new 125th anniversary kit 25/26 half & fullsleeves  
+**DocID:** `daraz_324341202`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/125th-2526-i324341202.html
+**Price:** ৳ 333  
+**Rating:** 4.4/5
+
+**Description:**
+Brand: no brandFabrics : mesh cottonSize : M,L,XL,XXLColour : same as picture Design : same as pictureSize chart:Size : M,L,XL,2XLM : Length 27 chest 38L: Length 28 chest 40XL : Length 29 chest 422XL: Length 30 chest 44Comfortable & stylish Premium quality new addition club jersey#clubfootball #jersey #kitBrand: no brandFabrics : mesh cottonSize : M,L,XL,XXLColour : same as pictureDesign : same as pictureSize chart:Size : M,L,XL,2XLM : Length 27 chest 38L: Length 28 chest 40XL : Length 29 chest 422XL: Length 30 chest 44Comfortable & stylishPremium quality new addition club jersey#clubfootball #jersey #kit
+
+---
+
+
+## Argentina FIFA World CUP Jersey - Thai Premium Messi 10 Jersey For Men - Argentina Football Jersey 2025-26  
+**DocID:** `daraz_269553744`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/10-2025-26-i269553744.html
+**Price:** ৳ 380  
+**Rating:** 3.9/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. #ArgentinaJersey2026WorldCupOriginal #ArgentinaJersey2026WorldCup #jersey #jersey football #football jersey #jersey2026 #football jersey2026 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Bashundhara Kings New Football Half Sleeve Jersey For Man 2024  
+**DocID:** `daraz_314081851`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-i314081851.html
+**Price:** ৳ 265  
+**Rating:** 4.8/5
+
+**Description:**
+Product Type: T-shirt Print: 100% Quality Color: 100% Guarantee Product: Same as Design Main Material: Poly Cotton Fabric (jersey fabric) Gender: Men Stylish and Fashionable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Product Type: T-shirtPrint: 100% QualityColor: 100% GuaranteeProduct: Same as DesignMain Material: Poly Cotton Fabric (jersey fabric)Gender: MenStylish and FashionableSize: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42
+
+---
+
+
+## Manchester City Jersey 2025/26 - Full Sleeve Thai Premium Football Jersey for Men - Long Sleeve - Manchester City Jersey  
+**DocID:** `daraz_325146369`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/202526-i325146369.html
+**Price:** ৳ 370  
+**Rating:** 4.2/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Manchester City Half Sleeve Football Jersey for Man - Manchester City Football Jersey 2025-26  
+**DocID:** `daraz_484436618`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-26-i484436618.html
+**Price:** ৳ 260  
+**Rating:** 4.7/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination PrintColor: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura FabricGender: Men/Womanনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Man City New Jersey Football Jersey premium quality Jersey All over Jersey 25/26  
+**DocID:** `daraz_324131708`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2526-i324131708.html
+**Price:** ৳ 340  
+**Rating:** 3.3/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: T-shirt Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric (Thai Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. # # # Comfortable & Regular FIT .Print Guaranty.Fabric GSM 220.Export Quality Quality Control.Fabric mesh ..Status: Comfortable & Fashionable.Color: (As given picture)Status: Comfortable and Fashionable Exclusive .*Trouser Size Chart Size :M (Komor (Width) 27-29 , (LENGTH 37)L (Komor (Width) 30-32 (LENGTH 38 )XL (Komor (Width) 32-34 (LENGTH 39)XXL (Komor (Width) 35-37 9LENGTH 39.5)#joggers for men
+
+---
+
+
+## football Jersey 2025 half sleeve Thai premium  
+**DocID:** `daraz_422195856`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-i422195856.html
+**Price:** ৳ 388  
+**Rating:** 3.5/5
+
+**Description:**
+বাংলাদেশ ফুটবল জার্সি # Size: M, L, XL, XXL# Size: M-Length 26,Chest 36# Size: L-Length 27,Chest 38# Size : XL-Length 28,Chest 40# Size : XXL-Length 29,Chest 42বাংলাদেশ ফুটবল জার্সি # Size: M, L, XL, XXL# Size: M-Length 26,Chest 36# Size: L-Length 27,Chest 38# Size : XL-Length 28,Chest 40# Size : XXL-Length 29,Chest 42
+
+---
+
+
+## Germany Home kit jerseys 2024/25 - football jersey half sleeve -Jersey for Germany 2024  
+**DocID:** `daraz_367345358`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/202324-i367345358.html
+**Price:** ৳ 350  
+**Rating:** 3.9/5
+
+**Description:**
+Product Type: Jersey Regular fit Ribbed crewneck 100% polyester doubleknit Shaped hem Dri -FIT technology wicks sweat. Ribbed cuffs Breathe fabric Heat-applied Argentina crest Imported Product Color: White / Clear Blue Do not bleach Do not tumble dry Do not dry-clean Touch up with Cool iron Machine wash cold Do not use fabric softener Wash and iron inside out Remove immediately LINE DRY #germany jersey 2024 football #germany away kit 2024 #2024 germany world cup jersey #germany home kit 2024 #germany kit 2024 #germany world cup kit 2024 #germany football jersey 2024 #germany kit world cup 2024 #world cup 2024 germany jersey Product Type:Germany Home kit jerseys 2023/24 - football jersey half sleeve -Jersey for Germany Fan
+
+---
+
+
+## New Balance Full Sleeve Collar Jersey For Man - Polo Sports Jersey For Man - Jersey  
+**DocID:** `daraz_273087225`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i273087225.html
+**Price:** ৳ 310  
+**Rating:** 4.1/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: T-shirt Print: 100% Quality Sublamination Print Product: Same as Design Main Material: Chinigura Fabric (Thai Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.
+
+---
+
+
+## Brazil Jersey 2025/2026 Thai Premium Football Jersey For Men - Half Sleeve t-shirt - Brazil Football Jersey 2025  
+**DocID:** `daraz_247360379`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i247360379.html
+**Price:** ৳ 350  
+**Rating:** 4.3/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Mohammedan Sporting Club Short Sleeve Football Jersey For Man - Mohammedan SC Football Jersey 2025  
+**DocID:** `daraz_329301149`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/mohammedan-mohammedan-sc-2025-i329301149.html
+**Price:** ৳ 260  
+**Rating:** 3.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Brazil National Team Football Team Jersey For Kids (premium) - World Cup 2022  
+**DocID:** `daraz_278723019`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2022-i278723019.html
+**Price:** ৳ 199  
+**Rating:** 4.3/5
+
+**Description:**
+1.5 + Age - Length 15, Chest 20 2.5 + Age- Length 16.5, Chest - 23 (2.5+ age approximate, Please mepe nin) 5+ Age- Length 17.5, Chest - 24.5 (5+ age approximate, Please mepe nin) 8+ Age -Length 22.5, Chest - 30 (8+ age approximate, Please mepe nin)) 13+ Age - Length - 24, Chest - 32 (12+ age approximate, please mepe nin) Both side print PLEASE NOTE THAT, Please measure your (kids/teens) Chest & Length before placing order to avoid wrong size. Age wise body measurement can vary from people to people. Collar: Knitted Polyester 100% polyester doubleknit; Lightweight fabric with a silky feel; Sweat-wicking Climalite fabric. Print: Sublimation print The Best Quality Jersey for kids,baby and teens.
+
+---
+
+
+## New Balance Short Sleeve Polo Jersey for Men - Half Sleeve Polo T Shirt - Polo Jersey  
+**DocID:** `daraz_271020752`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i271020752.html
+**Price:** ৳ 342  
+**Rating:** 4.2/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## France Euro 2024 Jersey - France Full Sleeve Jersey For Man - France Jersey  
+**DocID:** `daraz_278098122`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-i278098122.html
+**Price:** ৳ 260  
+**Rating:** 4.8/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: T-shirt Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric (Thai Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. #jersey #jersey football #football jersey
+
+---
+
+
+## Arsenal 24/25 Home Shirt  
+**DocID:** `daraz_389585842`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2425-i389585842.html
+**Price:** ৳ 297  
+**Rating:** 5.0/5
+
+**Description:**
+Product Type: T-shirt Print: 100% Quality Color: 100% Guarantee Product: Same as Design Main Material: Poly Cotton Fabric (jersey fabric) Gender: Men Stylish and Fashionable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Product Type: T-shirtPrint: 100% QualityColor: 100% GuaranteeProduct: Same as DesignMain Material: Poly Cotton Fabric (jersey fabric)Gender: MenStylish and FashionableSize: M, L, XL, XXLSize: M-Length 26,Chest 36Size: L-Length 27,Chest 38Size : XL-Length 28,Chest 40Size : XXL-Length 29,Chest 42
+
+---
+
+
+## Arsenal Jersey 2025/2026 Thai Premium Football Jersey For Man - T Shirt For Man - Arsenal Jersey 2025  
+**DocID:** `daraz_270630443`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i270630443.html
+**Price:** ৳ 350  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination PrintColor: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura FabricGender: Men/Womanনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Argentina 3 star Jersey half sleeve thai premium  
+**DocID:** `daraz_343747374`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/3-i343747374.html
+**Price:** ৳ 389  
+**Rating:** 3.9/5
+
+**Description:**
+# Size: M, L, XL, XXL# Size: M-Length 26,Chest 36# Size: L-Length 27,Chest 38# Size : XL-Length 28,Chest 40# Size : XXL-Length 29,Chest 42# Size: M, L, XL, XXL# Size: M-Length 26,Chest 36# Size: L-Length 27,Chest 38# Size : XL-Length 28,Chest 40# Size : XXL-Length 29,Chest 42
+
+---
+
+
+## Bashundhara Kings Short Sleeve Football Jersey for Men - Half Sleeve T Shirt - Bashundhara Jersey 2025-26  
+**DocID:** `daraz_271864840`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-26-i271864840.html
+**Price:** ৳ 249  
+**Rating:** 4.3/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura Fabric(Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Argentina Copa America Jersey 2025/2026 Thai Premium Football Jersey For Man - Half Sleeve t-shirt - Argentina Football Jersey 2025  
+**DocID:** `daraz_269580789`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i269580789.html
+**Price:** ৳ 340  
+**Rating:** 5.0/5
+
+**Description:**
+JJersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #ArgentinaJersey2026WorldCupOriginal #ArgentinaJersey2026WorldCup #ArgentinaJersey2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination PrintColor: 100% GuaranteeProduct: Same as DesignMain Material: Chinigura FabricGender: Men/Womanনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Manchester City Jersey 2025/2026 Thai Premium Football Jersey For Men - Manchester City Football Jersey 2025  
+**DocID:** `daraz_538079902`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/20252026-2025-i538079902.html
+**Rating:** 0.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2025-26 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Brazil Short Sleeve Polo Football Jersey For Men - Brazil Half sleeve Polo T Shirt - Brazil Jersey 2025-26  
+**DocID:** `daraz_470006020`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-26-i470006020.html
+**Price:** ৳ 310  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2024-25 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## FC Barcelona 2024-25 Away Jersey Half Sleeve (Thai Premium)  
+**DocID:** `daraz_455248586`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/fc-barcelona-2024-25-i455248586.html
+**Price:** ৳ 450  
+**Rating:** 1.0/5
+
+**Description:**
+Size: M-Length 26, Chest 36 Size: X-Length 27, Chest 38 Size: XL-Length 28, Chest 40 Size: 2XL-Length 29, Chest 42 Main Material: PolyesterTeam: FC BarcelonaPremium Quality ProductFollow the description for size measurementFan Version JerseyVery Comfortable and Durable100% recycled polyesterMachine washDRI-FITStandard fitThe pinwheel logo signifies ‘Move to Zero’ Nike’s journey towards zero carbon and zero wasteThis product features at least 50% organic cotton, recycled polyester or a blend of organic cotton and recycled polyester
+
+---
+
+
+## Free Palestine Short Sleeve Polo Jersey For Men - PP Micro Polo T Shirt For Men - Free Palestine Jersey  
+**DocID:** `daraz_203114528`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/pp-i203114528.html
+**Price:** ৳ 250  
+**Rating:** 4.9/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: PP Micro Fabric (Jersey Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি উন্নত কাপড় এবং ডিজাইনের তৈরি, পড়তে আরাম দায়ক, অত্যধনিক, থাই প্রিমিয়াম জার্সিআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06যে কোন দলের জার্সিতে নিজের নাম দিয়ে বানাতে চাইলে বা আপনার দলে জার্সি বানাতে চাইলে আমাদের সাথে যোগাযোগ করুন।
+
+---
+
+
+## Yonex Jersey - Short sleeve Jersey For Men - Jersey  
+**DocID:** `daraz_230827225`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/yonex-i230827225.html
+**Price:** ৳ 249  
+**Rating:** 3.7/5
+
+**Description:**
+Product Type: T-shirt Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.
+
+---
+
+
+## Santus Short Sleeve Football Jersey For Man - Neymar jr 10 New Clube Jersey - Santos Jersey 2025-26  
+**DocID:** `daraz_522919902`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/santus-neymar-jr-10-santos-2025-26-i522919902.html
+**Price:** ৳ 329  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#CricketJersey #CricketWorldCupjersey #T20Jersey #T20WorldCupJersey2024-25 #জার্ ​#SantosFutebolClubeJerseyFormen2025 ​#naymer Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Al-NassrJersey 2025/2026 Thai Premium Football Jersey For Men - Half Sleeve - Al Nassr Jersey 2025  
+**DocID:** `daraz_269036646`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/al-nassr-20252026-al-nassr-2025-i269036646.html
+**Price:** ৳ 350  
+**Rating:** 4.3/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## B-d Short Sleeve Football Jersey For Men - T Shirt For Men - Banglades Fan Jersey  
+**DocID:** `daraz_292478725`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i292478725.html
+**Price:** ৳ 250  
+**Rating:** 4.5/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: T-shirt Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric (Thai Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. #jersey #jersey football #football jersey #jarsi #Jersey
+
+---
+
+
+## B-d Football Jersey - Full sleeve Banglades Fan Jersey for Man - Football Jersey  
+**DocID:** `daraz_270359109`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i270359109.html
+**Price:** ৳ 270  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #club jersey 2025 Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Spain Short Sleeve Football Jersey For Men - Half Sleeve T Shirt - Spain Jersey 2025/26  
+**DocID:** `daraz_302660946`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/202526-i302660946.html
+**Price:** ৳ 260  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Man Jersey 24-25 home Half Sleeve  
+**DocID:** `daraz_408734256`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/24-25-i408734256.html
+**Price:** ৳ 320  
+**Rating:** 4.4/5
+
+**Description:**
+Thai ম্যাশ কাপড় · Rabar লোগো · আরামদায়ক জার্সি · ভাল মানের জার্সি · 100 ভাগ পলেস্টার · বারবার ধুয়ে ব্যবহার করা যায় · মোবাইল দিয়ে তোলা আমাদের জার্সির ছবি · ছবির সাথে 100% মিল রয়েছে। · রঙ উঠবেনা · সাইজ দেখে অর্ডার করবেন। · M: Chest 38/ Long 26 · L:Chest 40/ Long 27 · XL:Chest 42/ Long 28 · XXL Chest 44/Long 29​ China shop BDComfortable jerseyThai Fabric/Rabar LogoGood quality 100% polyesterCan be washed and used repeatedlyPicture of our jersey taken with mobileThe jersey is 100% similar to the photo Order bysize M 38/26L 40/27XL 42/28XXL 44/29
+
+---
+
+
+## Santus Short Sleeve Football Jersey For Man - Santos Futebol Clube Jersey - Santos Jersey Neymar 10/ 2025-26  
+**DocID:** `daraz_340278605`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/santus-santos-futebol-santos-neymar-10-2025-26-i340278605.html
+**Price:** ৳ 259  
+**Rating:** 4.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#Santus Club jersey #Neymar new jersey #Neymar new jersey 2025 #Santus jersey 2025 #jersey football #Cricket jersey #জার্সি #নেইমার নিউ জার্সি 2025 #নেইমার জার্ #জার্​#SantosFutebolClubeJerseyFormen2025​#naymer​#naymer10​#clubnewjersey​#nayme​#santosclub ​#Footballjersey Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম Online-Mart
+
+---
+
+
+## Bayern Munich Jersey 2025/26 - Thai Premium Football Jersey For Man - Half Sleeve Jersey - Bayern Football Jersey 2025  
+**DocID:** `daraz_331283936`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/bayern-202526-bayern-2025-i331283936.html
+**Price:** ৳ 340  
+**Rating:** 3.5/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Stylish and Comfortable Yonex Full Sleeve Collar Jersey For Men - Long Sleeve T Shirt For Men - Polo Jersey  
+**DocID:** `daraz_275638233`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/yonex-i275638233.html
+**Price:** ৳ 330  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print & Embroidery Logo Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order. Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designনাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Portugal 7 Short Sleeve Polo Football Jersey For Men - Ronaldo 7 Number Polo Jersey - Portugal Jersey  
+**DocID:** `daraz_246508102`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/7-7-i246508102.html
+**Price:** ৳ 250  
+**Rating:** 4.3/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: PP Micro Fabric (Jersey Fabric) Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL, XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#jersey #jersey football #football jersey #জার্সি #JerseyFootball #PortugalJersey #PortugalJersey2026WorldCup #PortugalJersey2026 #PortugalJersey2026WorldCupOriginal Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as DesignMain Material: PP Micro Fabric (Jersey Fabric)যে কোন দলের জার্সিতে নিজের নাম দিয়ে বানাতে চাইলে বা আপনার দলে জার্সি বানাতে চাইলে আমাদের সাথে যোগাযোগ করুন। নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। bdbazar06
+
+---
+
+
+## Portugal New Half Sleeve 2024 Euro Premium Quality JerseyNew Football Short Sleeve Jersey For Men  
+**DocID:** `daraz_365634205`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-i365634205.html
+**Price:** ৳ 350  
+**Rating:** 3.5/5
+
+**Description:**
+Product details of Portugal New Half Sleeve 2024 Euro Premium Quality Jersey/New Football Short Sleeve Jersey For Men Portugal New Half Sleeve 2024 Euro Premium Quality Jersey/New Football Short Sleeve Jersey For Men Product Type: Jersey / Sportswear Product Material: Polyester Quality: Thai Mesh Age-Range: Adult Gender: Unisex Feature 1: Quick Dry Feature 2: Breathable Material Feature 3: Soft and smooth fabric Feature 4: Comfortable to wear Available Size: M, L, XL, XXL Size Chart: M - Length 26 inch, Chest Circumference 36 inch L - Length 27.5 inch, Chest Circumference 38 inch XL - Length 29 inch, Chest Circumference 40 inch XXL- Length 30.5 inch, Chest Circumference 43 inch
+
+---
+
+
+## Inter Milan 2024-2025 Home jearsey  
+**DocID:** `daraz_529954616`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-2025-i529954616.html
+**Price:** ৳ 399  
+**Rating:** 5.0/5
+
+**Description:**
+Product type: t shirtPrint: 100% qualitySublimanation printColour: 100% goodSize:M,LXL,XXLSize:M lenght 26 chest 36Size: L lenght 27 chest 38Size: Xl lenght 28 chest 40Size: XXL lenght 29 chest 42This T shart for man comfortable and worn forregular useSize:M,LXL,XXLSize:M lenght 26 chest 36Size: L lenght 27 chest 38Size: Xl lenght 28 chest 40Size: XXL lenght 29 chest 42This T shart for man comfortable and worn forregular use
+
+---
+
+
+## Juventus Full sleeve Football Jersey For Man - T Shirt For Man - Juventus Jersey  
+**DocID:** `daraz_474794481`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i474794481.html
+**Price:** ৳ 280  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2024-25 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Manchester City Half Sleeve Football Jersey for Man - Manchester City Football Jersey 2025/26  
+**DocID:** `daraz_484556707`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-26-i484556707.html
+**Price:** ৳ 270  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2025-26 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Brazil Short Sleeve Jersey For Man - Brazil Football Jersey-2024-2025  
+**DocID:** `daraz_471848091`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2024-2025-i471848091.html
+**Price:** ৳ 270  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2024-25 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
+
+---
+
+
+## Germany World Cup Football Jersey For Men - Long Sleeve T Shirt - Germany Football Jersey 2025-2026  
+**DocID:** `daraz_472376595`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/2025-2026-i472376595.html
+**Price:** ৳ 280  
+**Rating:** 5.0/5
+
+**Description:**
+Jersey for Man Club Jersey Product Type: Jersey Print: 100% Quality Sublamination Print Color: 100% Guarantee Product: Same as Design Main Material: Chinigura Fabric Gender: Men/Woman Stylish and Comfortable Size: M, L, XL, XXL,XXXL Size: M-Length 26,Chest 36 Size: L-Length 27,Chest 38 Size : XL-Length 28,Chest 40 Size : XXL-Length 29,Chest 42 Size : 3XL-Length 30,Chest 44 . We provide fashionable trendy and good quality product. We always ensure the best quality product. Our products are very comfortable to use. Please choose a right size while placing an order.#FootballJersey #FootballWorldCupjersey #FootballJersey #FootballJersey2025-26 #জার্সি Jersey for ManClub JerseyProduct Type: Jersey Print: 100% Quality Sublamination Print Color: 100% GuaranteeProduct: Same as Designআপনার ছবি, নাম এবং নাম্বার দিয়ে টি-শার্ট (Customized) করতে চাইলে আমাদের fb পেজ থেকে নিতে হবে। fb পেজ নাম bdbazar06
 
 ---
 
@@ -17073,6 +19454,21 @@ No RETURN is applicable if the seal is broken. No returns will be applicable in 
 
 **Description:**
 NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationBrandMotorolaModelEdge 60 Fusion 5GNetworkGSM / HSPA / LTE / 5GDimensions161 x 73 x 8.0 mm or 8.3 mm | IP68/IP69 dust/water resistant (high-pressure water jets; immersible up to 1.5m for 30 min) | Corning Gorilla Glass 7i | Glass front (Gorilla Glass 7i), silicone polymer back (eco leather)Weight180 gSIMNano-SIM + eSIMDisplay TypeLTPO P-OLED, 1B colors, 120Hz, HDR10+, 4500 nits (peak) | Corning Gorilla Glass 7iDisplay Size6.67 inchesDisplay Resolution1220 x 2712 pixelsOSAndroid 15ChipsetMediaTek Dimensity 7400CPUOcta-coreMemory256GB 8GB RAM, 512GB 12GB RAM | UFS 2.2Main Camera50 MP, f/1.8, (wide), dual pixel PDAF, OIS | 13 MP, f/2.2, 120˚ (ultrawide), AF | LED flash, HDR, panorama | 4K@30fps, 1080p@30/60/120/240fps, gyro-EISSelfie Camera32 MP, f/2.2, (wide) | HDR | 4K@30fps, 1080p@30fps, gyro-EISSoundStereo speakers (with Dolby Atmos)Battery InfoLi-Po 5500 mAh | Non-removable | 68W wired chargingSensorsFingerprint (under display, optical), accelerometer, gyro, proximity, compassDescription Motorola Edge 60 Fusion 5GThe Mot …
+
+---
+
+
+## Vivo iQOO Neo 10 , 12/256 chaina  
+**DocID:** `daraz_506833233`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** IQOO  
+**URL:** https://www.daraz.com.bd/products/vivo-iqoo-neo-10-12256-chaina-i506833233.html
+**Price:** ৳ 39,699  
+**Rating:** 1.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.iQOO Neo 10 Full SpecificationsBODYDimensions164.7 x 77 x 8.5 mm (6.48 x 3.03 x 0.33 in)Weight192 g (6.77 oz)ColorsRed, Mint, BlackBody MaterialGlass front, plastic frame, glass or leather backSIMsDual SIM (Nano-SIM, dual stand-by)Water & DustNoDISPLAYSize6.78 inchesTypeLTPO AMOLED, 1B colors, 144Hz, HDR10, 1300 nits (peak)Resolutions1260 x 2800 pixels, 20:9 ratioPPI453 ppi densityMulti touchYesProtection–NETWORKS2GGSM 850 / 900 / 1800 / 1900 – SIM 1 & SIM 2CDMA 8003GHSDPA 850 / 900 / 1700(AWS) / 21004G1, 2, 3, 4, 5, 7, 8, 19, 28, 28, 34, 38, 39, 40, 415G1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSASpeedHSPA, LTE-A, 5GGPRSYesEDGEYesCAMERARear Dual50 MP, f/1.88, (wide), 1/1.49″, 1.0µm, PDAF, OIS8 MP, f/2.2, 114 (ultrawide)FeaturesLED flash, HDR, panoramaVideos8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EISFront16 MP, f/2.45, (wide)1080p@30fpsHARDWAREOSAndroid 15ChipsetMediatek Dimensity 9400+ (4 nm)CPUOcta-core (1×3.00 GHz Cortex-X2 & 3×2.50 GHz Cortex-A710 & 4×1.80 GHz Cortex-A510))GPUImmortalis-G715 MC11RAM16GBStorage256GB / 512GBCard SlotNoB …
 
 ---
 
