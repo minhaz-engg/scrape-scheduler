@@ -14601,6 +14601,21 @@ Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor,
 ---
 
 
+## Indispensable -Quality And Durability -Stylish Black And White Color IL Canvas Sneakers Shoes For Men Comfortable shoes For Summer M36  
+**DocID:** `daraz_351313243`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/m36-il-i351313243.html
+**Price:** ৳ 530  
+**Rating:** 4.0/5
+
+**Description:**
+New Arrival Casual Sneakers ShoesCash On Delivery Service Color: Black & WhiteEva Sole & Artificial Leather UpperSize: 40,41,42,43.#Shoes#Full_shoes#Half_shoes#Sneakers_shoes#Sports_shoes#Running_sneakers_shoes We have thousands of products depending on the quality price, we cannot guarantee that the quality of all products is the same. We have to meet the needs of different customers. Some products need high quality and some need low prices.So we have different quality products considering all the customers. The quality of our products is much better according to the price.গুণমান মূল্যের উপর নির্ভর করে আমাদের হাজার হাজার পণ্য রয়েছে, আমরা প্রতিশ্রুতি দিতে পারি না যে সমস্ত পণ্যের গুণমান একই।আমাদের বিভিন্ন গ্রাহকের প্রয়োজনীয়তা পূরণ করতে হবে। কারও পণ্য উচ্চ মানের প্রয়োজন আবার কারও কম দামের প্রয়োজন।তাই সকল গ্রাহকের কথা বিবেচনা করে আমরা বিভিন্ন কোয়ালিটির পণ্য রেখেছি।আমাদের পণ্যের মান দাম অনুযায়ী অনেক ভালো।
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -21931,6 +21946,21 @@ NO return is applicable if the seal is broken• 10-day seller replacement guara
 
 **Description:**
 No return is applicable if the seal is broken. 10-day seller replacement guarantee. No returns will be applicable in case of change of mind. In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. BrandSamsungModelGalaxy S25 UltraNetworkGSM / CDMA / HSPA / EVDO / LTE / 5GDimensions162.8 x 77.6 x 8.2 mmWeight218 gSIMNano-SIM + eSIM | Dual Nano-SIMDisplay TypeDynamic LTPO AMOLED 2XDisplay Size6.9 inchesDisplay Resolution1440 x 3120 pixelsOSAndroid 15, One UI 7ChipsetQualcomm Snapdragon 8 EliteCPUOcta-coreMemory12GB RAM | 256GB/512GB/1TB storageMain CameraQuad: 200 MP (wide), 10 MP (telephoto), 50 MP (periscope telephoto), 50 MP (ultra-wide) | LED flash, auto-HDR, panorama | Laser AF | 8K@24/30fps, 4K@30/60fps, 1080p, 10-bit HDR, HDR10+, stereo sound rec., gyro-EISSelfie Camera12 MP | HDR, HDR10+ | 4K@30/60fps, 1080p@30fpsSoundStereo speakers, 32-bit/384kHz audio, tuned by AKGBattery InfoLi-Ion 5000 mAh | Non-removable | 45W wired | 25W wireless (Qi2) | 4.5W Reverse WirelessSensorsFingerprint (under display, ultrasonic)DescriptionSamsung Galaxy S25 Ultra 5GSamsung Galaxy S25 series is set to introduce a range of innovative AI features, enhancing user experience with smarter interactions. Powered by the Qualcomm Snapdragon 8 Elite c …
+
+---
+
+
+## honor 400 pro  
+**DocID:** `daraz_531092363`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Honor  
+**URL:** https://www.daraz.com.bd/products/honor-400-pro-i531092363.html
+**Price:** ৳ 70,399  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.BrandHonorModelHonor 400 Pro 5GNetworkGSM / HSPA / LTE / 5GDimensions8.1 mm thicknessWeight205 gSIMNano-SIM + Nano-SIMDisplay TypeAMOLED, 1B colors, 120Hz, HDR, 5000 nits (peak)Display Size6.7 inchesDisplay Resolution1224 x 2700 pixels (~442 ppi density)OSAndroid 15, MagicOS 9ChipsetQualcomm Snapdragon 8 Gen 3 (4 nm)CPUOcta-core (1x3.0 GHz Cortex-X4 & 5x2.95 GHz Cortex-A720 & 2x2.0 GHz Cortex-A520)MemoryUp to 512GB 16GB RAMMain CameraTriple: 200MP (wide), 50MP (telephoto, 3x zoom), 12MP (ultrawide), OISSelfie CameraDual: 50MP (wide) + 2MP (depth), 4K and 1080p video supportSoundStereo speakers, no 3.5mm jackBattery Info5300mAh, 100W wired, 80W wireless, 5W reverse wired, reverse wirelessSensorsFingerprint (under display), accelerometer, gyro, compass, ultrasound proximityDescriptionHonor 400 Pro 5GThe Honor 400 Pro 5G is a powerhouse designed for users who demand top-tier performance, stunning visuals, and a flagship camera setup. Its elegant design houses a bright 6.7-inch AMOLED display that delivers rich colors and smooth motion wit …
 
 ---
 
