@@ -28195,5 +28195,82 @@
         "sizes": []
       }
     ]
+  },
+  "311765103": {
+    "url": "https://www.daraz.com.bd/products/-i311765103.html",
+    "name": "Hot Collection Comfortable Sports Sneakers Stylish Lace up Trendy Shoes for man",
+    "brand": "No Brand",
+    "price": {
+      "display": null,
+      "value": null,
+      "original_display": null,
+      "original_value": null,
+      "discount_display": null,
+      "discount_percent": null
+    },
+    "rating": {
+      "average": 0.0,
+      "count": 0,
+      "raw": "No Ratings"
+    },
+    "images": [
+      "https://img.drz.lazcdn.com/static/bd/p/930cd2bbbeb6d3ec08cf0afb3dc85ac9.jpg_720x720q80.jpg",
+      "https://img.drz.lazcdn.com/static/bd/p/930cd2bbbeb6d3ec08cf0afb3dc85ac9.jpg_120x120q80.jpg",
+      "https://img.drz.lazcdn.com/static/bd/p/3867164dd9fb8058fe2c117a45b9c54e.jpg_120x120q80.jpg",
+      "https://img.drz.lazcdn.com/static/bd/p/0c10616a780f2f4dd4bb1299911dd8cc.jpg_120x120q80.jpg",
+      "https://static-01.daraz.com.bd/p/0c10616a780f2f4dd4bb1299911dd8cc.jpg"
+    ],
+    "colors": [
+      "Multicolor",
+      "Color #1"
+    ],
+    "sizes": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "delivery_options": [],
+    "return_and_warranty": [],
+    "seller": {
+      "name": null,
+      "link": null,
+      "metrics": {}
+    },
+    "details": {
+      "highlights": [],
+      "description_text": "Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes",
+      "description_html": null,
+      "specifications": [],
+      "whats_in_the_box": null,
+      "raw_text": "Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes"
+    },
+    "variants": [
+      {
+        "color": "Color #1",
+        "price": {
+          "display": null,
+          "value": null,
+          "original_display": null,
+          "original_value": null,
+          "discount_display": null,
+          "discount_percent": null
+        },
+        "images": [
+          "https://img.drz.lazcdn.com/static/bd/p/0c10616a780f2f4dd4bb1299911dd8cc.jpg_720x720q80.jpg_.webp",
+          "https://img.drz.lazcdn.com/static/bd/p/930cd2bbbeb6d3ec08cf0afb3dc85ac9.jpg_80x80q80.jpg_.webp",
+          "https://img.drz.lazcdn.com/static/bd/p/3867164dd9fb8058fe2c117a45b9c54e.jpg_80x80q80.jpg_.webp",
+          "https://img.drz.lazcdn.com/static/bd/p/0c10616a780f2f4dd4bb1299911dd8cc.jpg_80x80q80.jpg_.webp"
+        ],
+        "sizes": [
+          "40",
+          "41",
+          "42",
+          "43",
+          "44"
+        ]
+      }
+    ]
   }
 }

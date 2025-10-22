@@ -14587,6 +14587,20 @@ Fabrics shoes Rubber soul High sneakers Fashionable design Lace up closing Europ
 ---
 
 
+## Hot Collection Comfortable Sports Sneakers Stylish Lace up Trendy Shoes for man  
+**DocID:** `daraz_311765103`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i311765103.html
+**Rating:** 0.0/5
+
+**Description:**
+Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes Upper Material: Synthetic Feature: Hard-Wearing, Massage, Breathable, Anti-Odor, Sweat-Absorbant Closure Type: Lace-Up Outsole Material: Rubber Lining Material: Mesh Season: Summer Insole Material: EVA Pattern Type: Mixed Colors Fit: Fits smaller than usual. Please check this store's sizing info Shoe Type: Basic Department Name: Adult Item Type: casual shoes
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -21887,6 +21901,36 @@ NO return is applicable if the seal is broken• 10-day seller replacement guara
 
 **Description:**
 No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Redmi Note 14 6GB/128GB SpecificationsAdditional Features: 108MP AI Camera | Corning Gorilla Glass 5 | 120Hz Eye-Care Display | Secure In-Screen Fingerprint | AI Face Unlock | IP54 Splash, Water and Dust ResistantOS: Xiaomi HyperOS Bases on Android 14Chipset: MediaTek Helio G99-Ultra (6nm)CPU: Octa-core processor, up to 2.2GHzGPU: Mali-G57 MC2RAM: 6GB LPDDR4XROM: 128GB UFS2.2SIM Card Slot: Dual Nano SIM + microSDNetwork: 2G/3G/4GDisplay: 6. …
+
+---
+
+
+## Redmi Note 14 pro - Global 12/256  
+**DocID:** `daraz_540664857`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Xiaomi  
+**URL:** https://www.daraz.com.bd/products/redmi-note-14-pro-i540664857.html
+**Price:** ৳ 34,199  
+**Rating:** 0.0/5
+
+**Description:**
+NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationModelRedmi Note 14 Pro 5GBrandXiaomiNetworkGSM / CDMA / HSPA / CDMA2000 / LTE / 5GDimensions162.3 x 74.42 x 8.24Weight190 gramsSIMNano-SIM, eSIM or Dual SIM (Nano-SIM, dual stand-by)Display TypeAMOLED | 120Hz | Corning GlassDisplay Size6.67Display Resolution1220 x 2712OSHyperOSChipsetDimensity 7300-UltraCPUOcta-CoreMemory8/128GB, 8/256GB, 12/256GB, 12/512GB |Main Camera200MP (Wide) | 8MP (Ultrawide) | 2MP (Macro)Selfie Camera20MP | 1080pSoundStereo SpeakersBattery Info5500 mAh | Type-C | 45W Wired ChargingSensorsFingerprint (under display, optical), accelerometer, gyro, compass, proximityDescriptionRedmi Note 14 Pro 5G Get awesome photography power and view them in a stunning display with Xiaomi Redmi Note 14 Pro 5G. Gives you exceptional durability against day to day wear and tear. Tested against diverse set of drops and bumps with Gorilla Glass 2 protection. Wet touch 2.0 and IP68 rating keeps your device safe to use from outdoor splash and rainfall. Play your favorite games at ease with a buttery smooth refresh rate, en …
+
+---
+
+
+## Galaxy S25 Ultra  
+**DocID:** `daraz_523397711`
+**Source:** Daraz  
+**Category:** smartphones  
+**Brand:** Samsung  
+**URL:** https://www.daraz.com.bd/products/galaxy-ultra-i523397711.html
+**Price:** ৳ 122,399  
+**Rating:** 0.0/5
+
+**Description:**
+No return is applicable if the seal is broken. 10-day seller replacement guarantee. No returns will be applicable in case of change of mind. In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. BrandSamsungModelGalaxy S25 UltraNetworkGSM / CDMA / HSPA / EVDO / LTE / 5GDimensions162.8 x 77.6 x 8.2 mmWeight218 gSIMNano-SIM + eSIM | Dual Nano-SIMDisplay TypeDynamic LTPO AMOLED 2XDisplay Size6.9 inchesDisplay Resolution1440 x 3120 pixelsOSAndroid 15, One UI 7ChipsetQualcomm Snapdragon 8 EliteCPUOcta-coreMemory12GB RAM | 256GB/512GB/1TB storageMain CameraQuad: 200 MP (wide), 10 MP (telephoto), 50 MP (periscope telephoto), 50 MP (ultra-wide) | LED flash, auto-HDR, panorama | Laser AF | 8K@24/30fps, 4K@30/60fps, 1080p, 10-bit HDR, HDR10+, stereo sound rec., gyro-EISSelfie Camera12 MP | HDR, HDR10+ | 4K@30/60fps, 1080p@30fpsSoundStereo speakers, 32-bit/384kHz audio, tuned by AKGBattery InfoLi-Ion 5000 mAh | Non-removable | 45W wired | 25W wireless (Qi2) | 4.5W Reverse WirelessSensorsFingerprint (under display, ultrasonic)DescriptionSamsung Galaxy S25 Ultra 5GSamsung Galaxy S25 series is set to introduce a range of innovative AI features, enhancing user experience with smarter interactions. Powered by the Qualcomm Snapdragon 8 Elite c …
 
 ---
 

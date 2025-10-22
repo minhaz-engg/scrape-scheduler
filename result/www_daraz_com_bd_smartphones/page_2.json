@@ -2,25 +2,25 @@
   {
     "data_qa_locator": "product-item",
     "data_tracking": "product-card",
-    "data_sku_simple": "542579078_BD-2562272239",
-    "data_item_id": "542579078",
-    "data_listno": "39",
-    "data_utlogmap": "{\"listno\":39,\"pageIndex\":1,\"pvid\":\"2549bf0201682a5d4d85b4a3e44dc7bc\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"542579078\",\"x_object_id\":\"542579078\",\"x_object_type\":\"item\"}",
-    "data_aplus_ae": "40",
-    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i39.6f967faaZW0BQ6",
-    "data_aplus_clk": "x40_4e8ab7d3",
+    "data_sku_simple": "540664857_BD-2558595284",
+    "data_item_id": "540664857",
+    "data_listno": "10",
+    "data_utlogmap": "{\"listno\":10,\"pageIndex\":1,\"pvid\":\"88e1d951c24c219f8c2ab34f7e698a0c\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"540664857\",\"x_object_id\":\"540664857\",\"x_object_type\":\"item\"}",
+    "data_aplus_ae": "11",
+    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i10.133e7faamLDRuA",
+    "data_aplus_clk": "x11_9ad4820",
     "image_url": "data:image/png;base64,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",
-    "product_detail_url": "//www.daraz.com.bd/products/redmi-note-14-4g-6gb128gb-i542579078.html",
-    "product_name": "Redmi Note 14 4G 6GB/128GB - Official",
-    "price": "৳ 20,999",
-    "detail_url": "https://www.daraz.com.bd/products/redmi-note-14-4g-6gb128gb-i542579078.html",
+    "product_detail_url": "//www.daraz.com.bd/products/redmi-note-14-pro-i540664857.html",
+    "product_name": "Redmi Note 14 pro - Global 12/256",
+    "price": "৳ 34,199",
+    "detail_url": "https://www.daraz.com.bd/products/redmi-note-14-pro-i540664857.html",
     "detail": {
-      "url": "https://www.daraz.com.bd/products/redmi-note-14-4g-6gb128gb-i542579078.html",
-      "name": "Redmi Note 14 4G 6GB/128GB - Official",
+      "url": "https://www.daraz.com.bd/products/redmi-note-14-pro-i540664857.html",
+      "name": "Redmi Note 14 pro - Global 12/256",
       "brand": "Xiaomi",
       "price": {
-        "display": "৳ 20,999",
-        "value": 20999.0,
+        "display": "৳ 34,199",
+        "value": 34199.0,
         "original_display": null,
         "original_value": null,
         "discount_display": null,
@@ -32,25 +32,23 @@
         "raw": "No Ratings"
       },
       "images": [
-        "https://img.drz.lazcdn.com/static/bd/p/e1c1365d68cfe09853e33b1846beb60e.jpg_720x720q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/e1c1365d68cfe09853e33b1846beb60e.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/71951d6a0d4444115ce79846e8689601.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/0ae6fe1aa923e9a2ff64ace25101405e.jpg_120x120q80.jpg",
-        "https://img.drz.lazcdn.com/static/bd/p/6caf5a9910cebf410409c84f45f5cc9f.jpg_120x120q80.jpg",
-        "https://static-01.daraz.com.bd/p/0ae6fe1aa923e9a2ff64ace25101405e.jpg"
+        "https://img.drz.lazcdn.com/static/bd/p/3dff9fc2f358d282f006615e0e864a90.jpg_720x720q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/3dff9fc2f358d282f006615e0e864a90.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/f1daa1a6ba8662a9f7e6474f1102b61f.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/dc820b942d683f932289710a88e988b5.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/79935adffe76647fb2e074876f396335.jpg_120x120q80.jpg",
+        "https://img.drz.lazcdn.com/static/bd/p/cd6b030da290ae9bfa688d699f18e115.jpg_120x120q80.jpg",
+        "https://static-01.daraz.com.bd/p/3dff9fc2f358d282f006615e0e864a90.jpg"
       ],
       "colors": [
-        "Mist Purple",
-        "Lime Green",
-        "Midnight Black",
-        "Ocean Blue"
+        "Green"
       ],
       "sizes": [],
       "delivery_options": [
         {
           "title": "Standard Delivery",
-          "time": "Guaranteed by 25-30 Oct",
-          "fee": "৳ 88"
+          "time": "Guaranteed by 24-29 Oct",
+          "fee": "৳ 70"
         },
         {
           "title": "Cash on Delivery not available",
@@ -60,103 +58,106 @@
       ],
       "return_and_warranty": [
         "14 days easy return",
-        "1 Year Brand Warranty"
+        "Warranty not available"
       ],
       "seller": {
-        "name": "Alapon Computer",
-        "link": "https://www.daraz.com.bd/shop/alapon-computer-ctg/?itemId=542579078&channelSource=pdp",
+        "name": "KRY International",
+        "link": "https://www.daraz.com.bd/shop/kry-international/?itemId=540664857&channelSource=pdp",
         "metrics": {
-          "Positive Seller Ratings": "90%",
+          "Positive Seller Ratings": "94%",
           "Ship on Time": "100%",
           "Chat Response Rate": "Not enough data"
         }
       },
       "details": {
         "highlights": [],
-        "description_text": "No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Redmi Note 14 6GB/128GB SpecificationsAdditional Features: 108MP AI Camera | Corning Gorilla Glass 5 | 120Hz Eye-Care Display | Secure In-Screen Fingerprint | AI Face Unlock | IP54 Splash, Water and Dust ResistantOS: Xiaomi HyperOS Bases on Android 14Chipset: MediaTek Helio G99-Ultra (6nm)CPU: Octa-core processor, up to 2.2GHzGPU: Mali-G57 MC2RAM: 6GB LPDDR4XROM: 128GB UFS2.2SIM Card Slot: Dual Nano SIM + microSDNetwork: 2G/3G/4GDisplay: 6.67\" AMOLED Display | Resolution: 2400 × 1080 | Refresh rate: Up to 120Hz | Touch sampling rate: 240Hz | Brightness: 1800nits (peak), HBM 1200 nits (typ) | Color depth: 8bit | Contrast ratio: 5,000,000:1 | PPI: 394Display Features: 100% DCI- P3 Wide Color Gamut | Sunlight Display | Reading Mode | 960Hz PWM Dimming | TÜV Rheinland Low Blue Light Certification (Hardware Solution) | TÜV Rheinland Circadian Friendly Certification | TÜV Rheinland Flicker Free Certification | SGS Low Blue Light CertificationRear Camera: 108MP + 2MP + 2MPCamera Mechanism: 108MP Main Camera (0.64μm, 9in1 1.92μmf/1.76P lens1/1.67” sensor size) | 2MP Depth Camera (f/2.4) | 2MP Macro Camera (f/2.4)Video: 1080p @60fps| 1080p @30fps | 720p @30fpsFront Camera: 20MPCamera Mechanism: Sensor Size: 1/4'' | Aperture: f/2.2 | Lens: 4PVideo: 1080p @30fps | 720p @30fpsBattery & Charging: 5500mAh (typ) Battery | 33W Turbo Charging | USB Type-CConnectivity: Wi-Fi | Bluetooth 5.3 | GPS | 3.5mm JackSensors: Proximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster | Gyroscope",
+        "description_text": "NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationModelRedmi Note 14 Pro 5GBrandXiaomiNetworkGSM / CDMA / HSPA / CDMA2000 / LTE / 5GDimensions162.3 x 74.42 x 8.24Weight190 gramsSIMNano-SIM, eSIM or Dual SIM (Nano-SIM, dual stand-by)Display TypeAMOLED | 120Hz | Corning GlassDisplay Size6.67Display Resolution1220 x 2712OSHyperOSChipsetDimensity 7300-UltraCPUOcta-CoreMemory8/128GB, 8/256GB, 12/256GB, 12/512GB |Main Camera200MP (Wide) | 8MP (Ultrawide) | 2MP (Macro)Selfie Camera20MP | 1080pSoundStereo SpeakersBattery Info5500 mAh | Type-C | 45W Wired ChargingSensorsFingerprint (under display, optical), accelerometer, gyro, compass, proximityDescriptionRedmi Note 14 Pro 5G Get awesome photography power and view them in a stunning display with Xiaomi Redmi Note 14 Pro 5G. Gives you exceptional durability against day to day wear and tear. Tested against diverse set of drops and bumps with Gorilla Glass 2 protection. Wet touch 2.0 and IP68 rating keeps your device safe to use from outdoor splash and rainfall. Play your favorite games at ease with a buttery smooth refresh rate, ensuring high-fps while gameplay. Sony’s lens on the camera gives you lovely photography capability and high-res video shooting. Run regular apps and games without any hassles with a maximum of 2.5Ghz processing power. Get long battery life for more than a day effortlessly with a large battery inside to keep your creativity running. Redmi Note 14 Pro 5G FeaturesFlagship styled camera cutout on the back looks and feels stylish for always;Gorilla Glass Victus 2 keeps your front glass safe from accidental scratches;Dustproof and waterproof build quality gives you protection against outdoors;Greater safety for your eyes with 1.5K high-gloss eye protection screen;High refresh rate with the display lets you play your favorite games smoothly;Gorgeous colors from your contents with 12bit color depth & Dolby Atmos support;Experience full speed energy efficiency with the reliable chip inside;Triple camera with a main Sony lens gives you crispy photography power;Store your apps and files easily with the dependable RAM and storage;Large battery life gives you more than a day of power for improved productivity.",
         "description_html": null,
         "specifications": [],
         "whats_in_the_box": null,
-        "raw_text": "No RETURN is applicable if the seal is broken. No returns will be applicable in case of a change of mind. If the ordered color is not in stock, the seller will be obliged to provide another color; no returns will be applicable in this field. In an accidental case, mobile devices (Broken Display, Dent, Burn, shock, Water damage, manual update, or Root) void the warranty. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. As the product's price is volatile, the cost of any product may change at any moment aligned with the market price. E-warranty will be pre-activated for transferable warranty issues on official products. Warranty for official products should be claimed from the authorized service center, and no warranty products will have no warranty. Before ordering if there is any confusion don't hesitate to contact the seller through chat. Please leave a review if you are satisfied with your purchase. For any feedback, please reach out to the seller. Redmi Note 14 6GB/128GB SpecificationsAdditional Features: 108MP AI Camera | Corning Gorilla Glass 5 | 120Hz Eye-Care Display | Secure In-Screen Fingerprint | AI Face Unlock | IP54 Splash, Water and Dust ResistantOS: Xiaomi HyperOS Bases on Android 14Chipset: MediaTek Helio G99-Ultra (6nm)CPU: Octa-core processor, up to 2.2GHzGPU: Mali-G57 MC2RAM: 6GB LPDDR4XROM: 128GB UFS2.2SIM Card Slot: Dual Nano SIM + microSDNetwork: 2G/3G/4GDisplay: 6.67\" AMOLED Display | Resolution: 2400 × 1080 | Refresh rate: Up to 120Hz | Touch sampling rate: 240Hz | Brightness: 1800nits (peak), HBM 1200 nits (typ) | Color depth: 8bit | Contrast ratio: 5,000,000:1 | PPI: 394Display Features: 100% DCI- P3 Wide Color Gamut | Sunlight Display | Reading Mode | 960Hz PWM Dimming | TÜV Rheinland Low Blue Light Certification (Hardware Solution) | TÜV Rheinland Circadian Friendly Certification | TÜV Rheinland Flicker Free Certification | SGS Low Blue Light CertificationRear Camera: 108MP + 2MP + 2MPCamera Mechanism: 108MP Main Camera (0.64μm, 9in1 1.92μmf/1.76P lens1/1.67” sensor size) | 2MP Depth Camera (f/2.4) | 2MP Macro Camera (f/2.4)Video: 1080p @60fps| 1080p @30fps | 720p @30fpsFront Camera: 20MPCamera Mechanism: Sensor Size: 1/4'' | Aperture: f/2.2 | Lens: 4PVideo: 1080p @30fps | 720p @30fpsBattery & Charging: 5500mAh (typ) Battery | 33W Turbo Charging | USB Type-CConnectivity: Wi-Fi | Bluetooth 5.3 | GPS | 3.5mm JackSensors: Proximity sensor | Ambient light sensor | Accelerometer | Electronic compass | IR blaster | Gyroscope"
+        "raw_text": "NO return is applicable if the seal is broken• 10-day seller replacement guarantee• No returns will be applicable in case of change of mind.• In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable• 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering.SpecificationModelRedmi Note 14 Pro 5GBrandXiaomiNetworkGSM / CDMA / HSPA / CDMA2000 / LTE / 5GDimensions162.3 x 74.42 x 8.24Weight190 gramsSIMNano-SIM, eSIM or Dual SIM (Nano-SIM, dual stand-by)Display TypeAMOLED | 120Hz | Corning GlassDisplay Size6.67Display Resolution1220 x 2712OSHyperOSChipsetDimensity 7300-UltraCPUOcta-CoreMemory8/128GB, 8/256GB, 12/256GB, 12/512GB |Main Camera200MP (Wide) | 8MP (Ultrawide) | 2MP (Macro)Selfie Camera20MP | 1080pSoundStereo SpeakersBattery Info5500 mAh | Type-C | 45W Wired ChargingSensorsFingerprint (under display, optical), accelerometer, gyro, compass, proximityDescriptionRedmi Note 14 Pro 5G Get awesome photography power and view them in a stunning display with Xiaomi Redmi Note 14 Pro 5G. Gives you exceptional durability against day to day wear and tear. Tested against diverse set of drops and bumps with Gorilla Glass 2 protection. Wet touch 2.0 and IP68 rating keeps your device safe to use from outdoor splash and rainfall. Play your favorite games at ease with a buttery smooth refresh rate, ensuring high-fps while gameplay. Sony’s lens on the camera gives you lovely photography capability and high-res video shooting. Run regular apps and games without any hassles with a maximum of 2.5Ghz processing power. Get long battery life for more than a day effortlessly with a large battery inside to keep your creativity running. Redmi Note 14 Pro 5G FeaturesFlagship styled camera cutout on the back looks and feels stylish for always;Gorilla Glass Victus 2 keeps your front glass safe from accidental scratches;Dustproof and waterproof build quality gives you protection against outdoors;Greater safety for your eyes with 1.5K high-gloss eye protection screen;High refresh rate with the display lets you play your favorite games smoothly;Gorgeous colors from your contents with 12bit color depth & Dolby Atmos support;Experience full speed energy efficiency with the reliable chip inside;Triple camera with a main Sony lens gives you crispy photography power;Store your apps and files easily with the dependable RAM and storage;Large battery life gives you more than a day of power for improved productivity."
       },
-      "variants": [
+      "variants": []
+    }
+  },
+  {
+    "data_qa_locator": "product-item",
+    "data_tracking": "product-card",
+    "data_sku_simple": "523397711_BD-2524727926",
+    "data_item_id": "523397711",
+    "data_listno": "28",
+    "data_utlogmap": "{\"listno\":28,\"pageIndex\":1,\"pvid\":\"88e1d951c24c219f8c2ab34f7e698a0c\",\"query\":\"\",\"style\":\"wf\",\"x_item_ids\":\"523397711\",\"x_object_id\":\"523397711\",\"x_object_type\":\"item\"}",
+    "data_aplus_ae": "29",
+    "data_spm_anchor_id": "a2a0e.searchlistcategory.list.i28.133e7faamLDRuA",
+    "data_aplus_clk": "x29_672a919",
+    "image_url": "data:image/png;base64,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",
+    "product_detail_url": "//www.daraz.com.bd/products/galaxy-ultra-i523397711.html",
+    "product_name": "Galaxy S25 Ultra",
+    "price": "৳ 121,799",
+    "detail_url": "https://www.daraz.com.bd/products/galaxy-ultra-i523397711.html",
+    "detail": {
+      "url": "https://www.daraz.com.bd/products/galaxy-ultra-i523397711.html",
+      "name": "Galaxy S25 Ultra",
+      "brand": "Samsung",
+      "price": {
+        "display": "৳ 122,399",
+        "value": 122399.0,
+        "original_display": null,
+        "original_value": null,
+        "discount_display": null,
+        "discount_percent": null
+      },
+      "rating": {
+        "average": 0.0,
+        "count": 0,
+        "raw": "No Ratings"
+      },
+      "images": [
+        "https://img.drz.lazcdn.com/static/bd/p/51bbabf3f3e24b09d826a0d4cecd55fa.png_720x720q80.png",
+        "https://img.drz.lazcdn.com/static/bd/p/51bbabf3f3e24b09d826a0d4cecd55fa.png_120x120q80.png",
+        "https://img.drz.lazcdn.com/static/bd/p/72c1772929b86dd91c5356ea2a287b9c.png_120x120q80.png",
+        "https://img.drz.lazcdn.com/static/bd/p/dead0ae090b2ac9f4ae83cd57dd7243a.png_120x120q80.png",
+        "https://img.drz.lazcdn.com/static/bd/p/fa5cd24a9e30fcf49543a759b509b98f.png_120x120q80.png",
+        "https://static-01.daraz.com.bd/p/51bbabf3f3e24b09d826a0d4cecd55fa.png"
+      ],
+      "colors": [
+        "Black"
+      ],
+      "sizes": [],
+      "delivery_options": [
         {
-          "color": "Midnight Black",
-          "price": {
-            "display": "৳ 20,999",
-            "value": 20999.0,
-            "original_display": null,
-            "original_value": null,
-            "discount_display": null,
-            "discount_percent": null
-          },
-          "images": [
-            "https://img.drz.lazcdn.com/static/bd/p/71951d6a0d4444115ce79846e8689601.jpg_720x720q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/e1c1365d68cfe09853e33b1846beb60e.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/71951d6a0d4444115ce79846e8689601.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/0ae6fe1aa923e9a2ff64ace25101405e.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/6caf5a9910cebf410409c84f45f5cc9f.jpg_80x80q80.jpg_.webp"
-          ],
-          "sizes": []
+          "title": "Standard Delivery",
+          "time": "Guaranteed by 24-29 Oct",
+          "fee": "৳ 70"
         },
         {
-          "color": "Mist Purple",
-          "price": {
-            "display": "৳ 20,999",
-            "value": 20999.0,
-            "original_display": null,
-            "original_value": null,
-            "discount_display": null,
-            "discount_percent": null
-          },
-          "images": [
-            "https://img.drz.lazcdn.com/static/bd/p/0ae6fe1aa923e9a2ff64ace25101405e.jpg_720x720q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/e1c1365d68cfe09853e33b1846beb60e.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/71951d6a0d4444115ce79846e8689601.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/0ae6fe1aa923e9a2ff64ace25101405e.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/6caf5a9910cebf410409c84f45f5cc9f.jpg_80x80q80.jpg_.webp"
-          ],
-          "sizes": []
-        },
-        {
-          "color": "Ocean Blue",
-          "price": {
-            "display": "৳ 20,999",
-            "value": 20999.0,
-            "original_display": null,
-            "original_value": null,
-            "discount_display": null,
-            "discount_percent": null
-          },
-          "images": [
-            "https://img.drz.lazcdn.com/static/bd/p/6caf5a9910cebf410409c84f45f5cc9f.jpg_720x720q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/e1c1365d68cfe09853e33b1846beb60e.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/71951d6a0d4444115ce79846e8689601.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/0ae6fe1aa923e9a2ff64ace25101405e.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/6caf5a9910cebf410409c84f45f5cc9f.jpg_80x80q80.jpg_.webp"
-          ],
-          "sizes": []
-        },
-        {
-          "color": "Lime Green",
-          "price": {
-            "display": "৳ 20,999",
-            "value": 20999.0,
-            "original_display": null,
-            "original_value": null,
-            "discount_display": null,
-            "discount_percent": null
-          },
-          "images": [
-            "https://img.drz.lazcdn.com/static/bd/p/e1c1365d68cfe09853e33b1846beb60e.jpg_720x720q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/e1c1365d68cfe09853e33b1846beb60e.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/71951d6a0d4444115ce79846e8689601.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/0ae6fe1aa923e9a2ff64ace25101405e.jpg_80x80q80.jpg_.webp",
-            "https://img.drz.lazcdn.com/static/bd/p/6caf5a9910cebf410409c84f45f5cc9f.jpg_80x80q80.jpg_.webp"
-          ],
-          "sizes": []
+          "title": "Cash on Delivery not available",
+          "time": null,
+          "fee": null
         }
-      ]
+      ],
+      "return_and_warranty": [
+        "14 days easy return",
+        "2 Years Seller Warranty"
+      ],
+      "seller": {
+        "name": "KRY International",
+        "link": "https://www.daraz.com.bd/shop/kry-international/?itemId=523397711&channelSource=pdp",
+        "metrics": {
+          "Positive Seller Ratings": "94%",
+          "Ship on Time": "100%",
+          "Chat Response Rate": "Not enough data"
+        }
+      },
+      "details": {
+        "highlights": [],
+        "description_text": "No return is applicable if the seal is broken. 10-day seller replacement guarantee. No returns will be applicable in case of change of mind. In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. BrandSamsungModelGalaxy S25 UltraNetworkGSM / CDMA / HSPA / EVDO / LTE / 5GDimensions162.8 x 77.6 x 8.2 mmWeight218 gSIMNano-SIM + eSIM | Dual Nano-SIMDisplay TypeDynamic LTPO AMOLED 2XDisplay Size6.9 inchesDisplay Resolution1440 x 3120 pixelsOSAndroid 15, One UI 7ChipsetQualcomm Snapdragon 8 EliteCPUOcta-coreMemory12GB RAM | 256GB/512GB/1TB storageMain CameraQuad: 200 MP (wide), 10 MP (telephoto), 50 MP (periscope telephoto), 50 MP (ultra-wide) | LED flash, auto-HDR, panorama | Laser AF | 8K@24/30fps, 4K@30/60fps, 1080p, 10-bit HDR, HDR10+, stereo sound rec., gyro-EISSelfie Camera12 MP | HDR, HDR10+ | 4K@30/60fps, 1080p@30fpsSoundStereo speakers, 32-bit/384kHz audio, tuned by AKGBattery InfoLi-Ion 5000 mAh | Non-removable | 45W wired | 25W wireless (Qi2) | 4.5W Reverse WirelessSensorsFingerprint (under display, ultrasonic)DescriptionSamsung Galaxy S25 Ultra 5GSamsung Galaxy S25 series is set to introduce a range of innovative AI features, enhancing user experience with smarter interactions. Powered by the Qualcomm Snapdragon 8 Elite chipset, it offers lightning-fast performance and seamless multitasking with up to 1TB of storage and 16GB of RAM. The device boasts a stunning 6.8-inch Dynamic LTPO AMOLED 2X display, providing vibrant visuals with a 120Hz refresh rate. Its quad-camera setup includes a 200MP primary sensor, offering exceptional photography capabilities. With IP68 water resistance and advanced Wi-Fi 7 connectivity, this phone is both durable and connected. Enjoy rapid charging with 45W wired and 25W wireless options, ensuring your device stays powered throughout the day. The Galaxy S25 Ultra is designed to deliver an unparalleled mobile experience, blending style, performance, and cutting-edge technology. Samsung Galaxy S25 Ultra 5G FeaturesComes with a flat design on both sides with a sleek titanium frame.Large AMOLED screen with a high refresh rate is a peace of the eye.Feel lightning-fast performance with the Snapdragon 8 Elite.Improve your daily productivity with personalized AI-driven insights.Quad camera setup with powerful lenses to capture beyond. A large battery with flash charging will keep you powered all day long.",
+        "description_html": null,
+        "specifications": [],
+        "whats_in_the_box": null,
+        "raw_text": "No return is applicable if the seal is broken. 10-day seller replacement guarantee. No returns will be applicable in case of change of mind. In Accidental Cases Mobile (Broken Display, Dent, Burn, Shock, Water Damage or Manual Update or Root) service Warranty or replacement guarantee will not be applicable. 0% EMI available. If there is any confusion regarding EMI, please contact the seller through chat to know how to avail EMI before ordering. BrandSamsungModelGalaxy S25 UltraNetworkGSM / CDMA / HSPA / EVDO / LTE / 5GDimensions162.8 x 77.6 x 8.2 mmWeight218 gSIMNano-SIM + eSIM | Dual Nano-SIMDisplay TypeDynamic LTPO AMOLED 2XDisplay Size6.9 inchesDisplay Resolution1440 x 3120 pixelsOSAndroid 15, One UI 7ChipsetQualcomm Snapdragon 8 EliteCPUOcta-coreMemory12GB RAM | 256GB/512GB/1TB storageMain CameraQuad: 200 MP (wide), 10 MP (telephoto), 50 MP (periscope telephoto), 50 MP (ultra-wide) | LED flash, auto-HDR, panorama | Laser AF | 8K@24/30fps, 4K@30/60fps, 1080p, 10-bit HDR, HDR10+, stereo sound rec., gyro-EISSelfie Camera12 MP | HDR, HDR10+ | 4K@30/60fps, 1080p@30fpsSoundStereo speakers, 32-bit/384kHz audio, tuned by AKGBattery InfoLi-Ion 5000 mAh | Non-removable | 45W wired | 25W wireless (Qi2) | 4.5W Reverse WirelessSensorsFingerprint (under display, ultrasonic)DescriptionSamsung Galaxy S25 Ultra 5GSamsung Galaxy S25 series is set to introduce a range of innovative AI features, enhancing user experience with smarter interactions. Powered by the Qualcomm Snapdragon 8 Elite chipset, it offers lightning-fast performance and seamless multitasking with up to 1TB of storage and 16GB of RAM. The device boasts a stunning 6.8-inch Dynamic LTPO AMOLED 2X display, providing vibrant visuals with a 120Hz refresh rate. Its quad-camera setup includes a 200MP primary sensor, offering exceptional photography capabilities. With IP68 water resistance and advanced Wi-Fi 7 connectivity, this phone is both durable and connected. Enjoy rapid charging with 45W wired and 25W wireless options, ensuring your device stays powered throughout the day. The Galaxy S25 Ultra is designed to deliver an unparalleled mobile experience, blending style, performance, and cutting-edge technology. Samsung Galaxy S25 Ultra 5G FeaturesComes with a flat design on both sides with a sleek titanium frame.Large AMOLED screen with a high refresh rate is a peace of the eye.Feel lightning-fast performance with the Snapdragon 8 Elite.Improve your daily productivity with personalized AI-driven insights.Quad camera setup with powerful lenses to capture beyond. A large battery with flash charging will keep you powered all day long."
+      },
+      "variants": []
     }
   }
 ]
