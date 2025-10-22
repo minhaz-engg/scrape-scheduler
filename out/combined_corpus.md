@@ -14616,6 +14616,20 @@ New Arrival Casual Sneakers ShoesCash On Delivery Service Color: Black & WhiteEv
 ---
 
 
+## Adidaas Three Step Premium Sport Shoes  
+**DocID:** `daraz_318934562`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i318934562.html
+**Rating:** 0.0/5
+
+**Description:**
+Breathable and durable, flexible condition 100% imported. Long-lasting sports shoe for men Upper material: Net fabric Sole material: Rubber sole A very comfortable shoe for men Type: Comfort Sports shoe Season: for any season Feature: Running shoe Sizes: European 39, 40, 41, 42, 43, 44, 45 If you face any size issues then we will replace the sizes
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
