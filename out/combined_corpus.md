@@ -10746,6 +10746,36 @@ Product Type: Polo t-shirt Main Material: Cotton Soft and smooth fabric Comforta
 ---
 
 
+## Premium quality formal polo shirt  
+**DocID:** `daraz_312970562`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/-i312970562.html
+**Price:** ৳ 199  
+**Rating:** 3.6/5
+
+**Description:**
+Product details of Premium quality polo shirt Product Type: Polo Shirt Material: Cotton Color : Sky and White Gender: Men Fit Type: Regular Fit Stylish Design 100% QC Pass. Export Quality Swing GSM: 200 (+-10) Occasion: Casual Winter Wear and sports. 7 days Return Easy Return Made in: Bangladesh Print QC Passed Brand: Ahmed Lifestyle Size Chart: M - Chest – 37/38", Length – 27” L - Chest – 39/40" ,Length - 28" XL- Chest – 41/42", Length – 29"
+
+---
+
+
+## Cotton Polo T-Shirt For Men - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_301890600`
+**Source:** Daraz  
+**Category:** mens polo shirts  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/cotton-polo-t-shirt-for-men-polo-t-shirt-for-men-polo-t-shirt-i301890600.html
+**Price:** ৳ 420  
+**Rating:** 1.0/5
+
+**Description:**
+Product type: Polo T-shirt Material: synthetic Gender: Men Stylish Design High Quality synthetic fabric Fabric: 70% synthetic 30% Cotton Fabrication: 180+ GSM M, L, XLM: M= (chest -38 '', length-28 '') L :( chest-40 '', length-29 ") XL: ( chest -42 ", length-30") This Polo T-Shirt for Men's comfortable and can be worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful Polo shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and is easy to clean. It is perfect to wear with jeans and gabardine pant. Short Sleeve design with a regular fit for men. It is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable.Size: M, L, XLM: (chest -38 '', length-28 '')L :( chest-40 '', length-29 ")XL: ( chest -42 ", length-30")#polo t shirt This Polo T-Shirt for Men's comfortable and can be worn for regular use. It is a perfect wear for men like you. You will love to wear this luxurious and colorful Polo shirt just for its versatile usability and diversified fashion sense. It is generally made of a light, great quality cotton fabrics and is easy to clean. It is perfect to wear with jeans and gabardine pant. Short Sleeve design with a regular fit for men. It is very versatile because it is useful on formal as well as casual occasion. It is designed to be comfortable and durable.Size: M, L, XLM: (chest …
+
+---
+
+
 ## Versatile -Hot Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men- Avant-garde Any Color  
 **DocID:** `daraz_347609148`
 **Source:** Daraz  
@@ -14538,6 +14568,21 @@ Type: Casual Lace-Up Sneaker Gender: Men Upper Material: Knit Sole: PVC Color: G
 
 **Description:**
 Mobile Camera Picture Item Type:casual shoes Outsole Material:Rubber Feature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-Odor Lining Material:Mesh Insole Material:EVA Upper Material:Flyknit Fit:Fits true to size, take your normal size Colour:Black,Red, Blue Feature:Lightweight, comfortable,Fashion Season:Spring, Summer, Autumn, Winter Mobile Camera PictureItem Type:casual shoesOutsole Material:RubberFeature:Hard-Wearing,Breathable,Sweat-Absorbant,Light,Anti-OdorLining Material:MeshInsole Material:EVAUpper Material:FlyknitFit:Fits true to size, take your normal sizeColour:Black,Red, BlueFeature:Lightweight, comfortable,FashionSeason:Spring, Summer, Autumn, Winter
+
+---
+
+
+## Sneakers Man Casual Fabrics Black Blue Colour Fashionable Shoes - Elevate Your Casual Style  
+**DocID:** `daraz_185912705`
+**Source:** Daraz  
+**Category:** mens sneakers  
+**Brand:** No Brand  
+**URL:** https://www.daraz.com.bd/products/sneakers-man-casual-fabrics-black-blue-colour-fashionable-shoes-elevate-your-casual-style-i185912705.html
+**Price:** ৳ 550  
+**Rating:** 4.4/5
+
+**Description:**
+Fabrics shoes Rubber soul High sneakers Fashionable design Lace up closing European shoes #ÃÂ¦Å“ÃÂ§ÂÃÂ¦Â¤ÃÂ¦Â¾ÃÂ¦â€ºÃÂ§â€¡ÃÂ¦Â²ÃÂ§â€¡ÃÂ¦Â¦ÃÂ§â€¡ÃÂ¦Â° #SneakersForMen #Juta #Sneakers #ÃÂ¦Å“ÃÂ§ÂÃÂ¦Â¤ÃÂ¦Â¾ÃÂ¦â€ºÃÂ§â€¡ÃÂ¦Â²ÃÂ§â€¡ÃÂ¦Â¦ÃÂ§â€¡ÃÂ¦Â°#NewModel #insoles for shoes #shoes for men #à¦œà§à¦¤à¦¾ à¦›à§‡à¦²à§‡à¦¦à§‡à¦° #sneakers Lambargen Stylish Gold work Rubber soolHigh soolStylish Colour ful Lace up Casual use
 
 ---
 
