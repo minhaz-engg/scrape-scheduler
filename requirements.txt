@@ -13,9 +13,20 @@ nest_asyncio
 # (No extra libraries needed beyond standard Python)
 
 # For RAG App (app.py)
+langchain
+langchain-openai
+sentence-transformers
+faiss-cpu
+umap-learn
+panda
+tiktoken
+
 streamlit
 openai
 google-generativeai
 rank_bm25
 chonkie
 requests
+
+scikit-learn
+numpy
