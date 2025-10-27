@@ -784,6 +784,51 @@
 ---
 
 
+## HP Victus 16-r1237TX (AP0Y8PA) Intel 14th Gen Core i5 14450HX 2.4 to 4.8GHz, 16GB LPDDR5, 512B SSD, 6GB RTX 3050, Win 11, 16.1 Inch IPS FHD Gaming Laptop  
+**DocID:** `daraz_530703506`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 144,999
+
+---
+
+
+## Lenovo Yoga Slim 7 Carbon 14ACN6 Ryzen 7 5800U MX450 2GB Graphics 14" 2.8K OLED Display Laptop  
+**DocID:** `daraz_279950227`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 206,400
+
+---
+
+
+## Gigabyte Gaming G5 KF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB, 512GB SSD, RTX4060 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_318833022`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 142,200
+
+---
+
+
+## Gigabyte Gaming G5 KF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB, 512GB SSD, RTX4060 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_318833027`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 142,300
+
+---
+
+
+## Gigabyte Gaming G5 MF5 13th Gen i7-13620H 2.40 To 4.90GHz, 16GB , 1TB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_356181724`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 151,100
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -1665,6 +1710,240 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** laptops
 **Price:** ৳ 38,750
+
+---
+
+
+## Hp Laptop G3 1040 Ram 8gb ssd 256 gb 6th gen 14" display akdom full fresh ( used)  
+**DocID:** `daraz_323881491`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 23,500
+
+---
+
+
+## HP 250 G10 13th Gen Core i3-1315U 3.3 to 4.5GHz, 8GB, 512GB SSD, 15.6" FHD Laptop  
+**DocID:** `daraz_327352153`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 53,900
+
+---
+
+
+## Dell Inspiron 15-3576 8th Gen Intel Core i3 8130U (2.2-3.4GHz, 4GB DDR4, 1TB, DVD-RW) 15.6 Inch HD (1366x768) Display,  Notbook  
+**DocID:** `daraz_104696344`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,000
+
+---
+
+
+## HP 250 G8 (5C3R7PA) Intel Celeron N4020 1.1 to 2.8GHz, 8GB RAM, 512GB SSD, Win 11, 15.6 Inch FHD Dark Ash Silver Laptop  
+**DocID:** `daraz_527037496`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 41,299
+
+---
+
+
+## Lenovo IdeaPad Slim 3i (8) (83EM0078IN) 13th Gen Core i5 16GB RAM 512GB SSD 15.6-inch FHD Laptop  
+**DocID:** `daraz_535975648`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 88,690
+
+---
+
+
+## ASUS Vivobook Go 15 E1504FA-BQ371W AMD Ryzen 3 7320U 8GB RAM 512GB SSD 15.6" FHD Laptop  
+**DocID:** `daraz_537132160`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 58,090
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15IRH8(83EM000MLK) Intel Core i5 13420H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop  
+**DocID:** `daraz_353049774`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 66,300
+
+---
+
+
+## Acer Extensa EX215-52-56FJ 10th Gen i5-1035G1 8GB, 1TB, Win 10 Home, 15.6 Laptop  
+**DocID:** `daraz_191917800`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 57,500
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15IRU8(82X700A7LK) Intel Core i3-1305U 3.3 to 4.5GHz,8GB,512GB SSD,Win11H,15.6 FHD Laptop  
+**DocID:** `daraz_520700095`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,300
+
+---
+
+
+## ASUS VivoBook 14 X415EA-EK615W 11th Gen Intel Core i3-1115G4 4GB RAM 256GB SSD 14 Inch FHD Laptop  
+**DocID:** `daraz_328808871`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 54,900
+
+---
+
+
+## Asus VivoBook GO 15 L1504FA (NJ1508) AMD Ryzen 5-7520U 2.8 to 4.3 GHz, 16GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_536275829`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 68,500
+
+---
+
+
+## Lenovo IdeaPad 1 14AMN7 Ryzen 5 7520U 2.8 to 4.3GHz, 8GB RAM, 256GB SSD, Radeon 610M Graphics, 14 Inch FHD Laptop #82VF004DIN  
+**DocID:** `daraz_314325200`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,720
+
+---
+
+
+## Walton Prelude N50 Pro Pentium Intel Quad-Core 1.10 GHz up to 3.10 GHz, 8GB DDR4, 256GB SSD, 14.1 Inch FHD Laptop  
+**DocID:** `daraz_538909336`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 30,000
+
+---
+
+
+## Acer Aspire 5 5P-A515-58P-32E2 (NX.KHJSI.005) 13th Gen i3-1305U 3.3 to 4.5GHz, 8GB, 512GB SSD, Windows 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_322917860`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 64,999
+
+---
+
+
+## HP 15-fc0239AU (A33T3PA) AMD Athlon Silver 7120U 2.4 to 3.5GHz, 8GB LPDDR5, 256GB SSD, Windows 11, 15.6 Inch FHD Display Laptop  
+**DocID:** `daraz_530487673`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,699
+
+---
+
+
+## HP 14-ep0198TU (A0MU6PA) Intel 13th Gen i3-1315U 1.20 to 4.5 GHz, 8GB, 512GB SSD, Win 11, 14 Inch FHD Laptop  
+**DocID:** `daraz_424263493`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,900
+
+---
+
+
+## ASUS VivoBook Pro 15 K3500PA-KJ137T 11th Gen Core-i7 Laptop  
+**DocID:** `daraz_536006133`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 100,380
+
+---
+
+
+## ASUS Vivobook 14 X1402ZA-EB624W 12th Gen Core i3-1220P 8GB RAM 512GB SSD 14 Inch FHD Laptop  
+**DocID:** `daraz_347815774`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,200
+
+---
+
+
+## HP 15-fd0210TU (973R5PA) Intel 13th Gen i5-1335U 1.30 to 4.60GHz, 8GB, 512GB SSD, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_424890351`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 90,499
+
+---
+
+
+## Dell Vostro 3510 11th Gen i3-1115G4 3 to 4.1GHZ, 8GB, 256GB SSD, Windows 11 Pro, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_284876193`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 75,000
+
+---
+
+
+## HP 15s-fq5295nia Intel Core i5 12TH GEN 8GB RAM 512GB SSD 15.6″ FHD Display Silver Laptop  
+**DocID:** `daraz_326471984`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 76,500
+
+---
+
+
+## Lenovo IdeaPad Slim 5i 14IRH10 (83HR0088IN) 13th Gen Core i5-13420H 16GB RAM 512GB SSD 14.0-inch OLED Laptop  
+**DocID:** `daraz_536020954`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 99,270
+
+---
+
+
+## (New)HAWEEL Laptop leeve Cae Zipper  
+**DocID:** `daraz_455335459`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 1,758
+
+---
+
+
+## HP 245 G7 AMD Ryzen 3 4GB RAM 1TB HDD 14 Inch HD Laptop  
+**DocID:** `daraz_322584071`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 58,500
+
+---
+
+
+## HP ProBook 440 G10 (843Y5PA) Intel 13th Gen i7-1355U 1.70 to 5.00GHz, 8GB, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_449247893`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 129,500
+
+---
+
+
+## Chuwi GemiBook Plus 15.6 Inch N100 3.4GHz, 8GB, 256GB, Win11 Laptop  
+**DocID:** `daraz_336005751`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 36,100
 
 ---
 
@@ -2776,6 +3055,231 @@ Core i5-3320M
 ---
 
 
+## premium quality cotton polo t shirt for men-Polo Tshirt  
+**DocID:** `daraz_344503696`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## RELIVE Premium Summer T-shirt soft and comfortable mesh Fabric t shart for man stylish and printed polo T shart  
+**DocID:** `daraz_367994975`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Stylish Polo New T-Shirt - Comfortable and Soft Wear Ideal for All Seasons  
+**DocID:** `daraz_220490894`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 290
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_429487688`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
+
+---
+
+
+## Maroon Cotton Polo For Men - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_100700034`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 344
+
+---
+
+
+## Save Palestine Synthetic polo T-Shirt for Men by rks mega mall  
+**DocID:** `daraz_327287627`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 180
+
+---
+
+
+## Black Cotton Plain Polo Full Sleeve T-Shirt  
+**DocID:** `daraz_204307399`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 500
+
+---
+
+
+## New Stylish Cotton Polo - Multi Color  
+**DocID:** `daraz_350928970`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 205
+
+---
+
+
+## New Stylish Cotton Polo  
+**DocID:** `daraz_390724385`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## Maroon Cotton Polo For Men  
+**DocID:** `daraz_125438300`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 344
+
+---
+
+
+## Men's New Polo Shirt Seamless Premium Luxury Cool Fabric Business Casual Golf Slim Fit Blouse Collar T-shirt  
+**DocID:** `daraz_546025975`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,994
+
+---
+
+
+## New Stylish Premium Cotton Polo T-shirt  
+**DocID:** `daraz_498636149`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Classic Fit Cotton Polo Shirt For Men Biscuit  
+**DocID:** `daraz_344288364`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## premium quality cotton polo t shirt for men-Polo T shirt  
+**DocID:** `daraz_346164087`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 285
+
+---
+
+
+## Premium Cotton Casual Polo  For Men  
+**DocID:** `daraz_411071191`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Premium quality formal polo shirt  
+**DocID:** `daraz_312970562`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
+
+---
+
+
+## Fashionable Cotton Polo Shirt For Men - Polo T Shirt - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_462272555`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 280
+
+---
+
+
+## Premium China Polo Shirt Triangle Pattern For Men- polo shirt  
+**DocID:** `daraz_409163897`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 499
+
+---
+
+
+## smart quality cotton pk polo shirt for men-Polo T shirt  
+**DocID:** `daraz_343778219`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 290
+
+---
+
+
+## White Polo Mesh Premium Shirt for Men - Stay Cool and Stylish with this Classic White Polo - All Occasion  
+**DocID:** `daraz_231811388`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 370
+
+---
+
+
+## Cotton  Polo T-Shirt For Men - Polo T Shirt For Men  
+**DocID:** `daraz_301902652`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 420
+
+---
+
+
+## inter miami lake blue polo t shirt for men  
+**DocID:** `daraz_320102516`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
+**DocID:** `daraz_337077233`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 249
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts  
+**DocID:** `daraz_302207660`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 440
+
+---
+
+
+## Combo Pack of 3 Classic Fit Polo T-Shirt .  
+**DocID:** `daraz_130792350`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 900
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -3730,6 +4234,285 @@ Core i5-3320M
 ---
 
 
+## Bandage: Comfortable Stylish & Fashionable Sports Look Lace Up Canvas Sneakers Shoes For Men  
+**DocID:** `daraz_340363105`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 680
+
+---
+
+
+## High-Quality Sports Sneakers Men Casual Shoes Fashion Flyknit Lightweight Slip - Comfortable and Stylish Low Top Design  
+**DocID:** `daraz_316411878`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 457
+
+---
+
+
+## Black Grey Blue and Khaki Color Korean Canvas Sneakers Shoes for Men Slip On Casual Shoes Preferble - Low Hassle and Maintanance  
+**DocID:** `daraz_320439425`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
+## Ultimate Trendsetter: Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Stay Fashion-Forward  
+**DocID:** `daraz_316297770`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 545
+
+---
+
+
+## Sneakers Man Casual Fabrics Black Blue Colour Fashionable Shoes - Elevate Your Casual Style  
+**DocID:** `daraz_185912705`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## FASHION 2024 Black Blue Grey And Cream Color Casual Canvas Sneakers Shoes For Men New Trendy And Lightweight Casual Loafer Shoes For Man  
+**DocID:** `daraz_432229221`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 469
+
+---
+
+
+## New Trendy Black And Blue Color JENS2025 Canvas Sneakers Shoes For Men Comfortable Stylish Shoes For Winter  
+**DocID:** `daraz_557002743`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 360
+
+---
+
+
+## New Hot Collection of Stylish and Innovative Winter and Summer Exclusive Low Top Sneakers Converse Shoes for Men  
+**DocID:** `daraz_388048530`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 498
+
+---
+
+
+## Men's Fashionable Exclusive High-Top Sneakers Converse Shoes for Men  
+**DocID:** `daraz_247814102`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
+## Shoe for Boys and Girls | Case shoe| Light Weight | Sports Sneakers | Shoe for Man | Sneakers Shoe | Running Shoe| walking Shoe | Casual Shoe| Y-160101 -  shoe for man  
+**DocID:** `daraz_205973077`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 999
+
+---
+
+
+## Brand New Uniquw Design Multicolore Love Sneakers for Men-Black And White  
+**DocID:** `daraz_347184256`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 525
+
+---
+
+
+## Black Green And Grey SPANISH Casual Sneakers Canvas Shoes For Men - Perfect for Every Season Lightweight and Stylish  
+**DocID:** `daraz_329689995`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 429
+
+---
+
+
+## Brake: Sneaker Keds New Fashionable Collection 2024 For Men  
+**DocID:** `daraz_350446615`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 515
+
+---
+
+
+## FASHION 2024 Black Blue Grey And Cream Color Casual Canvas Sneakers Shoes For Men New Trendy And Lightweight Casual Loafer Shoes For Man  
+**DocID:** `daraz_548310063`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 339
+
+---
+
+
+## Mens smart sneakers black  
+**DocID:** `daraz_257013762`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 990
+
+---
+
+
+## Fashionable Exclusive Sneakers Converse for Men  
+**DocID:** `daraz_340673811`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 440
+
+---
+
+
+## Trendy Sports Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes  
+**DocID:** `daraz_307069374`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## 2025 New Outdoor Hiking, Camping, Running, Jogging, Leisure Hiking, Waterproof, Anti Slip, Breathable Sports Shoes, Size 38-50  
+**DocID:** `daraz_546038848`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,541
+
+---
+
+
+## Shoes for Men Sneakers Lightweight Breathable Comfortable Casual Shoes for Walking  
+**DocID:** `daraz_196577357`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 410
+
+---
+
+
+## New collection 5G High Qulaity Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men - Sneakers - Shoes For Men -  - জুতা ছেলেদের  
+**DocID:** `daraz_157686676`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 420
+
+---
+
+
+## Panda Shoe for Boys and Girls Y-160101 Running Shoe Light Weight.  
+**DocID:** `daraz_323990761`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,199
+
+---
+
+
+## Stylish Black And Blue Color Winter Canvas Sneakers for Men  
+**DocID:** `daraz_324232744`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 329
+
+---
+
+
+## Bubble White Sneaker For Men  
+**DocID:** `daraz_209766633`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,150
+
+---
+
+
+## Trendy Sports Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes  
+**DocID:** `daraz_307629188`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## Stlysh Running Sports Sneakers Casual Lace-Up Shoes Winter And Summer Men'S Shoes - Shoe For Boys - Shoe For Boys - Insoles For Shoes - Shoe For Boys  
+**DocID:** `daraz_318180423`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
+## Indispensable-Quality And Durability-New Collection Black And White Color TopME Canvas Sneakers Shoes For Men Stylish And Comfortable Shoes For Summer M37  
+**DocID:** `daraz_349287878`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 525
+
+---
+
+
+## Red-top Sneakers For Man's-  
+**DocID:** `daraz_545932041`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,270
+
+---
+
+
+## Trendy Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes  
+**DocID:** `daraz_201140871`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 320
+
+---
+
+
+## Sneakers High Neck Mid for men Golden Black Shoes for Men - Shoes For Men  
+**DocID:** `daraz_330576453`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 599
+
+---
+
+
+## SNEAKERS EXCLUSIVE SHOE'S DESIGN TRENDY COLLECTION WINTER MODEL SNEAKERS SHOES FOR MEN.  
+**DocID:** `daraz_275610629`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 499
+
+---
+
+
+## High Qulaity Sports' Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men  
+**DocID:** `daraz_317305390`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 394
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -4657,6 +5440,141 @@ Core i5-3320M
 ---
 
 
+## AC Milan 2007-2008 season Third Kit (Retro) Full Sleeve Club Football Jersey  
+**DocID:** `daraz_557630174`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 307
+
+---
+
+
+## Japan Thai Premium Polo Football Jersey For Men - Half Sleeve Polo T Shirt - Japan Football Jersey 2025-26  
+**DocID:** `daraz_290580341`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## New Balance Short Sleeve Polo Jersey Jersey For Men - Half Sleeve T Shirt - Jersey  
+**DocID:** `daraz_320804066`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 290
+
+---
+
+
+## Save Palestine Jersey 2025/26 Thai Premium Full Sleeve Jersey For Man - Long Sleeve Polo T Shirt - Palestine Jersey 2025  
+**DocID:** `daraz_543320504`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 399
+
+---
+
+
+## Barcelona Full Sleeve Jersey 2025/26 Thai Premium Football For Men - Long Sleeve - Barcelona Jersey 2025  
+**DocID:** `daraz_556874479`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Japan Anime Jersey 2025/2026 Thai Premium Football Jersey For Men - Long Sleeve - Japan Anime Jersey 2025  
+**DocID:** `daraz_542632326`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## Bayern Munich Full Sleeve Polo Jersey 2025/2026 Thai Premium Football Jersey For Men - Long Sleeve Polo -  Bayern Munich Jersey 2025  
+**DocID:** `daraz_551178454`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 380
+
+---
+
+
+## Germany World Cup Football Jersey For Men - Long Sleeve T Shirt - Germany Football Jersey  
+**DocID:** `daraz_277508742`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Real Madrid dragon kit Thai Premium Football Jersey For Men - Long Sleeve Polo - Real Madrid Jersey 2005  
+**DocID:** `daraz_247794855`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 380
+
+---
+
+
+## Man-U Jersey 2025/2026 Thai Premium Polo Football Jersey for Man - Man-U Football Jersey 2025  
+**DocID:** `daraz_328094794`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Germany Home kit jerseys 2024/25 - football jersey half sleeve -Jersey for Germany 2024  
+**DocID:** `daraz_367345358`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Rock Attitude Men'S Jersey Fashion T-Shirt Full Sleeve  
+**DocID:** `daraz_326468512`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 150
+
+---
+
+
+## Liverpool Thai Premium Football Jersey For Man - Half Sleeve T Shirt - Liverpool Football Jersey 2025  
+**DocID:** `daraz_521340221`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Barcelona Jersey 2025/2026 Thai Premium Football Jersey For Men - Long Sleeve - Barcelona Jersey 2025  
+**DocID:** `daraz_549506808`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Portugal national football team away Jersey half sleeve Thai premium  
+**DocID:** `daraz_349155313`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 389
+
+---
+
+
 ## Vmax note 14 4G Smart Feature Phone android Version Video call support  
 **DocID:** `daraz_537454654`
 **Source:** Daraz  
@@ -5535,6 +6453,132 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 157,999
+
+---
+
+
+## mi Note 7 smart phone with 6gb ram & 64 gb rom  
+**DocID:** `daraz_259011117`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 9,990
+
+---
+
+
+## Google Pixel 7 Pro 12GB Ram and 128GB/256GB Rom Smartphone  
+**DocID:** `daraz_317124265`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 54,999
+
+---
+
+
+## vivo Y21D 6/128 | IP69+ Waterproof | 44W Flash Charge | 6500mAh BlueVolt Battery  
+**DocID:** `daraz_551149421`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 18,999
+
+---
+
+
+## Nokia C32 7GB* (3GB Virtual)/64GB Smart Phone  
+**DocID:** `daraz_344093757`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,198
+
+---
+
+
+## OPPO A3 6GB/128GB (Official)  
+**DocID:** `daraz_463603355`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 18,998
+
+---
+
+
+## iPhone 17 Pro max 256GB | 512GB | 1TB (Physical Sim only)  
+**DocID:** `daraz_553407559`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 249,999
+
+---
+
+
+## iPhone 17 Pro Global (1 Year Apple International Warranty)  
+**DocID:** `daraz_556369233`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 186,999
+
+---
+
+
+## Honor 400 Lite [12/256GB] International  
+**DocID:** `daraz_530149499`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 29,600
+
+---
+
+
+## iphone 15 Pro 128GB/256GB/512GB/1TB (USA-LL/A) Smartphone  
+**DocID:** `daraz_323695378`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 138,990
+
+---
+
+
+## Honor 200 12/256- International  
+**DocID:** `daraz_469427560`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 37,599
+
+---
+
+
+## Honor 400 International  
+**DocID:** `daraz_530999027`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 51,699
+
+---
+
+
+## Honor 400 Pro (12GB+512GB RAM ROM) Official  
+**DocID:** `daraz_542624393`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 79,999
+
+---
+
+
+## Iphone 16 - global  
+**DocID:** `daraz_466889490`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 104,999
+
+---
+
+
+## Xiaomi Redmi Note 14 5G (8GB / 256GB) - Unofficial  
+**DocID:** `daraz_528874309`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 28,999
 
 ---
 
@@ -8314,6 +9358,46 @@ Core i5-3320M
 **Category:** television-startech  
 **URL:** https://www.startech.com.bd/sony-bravia-kd-50x75-50-inch-4k-smart-android-led-tv
 **Price:** 66,900৳ 72,000৳
+
+---
+
+
+## Lenovo V14 Gen 4 Note PC Core i3 13th Gen 14" FHD IPS Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-v14-gen-4-i3-13th-gen-14-inch-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-v14-gen-4-i3-13th-gen-14-inch-laptop
+**Price:** 58,500৳
+
+---
+
+
+## PELADN RX 5500 XT 8G GDDR6 Dual Fan Black Gaming Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/peladn-rx-5500-xt-8g-black-gaming-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/peladn-rx-5500-xt-8g-black-gaming-graphics-card
+**Price:** 18,900৳
+
+---
+
+
+## MSI B850 GAMING PLUS WIFI6E AM5 ATX Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/msi-b850-gaming-plus-wifi6e-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/msi-b850-gaming-plus-wifi6e-motherboard
+**Price:** 28,500৳
+
+---
+
+
+## Dell 20 E2020H 19.5-inch 60Hz HD+ Monitor  
+**DocID:** `startech_https://www.startech.com.bd/dell-20-e2020h-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/dell-20-e2020h-monitor
+**Price:** 10,500৳ 11,500৳
 
 ---
 
