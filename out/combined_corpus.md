@@ -847,6 +847,24 @@
 ---
 
 
+## HP Elite Dragonfly Core i5 8th Gen 8GB RAM 13.3" Touch  
+**DocID:** `daraz_558346785`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 52,500
+
+---
+
+
+## Gigabyte Gaming G5 MF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB , 512GB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_318816478`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 134,900
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -2061,6 +2079,105 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** laptops
 **Price:** ৳ 58,000
+
+---
+
+
+## Tecno Megabook K15SDA Ryzen 5 7430U 2.3GHz to 4.3GHz, 16GB, 512GB SSD, 15.6 Inch FHD LED Laptop  
+**DocID:** `daraz_555775445`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,750
+
+---
+
+
+## HP Probook 640 G5 Core i5 8th Gen Business Series Laptop  
+**DocID:** `daraz_328827708`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 31,000
+
+---
+
+
+## HP 15s-fq0515TU (A0MW8PA) Intel Celeron N4120 1.10 to 2.60GHz, 8GB, 256GB SSD, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_431175365`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 42,000
+
+---
+
+
+## Lenovo Yoga Slim 7i (82EV00AFIN-3Y) 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 1TB SSD, Win 11 Home, 13.3 Inch WQXGA Laptop  
+**DocID:** `daraz_313267115`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 186,000
+
+---
+
+
+## Lenovo IdeaPad Slim 3i (8) (82X7003PLK) Core i3 13th Gen Laptop  
+**DocID:** `daraz_535991240`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,310
+
+---
+
+
+## HP 250 G8 (5C3R7PA) Intel Celeron N4020 1.1 to 2.8GHz, 8GB RAM, 512GB SSD, Win 11, 15.6 Inch FHD Dark Ash Silver Laptop  
+**DocID:** `daraz_527039915`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 41,299
+
+---
+
+
+## Lenovo ThinkPad E14 (20TBS6VA00-3Y) 11th Gen Core i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_311980505`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 107,000
+
+---
+
+
+## Acer TravelLite TL14-52M 13th Gen Core i5-1335U-1305U 3.4 to 4.6GHz, 8GB DDR4, 512GB SSD, 14 Inch FHD IPS Display Laptop  
+**DocID:** `daraz_525995535`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 87,500
+
+---
+
+
+## HP 14s-dq5110TU 12th Gen i5-1235U 3.3 To 4.4GHz, 8GB, 512GB SSD, Win 11, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_324320625`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 81,200
+
+---
+
+
+## HP EliteBook x360 830 G10 Core i7 13th Gen 13.3" Touch Laptop  
+**DocID:** `daraz_491447201`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 239,000
+
+---
+
+
+## Microsoft Surface Laptop 5 || Intel Core i5 (12th Gen) || 8GB RAM | 256GB SSD  
+**DocID:** `daraz_442507635`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 109,900
 
 ---
 
@@ -3550,6 +3667,87 @@ Core i5-3320M
 ---
 
 
+## half sleeve polo shirts for men Navy Blue Color  
+**DocID:** `daraz_311353765`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 230
+
+---
+
+
+## Premium Cotton Polo T Shirt For Men  
+**DocID:** `daraz_540096432`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 450
+
+---
+
+
+## New Men,s Polo Shirt - Comfortable and Stylish For All Seasons  
+**DocID:** `daraz_465455870`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_393740472`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
+
+---
+
+
+## RL Men'S Custom Slim Fit Small Pony Embroidered Polo Shirt- White  
+**DocID:** `daraz_526549765`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 820
+
+---
+
+
+## Trendy Fashionable Cotton Zipper Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_527037253`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_367046447`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 309
+
+---
+
+
+## Exclusive Cotton Polo Shirt For Men  
+**DocID:** `daraz_530991149`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 329
+
+---
+
+
+## Exclusive Cotton Polo Shirt For Men  
+**DocID:** `daraz_530990158`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 329
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -4882,6 +5080,78 @@ Core i5-3320M
 ---
 
 
+## Multicolour -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men White & Black or Green  
+**DocID:** `daraz_390417563`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 520
+
+---
+
+
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_337592531`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 508
+
+---
+
+
+## Light Bridal Casual Casual Shoes for Walking Shoes for Men - shoe for boys  
+**DocID:** `daraz_269528877`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
+## North Star VALERIO Slip-On Sneaker  
+**DocID:** `daraz_344077817`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,099
+
+---
+
+
+## Running High-Top Sneakers Black Color Casual Lace-Up Shoes Winter And Summer Men'S Shoes  
+**DocID:** `daraz_210604021`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 350
+
+---
+
+
+## New Trendy Black And Grey Color ITALY Casual Canvas Sneakers Shoes For Men Fashionable and New Collection Shoes For Man  
+**DocID:** `daraz_432234180`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 465
+
+---
+
+
+## North Star VALERIO Casual Slip-On Sneaker  
+**DocID:** `daraz_452195344`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,099
+
+---
+
+
+## Brake: Sneaker Keds New Fashionable Collection 2024 For Men  
+**DocID:** `daraz_348242216`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 680
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -5976,6 +6246,60 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 335
+
+---
+
+
+## Santus Short Sleeve Thai Premium Football Jersey For Man - Santos Futebol Clube Jersey - Santos Jersey 10 Naymer/2025-26  
+**DocID:** `daraz_342726061`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 359
+
+---
+
+
+## Real Madrid Home Jersey ( Retro) Full Sleeve Thai premium CLub Football Jersey  
+**DocID:** `daraz_557607894`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 307
+
+---
+
+
+## Stylish and Comfortable Short Sleeve Collar Polo Jersey For Man - Polo T Shirt For Man - Jersey  
+**DocID:** `daraz_269518713`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 290
+
+---
+
+
+## PSG Jersey 2025/2026 Thai Premium Football Jersey for Men - Half Sleeve Jersey - PSG Football Jersey 2025  
+**DocID:** `daraz_303280410`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Yonex Jersey - Short sleeve Jersey For Men - Jersey  
+**DocID:** `daraz_230827225`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 249
+
+---
+
+
+## Liverpool Thai Premium Football Jersey for Men - Half Sleeve Jersey - Liverpool Football Jersey 2025-2026  
+**DocID:** `daraz_314548737`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
 
 ---
 
@@ -7087,6 +7411,60 @@ Core i5-3320M
 ---
 
 
+## Xiaomi Poco F4 8/256  
+**DocID:** `daraz_327641616`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 51,999
+
+---
+
+
+## Redmi Note 14 [6/128] Official  
+**DocID:** `daraz_527025380`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,999
+
+---
+
+
+## Infinix Note 50 Pro 8GB/256GB (Official)  
+**DocID:** `daraz_541517479`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 29,690
+
+---
+
+
+## Walton Orbit Y71 8GB Rapid RAM and 64GB ROM  
+**DocID:** `daraz_526825039`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 8,999
+
+---
+
+
+## Redmi Note 14 4G 6GB/128GB - Official  
+**DocID:** `daraz_542579078`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,999
+
+---
+
+
+## Realme 15 5G &gt; 8- 128 / 256 indian  
+**DocID:** `daraz_543515729`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 32,599
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -7434,6 +7812,24 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 40,299
+
+---
+
+
+## 5Star Tab BD13  BIG 7* inch IPS Display 2gb Ram  
+**DocID:** `daraz_561295012`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 9,999
+
+---
+
+
+## 5Star Tab BD13  BIG 7* inch IPS Display  
+**DocID:** `daraz_540144267`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 9,990
 
 ---
 
@@ -10022,6 +10418,26 @@ Core i5-3320M
 **Category:** wifi-camera  
 **URL:** https://www.startech.com.bd/meari-s1-portable-wifi-camera
 **Price:** 2,350৳
+
+---
+
+
+## DJI Mini 4K Fly More Combo Drone (Global Version)  
+**DocID:** `startech_https://www.startech.com.bd/dji-mini-4k-fly-more-combo-drone`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-mini-4k-fly-more-combo-drone
+**Price:** 53,300৳ 55,400৳
+
+---
+
+
+## Havit IPC20 2MP Portable WiFi Camera With Built-in Audio  
+**DocID:** `startech_https://www.startech.com.bd/havit-ipc20-wifi-camera `
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/havit-ipc20-wifi-camera 
+**Price:** 2,400৳ 2,500৳
 
 ---
 
