@@ -865,6 +865,231 @@
 ---
 
 
+## Lenovo IdeaPad 3 15ARH7 (82SB00PLIN) Ryzen 5 7535HS 3.3 to 4.55GHz, 8GB, 512GB SSD, RTX 4050 GDDR6 6GB, Win 11, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_325524934`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 148,000
+
+---
+
+
+## Lenovo IdeaPad 5 Pro 16ACH6 (82L500C6IN) - AMD Ryzen 7 5800H -16GB- 512GB SSD -NVIDIA GeForce GTX 1650 4GB GDDR6- -16" WQXGA - WIN11H - Storm Grey  
+**DocID:** `daraz_274278883`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 122,000
+
+---
+
+
+## Lenovo LOQ 15IAX9 (83GS006LLK) 12th Gen i5-12450HX 3.1 to 4.4GHz, 16GB DDR5, 512GB SSD, RTX2050 4GB, Win 11, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_523543105`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 110,600
+
+---
+
+
+## Lenovo IdeaPad 3 15ARH7 (82SB00PKIN) Ryzen 7 7735HS 3.2 to 4.75GHz, 16GB, 512GB SSD, RTX 4050 GDDR6 6GB, Win 11, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_325526296`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 170,000
+
+---
+
+
+## Gigabyte G5 MF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB , 512GB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_328835869`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 131,500
+
+---
+
+
+## Gigabyte Gaming G5 KF5 13th Gen i7-13620H 4.9GHz, 16GB , 512GB SSD, 15.6 Inch FHD IPS Gaming Laptop  
+**DocID:** `daraz_356194061`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 161,750
+
+---
+
+
+## Lenovo LOQ AI Powered Gaming (9) (83DV00VBLK) 13th Gen Core i7 24GB RAM 512GB SSD RTX 3050 Gaming Laptop  
+**DocID:** `daraz_536006507`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 161,600
+
+---
+
+
+## Gigabyte Gaming G5 MF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB , 512GB SSD, RTX4050 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_318821229`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 132,000
+
+---
+
+
+## Gigabyte Gaming G5 KF5 13th Gen i7-13620H 4.9GHz, 16GB , 512GB SSD, 15.6 Inch FHD IPS Gaming Laptop  
+**DocID:** `daraz_356183858`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 161,850
+
+---
+
+
+## Lenovo IdeaPad Gaming 3 16IAH7 (82SA00B0IN) 12th Gen Core i5-12450H 3.3 to 4.4GHz, 16GB, 512GB SSD, RTX3050 4GB, Win 11 Home, 16" WUXGA IPS Laptop  
+**DocID:** `daraz_316760875`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 152,000
+
+---
+
+
+## Gigabyte Gaming G5 KF 12th Gen i5-12500H 2.5 To 4.5GHz, 8GB, 512GB SSD, RTX4060 6GB, Win 11 Home, 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_318826357`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 142,300
+
+---
+
+
+## Acer Nitro 5 15.6 Inch AG 144Hz FHD IPS Display AN515-44 And N20C1 Acer Nitro 5 Laptop Screen Display Panel  
+**DocID:** `daraz_526713936`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 7,500
+
+---
+
+
+## HP 15s-eq2690AU AMD Ryzen 5 5500U 15.6 Inch FHD AntiGlare Display Silver Laptop 577Z4PA-2Y  
+**DocID:** `daraz_234731929`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 68,000
+
+---
+
+
+## HP Victus 15 Core i5 12th Gen RTX 3050 15.6" [16/512GB] Gaming Laptop  
+**DocID:** `daraz_528788955`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 96,999
+
+---
+
+
+## Lenovo LOQ 15ARP9 Ryzen 5 RTX 3050 15.6" 144Hz [12/512GB] Gaming Laptop  
+**DocID:** `daraz_528821052`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 94,499
+
+---
+
+
+## ASUS ROG Strix G15 G513IM Ryzen 7 4800H 16GB Gaming Laptop - 16GB DDR4 RAM - 512GB M.2 NVMe SSD - RTX 3060 6GB GDDR6 Graphics - 15.6-inch WQHD Display - Eclipse Gray #G513IM-HQ168W  
+**DocID:** `daraz_274569611`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 192,470
+
+---
+
+
+## HP Victus Gaming 16-e0347AX AMD Ryzen 5-5600H 3.3 to 4.2GHz, 8GB, 512GB SSD, GeForce RTX 3050 4GB, Windows 11 Home, 16.1 FHD Laptop  
+**DocID:** `daraz_259995103`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 125,000
+
+---
+
+
+## Lenovo LOQ 151RX9 Core i5 13th Gen RTX 3050 15.6" 144Hz [12/512GB] Gaming Laptop  
+**DocID:** `daraz_530200991`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 110,999
+
+---
+
+
+## MSI RAIDER 14VGG-GE68HX 240HZ DISPLAY 16GAMING LAPTOP 14TH GEN INTEL CORE I9-14900HX GE FORCE RTX 4070 8GB 32GB DDR5 RAM 1TB SSD  
+**DocID:** `daraz_491684012`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 370,000
+
+---
+
+
+## Symphony PD1 4G phone WiFi Youtube Hotspot Supported  
+**DocID:** `daraz_273658285`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 3,499
+
+---
+
+
+## Lenovo LOQ 15ARP9 Ryzen 5 RTX 3050 15.6" 144Hz [12/1TB] Gaming Laptop  
+**DocID:** `daraz_528823044`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 102,600
+
+---
+
+
+## ASUS TUF Gaming A15 FA506NF-HN042W Ryzen 5-7535HS 8GB RAM 512GB SSD RTX2050 4GB GFX 15.6 Inch 144Hz Gaming Laptop  
+**DocID:** `daraz_390048872`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 104,350
+
+---
+
+
+## HP Victus 15 Core i5 12th Gen RTX 3050 15.6" [8/512GB] Gaming Laptop  
+**DocID:** `daraz_528793841`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 92,999
+
+---
+
+
+## HP OMEN 15-ek0100TX Intel i7 10th Gen 10750H-2.6 To 5GHz, 16 GB DDR4, 512 GB SSD, 6 GB 1660Ti GTX, 15.6''FHD 144Hz, Backlit KB, Wi-Fi, BT, Win 10 Home Laptop  
+**DocID:** `daraz_183470971`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 144,000
+
+---
+
+
+## Acer Nitro V15 Core i7 13th Gen RTX 4060 15.6" 144Hz [32/512GB] Gaming Laptop  
+**DocID:** `daraz_528912074`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 156,999
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -2178,6 +2403,96 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** laptops
 **Price:** ৳ 109,900
+
+---
+
+
+## Qbits Sigma X2 Laptop Intel® Core™ i5-1240P (1.70 GHz to 4.40 GHz 12 MB Cache) with 8 GB RAM and 1TB M.2 WD NVMe SSD  
+**DocID:** `daraz_333006166`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 67,999
+
+---
+
+
+## MSI Summit E14 A11SCS 11th Gen i7-1185G7 1.2 to 4.8GHz, 16GB, 1TB SSD, GTX 1650Ti 4GB Graphics, Win10H, 14 FHD Laptop  
+**DocID:** `daraz_232350631`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 173,000
+
+---
+
+
+## ASUS Vivobook Go 15 L1504FA-NJ1366 Ryzen 5 7520U 8GB RAM 512GB SSD 15.6-inch FHD Laptop  
+**DocID:** `daraz_535998583`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,540
+
+---
+
+
+## ASUS Vivobook Go 15 L1504FA-NJ1508 Ryzen 5 7520U 16GB RAM 512GB SSD 15.6-inch FHD Laptop  
+**DocID:** `daraz_536811929`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 68,990
+
+---
+
+
+## ASUS Vivobook 15 X1504VA-NJ1138W 13th Gen Core i7 8GB RAM 512GB SSD 15.6-inch FHD Laptop  
+**DocID:** `daraz_536221072`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 110,950
+
+---
+
+
+## Dell Latitude 7440 13th Gen Core i7-1355U 1.7 to 5GHz, 16GB, 512GB SSD, 14Inch FHD Laptop  
+**DocID:** `daraz_350847263`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 199,500
+
+---
+
+
+## Lenovo ThinkPad L14 (20X2S5S100-3Y) 11th Gen Core i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_312029885`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 107,000
+
+---
+
+
+## HP Elitebook 840 G6 Intel Core i5,8TH GEN-8365U 8GB RAM 256GB SSD 14″ FHD Display Laptop  
+**DocID:** `daraz_464906591`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 31,950
+
+---
+
+
+## Walton Prelude N50 Pro Pentium Intel Quad-Core 1.10 GHz up to 3.10 GHz, 8GB DDR4, 256GB SSD, 14.1 Inch FHD Laptop  
+**DocID:** `daraz_538811536`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 29,500
+
+---
+
+
+## Asus Vivobook 15 F1504ZA‑NJ790 – 12th Gen Intel Core i3‑1215U, 8 GB DDR4 RAM, 512 GB SSD, Intel UHD Graphics, 15.6″ FHD IPS Display  
+**DocID:** `daraz_537119500`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 56,420
 
 ---
 
@@ -3748,6 +4063,42 @@ Core i5-3320M
 ---
 
 
+## premium Quality polo shirt For men's  
+**DocID:** `daraz_343881434`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 219
+
+---
+
+
+## Premium Polo Shirt for Men - Trendy and Comfortable  
+**DocID:** `daraz_250135095`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 275
+
+---
+
+
+## New Premium Polo T-Shirts Very Soft to Wear - Comfortable to Wear in All Seasons and Occasions  
+**DocID:** `daraz_199427172`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 290
+
+---
+
+
+## Premier Quality Cotoon Polo Shirt For Men  
+**DocID:** `daraz_521884920`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 244
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -5152,6 +5503,90 @@ Core i5-3320M
 ---
 
 
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_337070856`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 539
+
+---
+
+
+## Sneakers For Men (White) - Shoe For Men  
+**DocID:** `daraz_277180641`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 360
+
+---
+
+
+## Men Running Sneakers 
+Mesh Upper
+
+Synthetic rubber sole  
+**DocID:** `daraz_333723224`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,450
+
+---
+
+
+## Premium Quality Sneaker For Men  
+**DocID:** `daraz_556305070`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 375
+
+---
+
+
+## Premium Quality Black Color HALF SHOES Casual Canvas Sneakers Shoes For Men M9090  
+**DocID:** `daraz_463330448`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 429
+
+---
+
+
+## Indispensable-Quality And Durability-Stylish Blue And Green Color SUPERAR Sports Sneakers Shoes For Men-Canvas Shoes For Summer M38  
+**DocID:** `daraz_349251223`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 540
+
+---
+
+
+## Wood : New Standard Fashionable Sneaker Shoes For Men  
+**DocID:** `daraz_348877951`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 680
+
+---
+
+
+## High-Quality Sports Sneakers Men Casual Shoes Fashion Sneakers - Flyknit Lightweight Slip-On Men's - Comfortable All Seasons  
+**DocID:** `daraz_317355688`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 494
+
+---
+
+
+## Black Cotton Fabrics Sneaker Shoes Slip-Ons & Sneakers for Men  
+**DocID:** `daraz_208938434`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 475
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -6300,6 +6735,42 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 370
+
+---
+
+
+## Real Madrid Home Jersey 2011-2012 season (Retro)Full Sleeve Club Football Jersey  
+**DocID:** `daraz_557727912`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 298
+
+---
+
+
+## Save Palestine Jersey 2025/2026 Thai Premium Football Jersey For Men - Half Sleeve - Save Palestine Jersey 2025  
+**DocID:** `daraz_247800747`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## American Express Short Sleeve Football Jersey For Man - American Jersey 2024  
+**DocID:** `daraz_409357954`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 250
+
+---
+
+
+## New Bangladesh Bafufe football  Jersey pant For  2025/26 season  
+**DocID:** `daraz_531377086`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 220
 
 ---
 
@@ -7461,6 +7932,69 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 32,599
+
+---
+
+
+## Infinix Hot 60i 6GB/128GB (Official)  
+**DocID:** `daraz_541495846`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,890
+
+---
+
+
+## iQOO Z10x   6/128  
+**DocID:** `daraz_529990829`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,999
+
+---
+
+
+## iPhone 17 Pro Max AUST  
+**DocID:** `daraz_556434071`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 197,399
+
+---
+
+
+## Infinix Hot 60 Pro Plus official  
+**DocID:** `daraz_547800276`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,999
+
+---
+
+
+## Honor X5b (4GB/64GB RAM ROM) Official  
+**DocID:** `daraz_539180335`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,999
+
+---
+
+
+## Nothing phone -  3 12/256  
+**DocID:** `daraz_545489953`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 68,999
+
+---
+
+
+## itel P70 6GB/128GB  
+**DocID:** `daraz_536939386`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,990
 
 ---
 
@@ -10438,6 +10972,16 @@ Core i5-3320M
 **Category:** wifi-camera  
 **URL:** https://www.startech.com.bd/havit-ipc20-wifi-camera 
 **Price:** 2,400৳ 2,500৳
+
+---
+
+
+## DJI Neo Motion Fly More Combo Drone  
+**DocID:** `startech_https://www.startech.com.bd/dji-neo-motion-fly-more-combo-drone`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-neo-motion-fly-more-combo-drone
+**Price:** 55,500৳ 58,000৳
 
 ---
 
