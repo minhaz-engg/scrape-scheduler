@@ -1855,6 +1855,15 @@
 ---
 
 
+## ASUS Vivobook Pro 15 OLED 2024 Gaming Laptop 15.6" FHD 16-Core Intel Ultra 7 155H 16GB DDR5 1TB SSD NVIDIA GeForce RTX 3050 6GB Thunderbolt 4 Wi-Fi 6E Backlit Keyboard Win11 Home  
+**DocID:** `daraz_563159886`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 140,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -4153,6 +4162,105 @@ Core i5-3320M
 ---
 
 
+## Chuwi CoreBook XPro 15.6 Inch i3-1215U 3.3 to 4.4GHz, 16GB, 512GB, Win11 Laptop  
+**DocID:** `daraz_336029058`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,000
+
+---
+
+
+## Chuwi GemiBook XPro 14.1 Inch N100 3.4GHz, 8GB, 256GB, Win11 Laptop  
+**DocID:** `daraz_336005314`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 35,100
+
+---
+
+
+## Asus Vivobook 15 OLED A1505VA (L1943W) Intel 13th Gen Core i5-13420H, 1.50 GHz to 4.60 GHz, 16GB, 512GB SSD, Win 11, 15.6 Inch FHD OLED Display  
+**DocID:** `daraz_560796685`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 87,220
+
+---
+
+
+## HP 240 G9 12th Gen Core i3-1215U 3.3 to 4.4GHz, 8GB RAM, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_327338530`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 58,800
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15AMN8 (82XQ00GRLK) AMD Ryzen 5 7520U 2.80 to 4.30GHz, 16GB, 512GB SSD, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_535731593`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 76,600
+
+---
+
+
+## Qbits Rover X2 Intel Core™ i5-12450H (2.0 GHz to 4.40 GHz, 8 cores, 12 threads, 12 MB Intel Smart Cache) with 8GB DDR4 RAM 1TB M.2 NVMe SSD  
+**DocID:** `daraz_413410916`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,999
+
+---
+
+
+## HP 15s-du1116TU Pentium Silver N5030 1.1 to 3.1GHz, 4GB, 1TB HDD, 15.6Inch HD Laptop  
+**DocID:** `daraz_311416909`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 39,800
+
+---
+
+
+## Acer Swift Go 14 SPG14-41 (NX.KG3SI.004) 2 to 4.5GHz, AMD Ryzen 5 7530U,  8GB, 512GB SSD, Win 11, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_347001974`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,700
+
+---
+
+
+## HP Envy x360 Convertible 14-ES0033 13th Gen Core i7-1355U 3.7 to 5GHz, 16GB, 1TB SSD, Win 11, 14" FHD IPS Touch Laptop  
+**DocID:** `daraz_351667275`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 138,000
+
+---
+
+
+## HP 17 Laptop, 17.3” HD+ Display, 11th Gen Intel Core i3-1125G4 Processor, 8GB RAM, 256GB SSD, Wi-Fi, HDMI, Webcam, Windows 11 Home, Silver  
+**DocID:** `daraz_526764623`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 23,000
+
+---
+
+
+## ASUS Vivobook 14 X1402ZA-EB624W 12TH Gen Core i3-1220P 8GB RAM 512GB SSD 14 Inch FHD Laptop  
+**DocID:** `daraz_347853181`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,900
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6147,6 +6255,51 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 199
+
+---
+
+
+## Export Quality Stripe Polo Shirt for Men - Comfortable and Suitable for All Seasons and Occasions  
+**DocID:** `daraz_562239868`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 137
+
+---
+
+
+## premium quality cotton polo t shirt for men-Polo Tshirt  
+**DocID:** `daraz_523022667`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 298
+
+---
+
+
+## Customized Men's Summer T-Shirt Loose Short-Sleeved Top High Street Fashion Casual Sports Breathable Knitted Top For Men  
+**DocID:** `daraz_539848627`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 339
+
+---
+
+
+## Black synthetic Polo Full Sleeve T Shirt For Men  
+**DocID:** `daraz_325277504`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
+
+---
+
+
+## Premium Quality Polo Shirt for Men  
+**DocID:** `daraz_228670981`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
 
 ---
 
@@ -8170,6 +8323,87 @@ Synthetic rubber sole
 ---
 
 
+## Indispensable -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Innovative  
+**DocID:** `daraz_324385304`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 250
+
+---
+
+
+## Winter and Summer Exclusive Sneakers Converse Shoes for Men - Elevate Your Footwear Game  
+**DocID:** `daraz_324378912`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 250
+
+---
+
+
+## Hot Collection of Stylish and Fashionable Winter and Summer Exclusive Low Top Sneakers Converse Shoes for Men  
+**DocID:** `daraz_324384284`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 250
+
+---
+
+
+## Premium Quality - Hot Collection Stylish And Fashionable Winter And Summer Exclusive High-Top Sneakers Converse Shoes For Men - Couture - High-end  
+**DocID:** `daraz_317066670`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 250
+
+---
+
+
+## Explore the Hot Collection of Stylish and Fashionable Winter and Summer Exclusive Sneakers Shoes for Men - Elevate Your Footwear Game  
+**DocID:** `daraz_317070492`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 250
+
+---
+
+
+## New 2026 Collection Comfortable Stylish & Fashionable Sports Look, Lace Up, Slip-on & Pull-on, Light Weight - White and Black Color Combination Sneaker For Men. 201  
+**DocID:** `daraz_560667083`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 999
+
+---
+
+
+## Trendy Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes - Shoe For Boys - Shoes For Men - À¦Œà§À¦¤À¦¾ À¦›À§‡À¦²À§‡À¦¦À§‡À¦° - Shoe For Boys - জুতা  
+**DocID:** `daraz_276822852`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 360
+
+---
+
+
+## New Collection Better Choice Stylish And Fashionable Exclusive High-Top Sneakers Converse For Men  
+**DocID:** `daraz_322042166`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 458
+
+---
+
+
+## 5G Fashion Breathable Men'S Running Shoes Mesh Sneaker Lightweight Athletic Sports Shoes - Sneakers For Men - Shoe For Boys - Shoe For Boys  
+**DocID:** `daraz_227785509`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 380
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -9633,6 +9867,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 265
+
+---
+
+
+## স্পোর্টসের জন্য ফুল হাতা প্লেইন স্কিন টি-শার্ট ড্রাই-ফিট বেস লেয়ার-"স্কিন গেঞ্জি" স্কিন টি-শার্ট "ফুটবল স্কিন" "স্কিন" সাথে ড্রাই-ফিট কম্প্রেশন টপ screen ganzi  
+**DocID:** `daraz_525998964`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 187
+
+---
+
+
+## Saudi Arabia Short Sleeve Football Jersey For Men - Half Sleeve T Shirt - Saudi Football Jersey  
+**DocID:** `daraz_275455767`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 247
+
+---
+
+
+## Fc Barcelona new away kit 25/26 jersey kit  
+**DocID:** `daraz_324341202`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## Barcelona Jersey 2025/26 Thai Premium Collar Football Jersey For Men - Long Sleeve Polo Jersey - Barcelona Football Jersey 2025  
+**DocID:** `daraz_329230924`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 361
 
 ---
 
@@ -11299,6 +11569,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 8,499
+
+---
+
+
+## Xaiomi Redmi Note 13 5G (8+256GB) Display: 6.67" AMOLED, 120Hz, 5000mAh with 33W fast charging  
+**DocID:** `daraz_529982114`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 18,499
+
+---
+
+
+## iPhone 17 Pro max 256GB | 512GB | 1TB (Physical Sim + e-Sim)  
+**DocID:** `daraz_551000102`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 211,990
 
 ---
 
@@ -14515,6 +14803,16 @@ Non-removable Li-Po Battery
 **Status:** Up Coming  
 **URL:** https://www.startech.com.bd/dji-osmo-mobile-8
 **Price:** Up Coming
+
+---
+
+
+## Colorful BATTLE-AX H610M-E WIFI V20 mATX Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/colorful-battle-ax-h610m-e-wifi-v20-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/colorful-battle-ax-h610m-e-wifi-v20-motherboard
+**Price:** 10,200৳
 
 ---
 
