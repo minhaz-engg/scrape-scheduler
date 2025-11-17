@@ -1864,6 +1864,42 @@
 ---
 
 
+## X6 Handheld Game Console 3.5 Inch Screen 32GB Portable Retro Classic Handheld Game Player Dual Joystick 11 Simulators for Kids  
+**DocID:** `daraz_562447814`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 4,500
+
+---
+
+
+## Acer Nitro 17 Gaming Laptop | AMD Ryzen 7 7840HS Octa-Core CPU | NVIDIA GeForce RTX 4060 Laptop GPU | 17.3" QHD 165Hz IPS Display | 1TB Gen 4 SSD | Wi-Fi 6E | RGB Backlit KB | AN17-41-R7G3, Black  
+**DocID:** `daraz_526883162`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 115,000
+
+---
+
+
+## Acer Predator Helios Neo 16 Gaming Laptop | Intel Core i7-13650HX | NVIDIA GeForce RTX 4060 | 16" WUXGA 1920 x 1200 165Hz G-SYNC Display | 16GB DDR5 | 512GB Gen 4 SSD  
+**DocID:** `daraz_526866465`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 135,000
+
+---
+
+
+## HP Victus 15 Gaming Laptop 15.6” FHD IPS Anti-Glare 144Hz Intel 8-core i5-12450H (Beat i7-11800H) 16GB RAM 512GB SSD GeForce RTX 3050 Backlit B&O Fast Charging Win11  
+**DocID:** `daraz_526709711`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 75,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -4261,6 +4297,51 @@ Core i5-3320M
 ---
 
 
+## Tecno Megabook K15SDA Ryzen 5 7430U 2.3GHz to 4.3GHz, 16GB, 512GB SSD, 15.6 Inch FHD LED Laptop  
+**DocID:** `daraz_555609741`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 58,310
+
+---
+
+
+## Dell Inspiron 15 3501 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 1TB HDD + 128GB SSD, Windows 10 Home, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_275327479`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,000
+
+---
+
+
+## HP ProBook 440 G11 Series 1 Intel Core Ultra 7 155U 8GB RAM, 512GB SSD 14 Inch FHD+ WUXGA Display Pike Silver Laptop  
+**DocID:** `daraz_563032245`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 123,690
+
+---
+
+
+## Asus VivoBook 15 X1504VA (NJ739) 13th Gen Core i3-1315U 1.20 to 4.5 GHz 8GB, 512GB SSD, 15.6-inch FHD Laptop  
+**DocID:** `daraz_562489293`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 61,000
+
+---
+
+
+## Asus VivoBook M1505YA (L1325W) 15.6’’ OLED FHD Display AMD Ryzen 5 7430U 16GB RAM 512GB SSD Laptop  
+**DocID:** `daraz_496217190`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 89,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6300,6 +6381,15 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 349
+
+---
+
+
+## RELIVE Original Premium Summer Polo T-shirt soft and comfortable mesh Fabric t shart for man stylish and printed polo T shart  
+**DocID:** `daraz_368305969`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 415
 
 ---
 
@@ -8404,6 +8494,69 @@ Synthetic rubber sole
 ---
 
 
+## High-Quality Sports' Sneakers Men's Casual Shoes Men's Fashion Sneakers Flyknit Lightweight Slip-On Men  
+**DocID:** `daraz_230913341`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 410
+
+---
+
+
+## Run in Style with White Color Casual Lace-Up Shoes - Winter and Summer Men's Shoes - Perfect for Every Season Active Lifestyle  
+**DocID:** `daraz_209467222`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 279
+
+---
+
+
+## High Qulaity Sports' Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men (314613108)  
+**DocID:** `daraz_314613108`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 424
+
+---
+
+
+## New Collection Better Choice Stylish and Fashionable Sneakers for Men by Nayeem Fashion World - Comfortable All Seasons  
+**DocID:** `daraz_320818197`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 478
+
+---
+
+
+## Stylish Sneakers For Men'S Trendy Casual Shoes Comfortable Breathable Lace-Up Sneakers Colour Multiple Shoes For Men -  Shoes - Shoes - Shoes  
+**DocID:** `daraz_211221713`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 275
+
+---
+
+
+## Comfort Summer Sneakers For Menmen'S Summer Sneakers  Sneakers Of Sport  Vulcanize Shoes For Men Sale Shoes With Free Shipping  
+**DocID:** `daraz_546051963`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,215
+
+---
+
+
+## Bata Rugged TRAINER Lace-Up Shoe for Men  
+**DocID:** `daraz_426918806`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 749
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -9903,6 +10056,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 361
+
+---
+
+
+## Real Madrid New Season Home Kit Premium Quality  
+**DocID:** `daraz_562497076`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 259
+
+---
+
+
+## Real Madrid Jersey 2025/26 Thai Premium Jersey For Men - Long Sleeve Polo T Shirt - Real Madrid Jersey 2025  
+**DocID:** `daraz_473972254`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## BFF Football Jersey - Player Edition Jersey - BFF National Football Federation Kit - Home/Away Kit - Special Fans Version Jersey 2024/2025 - Thai Fabrics - Short Sleeve - New Football Jersey - SAAF Championship 2025 Design - Premium  
+**DocID:** `daraz_557212318`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 333
 
 ---
 
@@ -11587,6 +11767,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 211,990
+
+---
+
+
+## Infinix Hot 60 Pro+ (8GB+256GB) Official  
+**DocID:** `daraz_543549001`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 23,498
 
 ---
 
@@ -14813,6 +15002,76 @@ Non-removable Li-Po Battery
 **Category:** motherboard  
 **URL:** https://www.startech.com.bd/colorful-battle-ax-h610m-e-wifi-v20-motherboard
 **Price:** 10,200৳
+
+---
+
+
+## ASUS H110M-K Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/ASUS-H110M-K-Motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/ASUS-H110M-K-Motherboard
+**Price:** 10,300৳
+
+---
+
+
+## Hikvision DS-3WR12C AC1200 1200Mbps Dual Band WiFi Router  
+**DocID:** `startech_https://www.startech.com.bd/hikvision-ds-3wr12c-dual-band-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/hikvision-ds-3wr12c-dual-band-router
+**Price:** 1,950৳ 2,060৳
+
+---
+
+
+## Netis NC21 AC1200 Dual Band Router  
+**DocID:** `startech_https://www.startech.com.bd/netis-nc21-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/netis-nc21-router
+**Price:** 2,150৳
+
+---
+
+
+## DJI Neo 2 Fly More Combo Drone  
+**DocID:** `startech_https://www.startech.com.bd/dji-neo-2-fly-more-combo-drone`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-neo-2-fly-more-combo-drone
+**Price:** 46,700৳
+
+---
+
+
+## Daewoo 43DM54UAB 43" 4K Android Google Smart TV  
+**DocID:** `startech_https://www.startech.com.bd/daewoo-43dm54uab-4k-google-smart-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/daewoo-43dm54uab-4k-google-smart-tv
+**Price:** 35,990৳ 43,900৳
+
+---
+
+
+## Awei H60 Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/awei-h60-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/awei-h60-smart-watch
+**Price:** 2,350৳ 2,550৳
+
+---
+
+
+## Awei H29 Kids Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/awei-h29-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/awei-h29-smart-watch
+**Price:** 3,760৳ 4,099৳
 
 ---
 
