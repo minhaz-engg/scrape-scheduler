@@ -4468,6 +4468,42 @@ Core i5-3320M
 ---
 
 
+## Acer Aspire 3 A315-24P (UN.KDESI.027) AMD Ryzen 3 7320U 2.4 to 4.1GHz, 8GB, 512GB SSD, Free-DOS, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_347993359`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 51,900
+
+---
+
+
+## Acer Aspire 3 A315-59-50J9 (NX.K6USI.002) 12th Gen i5-1235U 3.3 to 4.4GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_322918596`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,800
+
+---
+
+
+## Lenovo ThinkPad X1 Carbon G9 (20XXS89Y00-3Y) 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 512GB SSD, 14 Inch WUXGA Laptop  
+**DocID:** `daraz_312245533`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 265,000
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15IRH8 (83EM00K4LK) 13th Gen Core i7-13620H 16GB RAM 512GB SSD 15.6-inch FHD Laptop  
+**DocID:** `daraz_535967822`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 91,480
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6624,6 +6660,51 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 399
+
+---
+
+
+## Premium Quality pk Cotton Polo for Men  
+**DocID:** `daraz_390660092`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 323
+
+---
+
+
+## Elevate Comfort with JPN Polo Shirt for Men in Yellow - Perfect for All Seasons - Stylish and Comfortable  
+**DocID:** `daraz_168548105`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 230
+
+---
+
+
+## Men's Polo T-shart Demanding Polo T-Shart For Men's  
+**DocID:** `daraz_542833658`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 499
+
+---
+
+
+## Cotton  Polo T-Shirt For Men - Polo T Shirt For Men  
+**DocID:** `daraz_301902252`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 387
+
+---
+
+
+## Argentina  polo t shirt for men by rks  
+**DocID:** `daraz_387307191`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
 
 ---
 
@@ -8872,6 +8953,87 @@ Synthetic rubber sole
 ---
 
 
+## Understated -High Qulaity Sports' Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men (316300732)- Progressively Better  
+**DocID:** `daraz_316300732`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 452
+
+---
+
+
+## New Collection Better Choice Stylish and Fashionable Exclusive Low Top Sneakers Converse for Men - Comfortable and Suitable for All Seasons  
+**DocID:** `daraz_279209267`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 462
+
+---
+
+
+## Fashionshoesformencomfortablecashualshoes - Juta - Shoes For Men  
+**DocID:** `daraz_225040598`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 425
+
+---
+
+
+## Sneakers: Colorful Lace-Up Lightweight Shoes for Men - Fashionable and Comfortable  
+**DocID:** `daraz_261166379`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 387
+
+---
+
+
+## Panda Men Sport Sneaker | Black  
+**DocID:** `daraz_562245457`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,314
+
+---
+
+
+## North Star Nadal Slip-Ons for Men - shoes for men  
+**DocID:** `daraz_223392316`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 749
+
+---
+
+
+## Glass Soul Sky Sneakers for Men- Sneakers For Man  
+**DocID:** `daraz_260720380`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,522
+
+---
+
+
+## Panda Men Sport Sneaker | White Green  
+**DocID:** `daraz_562260238`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,533
+
+---
+
+
+## North Star Nadal Slip-Ons for Men -  shoes for men  
+**DocID:** `daraz_223391359`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 749
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -10434,6 +10596,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 350
+
+---
+
+
+## Brazil Full Sleeve Football Jersey For Man - T Shirt For Man - Brazil Jersey 2024-25  
+**DocID:** `daraz_272473582`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 259
+
+---
+
+
+## Argentina Short Sleeve Jersey 2026/27 Football Jersey For Men - Half Sleeve - Argentina Jersey 2026  
+**DocID:** `daraz_252367365`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Barcelona Full Sleeve Jersey 2025/26 Thai Premium Football For Men - Long Sleeve - Barcelona Jersey 2025  
+**DocID:** `daraz_556911913`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 351
+
+---
+
+
+## Santus Short Sleeve Football Jersey For Man - Neymar jr  10 New Clube Jersey - Santos Jersey 2025-26  
+**DocID:** `daraz_522919902`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 312
 
 ---
 
@@ -12185,6 +12383,51 @@ Non-removable Li-Po Battery
 ---
 
 
+## Motorola Moto G05 (4+64GB)  
+**DocID:** `daraz_525899327`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,999
+
+---
+
+
+## itel A90 | 4GB+ 64GB  
+**DocID:** `daraz_561780611`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 8,243
+
+---
+
+
+## Galaxy A16 - 4G. 6/128  
+**DocID:** `daraz_523963459`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 19,799
+
+---
+
+
+## Galaxy S24 Ultra (12/256) SD--- Dual  
+**DocID:** `daraz_468467938`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 102,499
+
+---
+
+
+## HONOR X7d 8/256GB + Free TWS Earbud | 6500mAh Dual-cell Battery | Official  
+**DocID:** `daraz_562364259`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,549
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -12577,6 +12820,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 46,799
+
+---
+
+
+## Samsung Galaxy Tab S10+ 12/256GB | 10,090mAh | Official  
+**DocID:** `daraz_563972962`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 193,599
 
 ---
 
@@ -15536,6 +15788,116 @@ Non-removable Li-Po Battery
 **Category:** wifi-camera  
 **URL:** https://www.startech.com.bd/meari-v1-4g-ptz-camera
 **Price:** 13,225৳ 14,500৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15AMN8 Ryzen 3 7320U 15.6" FHD Laptop Arctic Grey  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15amn8-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15amn8-laptop
+**Price:** 51,500৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15AMN8 Ryzen 3 7320U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15amn8-ryzen-3-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15amn8-ryzen-3-laptop
+**Price:** 51,500৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14ARP10 Ryzen 5 7535HS 14" WUXGA Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-14arp10-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-14arp10-laptop
+**Price:** 63,500৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15ABR8 Ryzen 5 5625U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15abr8-ryzen-5-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15abr8-ryzen-5-laptop
+**Price:** 61,500৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15AHP10 Ryzen 5 8640HS 15.3" WUXGA AI Integrated Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15ahp10-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15ahp10-laptop
+**Price:** 89,000৳
+
+---
+
+
+## Lenovo IdeaPad Flex 5 14ABR8 Ryzen 7 5825U 14" WUXZA Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-flex-5-14abr8-ryzen-7-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-flex-5-14abr8-ryzen-7-laptop
+**Price:** 92,000৳ 95,000৳
+
+---
+
+
+## Lenovo IdeaPad Flex 5 14ABR8 Ryzen 5 5625U 14" WUXZA Touch Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-flex-5-14abr8-ryzen-5-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-flex-5-14abr8-ryzen-5-laptop
+**Price:** 82,000৳ 85,000৳
+
+---
+
+
+## Lenovo IdeaPad Pro 5 16AHP9 Ryzen 7 8845HS 512GB SSD AI Integrated RTX 3050 6GB Graphics 16" OLED Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-pro-5-16ahp9-ryzen-7-8845hs-512gb-16-2k-oled-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-pro-5-16ahp9-ryzen-7-8845hs-512gb-16-2k-oled-laptop
+**Price:** 170,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 5 13ARP10 Ryzen 7 7735HS 13.3" WUXGA Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-5-13arp10-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-5-13arp10-laptop
+**Price:** 92,000৳
+
+---
+
+
+## Dahua DHI-LM49-EW410CA 49" 120Hz DQHD ELED VA Curved Ultrawide Gaming Monitor  
+**DocID:** `startech_https://www.startech.com.bd/dahua-dhi-lm49-ew410ca-gaming-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/dahua-dhi-lm49-ew410ca-gaming-monitor
+**Price:** 115,000৳
+
+---
+
+
+## CW9 PRO MAX Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/cw9-pro-max-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/cw9-pro-max-smart-watch
+**Price:** 2,150৳ 2,350৳
 
 ---
 
