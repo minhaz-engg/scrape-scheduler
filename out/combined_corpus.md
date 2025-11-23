@@ -4504,6 +4504,87 @@ Core i5-3320M
 ---
 
 
+## Dell Inspiron 15 3530 13th Gen Intel Core i7 1355U 16GB RAM, 512GB SSD Carbon Black Laptop  
+**DocID:** `daraz_563023881`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 105,140
+
+---
+
+
+## Lenovo IdeaPad Slim 5 14IRH10 13th Gen Intel Core i5 13420H 16GB RAM, 512GB SSD 14 Inch FHD+ WUXGA Display Luna Grey Laptop  
+**DocID:** `daraz_563018961`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 98,190
+
+---
+
+
+## Acer Aspire Go 15 AI Ready Laptop, 15.6" FHD (1920 x 1080) IPS Display, AMD Ryzen 7 5825U, AMD Radeon Graphics, 16GB DDR4, 512GB PCIe Gen4 SSD, Wi-Fi 6, Windows 11 Home  
+**DocID:** `daraz_526778375`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 38,000
+
+---
+
+
+## Acer Aspire 3 A315-510P (NX.KDSI.001) Intel i3-N305 3.8 GHz, 8GB, 512GB SSD, 15.6 FHD Laptop  
+**DocID:** `daraz_313716034`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,000
+
+---
+
+
+## Dell Inspiron 15 5505 AMD Ryzen 7 4700U 2.3GHz to 4.0 GHz, 8GB RAM, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_202022857`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 77,499
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15IAU7 (82RK0152IN) 12th Gen i3-1215U 3.3 to 4.44GHz, 8GB DDR4, 512GB M.2 NVMe SSD, 15.6Inch FHD Laptop  
+**DocID:** `daraz_434739943`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 57,300
+
+---
+
+
+## Lenovo IdeaPad Slim 3i (8) (83EQ004HLK) 12th Gen Core-i5 Laptop  
+**DocID:** `daraz_536008669`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 71,220
+
+---
+
+
+## Lenovo V15 G4 15.6" FHD Laptop Computer, 24GB RAM 1.5TB Storage (1TB SSD+512GB Docking Station Set), 8-Cores AMD Ryzen 7, Windows 11 Pro with Microsoft Office Included, PLUSERA Earphones, Black  
+**DocID:** `daraz_563247413`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 33,000
+
+---
+
+
+## HP 15.6" LED Business & Student Laptop, 16GB RAM 640GB Storage (128GB UFS+512GB Docking Set), Quad-Cores Intel Pentium, Windows 11 S with 1-Year Microsoft Office 365 Included, PLUSERA Earphones  
+**DocID:** `daraz_563429394`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 30,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6705,6 +6786,51 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 199
+
+---
+
+
+## Stylish Premium Quality cotton Polo Shirt for Men  
+**DocID:** `daraz_529863774`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_526512126`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 285
+
+---
+
+
+## QUIZ Clothing Mens Half Sleeve Premium Polo T-shirt For Men Regular Fit Polo Shirts, Blue  
+**DocID:** `daraz_522886925`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 183
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt For Men  
+**DocID:** `daraz_526624533`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 294
+
+---
+
+
+## Olive colour polo t shirt for men | Premium polo t shirt for men new 2024 brand |  Export quality polo tshirt collection for men 2024  
+**DocID:** `daraz_100628678`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 258
 
 ---
 
@@ -9034,6 +9160,69 @@ Synthetic rubber sole
 ---
 
 
+## Lufeh Hot Collection Stylish and Fashionable shoes for men  
+**DocID:** `daraz_470130418`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,753
+
+---
+
+
+## Premium Quality - Hot Collection Stlysh Running Sports Sneakers Casual Lace-up Shoes Winter and Summer Men's Shoes - Couture - High-end  
+**DocID:** `daraz_344025886`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 498
+
+---
+
+
+## New All Star Fabric Sneakers Converse For Men (123) - Shoe For Boys - White Shoes  
+**DocID:** `daraz_236373525`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,700
+
+---
+
+
+## Sneakers for men China | Pure white sneakers shoes for men new collection 2025 | Lamborgin Sneakers for men  
+**DocID:** `daraz_238416495`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 443
+
+---
+
+
+## Hot Singing Snickers Dusty: High-Quality Snow Men's Casual Shoes, Fly Woven Lightweight Slip-On - Shoe For Boys - Shose For Men  
+**DocID:** `daraz_292578128`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 415
+
+---
+
+
+## Mens sneakers with high classical converses with fashionable lace up and rubber sool.  
+**DocID:** `daraz_147990452`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 505
+
+---
+
+
+## Shoes for Men Sneakers Lightweight Breathable Comfortable Casual Shoes for Walking  
+**DocID:** `daraz_196569203`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -10632,6 +10821,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 312
+
+---
+
+
+## Fc Barcelona concept Kit Good Quality  
+**DocID:** `daraz_562485414`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 285
+
+---
+
+
+## Realmadrid PREMIUM QUALITY home KIT NEW JERSEY  
+**DocID:** `daraz_416773688`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Argentina 3 star Jersey  2026 half sleeve thai premium  
+**DocID:** `daraz_343747374`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 389
+
+---
+
+
+## Manchester United Thai premium (Logo Embroidery)Full Sleeve Club Football Jersey  
+**DocID:** `daraz_561281148`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 339
 
 ---
 
@@ -12428,6 +12653,24 @@ Non-removable Li-Po Battery
 ---
 
 
+## HONOR X8b 8/512GB | AMOLED Display | 108MP & 50MP Camera | Official  
+**DocID:** `daraz_562403030`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 23,090
+
+---
+
+
+## i102 Nox (RAM 3 GBn ROM 64 GB) 5000 mAh Battery  
+**DocID:** `daraz_562486286`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 7,500
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -12829,6 +13072,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 193,599
+
+---
+
+
+## Fire HD 10 Tablet with Alexa Hands-Free - 10.1 1080p HD Display - 32 GB - Black  
+**DocID:** `daraz_93307`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 25,990
+
+---
+
+
+## Fire HD 10 Tablet with Alexa Hands-Free - 10.1 Full HD Display - 32 GB - Black  
+**DocID:** `daraz_1024936`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 19,990
 
 ---
 
@@ -15898,6 +16159,16 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/cw9-pro-max-smart-watch
 **Price:** 2,150৳ 2,350৳
+
+---
+
+
+## ASROCK H610M-H2/M.2 14th, 13th and 12th Gen mATX DDR5 Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/asrock-h610m-h2-m2-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/asrock-h610m-h2-m2-motherboard
+**Price:** 9,100৳
 
 ---
 
