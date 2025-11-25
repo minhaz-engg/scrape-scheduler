@@ -4585,6 +4585,87 @@ Core i5-3320M
 ---
 
 
+## Lenovo IP Slim 3i (82H802M5IN) 11th Gen Core i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, MX350 2GB GFX, Win 11 Home, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_312923135`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 82,500
+
+---
+
+
+## Huawei MateBook D14 11th Gen i5-1135G7 2.4GHz to 4.2GHz 8GB RAM, 512GB SSD, Win 11 Home, 14 Inch FHD IPS Display Silver Laptop  
+**DocID:** `daraz_317659587`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,820
+
+---
+
+
+## ASUS Vivobook 15 (X1504VA-NJ263W) 13TH Gen Core i7 16GB RAM 512GB SSD Laptop  
+**DocID:** `daraz_391924951`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 117,200
+
+---
+
+
+## Infinix InBook Y2 Plus 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_337005385`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,700
+
+---
+
+
+## Dell Latitude 3440 13th Gen Core i7-1355U 1.7 to 5GHz, 8GB, 512GB SSD, 14Inch FHD Laptop  
+**DocID:** `daraz_350833065`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 151,400
+
+---
+
+
+## HP laptop (Ryzen 5 5500 u with Reno Graphic)  
+**DocID:** `daraz_563651453`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 35,000
+
+---
+
+
+## Lenovo 16" FHD+ Gaming Laptop Computer for Home Student, Intel 8-Core i5-13420H, 16GB DDR5 RAM, 512GB PCIe SSD, WiFi 6, BT 5.2, Type-C, Luna Grey, Windows 11 Home  
+**DocID:** `daraz_563426030`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,000
+
+---
+
+
+## Lenovo IdeaPad 3 15IGl05 (81WQ00FAIN) CDC N4020 1.1 to 2.8GHz, 4GB, 1TB HDD, Win 11 Home, 15.6 HD Laptop  
+**DocID:** `daraz_231999815`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 40,000
+
+---
+
+
+## Acer Aspire 5 A515-56-32F7 (NX.A1GSI.004) 11th Gen Intel Core i3-1115G4 3 to 4.2GHz, 4GB RAM, 1TB HDD, 15.6 FHD Laptop  
+**DocID:** `daraz_198434041`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 53,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6831,6 +6912,69 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 258
+
+---
+
+
+## Stylish Cotton Fabrics T Shirt for Men - Style with Comfortable Polo T Shirt for All Seasons and Occasions  
+**DocID:** `daraz_313227234`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 185
+
+---
+
+
+## Men clothes Casual Mesh Short Sleeve Shirt and pants  
+**DocID:** `daraz_539891290`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 335
+
+---
+
+
+## MULTICOLOUR EXCOLUSIVE COTTON SHORT SLEEVE POLO SHART FOR MEN  
+**DocID:** `daraz_300098856`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 185
+
+---
+
+
+## Polo t -shirt for men - best polo in summer  
+**DocID:** `daraz_538732133`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 230
+
+---
+
+
+## Ash Cotton Polo t-Shirt For Men  
+**DocID:** `daraz_168312781`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## Men'S Custom Slim Fit Pony Embroidered Short-Sleeved Polo Shirt- Olive  
+**DocID:** `daraz_290934893`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 820
+
+---
+
+
+## Spring Summer Men Casual Short Sleeve Stand Collar Polo T Shirt Men Sport Golf Polo Shirt Letter Print Slim Fit Polo Tops  
+**DocID:** `daraz_547245643`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,141
 
 ---
 
@@ -9223,6 +9367,42 @@ Synthetic rubber sole
 ---
 
 
+## High Quality Sports' Sneakers Men: Fashionable Flyknit, Light Weight Slip-On Men - Perfect for Any Occasion  
+**DocID:** `daraz_287620858`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 430
+
+---
+
+
+## Smart Sneaker - Men White Sneakers  
+**DocID:** `daraz_185998797`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,050
+
+---
+
+
+## New Collection Better Choice: Stylish And Fashionable Exclusive Sneakers Converse Shoes For Men - Perfect for Boys - White Shoes  
+**DocID:** `daraz_298869841`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 535
+
+---
+
+
+## New Collection Better Choice: Stylish And Fashionable Exclusive Sneakers Converse For Men - Ideal for Boys - White Shoes  
+**DocID:** `daraz_298867671`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 547
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -10857,6 +11037,78 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 339
+
+---
+
+
+## Argentina Away Short Sleeve Jersey 2018 - (China)  
+**DocID:** `daraz_112718060`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 650
+
+---
+
+
+## Al-Nassr Full Sleeve Thai Premium Football Jersey For Men - Ronaldo 7 Long Sleeve Jersey - Al Nassr Jersey 2025  
+**DocID:** `daraz_316116479`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Ronaldo 7 Al-Nassr Thai Premium Football Jersey For Man - Al Nassr Jersey  
+**DocID:** `daraz_362450677`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 394
+
+---
+
+
+## Brazil Full Sleeve World Cup Jersey For Man - Long Sleeve T Shirt - Brazil Football Jersey 2026  
+**DocID:** `daraz_314548919`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 266
+
+---
+
+
+## Real Betis Jersey 2025/2026 Thai Premium Football Jersey For Men - Real Betis Football Jersey 2025  
+**DocID:** `daraz_541349588`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 290
+
+---
+
+
+## Portugal Full sheeve Football Jersey For Man - Portugal Long Sleeve T Shirt - Portugal Football Jersey  
+**DocID:** `daraz_277267495`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## England national football team  half sleeve Jersey Thai premium  
+**DocID:** `daraz_364592503`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 389
+
+---
+
+
+## Spain Short Sleeve Thai Premium Football Jersey For Men - Half Sleeve T Shirt - Spain Jersey 2025-26  
+**DocID:** `daraz_314558148`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
 
 ---
 
@@ -12667,6 +12919,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 7,500
+
+---
+
+
+## Motorola Edge 60 Fusion 5G (8+256GB)6.67Inches DIsplay , 5500 mAh - Battery charging  
+**DocID:** `daraz_529947692`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 31,999
 
 ---
 
@@ -16169,6 +16430,66 @@ Non-removable Li-Po Battery
 **Category:** motherboard  
 **URL:** https://www.startech.com.bd/asrock-h610m-h2-m2-motherboard
 **Price:** 9,100৳
+
+---
+
+
+## ASRock B650M Pro RS WiFi AM5 Micro ATX Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/asrock-b650m-pro-rs-wifi-am5-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/asrock-b650m-pro-rs-wifi-am5-motherboard
+**Price:** 20,500৳
+
+---
+
+
+## TP-Link Archer C54 AC1200 Dual Band Wi-Fi Router  
+**DocID:** `startech_https://www.startech.com.bd/tp-link-archer-c54-ac1200-dual-band-mu-mimo-beamforming-wi-fi-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/tp-link-archer-c54-ac1200-dual-band-mu-mimo-beamforming-wi-fi-router
+**Price:** 2,081৳ 2,179৳
+
+---
+
+
+## TP-Link Archer C50 AC1200 Dual Band Wi-Fi Router  
+**DocID:** `startech_https://www.startech.com.bd/tp-link-archer-c50-wifi-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/tp-link-archer-c50-wifi-router
+**Price:** 2,165৳ 2,279৳
+
+---
+
+
+## Gigasonic RB-G19S-300C 19" HD LED Monitor  
+**DocID:** `startech_https://www.startech.com.bd/gigasonic-rb-g19s-300c-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/gigasonic-rb-g19s-300c-monitor
+**Price:** 5,600৳ 5,800৳
+
+---
+
+
+## Alimoto 22A 21.5" FHD Monitor  
+**DocID:** `startech_https://www.startech.com.bd/alimoto-22a-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/alimoto-22a-monitor
+**Price:** 7,200৳
+
+---
+
+
+## TCL 43S5K 43" FHD QLED Smart Google TV  
+**DocID:** `startech_https://www.startech.com.bd/tcl-43s5k-qled-google-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/tcl-43s5k-qled-google-tv
+**Price:** 33,000৳ 43,900৳
 
 ---
 
