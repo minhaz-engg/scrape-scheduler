@@ -4666,6 +4666,78 @@ Core i5-3320M
 ---
 
 
+## HP 15-fd0037TX (9X7J6PA) Intel Core i5-1334U 13th Gen, 1.30 to 4.60 GHz, 8GB RAM, 512GB SSD, 2GB Dedicated Graphics, Windows 11, 15.6 Inch FHD Display Silver Laptop  
+**DocID:** `daraz_523155211`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 94,300
+
+---
+
+
+## HP ProBook 450 G9 Intel Core i5 12th gen 8GB Ram 15.6 Inch FHD Display Laptop  
+**DocID:** `daraz_320961957`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 103,000
+
+---
+
+
+## HP 15-fc0166AU (9S532PA) AMD Ryzen-5 7520U, 2.8 to 4.3GHz, 8GB RAM, 512GB SSD, Windows 11 Home, 15.6 Inch FHD Display Moonlight Blue Laptop  
+**DocID:** `daraz_453772262`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,599
+
+---
+
+
+## MSI Prestige 14H 14” FHD+ Business Laptop: Intel Core i5-12500H, NVIDIA Geforce RTX 2050, 16GB LPDDR5, 512GB NVMe SSD, Cooler Boost 5, Win 11 Pro: Urban Silver  
+**DocID:** `daraz_526768486`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,000
+
+---
+
+
+## Lenovo YOGA 9i #82BG009KIN# 11th Gen Core i7-1185G7 3 to 4.8GHz, 16GB, 1TB SSD, Win10, 14 Inch UHD Laptop  
+**DocID:** `daraz_216237732`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 214,000
+
+---
+
+
+## HP 250 G9 Intel Core i3-1215U 12th Gen up to 4.4 GHz, 8GB RAM, 512GB SSD, Windows 10, 15.6 Inch IPS FHD Laptop  
+**DocID:** `daraz_322591969`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 56,200
+
+---
+
+
+## HP 250 G9 Intel Core i3 12th Gen 8GB RAM 512GB SSD 15.6-inch FHD Display Laptop  
+**DocID:** `daraz_325012775`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,800
+
+---
+
+
+## Lenovo IdeaPad Slim 1i 14IGL7 (82V6007SIN) Intel N4020 1.1 to 2.8GHz, 8GB RAM, 256GB SSD, 14 Inch FHD Display Laptop  
+**DocID:** `daraz_434885142`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 39,200
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6975,6 +7047,51 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 1,141
+
+---
+
+
+## Polo t-shirt  
+**DocID:** `daraz_540989295`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
+
+---
+
+
+## Men’s Premium Thermal Cotton Polo T-Shirt – Exclusive Zipper Collar Design | Air flow fabric best for Summer | Perfect for office, outings, gatherings, or daily wear | Brand - SMART  
+**DocID:** `daraz_537406310`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 848
+
+---
+
+
+## Half Sleeve Premium  Polo T-shirt  For men  
+**DocID:** `daraz_226645481`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
+
+---
+
+
+## Premium quality cotton polo t-shirt for men-polo shirt  
+**DocID:** `daraz_343976193`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Cotton polo T Shirts for men-multi color stripped polo shirt for men  
+**DocID:** `daraz_301989726`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 406
 
 ---
 
@@ -9403,6 +9520,69 @@ Synthetic rubber sole
 ---
 
 
+## Stylish Sneakers shoes For men For Boy  
+**DocID:** `daraz_534807412`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 299
+
+---
+
+
+## Winter trendy colourful stylish shoes new breathable colourful collection for men's sneakers.  
+**DocID:** `daraz_426251380`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 922
+
+---
+
+
+## New Lambor Ghini Sneaker Men Casual Shoes Men Fashion Sneakers  
+**DocID:** `daraz_484252151`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
+## Trendy Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes - Sneakers For Men - Shoes For Men -  - জুতা ছেলেদের  
+**DocID:** `daraz_226670027`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 359
+
+---
+
+
+## Panda Men Casual Sneaker | White Grey  
+**DocID:** `daraz_562236830`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 894
+
+---
+
+
+## Hot Collection Stylish and Fashionable Low Top Sneakers for Men - Comfortable for All Seasons  
+**DocID:** `daraz_321273989`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
+## Sneakers Shoes For men  
+**DocID:** `daraz_530547112`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 245
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -11109,6 +11289,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 369
+
+---
+
+
+## Argentina Short sleeve Jersey 2026/27 Football Jersey For Man - Half Sleeve - Argentina Jersey 2026  
+**DocID:** `daraz_271478334`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 239
+
+---
+
+
+## FC Barcelona Full Sleeve (Logo Embroidery) Thai premium CLub Football Jersey  
+**DocID:** `daraz_563044684`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## B-d Football Jersey - Full sleeve Banglades Fan Jersey for Man - Football Jersey  
+**DocID:** `daraz_270359109`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Bayern Munich 2025/2026 Thai Premium Football Jersey For Men - Long Sleeve - Bayern Munich Jersey 2025  
+**DocID:** `daraz_550232423`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
 
 ---
 
@@ -12928,6 +13144,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 31,999
+
+---
+
+
+## Tecno Spark 40(6+128gb) ডিসপ্লে: 6.67'' IPS LCD ,120hz, 45w ফাস্ট চার্জিং সহ 5200mah  
+**DocID:** `daraz_548398432`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,499
+
+---
+
+
+## honor 400 pro  
+**DocID:** `daraz_531092363`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 64,999
+
+---
+
+
+## Walton NEXG N74 (8+128GB) Official  
+**DocID:** `daraz_525390338`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,999
+
+---
+
+
+## Redmi turbo 4 pro CN  
+**DocID:** `daraz_531043753`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 32,199
+
+---
+
+
+## OPPO A3 6GB/128GB | 6.67" 90Hz 1000nits | Official  
+**DocID:** `daraz_549577346`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,960
 
 ---
 
@@ -16490,6 +16751,186 @@ Non-removable Li-Po Battery
 **Category:** television-startech  
 **URL:** https://www.startech.com.bd/tcl-43s5k-qled-google-tv
 **Price:** 33,000৳ 43,900৳
+
+---
+
+
+## HP 15-fd0333TU Core 5 120U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fd0333tu-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fd0333tu-laptop
+**Price:** 69,500৳ 72,800৳
+
+---
+
+
+## HP 15-fd1191TU Intel Core 5 120U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fd1191tu-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fd1191tu-laptop
+**Price:** 72,500৳ 75,500৳
+
+---
+
+
+## Smart Flairedge Core i3 13th Gen 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/smart-flairedge-core-i3-1315u-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/smart-flairedge-core-i3-1315u-laptop
+**Price:** 48,000৳
+
+---
+
+
+## ASUS Vivobook Go 15 E1504GA Core i3 N305 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-go-15-e1504ga-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-go-15-e1504ga-laptop
+**Price:** 49,000৳
+
+---
+
+
+## Chuwi MiniBook X Intel Celeron N150 10.5" FHD+ Touch Laptop  
+**DocID:** `startech_https://www.startech.com.bd/chuwi-minibook-x-n150-touch-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/chuwi-minibook-x-n150-touch-laptop
+**Price:** 49,500৳
+
+---
+
+
+## Chuwi CoreBook X Core i3 12th Gen 14" 2K QHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/chuwi-corebook-x-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/chuwi-corebook-x-laptop
+**Price:** 49,500৳
+
+---
+
+
+## HP 15-fc0266AU Ryzen 3 7320U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fc0266au-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fc0266au-laptop
+**Price:** 51,500৳
+
+---
+
+
+## Intel 10th Gen Core i5-10500 Processor  
+**DocID:** `startech_https://www.startech.com.bd/intel-core-i5-10500-processor`
+**Source:** StarTech  
+**Category:** processor  
+**URL:** https://www.startech.com.bd/intel-core-i5-10500-processor
+**Price:** 13,900৳ 14,800৳
+
+---
+
+
+## Intel 10th Gen Core i5-10400 Processor  
+**DocID:** `startech_https://www.startech.com.bd/intel-core-i5-10400-processor`
+**Source:** StarTech  
+**Category:** processor  
+**URL:** https://www.startech.com.bd/intel-core-i5-10400-processor
+**Price:** 14,200৳ 15,000৳
+
+---
+
+
+## Colorful GeForce GT1030 4G-V 4GB Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/colorful-geforce-gt1030-4g-v-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/colorful-geforce-gt1030-4g-v-graphics-card
+**Price:** 10,200৳
+
+---
+
+
+## PELADN RX 550 4G Gaming GDDR5 128 Bit Black Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/peladn-rx-550-4g-gaming-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/peladn-rx-550-4g-gaming-graphics-card
+**Price:** 13,500৳
+
+---
+
+
+## PELADN RX 580 8G 256Bit Dual Fans Gaming Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/peladn-rx-580-8g-gaming-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/peladn-rx-580-8g-gaming-graphics-card
+**Price:** 15,900৳
+
+---
+
+
+## Asus Prime A520M-K AM4 Micro-ATX AMD Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/asus-prime-a520m-k-amd-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/asus-prime-a520m-k-amd-motherboard
+**Price:** 8,900৳ 9,100৳
+
+---
+
+
+## D-Link R03 N300 300mbps Smart Router  
+**DocID:** `startech_https://www.startech.com.bd/d-link-r03-n300-300mbps-eagle-pro-ai-smart-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/d-link-r03-n300-300mbps-eagle-pro-ai-smart-router
+**Price:** 1,050৳
+
+---
+
+
+## Acer K202Q BI 19.5 Inch HD+ Monitor  
+**DocID:** `startech_https://www.startech.com.bd/acer-k202qbi-19-5-inch-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/acer-k202qbi-19-5-inch-monitor
+**Price:** 9,400৳ 10,200৳
+
+---
+
+
+## Walton WDF13C22I 21.45" 100Hz FHD IPS Monitor  
+**DocID:** `startech_https://www.startech.com.bd/walton-wdf13c22i-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/walton-wdf13c22i-monitor
+**Price:** 10,200৳
+
+---
+
+
+## Smart SEL-32A24K 32" HD Android TV  
+**DocID:** `startech_https://www.startech.com.bd/smart-sel-32a24k-tv `
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/smart-sel-32a24k-tv 
+**Price:** 18,500৳ 24,900৳
+
+---
+
+
+## Ultra 10 Smartwatch Black with 10 Strap  
+**DocID:** `startech_https://www.startech.com.bd/ultra-10-smartwatch-10-in-1-strap`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/ultra-10-smartwatch-10-in-1-strap
+**Price:** 1,550৳ 1,699৳
 
 ---
 
