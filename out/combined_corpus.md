@@ -4738,6 +4738,159 @@ Core i5-3320M
 ---
 
 
+## HP 17.3 inch Laptop, FHD Display, AMD Ryzen 5 7520U, 16 GB RAM, 512 GB SSD, AMD Radeon Graphics, Windows 11 Home (2024)  
+**DocID:** `daraz_526769456`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 51,000
+
+---
+
+
+## MSI Modern 15 B12M 12th Gen i7-1255U 3.5 to 4.7GHz, 8GB RAM, 512GB SSD, Windows 11 Home, 15.6 Inch FHD IPS Laptop  
+**DocID:** `daraz_316334590`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 96,850
+
+---
+
+
+## Acer TravelMate TMP 214-53G 11th Gen i7-1165G7 2.8 to 4.7GHz, 8GB, 512GB SSD, MX330 2GB, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_292375451`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 86,500
+
+---
+
+
+## Acer TravelMate P2 TMP214-53 11th Gen Core i3-1115G4 3 to 4.1GHz, 8GB DDR4, 512GB SSD, 14 Inch FHD IPS Display Laptop  
+**DocID:** `daraz_525836297`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 52,200
+
+---
+
+
+## Realme Book 11th Gen i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, Win 10 Home, 14 Inch 2K IPS Laptop  
+**DocID:** `daraz_313982937`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,700
+
+---
+
+
+## Dell Inspiron 15 3501 11th Gen i3-1115G4 3 to 4.1GHz, 4GB, 1TB HDD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_185547950`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 54,000
+
+---
+
+
+## Tecno Megabook K15SDA Ryzen 5 7430U 2.3GHz to 4.3GHz, 16GB, 512GB SSD, 15.6 Inch FHD LED Laptop  
+**DocID:** `daraz_555738359`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,800
+
+---
+
+
+## Inspiron 15 3520 Core i3 1215U 12th Gen 3.3 to 4.4GHz, 8GB ,512GB SSD, Win 11, 15.6" FHD Laptop  
+**DocID:** `daraz_486806495`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,000
+
+---
+
+
+## Lenovo IP Slim 3i #81WH00A0IN-3Y# Celeron N4020 1.1 to 2.8GHz, 4GB, 256GB SSD, Win 11 Home, 14 FHD Laptop  
+**DocID:** `daraz_270273584`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 42,500
+
+---
+
+
+## Acer Extensa EX215-54-34SE 11th Gen i3-1115G4 3 to 4.1GHz, 4GB, 1TB, Win 11 Home, 15.6 FHD Laptop  
+**DocID:** `daraz_239853543`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 51,000
+
+---
+
+
+## Qbits Rover X2 Intel Core™ i5-12450H (2.0 GHz to 4.40 GHz, 8 cores, 12 threads, 12 MB Intel Smart Cache) with 8GB DDR4 RAM 500GB M.2 NVMe SSD  
+**DocID:** `daraz_413423490`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 57,999
+
+---
+
+
+## Asus VivoBook 15 F1504ZA (NJ1829) Intel 12th Gen Core i5-1235U 1.3 to 4.4 GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_556928879`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,400
+
+---
+
+
+## HP 15-fc0239AU (A33T3PA) AMD Athlon Silver 7120U 2.4 to 3.5GHz, 8GB LPDDR5, 256GB SSD, Windows 11, 15.6 Inch FHD Display Laptop  
+**DocID:** `daraz_530485671`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,599
+
+---
+
+
+## Asus Vivobook Go 15 E1404GA (NJ098) Intel 13th Core i3-N305 3.80GHz 8GB RAM 512GB SSD 15.6"Inch FHD Display Laptop  
+**DocID:** `daraz_557019976`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 57,300
+
+---
+
+
+## HP 15.6" Business Laptop, Free Microsoft Office 2024 Lifetime License, Copilot AI Chat, HD Touchscreen Display, Intel 6-Core i3-1215U 4.4 GHz, 16GB RAM, 1TB SSD, Long Battery Life, Windows 11 Pro  
+**DocID:** `daraz_526782343`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,000
+
+---
+
+
+## HP 15s-fq0515TU (A0MW8PA) Intel Celeron N4120 1.10 to 2.60GHz, 8GB, 256GB SSD, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_431119372`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 41,900
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15IRU10 (83KD000QLK) Intel Core 3-100U 8GB RAM 512GB SSD 15.3-inch WUXGA Laptop  
+**DocID:** `daraz_548714269`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 58,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -7092,6 +7245,69 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 406
+
+---
+
+
+## Exclusive Polo Shirt - Fabric Soft And Comfortable - Multi Color  
+**DocID:** `daraz_465457135`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## Stylish Premium Quality Summer Polo Shirt for Men  
+**DocID:** `daraz_526653238`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 303
+
+---
+
+
+## Trendy quality cotton polo T shirt for men-Polo T shirt  
+**DocID:** `daraz_345324970`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Navy Blue synthetic Polo Full Sleeve T Shirt For Men  
+**DocID:** `daraz_325591159`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 318
+
+---
+
+
+## Quiz Clothing Mens Regular Fit Polo Shirts, Navy Blue - Polo T Shirt  
+**DocID:** `daraz_305402711`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 143
+
+---
+
+
+## classic pique cotton polo shirt for men  
+**DocID:** `daraz_346871373`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 330
+
+---
+
+
+## Classic Fit Cotton Polo Shirt For Men  
+**DocID:** `daraz_344290322`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 239
 
 ---
 
@@ -9583,6 +9799,42 @@ Synthetic rubber sole
 ---
 
 
+## Blue Black and Cream Color JAPANESE Casual Sneakers Canvas Sneakers for Men - Lightweight Comfortable and Suitable for All Seasons  
+**DocID:** `daraz_321765200`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 425
+
+---
+
+
+## Indispensable -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Innovative  
+**DocID:** `daraz_323289347`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 515
+
+---
+
+
+## casual and formal light weight sneakers Shoes for comfortable walking colour ful casual sneakers.  
+**DocID:** `daraz_231568991`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 999
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Sneakers for Men - Comfortable and Suitable for All Seasons  
+**DocID:** `daraz_364316663`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 410
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -11325,6 +11577,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 350
+
+---
+
+
+## Real Madrid Full Sleeve Retro (Logo Embroidery) Thai premium CLub Football Jersey  
+**DocID:** `daraz_563045603`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## Argentina Full Sleeve Football Training Jersey For Man - Long Sleeve - Argentina Training Jersey 2026/27  
+**DocID:** `daraz_331643625`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 238
+
+---
+
+
+## E football Short Sleeve Jersey 2025/2026 Thai Premimum Football Jersey For Men - Half Sleeve Jersey - Efootball Jersey 2025  
+**DocID:** `daraz_269706557`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Bashundhara Kings Short Sleeve Football Jersey for Men - Half Sleeve T Shirt - Bashundhara Jersey 2025-26  
+**DocID:** `daraz_271864840`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 249
 
 ---
 
@@ -13189,6 +13477,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 16,960
+
+---
+
+
+## Redmi Note 12(8/128GB) Chinese Global Version 5G  
+**DocID:** `daraz_327970551`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,000
+
+---
+
+
+## Proton X10 Pro 8 GB RAM 128 GB ROM - 52 MP Camera, 6.6″ Display - 874789  
+**DocID:** `daraz_562630329`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 9,262
 
 ---
 
@@ -16931,6 +17237,38 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/ultra-10-smartwatch-10-in-1-strap
 **Price:** 1,550৳ 1,699৳
+
+---
+
+
+## DJI Neo 2 Standard  
+**DocID:** `startech_https://www.startech.com.bd/dji-neo-2-standard`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-neo-2-standard
+**Price:** 28,000৳
+
+---
+
+
+## DJI Neo 2 Fly More Combo Drone Without Remote  
+**DocID:** `startech_https://www.startech.com.bd/dji-neo-2-fly-more-combo-without-remote`
+**Source:** StarTech  
+**Category:** drone  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/dji-neo-2-fly-more-combo-without-remote
+**Price:** Up Coming
+
+---
+
+
+## DJI Neo 2 Motion Fly More Combo  
+**DocID:** `startech_https://www.startech.com.bd/dji-neo-2-motion-fly-more-combo`
+**Source:** StarTech  
+**Category:** drone  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/dji-neo-2-motion-fly-more-combo
+**Price:** Up Coming
 
 ---
 
