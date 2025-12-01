@@ -4891,6 +4891,33 @@ Core i5-3320M
 ---
 
 
+## HP 250 G9 12th Gen Core i3-1215U 3.3 to 4.4GHz, 8GB, 256GB SSD, 15.6" FHD Laptop  
+**DocID:** `daraz_327338400`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,500
+
+---
+
+
+## 💻 Dell Latitude 5300 | Core i5 8th Gen | 8GB RAM | 256GB SSD | 13.3" FHD Display  
+**DocID:** `daraz_563035150`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 31,500
+
+---
+
+
+## HP 250 G9 Intel Core i7-1255U 12th Gen up to 4.7 GHz, 8GB RAM, 512GB SSD, Windows 10, 15.6 Inch IPS FHD Laptop  
+**DocID:** `daraz_322901502`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 85,400
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -5121,6 +5148,15 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 100,000
+
+---
+
+
+## MacBook Air (13-inch, 2017)  
+**DocID:** `daraz_564463905`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 29,000
 
 ---
 
@@ -7308,6 +7344,33 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 239
+
+---
+
+
+## Men's Custom Slim Fit Pony Embroidered Short-Sleeved Polo Shirt- White  
+**DocID:** `daraz_290944525`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 820
+
+---
+
+
+## Premium Cotton Polo T Shirt for Men - Stay Stylish and Comfortable in All Seasons and Occasions  
+**DocID:** `daraz_367137505`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 309
+
+---
+
+
+## Combo Pack of 3 Classic Fit Polo T-Shirt For Man  
+**DocID:** `daraz_130796358`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 679
 
 ---
 
@@ -9835,6 +9898,78 @@ Synthetic rubber sole
 ---
 
 
+## Black Shoes Collection LOTTOLACE Black Cotton Fabrics Sneaker Shoes Slip-Ons & Sneakers for Men C04  
+**DocID:** `daraz_428328547`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
+## Men Sports Running Shoes Casual Marathon Lightweight Women's Comfortable Athletic Nonskid Walking Sneakers Outdoors Couple Shoes  
+**DocID:** `daraz_563210440`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,058
+
+---
+
+
+## Panda Men Casual Sneaker | White Grey  
+**DocID:** `daraz_562237720`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,890
+
+---
+
+
+## Men Casual Shoes Black Mix White - Shoe For Boys - Insoles For Shoes - Shose For Men  
+**DocID:** `daraz_211199513`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 275
+
+---
+
+
+## New Collection Premium Quality Black And Blue Color FRENCH Casual Canvas Shoes For Men M7171  
+**DocID:** `daraz_546767867`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 469
+
+---
+
+
+## Lace-Up Low Top Sneakers for Men with Rubber Sole - Lightweight Version - Comfortable for All Seasons  
+**DocID:** `daraz_255633206`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 899
+
+---
+
+
+## Men's Fashion Basketball Shoes with Air Cushions, Comfortable and Non-Slip, Breathable and Shock-Absorbing, Suitable for Men's Outdoor Activities  
+**DocID:** `daraz_546064349`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,757
+
+---
+
+
+## Shoes For Men Sneakers Lightweight Breathable Comfortable Casual Shoes For Walking - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Shoe For Boys - Shoe For Boys - White Shoes  
+**DocID:** `daraz_192739871`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -11613,6 +11748,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 249
+
+---
+
+
+## Stylish and Comfortable Short Sleeve Collar Polo Jersey For Men - Polo T-shirt - Polo Jersey  
+**DocID:** `daraz_230831175`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 289
 
 ---
 
@@ -13495,6 +13639,105 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 9,262
+
+---
+
+
+## Motorola Edge 60 pro  12/256  
+**DocID:** `daraz_533666267`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 44,999
+
+---
+
+
+## Xiaomi Redmi A5 (6+128GB) Official  
+**DocID:** `daraz_528820530`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,999
+
+---
+
+
+## Infinix Smart 9 HD (3+64GB)  
+**DocID:** `daraz_525035584`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 9,499
+
+---
+
+
+## Samsung Galaxy S24 Ultra 5G 12GB Ram and 256GB/512GB Rom - TRA  
+**DocID:** `daraz_340092306`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 107,999
+
+---
+
+
+## itel City 100 (6+128GB) Official Display : 6.75 inches ,Charging & Battery : 5200 mAh,  
+**DocID:** `daraz_531320244`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,499
+
+---
+
+
+## Google Pixel 7 Pro  
+**DocID:** `daraz_470843518`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 51,499
+
+---
+
+
+## Infinix Hot 60 Pro  [8GB/128GB] OFFICIAL  
+**DocID:** `daraz_547746386`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 18,999
+
+---
+
+
+## iPhone 17 Pro Max Global [Physical Sim + E-Sim] With 1 Year Apple International Warranty  
+**DocID:** `daraz_556354828`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 188,999
+
+---
+
+
+## ZTE Blade A55 (4+128GB  
+**DocID:** `daraz_525075576`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 8,999
+
+---
+
+
+## vivo Y21D 8/128 + Free Riro B10 Neckbad | 6500mAh BlueVolt Battery | Official  
+**DocID:** `daraz_551183221`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,999
+
+---
+
+
+## Infinix Hot 50 Pro Plus (8GB+256GB)  
+**DocID:** `daraz_562523511`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 22,999
 
 ---
 
@@ -17269,6 +17512,16 @@ Non-removable Li-Po Battery
 **Status:** Up Coming  
 **URL:** https://www.startech.com.bd/dji-neo-2-motion-fly-more-combo
 **Price:** Up Coming
+
+---
+
+
+## Intel 12th Gen Core i5-12400F Alder Lake Processor  
+**DocID:** `startech_https://www.startech.com.bd/intel-12th-gen-core-i5-12400f-alder-lake-processor`
+**Source:** StarTech  
+**Category:** processor  
+**URL:** https://www.startech.com.bd/intel-12th-gen-core-i5-12400f-alder-lake-processor
+**Price:** 15,800৳
 
 ---
 
