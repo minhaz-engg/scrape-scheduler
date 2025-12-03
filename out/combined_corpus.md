@@ -4918,6 +4918,42 @@ Core i5-3320M
 ---
 
 
+## Asus VivoBook Go 15 L1504FA (NJ1366) Ryzen 5-7520U 2.80 to 4.30 GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_535829156`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 66,800
+
+---
+
+
+## HP 15s-fq0515TU (A0MW8PA) Intel Celeron N4120 1.10 to 2.60GHz, 8GB, 256GB SSD, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_437810257`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 41,990
+
+---
+
+
+## HP ProBook 440 G10 (843Y5PA) Intel 13th Gen i7-1355U 1.70 to 5.00GHz, 8GB, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_449280616`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 131,000
+
+---
+
+
+## SAMSUNG Galaxy Book4 2024 Business Laptop 15.6" FHD IPS 10-Core Intel 7 150U 16GB LPDDR4 512GB SSD Intel Graphics Wi-Fi 6 Backlit Keyboard Fingerprint Win11 Home  
+**DocID:** `daraz_563429149`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 52,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -7371,6 +7407,51 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 679
+
+---
+
+
+## Fashionable Men’s Premium Cotton Polo Shirt for Men  
+**DocID:** `daraz_538067059`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Stylist Premium Quality Summer Polo Shirt For Men - Stay Stylish And Comfortable This Summer - Round Neck and Perfect Casual Wear - Suitable for All Season  
+**DocID:** `daraz_367143011`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 249
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_526216484`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 249
+
+---
+
+
+## Stylish Premium Quality Summer Drop Shoulder Polo Shirt for Men  
+**DocID:** `daraz_526575457`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 663
+
+---
+
+
+## Ensemble Yourself - Upscale Need - Premium Multicolour Cotton Polo t-Shirt For Men - Sensible - Must Have - Understated Sophistication  
+**DocID:** `daraz_253315222`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
 
 ---
 
@@ -9970,6 +10051,24 @@ Synthetic rubber sole
 ---
 
 
+## Premium Quality Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Low Top Type  
+**DocID:** `daraz_314468660`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 563
+
+---
+
+
+## Sneakers for men white plain lace up trendy model classic shoes. - Shoes For Men  
+**DocID:** `daraz_336015325`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -11757,6 +11856,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 289
+
+---
+
+
+## Ruma Jersey, short sleeve Jersey  
+**DocID:** `daraz_474838070`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Germany World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Long Sleeve - Germany Jersey 2026  
+**DocID:** `daraz_271199952`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Argentina fifa world cup 2025/26 Jersey - Thai Premium Football Jersey For Man - Half sleeve - Argentina Jersey 2025  
+**DocID:** `daraz_417235372`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 380
 
 ---
 
@@ -13738,6 +13864,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 22,999
+
+---
+
+
+## Samsung Galaxy M36  5G &gt; 6-128  
+**DocID:** `daraz_543292518`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 23,699
+
+---
+
+
+## itel A50C | 2GB + 64GB | Dual Camera | Side Fingerprint Sensor  
+**DocID:** `daraz_561785523`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 6,899
+
+---
+
+
+## Infinix GT 30 | 8GB/256GB ROM With Free - Xpower 10 GO 10K mAh Power Bank  
+**DocID:** `daraz_558221834`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 29,800
 
 ---
 
@@ -17522,6 +17675,116 @@ Non-removable Li-Po Battery
 **Category:** processor  
 **URL:** https://www.startech.com.bd/intel-12th-gen-core-i5-12400f-alder-lake-processor
 **Price:** 15,800৳
+
+---
+
+
+## Microsoft Surface Pro Snapdragon X Plus 8 Core 12" Touch Laptop  
+**DocID:** `startech_https://www.startech.com.bd/microsoft-surface-pro-12-inch-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/microsoft-surface-pro-12-inch-laptop
+**Price:** 185,000৳ 195,000৳
+
+---
+
+
+## Lenovo Legion Pro 5 16ADR10 Ryzen 7 8745HX RTX 5060 8GB Graphics 16" WQXGA OLED 165Hz Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-legion-pro-5-16adr10-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-legion-pro-5-16adr10-laptop
+**Price:** 210,000৳
+
+---
+
+
+## Lenovo Legion 5 15AHP10 Ryzen 7 260 RTX 5050 8GB Graphics 15.1" WQXGA OLED Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-legion-5-15ahp10-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-legion-5-15ahp10-laptop
+**Price:** 175,000৳
+
+---
+
+
+## Lenovo Legion 5 15AKP10 Ryzen AI 7 350 RTX 5070 8GB Graphics 15.1" WQXGA OLED Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-legion-5-15akp10-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-legion-5-15akp10-laptop
+**Price:** 230,000৳
+
+---
+
+
+## Lenovo LOQ 15AHP10 Ryzen 7 250 RTX 5050 8GB Graphics 15.6" FHD 144Hz Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-loq-15ahp10-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-loq-15ahp10-laptop
+**Price:** 140,000৳
+
+---
+
+
+## Lenovo Yoga 7 2-in-1 14AKP10 Ryzen AI 5 340 14" WUXGA OLED Touch Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-yoga-7-2-in-1-14akp10-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-yoga-7-2-in-1-14akp10-laptop
+**Price:** 118,000৳
+
+---
+
+
+## Lenovo Yoga 7 2-in-1 14AKP10 Ryzen AI 7 350 14" WUXGA OLED Touch Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-yoga-7-2-in-1-14akp10-ryzen-ai-7-350-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-yoga-7-2-in-1-14akp10-ryzen-ai-7-350-laptop
+**Price:** 140,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 5 14Q8X9 Snapdragon X Plus 14" WUXGA OLED Copilot+ PC Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-5-14q8x9-snapdragon-x-plus-oled-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-5-14q8x9-snapdragon-x-plus-oled-laptop
+**Price:** 113,000৳
+
+---
+
+
+## HKC MB20S1 19.5" 75hz HD Monitor (HDMI+VGA)  
+**DocID:** `startech_https://www.startech.com.bd/hkc-mb20s1-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/hkc-mb20s1-monitor
+**Price:** 8,000৳
+
+---
+
+
+## Zhiyun Smooth 5S 3-Axis Smartphone Handheld Gimbal Combo  
+**DocID:** `startech_https://www.startech.com.bd/zhiyun-smooth-5s-smartphone-gimbal-combo`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/zhiyun-smooth-5s-smartphone-gimbal-combo
+**Price:** 20,500৳ 22,100৳
+
+---
+
+
+## Imou Ranger 2 Pro 3.6mm 3MP Pan & Tilt Wifi Camera  
+**DocID:** `startech_https://www.startech.com.bd/imou-ranger-2-pro-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/imou-ranger-2-pro-wifi-camera
+**Price:** 2,700৳
 
 ---
 
