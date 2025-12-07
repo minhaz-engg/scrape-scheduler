@@ -4954,6 +4954,42 @@ Core i5-3320M
 ---
 
 
+## Chuwi GemiBook XPro 14.1 Inch N100 3.4GHz, 8GB, 256GB, Win11 Laptop  
+**DocID:** `daraz_336008908`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 35,200
+
+---
+
+
+## Dell Vostro 3400 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 1TB HDD, 128GB NVMe, 14 Inch HD Laptop  
+**DocID:** `daraz_308564176`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 50,600
+
+---
+
+
+## Infinix InBook Y2 Plus 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11, 15.6" FHD Laptop  
+**DocID:** `daraz_337003491`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,500
+
+---
+
+
+## HP 250 G9 Intel Core i7-1255U 12th Gen up to 4.7 GHz, 8GB RAM, 512GB SSD, Windows 10, 15.6 Inch IPS FHD Laptop  
+**DocID:** `daraz_322896982`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 84,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -7449,6 +7485,42 @@ Core i5-3320M
 
 ## Ensemble Yourself - Upscale Need - Premium Multicolour Cotton Polo t-Shirt For Men - Sensible - Must Have - Understated Sophistication  
 **DocID:** `daraz_253315222`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
+
+---
+
+
+## 2025 New Men's Casual Fashion Striped Short Sleeved Collar Polo Shirt Breathable and Comfortable Summer Versatile T-shirt  
+**DocID:** `daraz_546091459`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,679
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt For Men  
+**DocID:** `daraz_557133451`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## RL Men's  Small Pony Embroidered Short-Sleeved Polo Shirt  
+**DocID:** `daraz_526191708`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 820
+
+---
+
+
+## Eid Special Polo Shirt For Men,S - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_307427153`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 199
@@ -10069,6 +10141,51 @@ Synthetic rubber sole
 ---
 
 
+## 2024Men Casual Shoes Breathable  Sneakers Fashion Driving Walking Tennis Shoes for Male Skate Flats Sneakers for Men  
+**DocID:** `daraz_410349931`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 250
+
+---
+
+
+## Men Sneakers Shoes Men Loafers Light Walking Breathable Thick Sole Casual Shoes Zapatillas Hombre Vulcanized Shoes Plus Size 46  
+**DocID:** `daraz_547258073`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,507
+
+---
+
+
+## Red Sneakers For Men - Smart and Comfortable Fabrics Shoes - Innovative Remarkable - Disclose Styles & Luxe - Comfortable for All Seasons  
+**DocID:** `daraz_158544121`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 380
+
+---
+
+
+## Comfortable Stylish & Fashionable Canvas Sneakers Shoes For Men Black  
+**DocID:** `daraz_556300191`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 383
+
+---
+
+
+## New Trendy Fashionable Black Grey Blue and Khaki Color Korean Canvas Sneakers Shoes for Men Slip On Casual Shoes  
+**DocID:** `daraz_330842925`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -11883,6 +12000,69 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 380
+
+---
+
+
+## club away jersey 2025/26 half sleeve Thai premium  
+**DocID:** `daraz_464045854`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 389
+
+---
+
+
+## Real Madrid 2024-2025 Third Kit Jersey (Logo Embroidery) Thai premium CLub Football Jersey  
+**DocID:** `daraz_558711055`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 480
+
+---
+
+
+## Real Madrid Jersey 2025/2026 Thai Premium Football Jersey For Man - Half Sleeve T Shirt - Real Madrid Football Jersey 2025  
+**DocID:** `daraz_473920819`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 349
+
+---
+
+
+## B-d Football Jersey - Full sleeve Banglades Fan Jersey for Man - Football Jersey  
+**DocID:** `daraz_269949362`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Inter Milan Jersey 2025/2026 Thai Premium Football Jersey For Men - Half Sleeve Jersey - Inter Milan Football Jersey 2025  
+**DocID:** `daraz_221479035`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## B-D Jersey - Football Short sleeve Jersey for Man - Banglades Fan Jersey  
+**DocID:** `daraz_268131566`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Barcelona new home kit jersey 25/26 full sleeves  
+**DocID:** `daraz_321771624`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
 
 ---
 
@@ -13891,6 +14071,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 29,800
+
+---
+
+
+## itel Power 70 6/128GB | Long Battery with Free Itel Mug  
+**DocID:** `daraz_561782817`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 11,012
 
 ---
 
@@ -17785,6 +17974,36 @@ Non-removable Li-Po Battery
 **Category:** wifi-camera  
 **URL:** https://www.startech.com.bd/imou-ranger-2-pro-wifi-camera
 **Price:** 2,700৳
+
+---
+
+
+## Cudy WR1200 AC1200 Dual Band WiFi Router  
+**DocID:** `startech_https://www.startech.com.bd/cudy-wr1200-ac1200-dual-band-wi-fi-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/cudy-wr1200-ac1200-dual-band-wi-fi-router
+**Price:** 2,166৳ 2,280৳
+
+---
+
+
+## PC Power PCGM22U 21.5" IPS FHD 100Hz Borderless Gaming Monitor  
+**DocID:** `startech_https://www.startech.com.bd/pc-power-pcgm22u-100hz-gaming-monitor `
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/pc-power-pcgm22u-100hz-gaming-monitor 
+**Price:** 11,200৳
+
+---
+
+
+## FEIYU SCORP-Mini P Handheld Stabilizer Kit  
+**DocID:** `startech_https://www.startech.com.bd/feiyu-scorp-mini-p-stabilizer-kit`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/feiyu-scorp-mini-p-stabilizer-kit
+**Price:** 23,900৳ 25,800৳
 
 ---
 
