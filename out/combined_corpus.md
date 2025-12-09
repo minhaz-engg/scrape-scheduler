@@ -4990,6 +4990,33 @@ Core i5-3320M
 ---
 
 
+## ASUS Vivobook 15 X1504ZA-NJ864W 12th Gen Core i3-1215U 8GB RAM 512GB SSD 15.6 FHD Laptop  
+**DocID:** `daraz_415215847`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,600
+
+---
+
+
+## Acer TravelLite TL14-52M 13th Gen Core i5-1335U-1305U 3.4 to 4.6GHz, 8GB DDR4, 512GB SSD, 14 Inch FHD IPS Display Laptop  
+**DocID:** `daraz_525871429`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 87,400
+
+---
+
+
+## Surface Laptop 5 || Intel Core i5 (12th Gen) || 16GB RAM | 256GB SSD  
+**DocID:** `daraz_442709477`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 119,900
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -7521,6 +7548,42 @@ Core i5-3320M
 
 ## Eid Special Polo Shirt For Men,S - Polo T Shirt For Men - Polo T Shirt  
 **DocID:** `daraz_307427153`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
+
+---
+
+
+## Navy Color Premium Quality Polo Shirt - Comfortable to Wear in All Seasons and Occasions  
+**DocID:** `daraz_238426114`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 297
+
+---
+
+
+## Cotton polo T Shirts for men-multi color stripped polo shirt for men - Polo T Shirt  
+**DocID:** `daraz_302594744`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 440
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts  
+**DocID:** `daraz_302629618`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 600
+
+---
+
+
+## premium white Polo with modern stripes, cotton polo  
+**DocID:** `daraz_366050742`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 199
@@ -10186,6 +10249,60 @@ Synthetic rubber sole
 ---
 
 
+## High-Quality Sports Sneakers Men Casual Shoes Fashion Sneakers - Flyknit Lightweight Slip-On Men's - Comfortable All Seasons  
+**DocID:** `daraz_557568155`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 850
+
+---
+
+
+## Mens Fashionable Exclusive Sneakers Converse shoe for Men  
+**DocID:** `daraz_343176979`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 420
+
+---
+
+
+## Running Sneakers White Color Casual Lace-up Shoes Winter and Summer Men's Shoes - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Shoe For Boys  
+**DocID:** `daraz_209829540`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 349
+
+---
+
+
+## New Stylish Fashion Sole Winter Sneakers for Men-Black  
+**DocID:** `daraz_344131830`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 630
+
+---
+
+
+## Running Sneakers Black Color Casual Lace-Up Shoes Winter And Summer Men'S Shoes - Shoe For Boys - Shoes For Men -  - Sneakers For Men - Shoe For Boys - Shoe For Boys - Sneakers  
+**DocID:** `daraz_211206835`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 395
+
+---
+
+
+## New Multi-Color -Hot Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men- Innovative Shoe  
+**DocID:** `daraz_348498864`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 515
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -12063,6 +12180,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 369
+
+---
+
+
+## Portugal Jersey new black Colour Jersey new season  
+**DocID:** `daraz_563735193`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 340
+
+---
+
+
+## Bangladesh National Team Inspired White Jersey for Men  
+**DocID:** `daraz_559155869`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Argentina jersey 3 ⭐  full sleeve 2026 Thai premium  
+**DocID:** `daraz_324444127`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 399
+
+---
+
+
+## Brazil Full Sleeve Jersey 2025/26 Football Jersey For Men - Long Sleeve - Brazil Jersey 2025  
+**DocID:** `daraz_330853891`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
 
 ---
 
@@ -14080,6 +14233,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 11,012
+
+---
+
+
+## Realme 15 | 12GB RAM+256GB ROM | 6.77" AMOLED Display | 1 Year Official Warranty  
+**DocID:** `daraz_557055848`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 40,910
+
+---
+
+
+## Google Pixel 8 (8/128GB) Smartphone  
+**DocID:** `daraz_346212095`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 60,499
+
+---
+
+
+## Tecno Spark 40C(4+128gb) ডিসপ্লে: 6.67'' IPS,120hz, 33w ফাস্ট চার্জিং সহ 6000mAh  
+**DocID:** `daraz_547767721`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 11,899
 
 ---
 
@@ -18004,6 +18184,46 @@ Non-removable Li-Po Battery
 **Category:** gimbal  
 **URL:** https://www.startech.com.bd/feiyu-scorp-mini-p-stabilizer-kit
 **Price:** 23,900৳ 25,800৳
+
+---
+
+
+## AMD Ryzen 3 2200G Quad-Core Processor With Radeon Vega 8 Graphics (Limited stock)  
+**DocID:** `startech_https://www.startech.com.bd/amd-ryzen-3-2200g-processor`
+**Source:** StarTech  
+**Category:** processor  
+**URL:** https://www.startech.com.bd/amd-ryzen-3-2200g-processor
+**Price:** 4,990৳ 5,500৳
+
+---
+
+
+## AMD Ryzen 3 3200G Processor with Radeon RX Vega 8 Graphics  
+**DocID:** `startech_https://www.startech.com.bd/amd-ryzen-3-3200g`
+**Source:** StarTech  
+**Category:** processor  
+**URL:** https://www.startech.com.bd/amd-ryzen-3-3200g
+**Price:** 6,400৳ 7,800৳
+
+---
+
+
+## AMD Ryzen 5 2400G Desktop Processor with Radeon RX Vega 11 Graphics  
+**DocID:** `startech_https://www.startech.com.bd/amd-ryzen-5-2400g-processor`
+**Source:** StarTech  
+**Category:** processor  
+**URL:** https://www.startech.com.bd/amd-ryzen-5-2400g-processor
+**Price:** 6,600৳ 7,200৳
+
+---
+
+
+## OCPC RX 6700 XT 12GB XE GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/ocpc-rx-6700-xt-12gb-xe-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/ocpc-rx-6700-xt-12gb-xe-graphics-card
+**Price:** 40,000৳
 
 ---
 
