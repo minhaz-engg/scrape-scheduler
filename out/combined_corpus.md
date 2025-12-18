@@ -1900,6 +1900,15 @@
 ---
 
 
+## Lenovo IdeaPad Slim 3i 15ITL Intel Core i3 1115G 15.6 Inch FHD Laptop  
+**DocID:** `daraz_214170500`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 65,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -5017,6 +5026,132 @@ Core i5-3320M
 ---
 
 
+## Qbits Rover X2 Intel Core™ i5-12450H (2.0 GHz to 4.40 GHz, 8 cores, 12 threads, 12 MB Intel Smart Cache) with  16GB DDR4 RAM 1TB M.2 NVMe SSD  
+**DocID:** `daraz_413407918`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 67,999
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15IGL05 Intel Celeron N4020 Laptop - 4GB DDR4 RAM - 1TB HDD - Intel UHD Graphics - 15.6-Inch Display #81WQ00Q2IN  
+**DocID:** `daraz_316488437`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 40,310
+
+---
+
+
+## MSI Modern 14 C13M 13th Gen Core i5-1335U 3.4 to 4.6 GHz, 16GB RAM, 512GB SSD, Win 11, 14 FHD Laptop  
+**DocID:** `daraz_316332739`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 99,500
+
+---
+
+
+## HP 15-fd0292TU (A0MW3PA) Intel Core i5-1334U 13th Gen, 1.30 to 4.60 GHz, 8GGB SSD, Windows 11, 15.6 Inch FHD Display Moonlight Blue Laptop  
+**DocID:** `daraz_523105941`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 77,100
+
+---
+
+
+## Lenovo Yoga Slim 7i #82BH00D8IN# 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 1TB SSD, Win10, 14 Inch Laptop  
+**DocID:** `daraz_216233049`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 138,000
+
+---
+
+
+## MSI Modern 14 C13M 13th Gen Core i5-1335U 3.4 to 4.6 GHz, 16GB RAM, 512GB SSD, Win 11, 14 FHD Laptop  
+**DocID:** `daraz_316395180`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 92,550
+
+---
+
+
+## ASUS Vivobook 15 M1502IA-EJ388W Ryzen 5-4600H 8GB RAM 512GB SSD 15.6 FHD Laptop  
+**DocID:** `daraz_340216738`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 76,300
+
+---
+
+
+## (New)[betgo] junglelia laptop  
+**DocID:** `daraz_454871016`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 2,473
+
+---
+
+
+## Apple MacBook Air MGN63 (Late 2020) M1 Chip 2.06-3.8GHz, 8GB, 256GB SSD, 13.3 Inch Retina IPS Laptop  
+**DocID:** `daraz_351909245`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 111,000
+
+---
+
+
+## Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB RAM, 512GB SSD, 14.2 Inch Liquid Retina XDR Laptop (Late 2023)  
+**DocID:** `daraz_352458168`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 220,000
+
+---
+
+
+## Microsoft Surface Go 2 LTE || Intel Core M3 | 8GB | 256GB  
+**DocID:** `daraz_440323972`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,166
+
+---
+
+
+## HP 15s-fq5486TU 12th Gen i3-1215U-1.2 To 4.4 GHz, 4 GB DDR4, 256 GB SSD, Windows 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_265635929`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,999
+
+---
+
+
+## Apple MacBook Pro MRX33 (Late 2023) M3 Pro Chip 2.8 to 4.06GHz, 18GB, 512GB SSD, 14.2 Inch Liquid Retina XDR Laptop  
+**DocID:** `daraz_352503895`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 295,000
+
+---
+
+
+## HP Spectre x360 Convertible 14-ef2027TU Core i7 13th Gen 13.5" Touch Laptop  
+**DocID:** `daraz_491293477`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 188,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -5044,15 +5179,6 @@ Core i5-3320M
 ---
 
 
-## Apple MacBook Air MGN63 (Late 2020) M1 Chip 2.06-3.8GHz, 8GB, 256GB SSD, 13.3 Inch Retina IPS Laptop  
-**DocID:** `daraz_351909245`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 111,000
-
----
-
-
 ## Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB, 512GB SSD, 14.2" Liquid Retina XDR Laptop (Late 2023)  
 **DocID:** `daraz_352454372`
 **Source:** Daraz  
@@ -5076,15 +5202,6 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 25,000
-
----
-
-
-## Apple MacBook Pro MRX33 (Late 2023) M3 Pro Chip 2.8 to 4.06GHz, 18GB, 512GB SSD, 14.2 Inch Liquid Retina XDR Laptop  
-**DocID:** `daraz_352503895`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 295,000
 
 ---
 
@@ -5193,15 +5310,6 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 153,500
-
----
-
-
-## Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB RAM, 512GB SSD, 14.2 Inch Liquid Retina XDR Laptop (Late 2023)  
-**DocID:** `daraz_352458168`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 220,000
 
 ---
 
@@ -7587,6 +7695,69 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 199
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
+**DocID:** `daraz_556785624`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 231
+
+---
+
+
+## SMUG Exclusive Polo shirt Fabric soft and comfortable - Polo T Shirt For Men  
+**DocID:** `daraz_277049439`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 368
+
+---
+
+
+## New Men's Business Casual Short Sleeved Bone Flower Solid Color POLO Shirt Fashion Breathable Comfortable Summer Versatile Top  
+**DocID:** `daraz_546965099`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,366
+
+---
+
+
+## Coffee & White Colour Polo T- Shirt For Men  
+**DocID:** `daraz_318458313`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 170
+
+---
+
+
+## RED Cotton Polo For Men  
+**DocID:** `daraz_104802950`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 338
+
+---
+
+
+## NEW Stylish POLO SHIRT Premium Quality Fashionable For Men  
+**DocID:** `daraz_557130250`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 325
+
+---
+
+
+## Summer Comfortable White color jersey polo t shirt for man - Men's Coller t shirt  
+**DocID:** `daraz_366502132`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 230
 
 ---
 
@@ -10303,6 +10474,42 @@ Synthetic rubber sole
 ---
 
 
+## Trendy Sport SneakersFor Man With High Quality Fabrics And Breathable Outdoor Lightweight Air Mesh Men Shoes  
+**DocID:** `daraz_282270672`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 440
+
+---
+
+
+## Trendy Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes - Shoe For Boys - Shoes For Men -  - Shoe For Boys - Shoe For Boys - Sneakers  
+**DocID:** `daraz_226659587`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 372
+
+---
+
+
+## High-Quality Rubber Sole Shoes for Men - Trendy Sneakers for Fashionable Men - Ideal for All Seasons  
+**DocID:** `daraz_293206388`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 425
+
+---
+
+
+## New Trendy Premium Quality Black Blue And Grey Color CANADIAN Canvas Sneakers Shoes For Men M6060  
+**DocID:** `daraz_546768921`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 431
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -12216,6 +12423,51 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 270
+
+---
+
+
+## Brazil Full Sleeve Football Jersey For Man - Brazil Long Sleeve Jersey - Brazil Jersey 2026  
+**DocID:** `daraz_274225822`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Dhaner Sis Voot Din Short Sleeve Polo Jersey For Men - PK Polo T Shirt- BNP Jersey  
+**DocID:** `daraz_313295895`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 183
+
+---
+
+
+## Yonex Short Sleeve Collar Polo Jersey For Men - Polo T Shirt For Men - Jersey  
+**DocID:** `daraz_271218537`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 289
+
+---
+
+
+## Atletico Madrid Jersey 2025/2026 Thai Premium Football Jersey for Men - Long Sleeve - Atletico Madrid Football Jersey 2025  
+**DocID:** `daraz_275454488`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Portugal Short Sleeve Jersey 2026/27 Foodball Jersey For Men - Half Sleeve - Portugal Jersey 2026  
+**DocID:** `daraz_313519073`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
 
 ---
 
@@ -14264,6 +14516,69 @@ Non-removable Li-Po Battery
 ---
 
 
+## itel City 100 6GB/128ROM | Big Screen, AI Features, Long Battery  
+**DocID:** `daraz_561775799`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 11,426
+
+---
+
+
+## Tecno Spark 40(8+256gb) ডিসপ্লে: 6.67'' IPS LCD ,120hz, 45w ফাস্ট চার্জিং সহ 5200mah  
+**DocID:** `daraz_549007689`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 15,899
+
+---
+
+
+## OPPO A6x 4GB/64GB + Free Gift Cap | Snapdragon 685 | 2 Years Warranty  
+**DocID:** `daraz_565606624`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,570
+
+---
+
+
+## Walton NEXG N26 8GB Rapid Ram and 128GB Rom  
+**DocID:** `daraz_453461514`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,929
+
+---
+
+
+## Infinix Hot 60i (6GB+128GB) Official  
+**DocID:** `daraz_543534164`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,899
+
+---
+
+
+## Infinix Smart 10 4GB/64GB (Official)  
+**DocID:** `daraz_541507521`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,300
+
+---
+
+
+## ZTE V70 (8+128GB)"6.7"IPS LCD, 120Hz ডিসপ্লে,22.5W ফাস্ট চার্জিং সহ 5000mah Battery  
+**DocID:** `daraz_567044861`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 11,499
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -14683,6 +14998,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 19,990
+
+---
+
+
+## OnePlus Pad 3 13.2 Inch 3.4K Display Snapdragon® 8 Elite 16GB+512GB - Storm Blue  
+**DocID:** `daraz_567681880`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 77,880
 
 ---
 
@@ -18224,6 +18548,167 @@ Non-removable Li-Po Battery
 **Category:** graphics-card  
 **URL:** https://www.startech.com.bd/ocpc-rx-6700-xt-12gb-xe-graphics-card
 **Price:** 40,000৳
+
+---
+
+
+## HP 15-fc0626AU Ryzen 3 7320U 15.6" FHD Copilot+PC Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fc0626au-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fc0626au-laptop
+**Price:** 52,000৳ 53,000৳
+
+---
+
+
+## HP 15-fc0618AU Ryzen 5 7520U 15.6" FHD Copilot+PC Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fc0618au-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fc0618au-laptop
+**Price:** 65,000৳ 66,500৳
+
+---
+
+
+## HP 15-fc0619AU Ryzen 5 7520U 15.6" FHD Laptop Copilot+PC  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fc0619au-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fc0619au-laptop
+**Price:** 65,000৳ 66,500৳
+
+---
+
+
+## HP 15-fc0620AU Ryzen 5 7520U 15.6" FHD Copilot+PC Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fc0620au-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fc0620au-laptop
+**Price:** 65,000৳ 66,500৳
+
+---
+
+
+## HP 14-ep0408TU Core i5 13th Gen 14" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-14-ep0408tu-core-i5-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-14-ep0408tu-core-i5-laptop
+**Price:** 75,000৳ 76,500৳
+
+---
+
+
+## HP 15-fd0800TU Core 5 120u 15.6" FHD Copilot+PC Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fd0800tu-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fd0800tu-laptop
+**Price:** 77,000৳ 79,000৳
+
+---
+
+
+## INNO3D GeForce RTX 5060 Ti 16GB X3 OC GDDR7 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/inno3d-geforce-rtx-5060-ti-16gb-x3-oc-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/inno3d-geforce-rtx-5060-ti-16gb-x3-oc-graphics-card
+**Price:** 66,000৳
+
+---
+
+
+## ASUS RT-N12+ 300Mbps Wifi Router  
+**DocID:** `startech_https://www.startech.com.bd/asus-rt-n12-plus-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/asus-rt-n12-plus-router
+**Price:** 2,300৳
+
+---
+
+
+## Tenda AC7 AC1200 Dual-Band Wi-Fi Router  
+**DocID:** `startech_https://www.startech.com.bd/tenda-ac7-ac1200-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/tenda-ac7-ac1200-router
+**Price:** 2,300৳
+
+---
+
+
+## Tenda HG6 N300 Wi-Fi GPON ONT Router  
+**DocID:** `startech_https://www.startech.com.bd/tenda-hg6-n300-wifi-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/tenda-hg6-n300-wifi-router
+**Price:** 2,325৳ 2,400৳
+
+---
+
+
+## AOC 24B36X 24" IPS 144Hz FHD Gaming Monitor  
+**DocID:** `startech_https://www.startech.com.bd/aoc-24b36x-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/aoc-24b36x-monitor
+**Price:** 14,900৳ 15,500৳
+
+---
+
+
+## Gigasonic RB-G19S-300CVH 19 Inch LED WQXGA Monitor  
+**DocID:** `startech_https://www.startech.com.bd/gigasonic-rb-g19s-300cvh-19-inch-wqxga-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**Status:** Out Of Stock  
+**URL:** https://www.startech.com.bd/gigasonic-rb-g19s-300cvh-19-inch-wqxga-monitor
+**Price:** Out Of Stock
+
+---
+
+
+## Gigasonic RB-G195S-300C 19.5" HD LED Monitor  
+**DocID:** `startech_https://www.startech.com.bd/gigasonic-rb-g195s-300c-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/gigasonic-rb-g195s-300c-monitor
+**Price:** 5,900৳
+
+---
+
+
+## DJI RS 3 Pro Gimbal Stabilizer Combo  
+**DocID:** `startech_https://www.startech.com.bd/dji-rs-3-pro-gimbal-stabilizer-combo`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/dji-rs-3-pro-gimbal-stabilizer-combo
+**Price:** 75,000৳
+
+---
+
+
+## SINGER Frameless S43-SLE43G22GOTV 43" 4K Android Google TV  
+**DocID:** `startech_https://www.startech.com.bd/singer-frameless-s43-sle43g22gotv-4k-android-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/singer-frameless-s43-sle43g22gotv-4k-android-tv
+**Price:** 41,500৳ 48,000৳
+
+---
+
+
+## Amazfit GTR 3 Pro Smartwatch  
+**DocID:** `startech_https://www.startech.com.bd/xiaomi-amazfit-gtr-3-pro-smartwatch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/xiaomi-amazfit-gtr-3-pro-smartwatch
+**Price:** 14,999৳ 15,999৳
 
 ---
 
