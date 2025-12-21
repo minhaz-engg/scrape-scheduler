@@ -5278,6 +5278,123 @@ Core i5-3320M
 ---
 
 
+## Acer A315-58 (UN.ADDSI.066) 11th Gen Core i3-1115G4 3 to 4.1GHz, 8GB, 256GB SSD, Win 11, 15 Inch FHD Laptop  
+**DocID:** `daraz_311296482`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 53,800
+
+---
+
+
+## Asus VivoBook Go 15 E1504GA (NJ231) Intel 13th Gen Core i3-N305 1.8 to 3.80 GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_540109008`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 55,200
+
+---
+
+
+## Huawei MateBook D15 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 256GB SSD, Fingerprint, 15.6" FHD IPS Laptop  
+**DocID:** `daraz_317661287`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,350
+
+---
+
+
+## HP 15s-du3786TU 11th Gen i3-1115G4, 4GB, 1TB HDD, 15.6Inch FHD Laptop  
+**DocID:** `daraz_214174583`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,000
+
+---
+
+
+## Lenovo ThinkPad X1 Carbon G9 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 512GB SSD, Iris Graphics, 14 Inch WUXGA Laptop (20XXS89Y00-3Y)  
+**DocID:** `daraz_312251246`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 246,500
+
+---
+
+
+## Lenovo IP Slim 5i #82FE00UBIN# 11th Gen i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB, MX450 2GB, Win10, 14FHD Laptop  
+**DocID:** `daraz_206859548`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 87,300
+
+---
+
+
+## ASUS Vivobook 15 M1502IA-EJ388W AMD Ryzen 5-4600H 8GB RAM 512GB SSD 15.6 Inch FHD Laptop  
+**DocID:** `daraz_350665378`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 76,500
+
+---
+
+
+## Lenovo IP 5 Pro (82L700HNIN-3Y) AMD Ryzen 7 5800U 1.9 to 4.4GHz, 16GB, 512GB SSD, Win11H, 14Inch 2.2K Laptop  
+**DocID:** `daraz_226041214`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 105,700
+
+---
+
+
+## MSI Modern 15 B12M-041BD-BB71255U16GXXDX11EMH 12th Gen i7-1255U 3.5 to 4.7GHz, 16GB RAM, 512GB SSD, Windows 11 Home, 15.6 Inch FHD IPS Laptop  
+**DocID:** `daraz_322383726`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 104,200
+
+---
+
+
+## Lenovo IdeaPad Flex 5i 14ITL (82HS0132IN 3Y) 11th Gen i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, Win11H, 14 FHD Touch Laptop  
+**DocID:** `daraz_252649930`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 105,000
+
+---
+
+
+## HP Envy 13-ba1790TU 11th Gen i7-1165G7 2.8 To 4.7GHz, 16GB, 512GB SSD, Win11 Home, 13.3" FHD Laptop  
+**DocID:** `daraz_233776372`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 124,000
+
+---
+
+
+## Hp ProBook 640 G5 Non Touch  
+**DocID:** `daraz_567624747`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 26,000
+
+---
+
+
+## ASUS ExpertBook B5 Flip B5302FEA Core-i5 11th Gen Laptop - 8GB DDR4 RAM - 512GB M.2 NVMe SSD - Intel Iris Xe Graphics - 13.3-inch Touch & Flip OLED Display - Star Black #B5302FEA-LF1125  
+**DocID:** `daraz_294637904`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 128,360
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -8028,6 +8145,33 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 499
+
+---
+
+
+## Classic Pique Cotton Polo Shirt for Men  
+**DocID:** `daraz_346994697`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Premium China Polo Shirt Triangle Pattern For Men- polo shirt  
+**DocID:** `daraz_409207193`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 499
+
+---
+
+
+## sports polo tshirt for summer  
+**DocID:** `daraz_367347335`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
 
 ---
 
@@ -10843,6 +10987,33 @@ Synthetic rubber sole
 ---
 
 
+## HOBIBEAR Barefoot Wide Toe Sneakers Unisex Zero Drop Minimalist Canvas Shoes Non Slip Lace Up Walking Sneaker  
+**DocID:** `daraz_546042705`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 5,016
+
+---
+
+
+## New fashionable shoes for men  
+**DocID:** `daraz_511702231`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 299
+
+---
+
+
+## New Lambor Ghini Sneaker Men Casual Shoes - Sneakers For Men - Shoe For Boys  
+**DocID:** `daraz_244878066`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 500
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -12864,6 +13035,51 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 270
+
+---
+
+
+## PSG Football Jersey - Black And White  
+**DocID:** `daraz_260532324`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 199
+
+---
+
+
+## RONALDO 7 Jersey 2025/2026 Thai Premium Football Jersey For Man - Short Sleeve - Al-Nassr Jersey 2025  
+**DocID:** `daraz_269034922`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 400
+
+---
+
+
+## Manchester United 2007-2009 Home Jersey (Retro) Logo Embroidery Thai premium CLub Football Jersey  
+**DocID:** `daraz_563057329`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 396
+
+---
+
+
+## Bercolona Full Sleeve ( Logo Embroidery) Thai premium CLub Football Jersey  
+**DocID:** `daraz_563027940`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 352
+
+---
+
+
+## Bashundhara Kings Short Sleeve Football Jersey for Men - Half Sleeve T Shirt - Bashundhara Jersey 2025/26  
+**DocID:** `daraz_272093219`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 250
 
 ---
 
@@ -15155,6 +15371,51 @@ Non-removable Li-Po Battery
 ---
 
 
+## Realme 15T 5G (8GB/256GB) - Official  
+**DocID:** `daraz_564483249`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 32,899
+
+---
+
+
+## Honor X6c(6+128gb) ডিসপ্লে: 6.61''TFT LCD, 120Hz,35W ফাস্ট চার্জিং সহ 5300mah Battery  
+**DocID:** `daraz_551119086`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,999
+
+---
+
+
+## Infinix Smart 10 Plus 4GB/128GB (Official)  
+**DocID:** `daraz_541498796`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 11,380
+
+---
+
+
+## Xaiomi Redmi 15C (8+ 256gb) ডিসপ্লে: 6.9'' IPS,120hz, 33w ফাস্ট চার্জিং সহ 6000mAh  
+**DocID:** `daraz_546176375`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,999
+
+---
+
+
+## Realme C85 | 8/128GB | 6.8" Display | 1 year Official Warranty  
+**DocID:** `daraz_567511499`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 19,554
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -15583,6 +15844,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 77,880
+
+---
+
+
+## Black Shark Pad 7 4G (8GB/128GB)  
+**DocID:** `daraz_564707570`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 23,999
+
+---
+
+
+## Black Shark Pad 7 WiFi (6GB/128GB)  
+**DocID:** `daraz_557166668`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 21,999
 
 ---
 
@@ -19295,6 +19574,16 @@ Non-removable Li-Po Battery
 **Category:** laptop  
 **URL:** https://www.startech.com.bd/hp-15-fr0067tu-laptop
 **Price:** 76,000৳ 78,000৳
+
+---
+
+
+## ASUS PRIME H510M-F R3.0 LGA1200 Micro-ATX Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/asus-prime-h510m-f-r3-0-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/asus-prime-h510m-f-r3-0-motherboard
+**Price:** 9,650৳ 10,200৳
 
 ---
 
