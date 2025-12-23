@@ -5395,6 +5395,96 @@ Core i5-3320M
 ---
 
 
+## Acer Extensa 15 EX215-54-57SB 11th Gen i5-1135G7 2.4 to 4.2GHz, 8GB, 1TB, Win 11 Home, 15.6 FHD Laptop  
+**DocID:** `daraz_239855857`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,000
+
+---
+
+
+## MSI Modern 14 C11M 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 512GB SSD, Windows 11 Home, 14" FHD IPS Laptop  
+**DocID:** `daraz_314253370`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 65,000
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15IAH8 (83ER00DGLK) Intel Core i5-12450H 3.3 to 4.4GHZ, 16GB, 512GB SSD, 15.6" FHD Laptop  
+**DocID:** `daraz_521756676`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,100
+
+---
+
+
+## Dell Inspiron 15 3520 Core i3 1215U 12th Gen 3.3 to 4.4GHz, 8GB , 512GB SSD, Win 11, 15.6" FHD Laptop  
+**DocID:** `daraz_325743669`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,500
+
+---
+
+
+## MSI Modern 14 B11SB 11th Gen i5-1135G7 2.4 to 4.2GHz, 8GB, 1TB SSD, MX450 2GB Graphics, 14 FHD Laptop (Beige Mousse)  
+**DocID:** `daraz_248049132`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 92,000
+
+---
+
+
+## Infinix InBook Y2 Plus 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11, 15.6 Inch FHD IPS Laptop  
+**DocID:** `daraz_337003483`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,000
+
+---
+
+
+## HP 15S-DU3024TU Intel Core i5-1135G7 2.40 To 4.20 GHz, 8GB RAM, 1TB HDD, 15.6'' FHD Display  
+**DocID:** `daraz_212485231`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 68,500
+
+---
+
+
+## Apple MacBook pro  
+**DocID:** `daraz_537757633`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 25,000
+
+---
+
+
+## [QuantaBD]HP 15s-fq5786TU Core i3 12th Gen 15.6" FHD Laptop  
+**DocID:** `daraz_325507754`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 69,980
+
+---
+
+
+## ASUS Vivobook Go 15 L1504FA-NJ1509 Ryzen 5 7520U 8GB RAM 512GB RAM 15.6-inch FHD Laptop  
+**DocID:** `daraz_535978804`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,540
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -5436,15 +5526,6 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 111,000
-
----
-
-
-## Apple MacBook pro  
-**DocID:** `daraz_537757633`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 25,000
 
 ---
 
@@ -8172,6 +8253,60 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 350
+
+---
+
+
+## Stylish and Fashionable Premium Quality White Color Soft and Comfortable Cotton Pk Polo T-Shirts for Mens with White and Black Contrast  
+**DocID:** `daraz_247022776`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 159
+
+---
+
+
+## Versatile -Five Star Brazil Pink Color Polo White T-Shirt For Men Stylist New Premium Quality By RKS Mega Mall- Avant-garde  
+**DocID:** `daraz_314752092`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
+
+---
+
+
+## Cotton  Polo T-Shirt For Men - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_301892877`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 419
+
+---
+
+
+## GoodMan Premium Quality Black Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_525260474`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 699
+
+---
+
+
+## Open 65 Cotton Polo T-Shirt For Men - Polo T Shirt For Men - Polo T Shirt - Comfortable and Suitable for All Seasons and Occasions  
+**DocID:** `daraz_137792593`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 265
+
+---
+
+
+## New Men's T-shirt Classic Short sleeved Polo Shirt Summer Top Casual T-shirt Button Lapel Super Large S-3XL Casual Polo Shirt  
+**DocID:** `daraz_546041521`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,247
 
 ---
 
@@ -11014,6 +11149,24 @@ Synthetic rubber sole
 ---
 
 
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_565939174`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 342
+
+---
+
+
+## White Color Running Sneakers Perfect for All Seasons - Very Comfortable and Easy to Clean - Low Top Sneaker Power  
+**DocID:** `daraz_209458708`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 401
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -13080,6 +13233,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 250
+
+---
+
+
+## Brazil World Cup Jersey 2026/2027 Thai Premium Football Jersey For Men - Long Sleeve - Brazil Jersey 2026  
+**DocID:** `daraz_541351878`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 389
+
+---
+
+
+## Ronaldo 7 Full Sleeve 2025/2026 Thai Premium Football Jersey For Man - Long Sleeve - Al Nassr Jersey 2025/26  
+**DocID:** `daraz_331967762`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 420
+
+---
+
+
+## Bashundhara Kings Short Sleeve Jersey 2026/27 Football Jersey for Men - Half Sleeve T Shirt - Bashundhara Jersey 2026  
+**DocID:** `daraz_272081408`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
 
 ---
 
@@ -15412,6 +15592,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 19,554
+
+---
+
+
+## Bakeey Hard PC Ultra Thin Back Cover Case For 4 / 4X 4G RAM +64G ROM - Matte black  
+**DocID:** `daraz_170178161`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 809
+
+---
+
+
+## Samsung Galaxy A07 6/128GB|6.5" HD+ Display  
+**DocID:** `daraz_563845693`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,098
+
+---
+
+
+## vivo Y29 8/256GB + Free RIRO B10 Neckband | Snapdragon 685 Processor | Official  
+**DocID:** `daraz_562401317`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,999
 
 ---
 
@@ -19584,6 +19791,76 @@ Non-removable Li-Po Battery
 **Category:** motherboard  
 **URL:** https://www.startech.com.bd/asus-prime-h510m-f-r3-0-motherboard
 **Price:** 9,650৳ 10,200৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15AMN8 Ryzen 3 7320U 15.6" FHD IPS Laptop Arctic Grey  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15amn8-laptop-arctic-grey`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15amn8-laptop-arctic-grey
+**Price:** 51,500৳
+
+---
+
+
+## Intel 10th Gen Core i5-10400F Processor  
+**DocID:** `startech_https://www.startech.com.bd/intel-core-i5-10400f-processor`
+**Source:** StarTech  
+**Category:** processor  
+**URL:** https://www.startech.com.bd/intel-core-i5-10400f-processor
+**Price:** 9,900৳ 10,500৳
+
+---
+
+
+## Colorful BATTLE-AX B450M-T M.2 V14 AM4 mATX Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/colorful-battle-ax-b450m-t-m-2-v14-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/colorful-battle-ax-b450m-t-m-2-v14-motherboard
+**Price:** 8,000৳
+
+---
+
+
+## Jovision JVS-H410A 4MP Pan/Tilt Wifi IP Camera  
+**DocID:** `startech_https://www.startech.com.bd/jovision-jvs-h410a-4mp-ip-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/jovision-jvs-h410a-4mp-ip-camera
+**Price:** 2,500৳
+
+---
+
+
+## EZVIZ TY1 Pro 3K 5MP WiFi Smart Dome IP Camera  
+**DocID:** `startech_https://www.startech.com.bd/ezviz-ty1-pro-3k-ip-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/ezviz-ty1-pro-3k-ip-camera
+**Price:** 3,100৳ 3,200৳
+
+---
+
+
+## Xiaomi Mi C200 360° 1080P Home Security Smart Camera  
+**DocID:** `startech_https://www.startech.com.bd/xiaomi-c200-1080p-smart-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/xiaomi-c200-1080p-smart-camera
+**Price:** 3,300৳
+
+---
+
+
+## Awei H25 Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/awei-h25-smartwatch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/awei-h25-smartwatch
+**Price:** 2,250৳ 2,390৳
 
 ---
 
