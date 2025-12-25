@@ -5485,6 +5485,51 @@ Core i5-3320M
 ---
 
 
+## Acer Aspire 3 A315-59-390P (NX.K6TSI.00A) 12th Gen i3-1215U 3.3 to 4.4GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_322844123`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,900
+
+---
+
+
+## Lenovo IdeaPad 3i (7) (82RK0152IN) (CON) 12th Gen Core-i3 16GB RAM 512GB SSD 15.6" FHD Display Laptop  
+**DocID:** `daraz_535989790`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,760
+
+---
+
+
+## Lenovo IdeaPad Slim 3i (82H803UCIN) 11th Gen i7-1165G7 2.8 to 4.7GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_354923895`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 92,000
+
+---
+
+
+## Chuwi GemiBook XPro 14.1 Inch N100 3.4GHz, 8GB, 256GB, Win11 Laptop  
+**DocID:** `daraz_336007166`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 38,500
+
+---
+
+
+## HP EliteBook 840 G3 Core i5 6th Gen 8GB RAM 256GB SSD 14” FHD Display (Foreign Used)  
+**DocID:** `daraz_328757811`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 26,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -8307,6 +8352,15 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 1,247
+
+---
+
+
+## Premium Edition New Polo Shirt - Comfortable to Wear | Perfect for a Stylish Look - All Season  
+**DocID:** `daraz_200502330`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 370
 
 ---
 
@@ -11167,6 +11221,15 @@ Synthetic rubber sole
 ---
 
 
+## Sneakers Men Casual Shoes Men Fashion Sneakers Light Weight - Unleash Trendsetting Comfort  
+**DocID:** `daraz_557560705`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 850
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -13260,6 +13323,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 260
+
+---
+
+
+## B-D Jersey 2026/2027 Thai Premium Football Jersey For Men - Long Sleeve - Bangladesh Fan Jersey 2026  
+**DocID:** `daraz_549553012`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 389
 
 ---
 
@@ -15619,6 +15691,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 21,999
+
+---
+
+
+## vivo Y19s Pro (6+128GB)  
+**DocID:** `daraz_525108177`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,499
+
+---
+
+
+## Infinix GT30 Pro (Without Gaming KIT) 12GB/256GB (Official)  
+**DocID:** `daraz_541502781`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 39,590
+
+---
+
+
+## Redmi 15C [6/128GB] Official  
+**DocID:** `daraz_546755886`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 15,799
+
+---
+
+
+## Realme C85 Pro (8+256GB), 6.8"AMOLED,120Hzডিসপ্লে,45W ফাস্ট চার্জিং সহ 7000mah Battery  
+**DocID:** `daraz_568462912`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 24,899
+
+---
+
+
+## Honor X8c [8/512GB] Official  
+**DocID:** `daraz_534674895`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 30,499
 
 ---
 
@@ -19861,6 +19978,16 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/awei-h25-smartwatch
 **Price:** 2,250৳ 2,390৳
+
+---
+
+
+## MSI Thin A15 B7VE Ryzen 7 7735HS RTX 4050 6GB GDDR6 Graphics 15.6" FHD Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/msi-thin-a15-b7ve-ryzen-7-7735hs-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-thin-a15-b7ve-ryzen-7-7735hs-laptop
+**Price:** 135,000৳
 
 ---
 
