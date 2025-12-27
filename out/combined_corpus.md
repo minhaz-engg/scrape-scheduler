@@ -5530,6 +5530,51 @@ Core i5-3320M
 ---
 
 
+## RedmiBook 14(2025) i5-13420H 16GB/512GB FHD+ 14inch 2.2K 120Hz Screen  
+**DocID:** `daraz_567687043`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,000
+
+---
+
+
+## Asus Vivobook 15 OLED A1505VA (L1944W) Intel 13th Gen Core i5-13420H, 1.50 GHz to 4.60 GHz, 16GB, 512GB SSD, Win 11, 15.6 Inch FHD OLED Display  
+**DocID:** `daraz_560829097`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 90,000
+
+---
+
+
+## Realme Book 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 512GB SSD, Win 10 Home, 14 Inch 2K IPS Laptop  
+**DocID:** `daraz_313986473`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,800
+
+---
+
+
+## Asus Vivobook 15 OLED (M1505YA-L1238) – AMD Ryzen 7 7730U, 16 GB DDR4 RAM, 512 GB SSD, AMD Radeon Graphics, 15.6″ FHD OLED Display, Windows 11  
+**DocID:** `daraz_537115499`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 92,030
+
+---
+
+
+## HP 15s-eq2618AU (7K1K4PA) AMD Ryzen 3-5300U 2.6 to 3.8GHz, 8GB, 512GB SSD, Windows 11, 15.6" HD Laptop  
+**DocID:** `daraz_324344081`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -8361,6 +8406,42 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 370
+
+---
+
+
+## Trendy quality cotton polo t shirt for men-Polo T shirt  
+**DocID:** `daraz_346024721`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men  
+**DocID:** `daraz_255612475`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Fashionable Cotton Polo T-Shirts For Men - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_259654000`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 285
+
+---
+
+
+## Men’s Premium Cotton Polo Shirt - Smart Look & Long-Lasting Comfort  
+**DocID:** `daraz_537885411`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 499
 
 ---
 
@@ -11230,6 +11311,42 @@ Synthetic rubber sole
 ---
 
 
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_565931421`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 342
+
+---
+
+
+## New Collection Better Choice: Stylish And Fashionable Exclusive Sneakers Converse for Men - Elevate Your Style  
+**DocID:** `daraz_221476957`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 495
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_565938193`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 342
+
+---
+
+
+## China Shoes for boys. Dj case shoes for men high quality & comfortable use soft.  
+**DocID:** `daraz_290229222`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 484
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -13332,6 +13449,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 389
+
+---
+
+
+## Real Madrid FC Jersey  Combo - Player Edition Jersey - Real Madrid FC RMA Football Club - Home/Away Kit - Special Fan Version Club Jersey 2025/26 - Thai Fabrics - Short Sleeve - New Football Jersey - UEFA Champions League 2026 Design - Premium  
+**DocID:** `daraz_210937043`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 419
+
+---
+
+
+## Argentina Home Player Verson Football Jersey imported From Colombo Qatar World Cup 2022 FIFA Official Jersy Tshirt For Men Premium  
+**DocID:** `daraz_213303395`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 428
 
 ---
 
@@ -15736,6 +15871,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 30,499
+
+---
+
+
+## realme C85 Pro 8GB/256GB | Official  
+**DocID:** `daraz_561223318`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 23,235
+
+---
+
+
+## Samsung Galaxy A06 4/128GB|6.5" HD+ Display  
+**DocID:** `daraz_563813035`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,564
+
+---
+
+
+## Samsung Galaxy A07 4/64GB|6.5" HD+ Display  
+**DocID:** `daraz_563818818`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,635
 
 ---
 
