@@ -1909,6 +1909,69 @@
 ---
 
 
+## Lenovo T14s-Processor: Intel Core i5-1145G7 (8MB Cache, 2.6GHz) RAM: 16GB LPDDR4x-SDRAM Storage: 512GB SSD  
+**DocID:** `daraz_568658894`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 47,000
+
+---
+
+
+## Dell G15 Gaming Laptop, (Ryzen 5 5600H/ 16GB/ 512GB SSD/ Win11/ 4GB Graphics  
+**DocID:** `daraz_568642563`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 81,000
+
+---
+
+
+## Msi 16p8 Gaming Laptop Intel i5-13th gen GeForce Rtx 3050/16/512  
+**DocID:** `daraz_568632165`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 87,500
+
+---
+
+
+## Acer Nitro 5 AN515-45-R92M Gaming, AMD Ryzen 7 5800H (8-Core) | NVIDIA GeForce RTX 3050 Laptop GPU |15.6" FHD 144Hz IPS Display | 16GB DDR4 | 512GB NVMe SSD | WiFi 6 | RGB Backlit Keyboard  
+**DocID:** `daraz_568628841`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 81,000
+
+---
+
+
+## HP Victus Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/6 GB Graphics/NVIDIA GeForce RTX 3050/144 Hz)  
+**DocID:** `daraz_568626193`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 87,000
+
+---
+
+
+## ASUS TUF A15 Gaming Laptop: 15.6” Full HD 144Hz Display, GeForce RTX 2050, AMD Ryzen 7 6435HS, 8GB DDR5 RAM, 512GB PCIe SSD, Wi-Fi 6, Windows 11  
+**DocID:** `daraz_568617737`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 81,000
+
+---
+
+
+## Lenovo LOQ 15.6” FHD 144Hz Display Gaming Laptop ( Ryzen 5 7235HS, 12GB, 512GB SSD, RTX3050 6GB, W11 )  
+**DocID:** `daraz_568617713`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 87,500
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -5575,6 +5638,42 @@ Core i5-3320M
 ---
 
 
+## Dell Inspiron 15 3520 Core i3 1215U 12th Gen  4.4GHz, 8GB , 512GB SSD, Win 11, 15.6" FHD Display Laptop with Jacket "only Winter Offer"  
+**DocID:** `daraz_325732007`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 58,500
+
+---
+
+
+## Lenovo V14 (82KA00LFIN) 11th Gen Core i3-1115G4 3 to 4.1GHz, 4GB, 1TB HDD, 14 HD Laptop  
+**DocID:** `daraz_261338423`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 51,300
+
+---
+
+
+## Walton Prelude N41 Pro Celeron Intel Gemini Lake Quad-Core 1.10 GHz up to 2.60 GHz, 8GB DDR4, 256GB SSD, 14.1 Inch FHD Laptop  
+**DocID:** `daraz_539135959`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 26,900
+
+---
+
+
+## HP 15-fc0239AU (A33T3PA) AMD Athlon Silver 7120U 2.4 to 3.5GHz, 8GB LPDDR5, 256GB SSD, Windows 11, 15.6 Inch FHD Display Laptop  
+**DocID:** `daraz_530508062`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,699
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -5778,6 +5877,33 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 29,000
+
+---
+
+
+## Apple MacBook Pro (16-inch, 32GB RAM, 512GB Storage, 2.6GHz Intel Core i7) - Space Gray 2019  
+**DocID:** `daraz_569238245`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 95,000
+
+---
+
+
+## 2019 Apple MacBook Pro (16-inch, 32GB RAM, 512GB Storage, 2.6GHz Intel Core i7) - Space Gray  
+**DocID:** `daraz_568743293`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 95,000
+
+---
+
+
+## MacBook Pro M3 Pro 14-Inch 8/1tb 11 Core CPU 14 Core GPU  
+**DocID:** `daraz_568735803`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 175,000
 
 ---
 
@@ -8442,6 +8568,33 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 499
+
+---
+
+
+## Men's Black Stand-up Collar Polo T-shirt Half Sleeve T-shirt Regular Fit T-shirt  
+**DocID:** `daraz_428930403`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 220
+
+---
+
+
+## Polo Crocodile Men's Custom  Fit Embroidered Polo Shirt  
+**DocID:** `daraz_301961150`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 820
+
+---
+
+
+## Men's Short Sleeve Elegance Polo T-Shirt From Levin  
+**DocID:** `daraz_538517994`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 649
 
 ---
 
@@ -11347,6 +11500,24 @@ Synthetic rubber sole
 ---
 
 
+## MARVEL FASHIONS Weneter full shoe Stylish Black And Blue Color Winter Canvas Sneakers for Men  
+**DocID:** `daraz_491663382`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 299
+
+---
+
+
+## Trendy Sports Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes  
+**DocID:** `daraz_228568596`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 284
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -13467,6 +13638,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 428
+
+---
+
+
+## Argentina World Cup Thai Premium Football Jersey for Men - Argentina Football Jersey 2025  
+**DocID:** `daraz_273623969`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Bashundhara Kings New Football Half Sleeve Jersey For Man 2024  
+**DocID:** `daraz_314081851`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 265
 
 ---
 
@@ -15898,6 +16087,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 13,635
+
+---
+
+
+## Motorola Edge 60 Fusion 5G (12+256GB)6.67Inches DIsplay , 5500 mAh - Battery charging  
+**DocID:** `daraz_529960331`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 34,499
+
+---
+
+
+## Galaxy A17 5G [6/128GB] Official  
+**DocID:** `daraz_557591897`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 27,599
+
+---
+
+
+## iPhone 17 Global (1 Year Apple International Warranty)  
+**DocID:** `daraz_556363417`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 130,499
 
 ---
 
@@ -20150,6 +20366,16 @@ Non-removable Li-Po Battery
 **Category:** laptop  
 **URL:** https://www.startech.com.bd/msi-thin-a15-b7ve-ryzen-7-7735hs-laptop
 **Price:** 135,000৳
+
+---
+
+
+## Imou Bullet 2E 3MP Outdoor WiFi IP Camera  
+**DocID:** `startech_https://www.startech.com.bd/imou-ipc-k3dp-3h0wf-3mp-wi-fi-ip-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/imou-ipc-k3dp-3h0wf-3mp-wi-fi-ip-camera
+**Price:** 3,400৳
 
 ---
 
