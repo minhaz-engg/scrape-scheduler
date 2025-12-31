@@ -5674,6 +5674,51 @@ Core i5-3320M
 ---
 
 
+## HP 250 G9 12th Gen Core i3-1215U 3.3 to 4.4GHz, 8GB RAM, 256GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_327342224`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,000
+
+---
+
+
+## Lenovo IP Slim 3i (82H802MXIN) 11th Gen Core i3-1115G4 3 to 4.1GHz, 8GB, 512GB SSD, Win 11 Home, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_312900617`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,300
+
+---
+
+
+## Huawei MateBook D16  
+**DocID:** `daraz_530771333`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 80,000
+
+---
+
+
+## [QuantaBD] Vivobook E210MA Celeron N4020 11.6" HD Laptop  
+**DocID:** `daraz_325893166`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 39,050
+
+---
+
+
+## HP 14s-dq5345TU Intel 12th Gen Core i3-1215U-1.2 To 4.4 GHz, 8GB DDR4, 512 GB SSD, Windows 11, 14 Inch FHD IPS LED Laptop  
+**DocID:** `daraz_265594049`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 69,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -8599,6 +8644,78 @@ Core i5-3320M
 ---
 
 
+## Cotton half sleeve polo shirts for men-multicolor polo shirts - Polo T Shirt For Men  
+**DocID:** `daraz_302002998`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 440
+
+---
+
+
+## Men'S Custom Slim Fit Pony Embroidered Short-Sleeved Polo Shirt- Black  
+**DocID:** `daraz_290943556`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 820
+
+---
+
+
+## premium Quality polo shirt For men's  
+**DocID:** `daraz_343879614`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 229
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_524416809`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
+
+---
+
+
+## SMUG Exclusive Polo Shirt - Fabric soft and comfortable  
+**DocID:** `daraz_277052301`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
+
+---
+
+
+## Best quality smart polo shirt for men-Dynamic Style  
+**DocID:** `daraz_302015379`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 270
+
+---
+
+
+## PoloWala Men’s Green Cotton Polo Shirt – Soft, Stylish & Comfortable  
+**DocID:** `daraz_561122460`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 450
+
+---
+
+
+## Ritzy New Design Gentleman Baby Sky Polo T-Shirt for Men - Elevate Your Style with this Exclusive Collection  
+**DocID:** `daraz_323354964`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 488
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -11518,6 +11635,24 @@ Synthetic rubber sole
 ---
 
 
+## Trendy Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes - Shoes - Shoes For Men - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Shoe For Boys  
+**DocID:** `daraz_222289254`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 390
+
+---
+
+
+## High-Quality Rubber Sole Shoes for Men: Classic Black Elegance - Shoe For Boys  
+**DocID:** `daraz_367051625`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 395
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -13656,6 +13791,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 265
+
+---
+
+
+## AC Milan 2007-2008 Season Third Kit (Retro) Full Sleeve (Logo Embroidery) Club Football Jersey  
+**DocID:** `daraz_563047615`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 396
+
+---
+
+
+## Portugal away Jersey half sleeve 2024 premium  
+**DocID:** `daraz_419010590`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 459
+
+---
+
+
+## Argentina World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Long Sleeve - Argentina Jersey 2026  
+**DocID:** `daraz_247351944`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 380
 
 ---
 
@@ -16114,6 +16276,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 130,499
+
+---
+
+
+## M Horse m 16 pro max স্মার্টফোন 6 GB Ram 1 year Warrenty  
+**DocID:** `daraz_546867550`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 9,490
+
+---
+
+
+## Oppo A6 8GB/128GB + Free Exclusive Winter Hoodie | 2 Years Warranty  
+**DocID:** `daraz_565934654`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 24,665
 
 ---
 
@@ -20376,6 +20556,16 @@ Non-removable Li-Po Battery
 **Category:** wifi-camera  
 **URL:** https://www.startech.com.bd/imou-ipc-k3dp-3h0wf-3mp-wi-fi-ip-camera
 **Price:** 3,400৳
+
+---
+
+
+## DJI Flip Drone Fly More Combo  
+**DocID:** `startech_https://www.startech.com.bd/dji-flip-drone-fly-more-combo`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-flip-drone-fly-more-combo
+**Price:** 79,000৳ 91,400৳
 
 ---
 
