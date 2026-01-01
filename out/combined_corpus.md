@@ -1972,6 +1972,15 @@
 ---
 
 
+## Zed Air X2 Quad Core 13.3 FHD Gaming Laptop  
+**DocID:** `daraz_127385232`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 55,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -5719,6 +5728,24 @@ Core i5-3320M
 ---
 
 
+## ASUS VivoBook 15 X515EA-BQ2313W 11th Gen Core i5-1135G7 4GB RAM 1TB HDD 15.6" FHD Laptop  
+**DocID:** `daraz_278437036`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 77,300
+
+---
+
+
+## Lenovo IdeaPad Slim 5i 14IMH9 (83DA008BLK) Intel Core Ultra 5 125H 16GB RAM 512GB SSD 14.0-inch OLED Laptop  
+**DocID:** `daraz_537123446`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 113,740
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -8716,6 +8743,42 @@ Core i5-3320M
 ---
 
 
+## polo shirt for men - sports polo t shirt combo pack  
+**DocID:** `daraz_547745798`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 690
+
+---
+
+
+## Ralph Lauren Cable-Knit Cotton Polo Sweater – Grey  
+**DocID:** `daraz_551310552`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,190
+
+---
+
+
+## Cotton Polo T-Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_265668830`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 160
+
+---
+
+
+## GoodMan Premium Quality Beige Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_541563187`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 649
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -11653,6 +11716,51 @@ Synthetic rubber sole
 ---
 
 
+## Trendy Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes  
+**DocID:** `daraz_329478651`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 415
+
+---
+
+
+## Red tape New Best Collection 2025 Comfortable Stylish & Fashionable Sports Look, Sneaker For Men - Perfect For Any Occasion  
+**DocID:** `daraz_537162583`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,399
+
+---
+
+
+## New Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers  
+**DocID:** `daraz_197391434`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 353
+
+---
+
+
+## High Qulaity Sports' Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men  
+**DocID:** `daraz_326052457`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 493
+
+---
+
+
+## Mens Fashionable Exclusive Sneakers Converse for Men  
+**DocID:** `daraz_279835627`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 480
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -13818,6 +13926,78 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 380
+
+---
+
+
+## Barcelona Thai Premium Football Jersey For Men - Half Sleeve Jersey - Barcelona Jersey 2025  
+**DocID:** `daraz_528754638`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 368
+
+---
+
+
+## Germany World Cup Football Jersey For Men - Long Sleeve T Shirt - Germany Football Jersey 2025-2026  
+**DocID:** `daraz_472376595`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 280
+
+---
+
+
+## Manchester City Jersey 2025/26 - Full Sleeve Thai Premium Football Jersey for Men - Long Sleeve - Manchester City Jersey  
+**DocID:** `daraz_325146369`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Argentina World CUP Jersey 2026/27 Thai Premium Football Jersey For Men - Half Sleeve - Argentina Jersey 2026  
+**DocID:** `daraz_563981761`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 334
+
+---
+
+
+## Real Madrid AWAY 24/25 Set  (JERSEY AND SHORTS)  
+**DocID:** `daraz_319472582`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 565
+
+---
+
+
+## Manchester City Jersey 2025/2026 Thai Premium Football Jersey For Men - Manchester City Football Jersey 2025  
+**DocID:** `daraz_538079902`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 349
+
+---
+
+
+## Man city Black colour premium quality Away kit trending Jersey  
+**DocID:** `daraz_557036244`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 344
+
+---
+
+
+## Portugal World Cup Jersey 202 WC Football Home Kit for CR7 fan-Premium Quality  
+**DocID:** `daraz_419051006`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 459
 
 ---
 
@@ -16294,6 +16474,42 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 24,665
+
+---
+
+
+## Proton X20 Pro 8GB Boosted RAM 128GB -  751090  
+**DocID:** `daraz_562614474`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,350
+
+---
+
+
+## REDMI Note 14 Global Version (8/256GB) 4G  
+**DocID:** `daraz_531008891`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,999
+
+---
+
+
+## Motorola G96 5G (8 + 128gb) ডিসপ্লে: 6.67'' P-OLED,144hz, 30w ফাস্ট চার্জিং সহ 5500mah  
+**DocID:** `daraz_545662554`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 28,959
+
+---
+
+
+## Realme C71(4+128gb) ডিসপ্লে: 6.67'' IPS LCD ,120hz, 45w ফাস্ট চার্জিং সহ 6300mah  
+**DocID:** `daraz_549034085`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,954
 
 ---
 
