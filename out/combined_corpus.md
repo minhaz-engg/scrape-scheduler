@@ -5746,6 +5746,96 @@ Core i5-3320M
 ---
 
 
+## ASUS Vivobook 15 OLED M1505YA-L1098W Ryzen 7 7730U Laptop  
+**DocID:** `daraz_391038633`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 103,800
+
+---
+
+
+## HP ProBook 460 G11 Series 1 Intel Core Ultra 7 155H 8GB RAM, 512GB SSD 16 Inch FHD+ WUXGA Display Silver Laptop  
+**DocID:** `daraz_563030261`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 125,750
+
+---
+
+
+## Asus Vivobook Go 14 E1404GA (NK237) Intel 13th Core i3-N305 3.80GHz 8GB RAM 512GB SSD 14"Inch FHD Display Laptop  
+**DocID:** `daraz_562611702`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,000
+
+---
+
+
+## Lenovo IP Slim 3i 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 8GB, 512GB SSD, Win 11 Home, 15.6 Inch FHD Laptop #82H802M6IN  
+**DocID:** `daraz_313028607`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 101,700
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 14IRH8 (83EL0039LK) 13th Gen, Core i7, 16GB RAM, 512GB SSD, 14" FHD Laptop  
+**DocID:** `daraz_568644354`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 98,200
+
+---
+
+
+## ASUS Vivobook 15 OLED M1505YA-L1325W AMD Ryzen 5-7430U 16GB RAM 512GB SSD 15.6 Inch FHD OLED Laptop  
+**DocID:** `daraz_368527684`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 96,600
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 14IRH8 (83EL0039LK) 13th Gen, Core i7, 16GB RAM, 512GB SSD, 14" FHD Laptop  
+**DocID:** `daraz_568663033`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 98,100
+
+---
+
+
+## Huawei MateBook B3-420 11th Gen i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, Fingerprint, 14" FHD IPS Laptop  
+**DocID:** `daraz_316666783`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,470
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 14IRH8 (83EL0039LK) 13th Gen, Core i7, 16GB RAM, 512GB SSD, 14" FHD Laptop  
+**DocID:** `daraz_568635140`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 98,000
+
+---
+
+
+## MSI GF63 Thin 12UCX 12th Gen Core i5-12450H 3.3 to 4.4GHz, 8GB, 512GB SSD, RTX 2050 4GB Graphics, Windows 11 Home, 15.6 FHD IPS Gaming Laptop  
+**DocID:** `daraz_360914361`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 98,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -8779,6 +8869,42 @@ Core i5-3320M
 ---
 
 
+## Men's Half Sleeve Dry Fit Polo Shirt From Levin  
+**DocID:** `daraz_524802282`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 506
+
+---
+
+
+## Stylish Men's Casual Cotton 2021 Summer Polo Shirt Solid Color Polo Breathable Short Sleeve Men Golf Golf New Brand Clothing  
+**DocID:** `daraz_139978844`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 230
+
+---
+
+
+## Cotton Polo Shirt-Red  
+**DocID:** `daraz_149318643`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 220
+
+---
+
+
+## GoodMan Premium Quality Dark Green Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_533472800`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 744
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -11761,6 +11887,42 @@ Synthetic rubber sole
 ---
 
 
+## Black Grey Blue and Khaki Color Korean Canvas Sneakers Shoes for Men Slip On Casual Shoes  
+**DocID:** `daraz_320496047`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 415
+
+---
+
+
+## Sneakers For Men Water Proof Korean Mesh Breathable Light Weight Trendy Shoes For Men  
+**DocID:** `daraz_198388773`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 430
+
+---
+
+
+## Running High-Top Sneakers White Color Casual Lace-up Shoes Winter and Summer Men's High-Top Shoes 2023  
+**DocID:** `daraz_324327831`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 367
+
+---
+
+
+## Trendy weightless casual sneakers for men.  
+**DocID:** `daraz_206439156`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 394
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -13998,6 +14160,60 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 459
+
+---
+
+
+## Portugal Full Sleeve Football Jersey For Men - Long Sleeve - Portugal Jersey 2026  
+**DocID:** `daraz_274219835`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Manchester City F.C 2024-25 Third Kit Jersey Half Sleeve (Thai Premium)  
+**DocID:** `daraz_454763885`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 445
+
+---
+
+
+## Liverpool Jersey 2025/2026 Thai Premium Jersey for men - Half Sleeve - Liverpool Jersey 2025  
+**DocID:** `daraz_271342228`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## AC Milan 2024-25 Home Jersey Half Sleeve (Thai Premium)  
+**DocID:** `daraz_454779740`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 445
+
+---
+
+
+## Inter Miami Home Jersey -Messi Jersey-Club Jersey -Show Your Support For Inter Miami With This Authentic Home Jersey  
+**DocID:** `daraz_465455491`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 123
+
+---
+
+
+## Italy Jersey 2025/2026 Thai Premium Football Jersey For Man - Half Sleeve - Italy Jersey 2025  
+**DocID:** `daraz_553005736`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 334
 
 ---
 
@@ -16510,6 +16726,42 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 14,954
+
+---
+
+
+## Motorola EDGE 60 fusion  12/256  
+**DocID:** `daraz_529074388`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 32,499
+
+---
+
+
+## Galaxy S25 Ultra  
+**DocID:** `daraz_523397711`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 116,999
+
+---
+
+
+## Jio J19 Speed(4GB/128GB)5000mAh Battery Smartphone  
+**DocID:** `daraz_527018812`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 9,970
+
+---
+
+
+## poco X7 pro Indian 12/256  
+**DocID:** `daraz_525012004`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 34,699
 
 ---
 
@@ -20782,6 +21034,26 @@ Non-removable Li-Po Battery
 **Category:** drone  
 **URL:** https://www.startech.com.bd/dji-flip-drone-fly-more-combo
 **Price:** 79,000৳ 91,400৳
+
+---
+
+
+## Dahua P5AE-PV 5MP Smart Dual Light Pan & Tilt WiFi Camera  
+**DocID:** `startech_https://www.startech.com.bd/dahua-p5ae-pv-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/dahua-p5ae-pv-wifi-camera
+**Price:** 7,000৳
+
+---
+
+
+## Dahua H5D-5F 5+5MP Dual-Lens Pan & Tilt Portable WiFi Camera  
+**DocID:** `startech_https://www.startech.com.bd/dahua-h5d-5f-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/dahua-h5d-5f-wifi-camera
+**Price:** 6,500৳
 
 ---
 
