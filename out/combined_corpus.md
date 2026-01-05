@@ -5836,6 +5836,96 @@ Core i5-3320M
 ---
 
 
+## HP 15s-du3528TU Intel Core i3 11th Gen-1115G4 3 to 4.1GHz, 8GB RAM, 1TB HDD, W10, 15.6" FHD Laptop  
+**DocID:** `daraz_189936932`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,000
+
+---
+
+
+## Lenovo IdeaPad Flex 5 (82HU00WFIN-3Y) Ryzen 7 5700U 1.8 to 4.3GHz,16 GB, 512GB SSD, Windows 11 Home, 14 Touch Laptop  
+**DocID:** `daraz_281190034`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 102,500
+
+---
+
+
+## Huawei MateBook B3-520 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 256GB SSD, Fingerprint, 15.6" FHD IPS Laptop  
+**DocID:** `daraz_317661385`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,340
+
+---
+
+
+## Lenovo IP Slim 3i (83EQ004HLK) 12th Gen i5-12450H 3.3 to 4.4GHz, 8GB, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_434785254`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,599
+
+---
+
+
+## ASUS Vivobook Go 15 L1504FA-BQ2549W AMD Ryzen 5 7520U, 16GB RAM, 512GB SSD, 15.6" FHD Display Laptop  
+**DocID:** `daraz_568673178`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 75,000
+
+---
+
+
+## Infinix InBook X2 11th Gen i5-1155G7 2.5 To 4.5GHz, 8GB, 512GB SSD, Win 11, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_337010172`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,500
+
+---
+
+
+## Asus Vivobook Go 14 E1404GA (NK237) Intel 13th Core i3-N305 3.80GHz 8GB RAM 512GB SSD 14"Inch FHD Display Laptop  
+**DocID:** `daraz_562574939`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 55,700
+
+---
+
+
+## Asus Vivobook 15 OLED A1505VA (L1943W) Intel 13th Gen Core i5-13420H, 1.50 GHz to 4.60 GHz, 16GB, 512GB SSD, Win 11, 15.6 Inch FHD OLED Display  
+**DocID:** `daraz_560823473`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 89,400
+
+---
+
+
+## Lenovo Yoga 9i (8) 13TH Gen Core i7 OLED Touch Laptop - 16GB RAM - 1TB SSD - Intel Iris Xe Graphics - 14 Inch Display - FHD 1080p + IR WebCam with Privacy Shutter - Oatmeal -  #83B1006ALK  
+**DocID:** `daraz_328330373`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 301,300
+
+---
+
+
+## HP Elitebook 840 G6 (Core i5/8th Gen)  
+**DocID:** `daraz_568631773`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 30,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -8905,6 +8995,78 @@ Core i5-3320M
 ---
 
 
+## The Exclusive Luxe Comfort Single Lacoste Cotton Polo – Dark Black  
+**DocID:** `daraz_529039834`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 690
+
+---
+
+
+## Stylish Half Sleeve Men's Polo Shirt - Casual Elegance - Modern Comfort and Style for Everyday Chic Looks  
+**DocID:** `daraz_315005731`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T-Shirt  
+**DocID:** `daraz_525230050`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Stylish Premium Quality cotton Polo Shirt for Men  
+**DocID:** `daraz_529866588`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## Exclusive Performance Polo T-Shirt For Man - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_131156387`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 183
+
+---
+
+
+## Cotton polo T Shirts for men-multi color stripped polo shirt for men  
+**DocID:** `daraz_302605121`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 600
+
+---
+
+
+## SMUG Premium Elite Edition Contrast Polo Shirt - soft touch and comfortable  
+**DocID:** `daraz_295683584`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 375
+
+---
+
+
+## Premium Cotton Casual Polo T-shirt for Men - Polo T Shirt For Men  
+**DocID:** `daraz_343927469`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 215
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -11923,6 +12085,69 @@ Synthetic rubber sole
 ---
 
 
+## Men's sneakers lightweight breathable classic grey and black shoes for men  
+**DocID:** `daraz_561672445`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 930
+
+---
+
+
+## Canvas Stylish Shoes Black And Blue Color Winter Canvas Sneakers For Men - Shoes For Men - Shoe For Boys - White Shoes  
+**DocID:** `daraz_342938068`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 299
+
+---
+
+
+## Boot Converse Sneakers Fabric Leather Lace-Up Breathable Low Top Shoes for Men - Comfortable All Seasons  
+**DocID:** `daraz_226670029`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 335
+
+---
+
+
+## MEN'S SHOES sneakers with high neck classical converses with fashionable lace up and rubber sool.  
+**DocID:** `daraz_328133574`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 530
+
+---
+
+
+## New Lambor ghini sneaker men casual shoes  
+**DocID:** `daraz_327973696`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 520
+
+---
+
+
+## Indispensable -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Innovative  
+**DocID:** `daraz_336217867`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 724
+
+---
+
+
+## Versatile -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Avant-garde  
+**DocID:** `daraz_342935274`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 505
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -14214,6 +14439,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 334
+
+---
+
+
+## Bashundhara Kings Short Sleeve Club Jersey For Man - Football Jersey Premium Quality Jersey New Jersey 2024  
+**DocID:** `daraz_337671211`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 255
 
 ---
 
@@ -16762,6 +16996,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 34,699
+
+---
+
+
+## Honor 400 12-256/512  
+**DocID:** `daraz_531077462`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 46,799
+
+---
+
+
+## Honor 200 12/512 - International  
+**DocID:** `daraz_473564467`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 43,099
 
 ---
 
@@ -21054,6 +21306,16 @@ Non-removable Li-Po Battery
 **Category:** wifi-camera  
 **URL:** https://www.startech.com.bd/dahua-h5d-5f-wifi-camera
 **Price:** 6,500৳
+
+---
+
+
+## DJI RS 3 Pro Gimbal Stabilizer  
+**DocID:** `startech_https://www.startech.com.bd/dji-rs-3-pro-gimbal-stabilizer`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/dji-rs-3-pro-gimbal-stabilizer
+**Price:** 75,000৳ 93,500৳
 
 ---
 
