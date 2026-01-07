@@ -5926,6 +5926,105 @@ Core i5-3320M
 ---
 
 
+## Dell Latitude 5320, Core i7 11th Gen, 14" FHD Display-32GB RAM, 512GB SSD  
+**DocID:** `daraz_569263092`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 42,240
+
+---
+
+
+## HP Probook 445 G7, Ryzen 5 4500U, 14'' Inch Silver Used Laptop-16GB Ram, 512GB SSD  
+**DocID:** `daraz_569250391`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 35,904
+
+---
+
+
+## Lenovo IdeaPad 3 14ABA7 Ryzen 5 5625U 2.3 to 4.3GHz, 8GB, 256GB SSD, Radeon Graphics, 14 Inch FHD Laptop #82RM006EIN  
+**DocID:** `daraz_314334547`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 66,200
+
+---
+
+
+## HP 15-fd1113TU (A19JCPA) Intel Core 5-120U Series 1, 1.40 to 5.00 GHz, 8GB RAM, 512GB SSD, Windows 11, 15.6 Inch FHD Display Silver Laptop  
+**DocID:** `daraz_523138476`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 84,400
+
+---
+
+
+## HP ProBook 440 G10 (843X9PA) Intel 13th Gen i5-1335U 1.30 to 4.60GHz, 8GB, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_438080693`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 102,000
+
+---
+
+
+## Lenovo Yoga 370, Core i5 7th Gen, 14" x360 Touch Screen Laptop-8GB Ram, 256GB SSD  
+**DocID:** `daraz_569255357`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 25,344
+
+---
+
+
+## DELL Latitude 5400, Core i5 8th Gen, 14'' FHD Display-8GB Ram, 256GB SSD, Black Used Laptop  
+**DocID:** `daraz_568914959`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 28,512
+
+---
+
+
+## Asus Vivobook 14, Core i5 11th gen, 14'' Laptop-8GB Ram, 512GB SSD  
+**DocID:** `daraz_569235953`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 44,880
+
+---
+
+
+## Dell Latitude 5320, Core i5 11th Gen, 14" FHD Display-16GB Ram, 512GB SSD  
+**DocID:** `daraz_569252578`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 33,792
+
+---
+
+
+## HP Elitebook 840 G8, Core i5 11th Gen, 14" Used Laptop-16GB Ram, 512GB SSD  
+**DocID:** `daraz_569263044`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 43,296
+
+---
+
+
+## DELL Latitude 3190, Intel Pentium N5000, 2 in 1 Laptop-4GB Ram, 128GB SSD  
+**DocID:** `daraz_569238903`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 17,107
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -9067,6 +9166,87 @@ Core i5-3320M
 ---
 
 
+## Black Cotton polo for men ELBAS BD  
+**DocID:** `daraz_221739068`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
+
+---
+
+
+## Selected popular nylon fabric, dad's summer clothing, middle-aged men's short sleeved T-shirt, summer ice silk quick drying, mid  
+**DocID:** `daraz_546060107`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,218
+
+---
+
+
+## Maroon Short Sleeve Polo Tshirt  
+**DocID:** `daraz_224928781`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 250
+
+---
+
+
+## Polo T-Shirt For Men - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_283033283`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 159
+
+---
+
+
+## White polo shirt for men new 2024 brand | Export quality polo shirt for men white | Polo t shirt for men easy brand high quality  
+**DocID:** `daraz_352291307`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 480
+
+---
+
+
+## Navy Blue Cotton Casual Polo For Men  
+**DocID:** `daraz_100701012`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 344
+
+---
+
+
+## polo t shirt for men - best polo in summer  
+**DocID:** `daraz_367347391`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## New Summer Collection 2023 half sleeve polo shirts for men  
+**DocID:** `daraz_319167976`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## SMUG Premium Polo Shirt - Fabric soft and comfortable - Petrol Color  
+**DocID:** `daraz_302431860`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 360
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -12148,6 +12328,42 @@ Synthetic rubber sole
 ---
 
 
+## Hot Collection Stylish and Fashionable Low Top Winter and Summer Exclusive Converse Sneakers for Men  
+**DocID:** `daraz_365343818`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 499
+
+---
+
+
+## Lightweight Comfort - White Color Sneakers For Men With High-Quality Fabrics and Rubber Sole - Comfortable Fashion  
+**DocID:** `daraz_202338339`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 388
+
+---
+
+
+## Sneakers for man houwai sool lace up shoes  .  
+**DocID:** `daraz_192507245`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 588
+
+---
+
+
+## New Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers - Shoes - Shoes For Men -  - জুতা ছেলেদের - Shoe For Boys - Shoe For Boys  
+**DocID:** `daraz_197390367`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -14448,6 +14664,78 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 255
+
+---
+
+
+## Portugal Full Sleeve 2026/27 Football Jersey For Man - Long Sleeve - Portugal Jersey 2026  
+**DocID:** `daraz_274228255`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Real Madrid winter collection New Full sleep Jersey  
+**DocID:** `daraz_287924858`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 610
+
+---
+
+
+## Ferrari 2024 Team Polo T Shirt For Man - Ferrari  Polo Jersey For Man - Ferrari Jersey  
+**DocID:** `daraz_188852398`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 289
+
+---
+
+
+## Brazil World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve - Brazil Jersey 2026  
+**DocID:** `daraz_281342832`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## FC Barcelona 25/26 Home Jersey Half Sleeve (Thai Premium)  
+**DocID:** `daraz_535447738`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 470
+
+---
+
+
+## Argentina Short Sleeve Polo Football Jersey Jersey for Man - Half Sleeve Coller Polo - Argentina Jersey 2026  
+**DocID:** `daraz_289694588`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 300
+
+---
+
+
+## Germany Euro Jersey 2026/27 Short Sleeve Football Jersey For Men - Half Sleeve - Germany Jersey 2026  
+**DocID:** `daraz_247250653`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Argentina Jersey - Player Edition Jersey - Argentina AFC - Home/Away Kit - Special Fan Version Jersey 2025/26 - Thai Fabrics - Short Sleeve - New Football Jersey - Copa America Jersey 2026 Design - Premium  
+**DocID:** `daraz_303876635`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 428
 
 ---
 
@@ -17014,6 +17302,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 43,099
+
+---
+
+
+## Realme 15T | 8GB RAM+256GB ROM | 6.57" Comfort+ AMOLED Display | 1 Year Official Warranty  
+**DocID:** `daraz_557058757`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 30,259
+
+---
+
+
+## OPPO A6x 4GB/128GB | Snapdragon 685 | 2 Years Warranty  
+**DocID:** `daraz_567819733`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,390
+
+---
+
+
+## Galaxy A56. 8-128/256  
+**DocID:** `daraz_526961389`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 39,799
+
+---
+
+
+## Vivo X300 pro 16-512 CN  
+**DocID:** `daraz_561306450`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 115,999
+
+---
+
+
+## Redmi Note 15 Pro Plus &gt; 12/256 CN  
+**DocID:** `daraz_545517654`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 38,499
 
 ---
 
@@ -21316,6 +21649,16 @@ Non-removable Li-Po Battery
 **Category:** gimbal  
 **URL:** https://www.startech.com.bd/dji-rs-3-pro-gimbal-stabilizer
 **Price:** 75,000৳ 93,500৳
+
+---
+
+
+## LG UltraFine 27US500-W 27 Inch 4K UHD IPS Professional Monitor  
+**DocID:** `startech_https://www.startech.com.bd/lg-ultrafine-27us500-w-27-inch-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/lg-ultrafine-27us500-w-27-inch-monitor
+**Price:** 46,500৳ 49,000৳
 
 ---
 
