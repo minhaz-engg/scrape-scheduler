@@ -6025,6 +6025,51 @@ Core i5-3320M
 ---
 
 
+## Walton Prelude N40 Pro Intel Celeron N4020 1.1GHz, 8GB RAM, 256GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569160469`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 23,500
+
+---
+
+
+## Hp Elitebook 840 G6, Core i7 8th Gen, 14" Silver Used Laptop-8GB Ram, 256GB SSD  
+**DocID:** `daraz_569238897`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 35,376
+
+---
+
+
+## HP EliteBook 840 G11 (Refurbished) – 14" WUXGA FHD, Intel Core Ultra 5-135U, 16GB DDR5 RAM, 512GB NVMe SSD  
+**DocID:** `daraz_569008170`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 108,300
+
+---
+
+
+## MSI Modern 15 A5M Ryzen 7 5700U 1.8 to 4.3 GHz, 8GB RAM, 512GB SSD, Radeon Graphics, 15.6" FHD Laptop  
+**DocID:** `daraz_314316349`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 83,500
+
+---
+
+
+## Hp EliteBook 840 G3 Laptop (6thgen core i5 ,ram 8gb, Ssd 256 gb,LED 1920x1080p Screen) 7 days guarantee & 1 year service warranty  - Silver  
+**DocID:** `daraz_569199617`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 19,795
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -9247,6 +9292,33 @@ Core i5-3320M
 ---
 
 
+## premium Quality polo shirt For mens  
+**DocID:** `daraz_557136266`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## New Classy Half Sleeve Comfortable Jersey Fabrics Polo Tshirt  
+**DocID:** `daraz_252056837`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 200
+
+---
+
+
+## Cotton PK Febrics Polo T shirt For Men-Polo Shirt  
+**DocID:** `daraz_313225289`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 250
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -12364,6 +12436,15 @@ Synthetic rubber sole
 ---
 
 
+## New Trendy Black Blue And Grey Color EXPRESS Casual Canvas Sneakers Shoes For Men New Collection And Breathable Shoes For Man  
+**DocID:** `daraz_546826764`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 554
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -14736,6 +14817,60 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 428
+
+---
+
+
+## Real Betis Jersey 2025/2026 Thai Premium Football Jersey For Men - Long Sleeve Polo - Real Betis Jersey 2025  
+**DocID:** `daraz_555785535`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 379
+
+---
+
+
+## Sheffield United Short Sleeve Football Jersey For Men - Half Sleeve T Shirt - Sheffield Football Jersey 2025-26  
+**DocID:** `daraz_409557347`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## B-d jersey 2025/26 Thai Premium Football Jersey For Men  - Half Sleeve - Banglades Fan Jersey 2025/26  
+**DocID:** `daraz_560033575`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Argentina World Cup Jersey 2026/27 Short Sleeve Football Jersey For Men - Half Sleeve collar Polo - Argentina Jersey 2026  
+**DocID:** `daraz_289300566`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 300
+
+---
+
+
+## England Jersey 2025/26 short sleeve Football Jersey For Men - Half Sleeve - Englend Football Jersey 2025  
+**DocID:** `daraz_313608989`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 250
+
+---
+
+
+## Germany Short Sleeve Polo Football Jersey For Men - Germany PK Polo t shirt  - Germany Jersey  
+**DocID:** `daraz_313476281`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 219
 
 ---
 
@@ -17347,6 +17482,78 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 38,499
+
+---
+
+
+## Proton Infinity 8 Smartphone 8GB Boosted RAM and 128GB ROM - 751177  
+**DocID:** `daraz_562633913`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,500
+
+---
+
+
+## Apple iPhone Air 256GB || Official  
+**DocID:** `daraz_562312033`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 194,999
+
+---
+
+
+## iPhone Air 256GB | 512GB | 1TB (e-Sim)  
+**DocID:** `daraz_556793073`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 132,999
+
+---
+
+
+## CoolPad Cool 40i Ram 8Gb 4gb+ 4gb Extended Ram smartPhone  
+**DocID:** `daraz_556802474`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,990
+
+---
+
+
+## Samsung Galaxy S25 Ultra 5G 12GB Ram and 256GB/512GB/1TB Rom (Unofficial)  
+**DocID:** `daraz_529222244`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 117,990
+
+---
+
+
+## itel Super S26 Ultra 8GB/256GB ROM with Free Itel Travel Bag  
+**DocID:** `daraz_561778903`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,773
+
+---
+
+
+## CoolPad Cool C15 Ram 12 Gb 6gb+ 6gb Extended Ram SmartPhone 1 year official  brand warrenty  
+**DocID:** `daraz_556812498`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,990
+
+---
+
+
+## Apple iPhone 17 Pro Max 256GB || Official  
+**DocID:** `daraz_562295723`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 249,999
 
 ---
 
@@ -21659,6 +21866,16 @@ Non-removable Li-Po Battery
 **Category:** monitor  
 **URL:** https://www.startech.com.bd/lg-ultrafine-27us500-w-27-inch-monitor
 **Price:** 46,500৳ 49,000৳
+
+---
+
+
+## M23 Mini Toy Drone  
+**DocID:** `startech_https://www.startech.com.bd/m23-toy-drone`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/m23-toy-drone
+**Price:** 6,900৳
 
 ---
 
