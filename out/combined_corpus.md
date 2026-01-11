@@ -6070,6 +6070,105 @@ Core i5-3320M
 ---
 
 
+## Walton Prelude N40 Pro Intel Celeron N4020 1.1GHz, 8GB RAM, 256GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569192402`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 23,550
+
+---
+
+
+## Dell Latitude 7320 (Refurbished) – 13.3" FHD Display, Intel Core i7 11th Gen, 16GB DDR4 RAM, 256GB SSD  
+**DocID:** `daraz_568621097`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 48,735
+
+---
+
+
+## Lenovo ThinkPad X1 Carbon Gen 8 (Refurbished) – 14" FHD Display, Intel Core i7 10th Gen, 16GB RAM, 256GB SSD  
+**DocID:** `daraz_568983981`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 56,316
+
+---
+
+
+## ASUS VivoBook 15 X1502ZA-BQ324W 12th Gen Core i3-1220P 4GB RAM 512GB SSD 15.6 Inch FHD Laptop  
+**DocID:** `daraz_347802095`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,700
+
+---
+
+
+## Acer Aspire 3 A315-59-57VA (NX.K6VSI.006) 12th Gen i5-1235U 3.3 to 4.4GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_322913931`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,800
+
+---
+
+
+## Chuwi MiniBook X 10.5 Inch Touch Yoga N100 0.8 to 3.4GHz, 12GB, 512GB, Win11 Laptop  
+**DocID:** `daraz_335914082`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 54,250
+
+---
+
+
+## Surface Laptop 5 || 12th Gen - Intel Core i7 || 32GB RAM & 512GB SSD  
+**DocID:** `daraz_548787954`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 208,900
+
+---
+
+
+## Dell Vostro 14 3400 11th Gen i5-1135G7 2.4 to 4.2GHz, 4GB, 1TB HDD, 14 Inch FHD Laptop  
+**DocID:** `daraz_284903123`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 87,500
+
+---
+
+
+## Walton Tamarind EX310A (WTEX41A3BL) 10th Gen Intel Core i3-10110U 2.10GHz to 4.10GHz, 4GB, 256GB SSD, Windows 10, 14 Inch FHD Laptop  
+**DocID:** `daraz_569228136`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 31,500
+
+---
+
+
+## DELL Inspiron 15 5502, Core i5 11th Gen, 15.6'' FHD Display-16GB Ram, 512GB SSD Silver Used Laptop  
+**DocID:** `daraz_568758276`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 42,240
+
+---
+
+
+## Walton Prelude N40 Pro Intel Celeron N4020 1.1GHz, 8GB RAM, 256GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569175473`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 23,800
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -9319,6 +9418,60 @@ Core i5-3320M
 ---
 
 
+## Ralph Lauren Cable-Knit Cotton Polo Sweater – White  
+**DocID:** `daraz_551303603`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,190
+
+---
+
+
+## SMUG Premium Contrast Polo Shirt - Fabric soft and comfortable  
+**DocID:** `daraz_298349659`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
+
+---
+
+
+## Stylish Polo Shirt for Men – Premium Cotton Fabric, Classic Fit, Ideal for Office Wear, Casual Outings, Travel, or Summer Fashion | Polo Shirt for Men – Comfortable Short Sleeve Tee with Collar, Breathable Cotton, Perfect for Work, Golf, Casual, or Daily  
+**DocID:** `daraz_526754175`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 250
+
+---
+
+
+## Men's Blue Color Chaina Exclusive Short Sleeve Polo -Shirt .  
+**DocID:** `daraz_346148779`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 184
+
+---
+
+
+## Lavish indulgent - Stylist Premium Quality Summer Polo Shirt For Men - Polo T Shirt For Men - Polo T Shirt - Easy To maintain  
+**DocID:** `daraz_295504736`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts  
+**DocID:** `daraz_302567947`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 440
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -12445,6 +12598,51 @@ Synthetic rubber sole
 ---
 
 
+## Running Sneakers White Color Casual Lace-up Shoes Winter and Summer Men's Shoes - Stay Active in Style  
+**DocID:** `daraz_209460500`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 374
+
+---
+
+
+## Stylish Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Low Top Type - Choice Expression  
+**DocID:** `daraz_316301262`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 588
+
+---
+
+
+## Shoes for Men Sneakers Lightweight Breathable Comfortable Casual Shoes for Walking  
+**DocID:** `daraz_269528710`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 380
+
+---
+
+
+## Sneakers For Mens 2022 Trendy Casual Shoes Comfortable Breathable Lace-Up Sneakers White Color -  -  - Sneakers  
+**DocID:** `daraz_214380479`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 390
+
+---
+
+
+## With Eid Gift Blue: New Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_350470179`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 508
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -14871,6 +15069,69 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 219
+
+---
+
+
+## Real Madrid Thai premium (Logo Embroidery) Full Sleeve Club Football Jersey  
+**DocID:** `daraz_561271786`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 500
+
+---
+
+
+## Germany World Cup Jersey 2026/27 Short Sleeve Football Jersey For Men - Half Sleeve - Germany Jersey 2026  
+**DocID:** `daraz_270851498`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Inter Miami Away Jersey -Black Jersey -Messi Jersey -Club Jersey -Show Your Support For Inter Miami With This Authentic Away Jersey  
+**DocID:** `daraz_466573159`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 126
+
+---
+
+
+## Ronaldo Thai Premium Football Jersey For Man - Half Sleeve T Shirt - Portugal Football Jersey 2025  
+**DocID:** `daraz_531285771`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 340
+
+---
+
+
+## Arsenal Jersey 2025/2026 Thai Premium Football Jersey For Man - Half Sleeve- Arsenal Football Jersey 2025  
+**DocID:** `daraz_526622461`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 349
+
+---
+
+
+## Juventus FC Jersey - Player Edition Jersey - Juventus FC Football Club - Home/Away Kit - Special Fan Version Club Jersey 2025/26 - Thai Fabrics - Short Sleeve - New Football Jersey - UEFA Champions League 2026 Design - Premium  
+**DocID:** `daraz_213796927`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 428
+
+---
+
+
+## SA Roma Jersey 2026/27 Short Sleeve Football Jersey For Men - Half Sleeve - Roma Jersey 2026  
+**DocID:** `daraz_373648529`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
 
 ---
 
@@ -17554,6 +17815,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 249,999
+
+---
+
+
+## ZTE V70 (8+256GB)"6.7"IPS LCD, 120Hz ডিসপ্লে,22.5W ফাস্ট চার্জিং সহ 5000mah Battery  
+**DocID:** `daraz_567057081`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,899
 
 ---
 
@@ -21876,6 +22146,86 @@ Non-removable Li-Po Battery
 **Category:** drone  
 **URL:** https://www.startech.com.bd/m23-toy-drone
 **Price:** 6,900৳
+
+---
+
+
+## Chuwi GemiBook XPro Intel Celeron N100 14.1 inch Full HD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/chuwi-gemibook-xpro-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/chuwi-gemibook-xpro-laptop
+**Price:** 34,000৳ 34,500৳
+
+---
+
+
+## Acer Aspire 3 A325-45 Celeron N4500 15.6" HD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-3-a325-45-intel-celeron-n4500-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/acer-aspire-3-a325-45-intel-celeron-n4500-laptop
+**Price:** 35,400৳
+
+---
+
+
+## Walton Tamarind MX311G Core i3 11th Gen 14" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/walton-tamarind-mx311g-core-i3-11th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/walton-tamarind-mx311g-core-i3-11th-gen-laptop
+**Price:** 39,500৳
+
+---
+
+
+## Acer Aspire Lite-AL15-31 Intel N100 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-lite-al15-31-intel-n100-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/acer-aspire-lite-al15-31-intel-n100-laptop
+**Price:** 39,700৳
+
+---
+
+
+## Acer Aspire 15 AS15-42 Ryzen 3 7330U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-15-as15-42-ryzen-3-fhd-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/acer-aspire-15-as15-42-ryzen-3-fhd-laptop
+**Price:** 47,900৳
+
+---
+
+
+## Acer Aspire 15 AS15-42 Ryzen 3 7330U 8GB 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-15-as15-42-ryzen-3-7330u-8gb-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/acer-aspire-15-as15-42-ryzen-3-7330u-8gb-laptop
+**Price:** 49,000৳
+
+---
+
+
+## Lenovo IdeaPad SLIM 3i Intel Core i3 12th Gen 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3i-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3i-laptop
+**Price:** 51,500৳
+
+---
+
+
+## Acer Aspire Lite AL15-52 Core i3 12th Gen 16GB RAM 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-lite-al15-52-core-i3-12th-gen-16gb-ram-fhd-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/acer-aspire-lite-al15-52-core-i3-12th-gen-16gb-ram-fhd-laptop
+**Price:** 48,500৳ 51,500৳
 
 ---
 
