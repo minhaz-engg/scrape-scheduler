@@ -6169,6 +6169,69 @@ Core i5-3320M
 ---
 
 
+## Walton Prelude N40 Pro Intel Celeron N4020 1.1GHz, 8GB RAM, 256GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569183675`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 23,600
+
+---
+
+
+## Acer Aspire 3 A315-59-34TO (NX.K6VSI.005) 12th Gen i3-1215U 3.3 to 4.4GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_322844359`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,000
+
+---
+
+
+## Walton Tamarind EX311G Pro 11th Gen Intel Core i3-1115G4 1.7GHz to 4.1GHz, 8GB RAM, 512GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569150093`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 36,000
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15IRU8(82X700A7LK) Intel Core i3-1305U 3.3 to 4.5GHz,8GB,512GB SSD,Win11H,15.6 FHD Laptop  
+**DocID:** `daraz_520675289`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 64,800
+
+---
+
+
+## Dell Latitude 7300 (Refurbished) – 13.3" FHD Display, Intel Core i5 8th Gen, 8GB RAM, 256GB SSD  
+**DocID:** `daraz_568525492`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 32,490
+
+---
+
+
+## HP 15-fc0166AU (9S532PA) AMD Ryzen-5 7520U, 2.8 to 4.3GHz, 8GB RAM, 512GB SSD, Windows 11 Home, 15.6 Inch FHD Display Moonlight Blue Laptop  
+**DocID:** `daraz_453778125`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,499
+
+---
+
+
+## HP 250 G10 Intel Core i3 13th Gen 8GB RAM 512GB SSD Backlit Keyboard FHD Laptop  
+**DocID:** `daraz_323361142`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 66,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -9472,6 +9535,33 @@ Core i5-3320M
 ---
 
 
+## PRORIDERS Half Sleeve 100% Pure Cotton Fabric Collared Regular Fit Men's Polo Striper Tshirt with Pocket for Casual wear  
+**DocID:** `daraz_213294852`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 2,498
+
+---
+
+
+## POLO Ralph Lauren For Men  
+**DocID:** `daraz_209992264`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## Black synthetic Polo Full Sleeve T Shirt For Men  
+**DocID:** `daraz_325584384`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 355
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -12643,6 +12733,42 @@ Synthetic rubber sole
 ---
 
 
+## New Year : Brand New Fashionable Shoes and Sneaker for Man  
+**DocID:** `daraz_350468388`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 520
+
+---
+
+
+## Indispensable Hot Collection Stylish Low Top Sneakers for Men - Innovative - Comfortable All Seasons  
+**DocID:** `daraz_567046356`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 530
+
+---
+
+
+## All Star Fabric Sneakers Converse for Men  
+**DocID:** `daraz_328525228`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,500
+
+---
+
+
+## Indispensable -Quality And Durability -Stylish  Black And White Color IL Canvas Sneakers Shoes For Men Comfortable shoes For Summer M36  
+**DocID:** `daraz_351313243`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 530
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -15132,6 +15258,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 260
+
+---
+
+
+## Liverpool Short Sleeve Jersey 2026/27 Football Jersey For Men - Half Sleeve - Liverpool Jersey 2026  
+**DocID:** `daraz_270638225`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Barcelona Jersey 2025/2026 Thai Premium Football Jersey For Men - Half Sleeve Jersey - Barcelona Football Jersey 2025  
+**DocID:** `daraz_540758154`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
 
 ---
 
@@ -17824,6 +17968,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 13,899
+
+---
+
+
+## N okia C22 (3/32) Official for Bangladesh  
+**DocID:** `daraz_456477783`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 9,999
 
 ---
 
@@ -22226,6 +22379,196 @@ Non-removable Li-Po Battery
 **Category:** laptop  
 **URL:** https://www.startech.com.bd/acer-aspire-lite-al15-52-core-i3-12th-gen-16gb-ram-fhd-laptop
 **Price:** 48,500৳ 51,500৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15AMN8 Ryzen 3 7320U 15.6" FHD Laptop Abyss Blue  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15amn8-laptop-abyss-blue`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15amn8-laptop-abyss-blue
+**Price:** 52,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14AMN8 Ryzen 3 7320U 14" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-14amn8-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-14amn8-laptop
+**Price:** 52,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14AHP10 Ryzen 5 8640HS 14" WUXGA Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-14ahp10-ryzen-5-8640hs-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-14ahp10-ryzen-5-8640hs-laptop
+**Price:** 90,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15ARP10 Ryzen 7 7735HS 15.3" WUXGA Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15arp10-ryzen-7-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15arp10-ryzen-7-laptop
+**Price:** 80,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 5 14AKP10 Ryzen AI 5 330 14" IPS Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-5-14akp10-ryzen-ai-5-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-5-14akp10-ryzen-ai-5-laptop
+**Price:** 98,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14ARP10 Ryzen 5 7535HS 14" WUXGA Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-14arp10-ryzen-5-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-14arp10-ryzen-5-laptop
+**Price:** 69,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14ARP10 Ryzen 5 7535HS 14" WUXGA Laptop Cosmic Blue  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-14arp10-laptop-cosmic-blue`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-14arp10-laptop-cosmic-blue
+**Price:** 69,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15ARP10 Ryzen 5 7535HS 15.3" WUXGA Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15arp10-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15arp10-laptop
+**Price:** 73,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15ARP10 Ryzen 5 7535HS 15.3" WUXGA 16GB RAM Laptop Cosmic Blue  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15arp10-ryzen-5-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15arp10-ryzen-5-laptop
+**Price:** 73,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15ARP10 Ryzen 5 7535HS 15.3" WUXGA Laptop Cosmic Blue With Backlit Keyboard  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15arp10-laptop-cosmic-blue`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15arp10-laptop-cosmic-blue
+**Price:** 73,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14AHP10 Ryzen 7 8840HS 14" WUXGA AI Integrated Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-14ahp10-ryzen-7-8840hs-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-14ahp10-ryzen-7-8840hs-laptop
+**Price:** 93,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 5 14AKP10 Ryzen AI 7 350 14" IPS Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-5-14akp10-ryzen-ai-7-350-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-5-14akp10-ryzen-ai-7-350-laptop
+**Price:** 135,000৳
+
+---
+
+
+## Lenovo IdeaPad 5 2-in-1 14AKP10 Ryzen AI 5 340 14" WUXGA Touch Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-5-2-in-1-14akp10-touch-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-5-2-in-1-14akp10-touch-laptop
+**Price:** 115,000৳
+
+---
+
+
+## ZOTAC GAMING GeForce RTX 5070 AMP White Edition 12GB GDDR7 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/zotac-gaming-geforce-rtx-5070-amp-white-edition-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/zotac-gaming-geforce-rtx-5070-amp-white-edition-graphics-card
+**Price:** 103,900৳
+
+---
+
+
+## Cudy WR300S 300mbps WiFi Router  
+**DocID:** `startech_https://www.startech.com.bd/cudy-wr300s-wifi-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/cudy-wr300s-wifi-router
+**Price:** 1,700৳
+
+---
+
+
+## TRENDSONIC TSQ22F120B 21.45" 120Hz IPS FHD Monitor  
+**DocID:** `startech_https://www.startech.com.bd/trendsonic-tsq22f120b-120hz-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/trendsonic-tsq22f120b-120hz-monitor
+**Price:** 10,950৳
+
+---
+
+
+## TRENDSONIC TSQ22F120W 21.45" 120Hz IPS FHD Monitor  
+**DocID:** `startech_https://www.startech.com.bd/trendsonic-tsq22f120w-120hz-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/trendsonic-tsq22f120w-120hz-monitor
+**Price:** 10,950৳
+
+---
+
+
+## IMILAB C21 2.5K Pan & Tilt Portable WiFi Camera  
+**DocID:** `startech_https://www.startech.com.bd/imilab-c21-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/imilab-c21-wifi-camera
+**Price:** 3,699৳
+
+---
+
+
+## TP-Link Tapo C310 Outdoor Security Wi-Fi IP Camera  
+**DocID:** `startech_https://www.startech.com.bd/tp-link-tapo-c310-ip-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/tp-link-tapo-c310-ip-camera
+**Price:** 3,542৳ 3,850৳
 
 ---
 
