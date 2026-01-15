@@ -6232,6 +6232,51 @@ Core i5-3320M
 ---
 
 
+## HP EliteBook 845 G8 (Refurbished) – AMD Ryzen 5 Pro 5650U, 14" FHD Display, 16GB RAM, 256GB SSD  
+**DocID:** `daraz_568743678`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,486
+
+---
+
+
+## Acer Aspire 3 A315-24P (NX.KDESI.004) AMD Ryzen 5 7520U 7th Gen 2.8 to 4.3 GHz, 8GB, 512GB SSD, 15.6" FHD Laptop  
+**DocID:** `daraz_313700270`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 66,000
+
+---
+
+
+## [QuantaBD] Asus P1511CMA Intel Celeron N4020 15.6-Inch HD Laptop  
+**DocID:** `daraz_325751026`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 39,490
+
+---
+
+
+## ASUS Vivobook 15 OLED M1505YA-L1098W Ryzen 7 7730U Laptop  
+**DocID:** `daraz_389198083`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 103,300
+
+---
+
+
+## MSI Modern 14 C12MO 12th Gen i5-1235U 3.3 to 4.4GHz, 16GB, 512GB SSD, Win 11 Home, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_360565930`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 85,900
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -9562,6 +9607,15 @@ Core i5-3320M
 ---
 
 
+## Cotton Half Sleeve Polo Shirts For Men-Multicolor Polo Shirts - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_302131954`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 440
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -12769,6 +12823,15 @@ Synthetic rubber sole
 ---
 
 
+## Zooko Slip on sneakers (ZUBA  Bulk)  
+**DocID:** `daraz_560856045`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 770
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -15276,6 +15339,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 350
+
+---
+
+
+## AC Milan Jersey 2026/27 Thai Premium Football Jersey for Man - Half Sleeve Jersey - AC Milan Jersey 2026  
+**DocID:** `daraz_327671185`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Manchester city new premium 3rd kit 2025/26 full sleeves  
+**DocID:** `daraz_325655913`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 375
 
 ---
 
@@ -17977,6 +18058,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 9,999
+
+---
+
+
+## Honor 200(12/256GB) unofficial global  
+**DocID:** `daraz_557863589`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 45,000
 
 ---
 
@@ -22569,6 +22659,16 @@ Non-removable Li-Po Battery
 **Category:** wifi-camera  
 **URL:** https://www.startech.com.bd/tp-link-tapo-c310-ip-camera
 **Price:** 3,542৳ 3,850৳
+
+---
+
+
+## Haier H43S80EUX 43" QLED 4K Android Google TV  
+**DocID:** `startech_https://www.startech.com.bd/haier-h43s80eux-43-inch-google-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/haier-h43s80eux-43-inch-google-tv
+**Price:** 35,000৳ 47,900৳
 
 ---
 
