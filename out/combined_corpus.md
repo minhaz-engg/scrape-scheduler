@@ -6277,6 +6277,44 @@ Core i5-3320M
 ---
 
 
+## Walton Walpad 10H, MediaTek Helio P60 Processor, Display 10.1 inch FHD IPS, 4GB RAM, 6000 mAh Battery with Flip Cover  
+**DocID:** `daraz_294740002`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 22,000
+
+---
+
+
+## Dell Latitude 7490 Core i5 8th Gen Laptop  
+**DocID:** `daraz_571418103`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 25,999
+
+---
+
+
+## HP Elitebook 840 G7 Core i5 10th Gen Laptop
+
+Touch screen  
+**DocID:** `daraz_571411891`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 39,600
+
+---
+
+
+## Apple MacBook Air MGN63 M1 Chip 2.06-3.8GHz, 8GB, 256GB SSD, 13.3" Retina IPS Laptop (Late 2020)  
+**DocID:** `daraz_351899545`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 111,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6435,15 +6473,6 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 153,200
-
----
-
-
-## Apple MacBook Air MGN63 M1 Chip 2.06-3.8GHz, 8GB, 256GB SSD, 13.3" Retina IPS Laptop (Late 2020)  
-**DocID:** `daraz_351899545`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 111,000
 
 ---
 
@@ -9612,6 +9641,51 @@ Core i5-3320M
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 440
+
+---
+
+
+## 2020 New Men's Solid Color Polo Shirts- Olive  
+**DocID:** `daraz_144100729`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 300
+
+---
+
+
+## Men's Solid Color Polo Shirts  
+**DocID:** `daraz_144888530`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 300
+
+---
+
+
+## White Cotton Polo T-Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_109902824`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
+
+---
+
+
+## Stylish Premium Quality Summer Polo Shirt for Men  
+**DocID:** `daraz_526424714`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 549
+
+---
+
+
+## cotton Polo Shirt - Fabric soft and comfortable by sandtailor  
+**DocID:** `daraz_324201027`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
 
 ---
 
@@ -12832,6 +12906,42 @@ Synthetic rubber sole
 ---
 
 
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_340071192`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 529
+
+---
+
+
+## Hot Collection of Stylish and Fashionable Winter and Summer Exclusive Low Top Sneakers Converse Shoes for Men - Easy To Maintain  
+**DocID:** `daraz_313755234`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 553
+
+---
+
+
+## Fashion Shoes For Men Casual  Shoes Comfortable - Sneakers For Men  
+**DocID:** `daraz_215893921`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## Sneakers Shoes for Men with Trendy Design Lace-up White Low Top Shoes - Classic Design - Versatile for All Seasons  
+**DocID:** `daraz_270085633`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 382
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -15357,6 +15467,87 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 375
+
+---
+
+
+## Real Madrid Jersey 2026/27 Premium Polo Football Jersey For Man - Half Sleeve Collar Polo Jersey - Real Madrid Jersey 2026  
+**DocID:** `daraz_320212758`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Argentina World Cup Jersey 2025/2026 Thai Premium Football Jersey For Man - Argentina Football Jersey 2025  
+**DocID:** `daraz_273625868`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Argentina Jersey - Player Edition Jersey - Argentina AFC - Home/Away Kit - Special Fans Version Club Jersey 2025/26 - Thai Fabrics - Full Sleeve - New Football Jersey - Copa America Jersey 2026 Design - Premium  
+**DocID:** `daraz_178964293`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 428
+
+---
+
+
+## Manchester City Short Sleeve Collar Polo Thai Premium Club Jersey For Man - Manchester City Football Jersey 2026  
+**DocID:** `daraz_316766744`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## Barcelona Full Sleeve Jersey 2026/27 Thai Premium Football Jersey For Man - Long Sleeve - Barcelona Jersey 2026  
+**DocID:** `daraz_556892175`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 379
+
+---
+
+
+## Dragon Short Sleeve Collar Polo Jersey For Man - Half Sleeve Polo T shirt For Man - Polo Jersey  
+**DocID:** `daraz_316764712`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 310
+
+---
+
+
+## b-d Football Jersey - Polo Jersey for Man - Banglades Fan Jersey  
+**DocID:** `daraz_269537638`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 290
+
+---
+
+
+## Argentina Copa America Jersey 2026/27 Full Sleeve Football Jersey For Man - Long Sleeve - Argentina Jersey 2026  
+**DocID:** `daraz_338351493`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Manchester City Long Sleeve Jersey 2025/2026 Thai Premium Football Jersey For Men - Manchester City Football Jersey 2025  
+**DocID:** `daraz_545651775`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
 
 ---
 
@@ -18067,6 +18258,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 45,000
+
+---
+
+
+## Xiaomi Redmi 15(8+256gb)6.9"IPS LCD, 144Hz ডিসপ্লে, 33W ফাস্ট চার্জিং সহ 7000mah Battery  
+**DocID:** `daraz_558737238`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,999
+
+---
+
+
+## Vivo Y400(8+256gb) ডিসপ্লে: 6.67''AMOLED, 120Hz, 90w ফাস্ট চার্জিং সহ 6000mah  
+**DocID:** `daraz_549061959`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 27,499
 
 ---
 
@@ -22669,6 +22878,26 @@ Non-removable Li-Po Battery
 **Category:** television-startech  
 **URL:** https://www.startech.com.bd/haier-h43s80eux-43-inch-google-tv
 **Price:** 35,000৳ 47,900৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14IRH10R Core 5 210H 14" WUXGA Laptop With FreeDOS  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-14irh10r-laptop-with-freedos`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-14irh10r-laptop-with-freedos
+**Price:** 81,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14IRH10R Core 5 210H 14" WUXGA Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-14irh10r-core-5-210h-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-14irh10r-core-5-210h-laptop
+**Price:** 83,500৳
 
 ---
 
