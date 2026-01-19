@@ -6315,6 +6315,78 @@ Touch screen
 ---
 
 
+## MacBook Air (13-inch, 2017)  
+**DocID:** `daraz_564463905`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 29,000
+
+---
+
+
+## Chuwi HeroBook Pro 14.1 Inch Celeron N4020 1.1 to 2.8GHz, 8GB, 256GB, Win11 Laptop  
+**DocID:** `daraz_571268201`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 32,480
+
+---
+
+
+## HP 250 G8 (5C132PA) Intel Core i7-1165G7 11th Gen, 2.80 to 4.70 GHz, 8GB RAM, 1TB HDD + 256GB SSD, Windows 11, 15.6 inch IPS FHD Display Dark Ash Silver Laptop  
+**DocID:** `daraz_523193014`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,699
+
+---
+
+
+## Asus Vivobook Go 14 L1404FA (EB542W) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz 16GB RAM 512GB SSD 14"Inch FHD Display Laptop  
+**DocID:** `daraz_570819626`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 73,900
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 14IRH8 (83EL0039LK) 13th Gen, Core i7, 16GB RAM, 512GB SSD, 14" FHD Laptop  
+**DocID:** `daraz_568614724`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 98,600
+
+---
+
+
+## Lenovo IdeaPad D330-101GL #82H0001VIN# Celeron N4020 1.1 to 2.8GHz, 4GB, 128GB Emmc, Win 10 Home, 10.1 Detachable Touch Laptop  
+**DocID:** `daraz_240852250`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 32,000
+
+---
+
+
+## Dell Latitude 3420 11th Gen i7-1165G7 2.8 to 4.7GHz, 8GB RAM, 1TB HDD, 14 FHD Laptop  
+**DocID:** `daraz_285191676`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 108,500
+
+---
+
+
+## HP ELITEBOOK 840 G7 Touch Screen Laptop (Republished Singapore)  
+**DocID:** `daraz_568641702`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 42,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6500,15 +6572,6 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 100,000
-
----
-
-
-## MacBook Air (13-inch, 2017)  
-**DocID:** `daraz_564463905`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 29,000
 
 ---
 
@@ -9686,6 +9749,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 199
+
+---
+
+
+## Trendsetter -Royal blue colour polo t shirt for men | Premium polo t shirt for men new 2024 brand | Real madrid polo tshirt- Inventive Choice  
+**DocID:** `daraz_320382561`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 368
 
 ---
 
@@ -12942,6 +13014,33 @@ Synthetic rubber sole
 ---
 
 
+## New Lambor ghini sneaker men casual shoes  
+**DocID:** `daraz_252569469`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 530
+
+---
+
+
+## New Best Collection 2025 Comfortable Stylish & Fashionable Sports Look, Lace Up, Slip-on & Pull-on, Light Weight - White and Black Color Combination Sneaker For Men - Perfect For Any Occasion  
+**DocID:** `daraz_567682072`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 420
+
+---
+
+
+## Trendsetter -High Qulaity Sports' Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men- Inventive Choice  
+**DocID:** `daraz_321259957`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 493
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -15548,6 +15647,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 369
+
+---
+
+
+## Bashundhara Kings Short Sleeve Collar Football Jersey For Man - Half Sleeve Polo T Shirt - Bashundhara Jersey 2025-26  
+**DocID:** `daraz_268974716`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 289
+
+---
+
+
+## Sheffield United Short Sleeve Football Jersey For Men - Half Sleeve T Shirt - Sheffield Football Jersey 2025  
+**DocID:** `daraz_474861040`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
 
 ---
 
@@ -18276,6 +18393,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 27,499
+
+---
+
+
+## REDMI 15(8/256GB) Unofficial  Global /Official  
+**DocID:** `daraz_568486714`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,000
 
 ---
 
@@ -22898,6 +23024,46 @@ Non-removable Li-Po Battery
 **Category:** laptop  
 **URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-14irh10r-core-5-210h-laptop
 **Price:** 83,500৳
+
+---
+
+
+## ZOTAC GAMING GeForce RTX 5070 Twin Edge OC 12GB GDDR7 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/zotac-gaming-geforce-rtx-5070-twin-edge-oc-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/zotac-gaming-geforce-rtx-5070-twin-edge-oc-graphics-card
+**Price:** 89,000৳
+
+---
+
+
+## PC Power PCGM22UB 21.5" IPS FHD 100Hz Borderless Gaming Monitor  
+**DocID:** `startech_https://www.startech.com.bd/pc-power-pcgm22ub-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/pc-power-pcgm22ub-monitor
+**Price:** 11,200৳
+
+---
+
+
+## Hohem iSteady M7 AI Gimbal Stabilizer  
+**DocID:** `startech_https://www.startech.com.bd/hohem-isteady-m7-ai-gimbal-stabilizer`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/hohem-isteady-m7-ai-gimbal-stabilizer
+**Price:** 24,990৳ 27,000৳
+
+---
+
+
+## Smart SEL-32G25F 32" FHD Voice Control Android Smart Google TV  
+**DocID:** `startech_https://www.startech.com.bd/smart-sel-32g25f-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/smart-sel-32g25f-tv
+**Price:** 20,500৳ 34,900৳
 
 ---
 
