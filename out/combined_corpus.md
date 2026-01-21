@@ -1981,6 +1981,15 @@
 ---
 
 
+## ASUS ZenBook 13.3 AMD Ryzen 7-5000 Series Mobile Processors, providing powerful all-round performance.  
+**DocID:** `daraz_573657046`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 69,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -6387,6 +6396,24 @@ Touch screen
 ---
 
 
+## ASUS VivoBook S15 S513EA-L13199WN 11th Gen Intel Core i3-1115G4 8GB RAM 512GB SSD 15.6 Inch OLED Laptop  
+**DocID:** `daraz_346054453`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 72,000
+
+---
+
+
+## Apple MacBook Air MGN63 M1 Chip 2.06-3.8GHz, 8GB RAM, 256GB SSD, 13.3Inch Retina IPS Laptop (Late 2020)  
+**DocID:** `daraz_351907499`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 111,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6419,15 +6446,6 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 218,500
-
----
-
-
-## Apple MacBook Air MGN63 M1 Chip 2.06-3.8GHz, 8GB RAM, 256GB SSD, 13.3Inch Retina IPS Laptop (Late 2020)  
-**DocID:** `daraz_351907499`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 111,000
 
 ---
 
@@ -9762,6 +9780,42 @@ Touch screen
 ---
 
 
+## New Stylish Pk cotton polo For Men ,men fashion, collar t shirt Polo  
+**DocID:** `daraz_325617283`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
+
+---
+
+
+## Green Cotton Polo For Men - Polo T Shirt For Men  
+**DocID:** `daraz_106036508`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 358
+
+---
+
+
+## Premium quality cotton polo T shirt for men-Polo T Shirt  
+**DocID:** `daraz_343972682`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## GoodMan Premium Quality Petrol Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_541549424`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 649
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -13041,6 +13095,60 @@ Synthetic rubber sole
 ---
 
 
+## Men's summer sneakers Men's sneakers breathable mesh summer sports shoes Casual sneakers free shipping shoes  
+**DocID:** `daraz_546048850`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,667
+
+---
+
+
+## Men's Waterproof Loafers – Unique Style, Rubber Sole, Windproof for Summer & Winter – Ash  
+**DocID:** `daraz_535139751`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 368
+
+---
+
+
+## Stlysh Running Sports Sneakers Casual Lace-Up Shoes Winter And Summer Men'S Shoes - Shoe For Boys - Shoe For Boys - Insoles For Shoes - Shoe For Boys  
+**DocID:** `daraz_318079257`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## Running Sneakers Casual Lace-Up Shoes Summer Men'S Shoes White - Sneakers - Shoes For Men - Shoe For Boys - Shoes For Men -  - Sneakers  
+**DocID:** `daraz_218978447`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 380
+
+---
+
+
+## Sneakers Casual Lace-up Shoes For Men  
+**DocID:** `daraz_363713092`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 369
+
+---
+
+
+## High Quality Sports' Sneakers Men: Fashionable Fly Knit, Light Weight Slip-On Men - Ideal Shoes for Comfort and Style  
+**DocID:** `daraz_292964372`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 415
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -15665,6 +15773,69 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 270
+
+---
+
+
+## B-D Jersey - Football Short sleeve  Jersey for Man - Banglades Fan Jersey 2026-27  
+**DocID:** `daraz_303558612`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Liverpool Short Sleeve Jersey 2026/27 Football Jersey For Men - Half Sleeve - Liverpool Jersey 2026  
+**DocID:** `daraz_297137016`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Mohammedan Sporting Club Short Sleeve Football Jersey For Man - Mohammedan SC Football Jersey 2025  
+**DocID:** `daraz_329301149`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Portugal Thai Premium Football For Men - Half Sleeve Jersey - Portugal Football Jersey 2025  
+**DocID:** `daraz_286146142`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 349
+
+---
+
+
+## Bayern Munich Short Sleeve Polo Football Jersey For Man - Half Sleeve - Bayern Munich Jersey 2025  
+**DocID:** `daraz_269547130`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 290
+
+---
+
+
+## Al-NassrJersey 2025/2026 Thai Premium Football Jersey For Men - Half Sleeve - Al Nassr Jersey 2025  
+**DocID:** `daraz_269036646`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Barcelona Jersey 2025/2026 Thai Premium Football Jersey For Man - Half Sleeve Jersey - Barcelona Football Jersey 2025  
+**DocID:** `daraz_247799533`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
 
 ---
 
@@ -18402,6 +18573,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 25,000
+
+---
+
+
+## HTC Wildfire E7 Life 6GB/128GB | Official  
+**DocID:** `daraz_571347281`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,999
+
+---
+
+
+## Symphony MAX 10 SMART PHONE  
+**DocID:** `daraz_572883798`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 8,680
+
+---
+
+
+## Galaxy S23 Ultra 5G  
+**DocID:** `daraz_323248544`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 110,000
 
 ---
 
@@ -23064,6 +23262,26 @@ Non-removable Li-Po Battery
 **Category:** television-startech  
 **URL:** https://www.startech.com.bd/smart-sel-32g25f-tv
 **Price:** 20,500৳ 34,900৳
+
+---
+
+
+## Zotac GAMING GeForce RTX 3050 Twin Edge OC 6GB GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/zotac-gaming-geforce-rtx-3050-twin-edge-oc-6gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/zotac-gaming-geforce-rtx-3050-twin-edge-oc-6gb-graphics-card
+**Price:** 25,900৳
+
+---
+
+
+## COLMI P28 Plus Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/colmi-p28-plus-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/colmi-p28-plus-smart-watch
+**Price:** 2,219৳ 2,399৳
 
 ---
 
