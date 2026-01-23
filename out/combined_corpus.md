@@ -6414,6 +6414,69 @@ Touch screen
 ---
 
 
+## Acer Aspire Lite AL15-41 (UN.431SI.328) AMD Ryzen 5 5500U 2.1 to 4.0GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_377176893`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 61,700
+
+---
+
+
+## Walton Tamarind EX311G Pro 11th Gen Intel Core i3-1115G4 1.7GHz to 4.1GHz, 8GB RAM, 512GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569141645`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 36,000
+
+---
+
+
+## Acer Aspire Lite AL15-41 (UN.31ZSI.04X) AMD Ryzen 5 7430U, Up to 4.3GHz, 16GB RAM, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_571362046`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 64,000
+
+---
+
+
+## MSI Modern 15 B13M 13th Gen Core i7-1355U 3.7 to 5 GHz, 16GB RAM, 512GB SSD, Win 11, 15.6 FHD Laptop  
+**DocID:** `daraz_316347565`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 110,900
+
+---
+
+
+## Lenovo IdeaPad Flex 5i (7) 12TH Gen Core i7 Touch Laptop - 16GB RAM - 512GB SSD - 14 Inch Display-  Intel Iris Xe Graphics -  FHD 1080p WebCam with Privacy Shutter - Storm Grey - #82R700J8IN  
+**DocID:** `daraz_328237066`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 168,780
+
+---
+
+
+## HP 14s-dq5545TU 12th Gen i7-1260P-1.5 To 4.7 GHz, 8 GB DDR4, 512 GB SSD , Windows 11, 14 Inch FHD Laptop  
+**DocID:** `daraz_266000595`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 103,500
+
+---
+
+
+## Dell Vostro 14 3400 11th Gen Core i7-1165G7 2.8 to 4.7 GHz, 8GB, 512 SSD,  MX330 2GB Graphics, 14 Inch FHD Display Laptop  
+**DocID:** `daraz_285928235`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 96,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -9816,6 +9879,24 @@ Touch screen
 ---
 
 
+## Splendid Refined Taste -Indispensable -Upscale Living -Polo Shirt for men - Multicolor- Inventive Choice- Unique Inspiration  
+**DocID:** `daraz_313983027`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## MULTICOLOUR Cotton Casual Polo Shirt for Men - Polo T Shirt For Men  
+**DocID:** `daraz_300098527`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 170
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -13149,6 +13230,15 @@ Synthetic rubber sole
 ---
 
 
+## Panda School shoes boys girls running shoes  
+**DocID:** `daraz_201950522`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 650
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -15836,6 +15926,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 350
+
+---
+
+
+## Juventus Full Sleeve Jersey 2025-26 Thai Premium Football Jersey For Man - Long Sleeve - Juventus Jersey 2025  
+**DocID:** `daraz_547667304`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Real Madrid Jersey 2025-2026 Thai Premium Football Jersey For  Men - Half Sleeve Jersey - Real Madrid Football Jersey 2025  
+**DocID:** `daraz_269670716`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## BNP Jersey - BNP Polo Jersey For Men - BNP Jersey  
+**DocID:** `daraz_313307134`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 199
 
 ---
 
@@ -18604,6 +18721,24 @@ Non-removable Li-Po Battery
 ---
 
 
+## vivo V60 Lite 8GB/256GB | 6500mAh BlueVolt Battery | 90W FlashCharge  
+**DocID:** `daraz_562407252`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 32,050
+
+---
+
+
+## iPhone 17 Pro 256GB | 512GB | 1TB (e-Sim only)  
+**DocID:** `daraz_556451178`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 184,990
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -19050,6 +19185,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 21,999
+
+---
+
+
+## Honor Pad X8a Wifi (4GB+128GB) | Snapdragon 680 | 8300mAh Battery | Official  
+**DocID:** `daraz_573750739`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 22,999
 
 ---
 
@@ -23282,6 +23426,37 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/colmi-p28-plus-smart-watch
 **Price:** 2,219৳ 2,399৳
+
+---
+
+
+## Colorful iGame GeForce RTX 5060 Ti Ultra W OC 16GB-V GDDR7 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/colorful-igame-geforce-rtx-5060-ti-ultra-w-oc-16gb-v-gpu`
+**Source:** StarTech  
+**Category:** graphics-card  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/colorful-igame-geforce-rtx-5060-ti-ultra-w-oc-16gb-v-gpu
+**Price:** Up Coming
+
+---
+
+
+## Hikvision DS-D5022F2-6P2 21.5" 100Hz FHD IPS Monitor White  
+**DocID:** `startech_https://www.startech.com.bd/hikvision-ds-d5022f2-6p2-monitor-white`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/hikvision-ds-d5022f2-6p2-monitor-white
+**Price:** 10,900৳
+
+---
+
+
+## DJI MINI 4 PRO Fly More Combo + DJI RC2  
+**DocID:** `startech_https://www.startech.com.bd/dji-mini-4-pro-fly-more-combo-with-rc2`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-mini-4-pro-fly-more-combo-with-rc2
+**Price:** 99,000৳ 120,000৳
 
 ---
 
