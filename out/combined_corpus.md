@@ -6477,6 +6477,78 @@ Touch screen
 ---
 
 
+## HP ProBook 440 G8 (Refurbished) – 14" FHD Display, Intel Core i5 11th Gen, 16GB RAM, 256GB SSD  
+**DocID:** `daraz_568611610`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 51,442
+
+---
+
+
+## Hp Elitebook 840 G7, Core i7 10th Gen, 14" Full HD Display-16GB Ram, 512GB SSD  
+**DocID:** `daraz_569250643`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 43,824
+
+---
+
+
+## Walton Tamarind EX511G Pro 11th Gen Intel Core i5-1135G7 2.4GHz to 4.2GHz, 8GB RAM, 512GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569212655`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 52,000
+
+---
+
+
+## Chuwi HeroBook Pro 14.1 Inch Celeron N4020 1.1 to 2.8GHz, 8GB, 256GB, Win11 Laptop  
+**DocID:** `daraz_570839098`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 32,470
+
+---
+
+
+## Surface Pro 11 - Snapdragon X Elite 12 Core  
+**DocID:** `daraz_570288184`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 185,462
+
+---
+
+
+## Lenovo IdeaPad 1 15ADA7 AMD Ryzen 3 3250U 15.6" FHD Laptop  
+**DocID:** `daraz_279730918`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 61,980
+
+---
+
+
+## hp laptop  
+**DocID:** `daraz_571432334`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 18,000
+
+---
+
+
+## Asus Zenbook 13 (UESD Laptop) – 14" WUXGA FHD, AMD RYZEN 7-4650, 8GB DDR4LX RAM, 256GB NVMe SSD  
+**DocID:** `daraz_573657034`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,800
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -9897,6 +9969,33 @@ Touch screen
 ---
 
 
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T-Shirt  
+**DocID:** `daraz_525100528`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 315
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
+**DocID:** `daraz_359350211`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 249
+
+---
+
+
+## Stylist premium Quality Summer Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_296323572`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 330
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -13239,6 +13338,51 @@ Synthetic rubber sole
 ---
 
 
+## Men Casual Sports Shoes Breathable Lightweight Sneakers Anti-slip Flats Outdoor Running Walking Tenis Athletic Jogging Shoes  
+**DocID:** `daraz_546025929`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,290
+
+---
+
+
+## New updated Sneaker Soft and Comfortable Shoes For Men/ orginalPolice keds for men/ New year colletion police keds  
+**DocID:** `daraz_529062669`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,889
+
+---
+
+
+## Men's sneakers lightweight breathable classic grey and black shoes for men  
+**DocID:** `daraz_561308765`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 999
+
+---
+
+
+## Mens Fashionable Exclusive Sneakers Converse for Men  
+**DocID:** `daraz_269531091`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 500
+
+---
+
+
+## Indispensable-Quality And Durability-Stylish Blue And Green Color SUPERAR Sports Sneakers Shoes For Men-Canvas Shoes For Summer M38  
+**DocID:** `daraz_548304267`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 584
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -15953,6 +16097,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 199
+
+---
+
+
+## Japan Jersey 2025/26 Football Jersey For Man - Half Sleeve - Japan Football Jersey 2025  
+**DocID:** `daraz_558210718`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
 
 ---
 
@@ -18735,6 +18888,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 184,990
+
+---
+
+
+## vivo V60 5G Lite 12GB/256GB | 6500mAh BlueVolt Battery | 90W FlashCharge  
+**DocID:** `daraz_562401464`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 40,650
 
 ---
 
@@ -23457,6 +23619,16 @@ Non-removable Li-Po Battery
 **Category:** drone  
 **URL:** https://www.startech.com.bd/dji-mini-4-pro-fly-more-combo-with-rc2
 **Price:** 99,000৳ 120,000৳
+
+---
+
+
+## ASUS Vivobook 15 OLED M1505YA Ryzen 7 7730U 8GB RAM 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-15-oled-m1505ya-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-15-oled-m1505ya-laptop
+**Price:** 81,000৳
 
 ---
 
