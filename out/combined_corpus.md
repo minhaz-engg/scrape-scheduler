@@ -6549,6 +6549,51 @@ Touch screen
 ---
 
 
+## Hp Elitebook 840 G6, i5 8th gen. 16/512 SSD  
+**DocID:** `daraz_571565456`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 30,000
+
+---
+
+
+## HP Laptop 15, Ryzen 5 7520U, 15.6'' Laptop-8GB Ram, 512GB SSD--Open box condition Laptop  
+**DocID:** `daraz_568775141`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 57,200
+
+---
+
+
+## Lenovo IdeaPad Slim 3i (8) (82X7008CLK) 13th Gen Core-i3 Laptop  
+**DocID:** `daraz_536007365`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 64,760
+
+---
+
+
+## MSI Modern 15 B13M 13th Gen Core i5-1335U 3.3 to 4.4 GHz, 16GB RAM, 512GB SSD, Win 11, 15.6 FHD Laptop  
+**DocID:** `daraz_316376834`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 96,000
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15ABR8 (82XM005BLK) Ryzen 7 7730U 2 to 4.5GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_451826214`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 77,850
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -9996,6 +10041,42 @@ Touch screen
 ---
 
 
+## premium quality cotton polo t shirt for men-Polo Tshirt  
+**DocID:** `daraz_523011779`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 325
+
+---
+
+
+## Premium Quality Polo Shirt For Men - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_295838800`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 330
+
+---
+
+
+## POLO Ralph Lauren Big Pony For Men  
+**DocID:** `daraz_215084644`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts  
+**DocID:** `daraz_302635387`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 190
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -13383,6 +13464,51 @@ Synthetic rubber sole
 ---
 
 
+## Quality And Durability-New Trendy Blue Black And Cream Color JAPANESE Casual Sneakers Canvas Shoes For Men Fashionable Lightweight And Comfortable Shoes  
+**DocID:** `daraz_373060770`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 465
+
+---
+
+
+## High Qulaity Sports' Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men  
+**DocID:** `daraz_317361400`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 494
+
+---
+
+
+## Men's Sneakers Converse Running  Casual Lace-up Shoes Winter and Summer Men's Shoes  
+**DocID:** `daraz_318623951`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 423
+
+---
+
+
+## Lightweight and Breathable - Sneakers for Men - Casual Shoes for Walking - Shoe For Boys - Stay Comfortable All Day Long  
+**DocID:** `daraz_196998167`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 390
+
+---
+
+
+## Stylish Addition to the New Collection Better Choice of Exclusive Low Top Sneakers Converse for Men  
+**DocID:** `daraz_298876070`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 544
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -16106,6 +16232,60 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 260
+
+---
+
+
+## France Football Jersey For Man - France T Shirt For Man - France Jersey-2024-2025  
+**DocID:** `daraz_472074644`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 280
+
+---
+
+
+## Stylish and Comfortable Jersey - Polo T-shirt - Full sleeve Collar Polo Jersey For Man - Jersey  
+**DocID:** `daraz_287938218`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 310
+
+---
+
+
+## Portugal 7 Short Sleeve Polo Football Jersey For Men - Ronaldo 7 Number Polo Jersey - Portugal Jersey  
+**DocID:** `daraz_246508102`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 250
+
+---
+
+
+## B-d Short Sleeve Football Jersey For Men - T Shirt For Men - Banglades Fan Jersey 2026-27  
+**DocID:** `daraz_330439164`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Real Madrid Jersey 2025/2026 Thai Premium Football Jersey for Men - Half Sleeve T Shirt - Real Madrid Football Jersey 2025  
+**DocID:** `daraz_530332009`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 349
+
+---
+
+
+## Juventus Full sleeve Football Jersey For Man - T Shirt For Man - Juventus Jersey  
+**DocID:** `daraz_474794481`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 280
 
 ---
 
@@ -18897,6 +19077,141 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 40,650
+
+---
+
+
+## Motorola Edge 50 Fusion 5G (8+128)  
+**DocID:** `daraz_387009297`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 28,999
+
+---
+
+
+## Realme note 70(4 +128gb) ডিসপ্লে: 6.74 ''ips, 90hz, 15w ফাস্ট চার্জিং সহ 6000mAh  
+**DocID:** `daraz_546250522`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,989
+
+---
+
+
+## REDMI 15C (8/256GB) Unofficial Global /Official  
+**DocID:** `daraz_573694221`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 22,999
+
+---
+
+
+## REDMI 15(6/128GB) Official /Unofficial Global  
+**DocID:** `daraz_568488561`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 23,000
+
+---
+
+
+## Walton Smart Phone Primo GH11  
+**DocID:** `daraz_313687899`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 9,999
+
+---
+
+
+## Xiaomi Redmi Note 12 Turbo 8/256  
+**DocID:** `daraz_330622344`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 49,999
+
+---
+
+
+## Symphony Innova 30 SMART PHONE  
+**DocID:** `daraz_573237868`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,799
+
+---
+
+
+## Motorola Edge 50 Fusion 5g (12+256)  
+**DocID:** `daraz_397571250`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 30,999
+
+---
+
+
+## Walton Smart Phone NEXG N6 Lite  
+**DocID:** `daraz_325695571`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,999
+
+---
+
+
+## iPhone 14 128GB Global Variant  
+**DocID:** `daraz_345303976`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 73,999
+
+---
+
+
+## Symphony G26 smart phone  
+**DocID:** `daraz_572217999`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 7,655
+
+---
+
+
+## Infinix NOTE Edge 8/128GB | 1.5K 3D curved Display | 6500mAh Ultra-Slim Battery | MTK D7100 5G  
+**DocID:** `daraz_573405510`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 29,999
+
+---
+
+
+## W&O X16 Pro Max Smartphone 4GB+6GB RAM  1 year Brand Warrenty  powerful Network 4G  
+**DocID:** `daraz_571370134`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 9,490
+
+---
+
+
+## itel Super S26 Ultra 8GB/128GB ROM with Free Itel Travel Bag  
+**DocID:** `daraz_561780683`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 18,955
+
+---
+
+
+## Infinix NOTE Edge 8/256GB | 1.5K 3D curved Display | 6500mAh Ultra-Slim Battery | MTK D7100 5G  
+**DocID:** `daraz_573714646`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 31,999
 
 ---
 
@@ -23629,6 +23944,36 @@ Non-removable Li-Po Battery
 **Category:** laptop  
 **URL:** https://www.startech.com.bd/asus-vivobook-15-oled-m1505ya-laptop
 **Price:** 81,000৳
+
+---
+
+
+## Microsoft Surface Pro 10 Core Ultra 7 165U 13" 120Hz 32GB RAM Touch Laptop  
+**DocID:** `startech_https://www.startech.com.bd/microsoft-surface-pro-10-32gb-ram-touch-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/microsoft-surface-pro-10-32gb-ram-touch-laptop
+**Price:** 278,000৳
+
+---
+
+
+## GUNNIR Intel Arc B570 Index 10G GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/gunnir-intel-arc-b570-index-10g-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/gunnir-intel-arc-b570-index-10g-graphics-card
+**Price:** 33,500৳
+
+---
+
+
+## PNY GeForce RTX 5060 8GB Dual Fan GDDR7 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/pny-geforce-rtx-5060-8gb-dual-fan-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/pny-geforce-rtx-5060-8gb-dual-fan-graphics-card
+**Price:** 65,000৳
 
 ---
 
