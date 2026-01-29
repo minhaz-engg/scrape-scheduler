@@ -6594,6 +6594,33 @@ Touch screen
 ---
 
 
+## Chuwi HeroBook Pro 14.1 Inch Celeron N4020 1.1 to 2.8GHz, 8GB, 256GB, Win11 Laptop  
+**DocID:** `daraz_570850793`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 32,460
+
+---
+
+
+## Dell Inspiron 15 3530 for Business 13th Gen Intel Core i7 1355U 16GB RAM, 512GB SSD 15.6 Inch FHD Display Platinum Silver Laptop  
+**DocID:** `daraz_563032289`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 94,500
+
+---
+
+
+## Dell Latitude 15 3520 11th Gen i5-1135G7 2.4 to 4.2GHz, 8GB, 256GB SSD, 15.6 Inch HD Laptop  
+**DocID:** `daraz_326813819`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 75,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -10077,6 +10104,42 @@ Touch screen
 ---
 
 
+## 1-10 Years 1 Pcs Baby Boy Polo T-Shirt without Pant.Cute Soft Cotton Kids Clothing.Boy Summer Suit Children Clothing Set.,Premium Quality Half Sleeve Polo T-Shirt For Kids, Party Shirt,New Collection Shirt  
+**DocID:** `daraz_294598493`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 180
+
+---
+
+
+## Eid special cotton polo shlirt for men-Poloshirt  
+**DocID:** `daraz_343973453`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Premium China Polo Shirt Triangle Pattern For Men-Khaki  
+**DocID:** `daraz_406705086`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 640
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts - Kurti  
+**DocID:** `daraz_302791618`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 180
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -13509,6 +13572,42 @@ Synthetic rubber sole
 ---
 
 
+## Running Sneakers Golden Color Casual Lace-up Shoes Winter and Summer Men's Shoes - Shoes For Men -  - জুতা ছেলেদের  
+**DocID:** `daraz_211210886`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 588
+
+---
+
+
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_313805413`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 604
+
+---
+
+
+## New Trendy Black And Blue Color JENS2025 Canvas Sneakers Shoes For Men Comfortable Stylish Shoes For Winter  
+**DocID:** `daraz_556994937`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 535
+
+---
+
+
+## New Lambor Ghini Sneaker Men Casual Shoes - Sneakers For Men - Shoe For Boys - White Shoes  
+**DocID:** `daraz_328484154`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 530
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -16286,6 +16385,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 280
+
+---
+
+
+## Portugal Jersey 2026/27 Thai Premium Football For Men - Half Sleeve Collar Polo Jersey - Portugal Jersey 2026  
+**DocID:** `daraz_327784917`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Ronaldo 7 Al-Nassr Thai Premium Football Jersey For Man - Al Nassr Jersey  
+**DocID:** `daraz_362453554`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 450
 
 ---
 
@@ -19212,6 +19329,42 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 31,999
+
+---
+
+
+## Symphony Helio 50 SMART PHIONE  
+**DocID:** `daraz_573260197`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,331
+
+---
+
+
+## Infinix Hot 60i (8GB+256GB) Official  
+**DocID:** `daraz_543539092`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 17,499
+
+---
+
+
+## Xiaomi Redmi Note 13 5G (6GB/128GB)  
+**DocID:** `daraz_363195206`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 17,499
+
+---
+
+
+## Xiaomi Redmi note 13 5G (8+256GB) Unofficial  
+**DocID:** `daraz_408882107`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 18,999
 
 ---
 
@@ -23974,6 +24127,16 @@ Non-removable Li-Po Battery
 **Category:** graphics-card  
 **URL:** https://www.startech.com.bd/pny-geforce-rtx-5060-8gb-dual-fan-graphics-card
 **Price:** 65,000৳
+
+---
+
+
+## Xtra Active S6 Pro Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/xtra-active-s6-pro-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/xtra-active-s6-pro-smart-watch
+**Price:** 2,200৳ 2,399৳
 
 ---
 
