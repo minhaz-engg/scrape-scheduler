@@ -6621,6 +6621,51 @@ Touch screen
 ---
 
 
+## Samsung Notebook 9 Pro, Core i7 8th Gen, X360 13.3'' Silver Used Laptop-16GB Ram, 256GB SSD  
+**DocID:** `daraz_569251440`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 43,032
+
+---
+
+
+## Chuwi HeroBook Pro 14.1 Inch Celeron N4020 1.1 to 2.8GHz, 8GB, 256GB, Win11 Laptop  
+**DocID:** `daraz_570789287`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 32,450
+
+---
+
+
+## HP ELITEBOOK 830 G8 TOUCH  
+**DocID:** `daraz_573704510`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,000
+
+---
+
+
+## Asus Vivobook Go 14 L1404FA (EB542W) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz 16GB RAM 512GB SSD 14"Inch FHD Display Laptop  
+**DocID:** `daraz_570817947`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,000
+
+---
+
+
+## Lenovo L13 Yoga, Core i5 10th Gen, 14" x360 Touch Screen Used Laptop-16GB Ram, 256GB SSD  
+**DocID:** `daraz_569263035`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 39,072
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -10140,6 +10185,33 @@ Touch screen
 ---
 
 
+## Men's Classic Navy Blue Polo T-Shirt Stylish & Comfortable  
+**DocID:** `daraz_534610698`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 250
+
+---
+
+
+## Ensemble Yourself - Superb Quality - Half Sleeve Cotton Polo Shirt For Men - Polo T Shirt - Trend and Needful - Understated Sophistication  
+**DocID:** `daraz_306152702`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 285
+
+---
+
+
+## Men's Blue Color Chaina Short Sleeve Exclusive Polo- Shirt .  
+**DocID:** `daraz_346151806`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 222
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -13608,6 +13680,51 @@ Synthetic rubber sole
 ---
 
 
+## Shoes For Men Sneakers: Lightweight, Breathable, Comfortable Casual Shoes For Walking - Perfect Blend of Style and Comfort  
+**DocID:** `daraz_196973768`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 470
+
+---
+
+
+## Premium Men's Low Top Sneakers - New Collection - Comfortable and Suitable for All Seasons  
+**DocID:** `daraz_217357149`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 495
+
+---
+
+
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_318839433`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 384
+
+---
+
+
+## Hot Collection Comfortable Sports Sneakers  Stylish Lace up Trendy Shoes for man  
+**DocID:** `daraz_316983983`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 432
+
+---
+
+
+## Sneakers White Color Casual Lace-up Shoes - Shoes for Men  
+**DocID:** `daraz_333663290`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -16403,6 +16520,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 450
+
+---
+
+
+## Bayern Munich Jersey 2025/26 Thai Premium Football Jersey For Man - Half Sleeve - Bayern Munich Jersey 2025  
+**DocID:** `daraz_220953966`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## PSG Short Sleeve football Jersey For Men - Half Sleeve t shirt - PSG Football Jersey 2025  
+**DocID:** `daraz_270361456`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 250
+
+---
+
+
+## Aston Villa Thai Premium Football Jersey For Man - Half Sleeve T Shirt - Aston Villa Football Jersey 2025  
+**DocID:** `daraz_269674309`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Barcelona Jersey 2025/2026 Thai Premium Football Jersey For Men - Half Sleeve Jersey - Barcelona Football Jersey 2025  
+**DocID:** `daraz_542179595`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
 
 ---
 
@@ -19365,6 +19518,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 18,999
+
+---
+
+
+## Itel A50 smart phone  
+**DocID:** `daraz_573415625`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 8,075
 
 ---
 
