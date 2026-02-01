@@ -6666,6 +6666,78 @@ Touch screen
 ---
 
 
+## HP Elitebook X360 1040 G9 2-In-1 (UESD Laptop) | 14″ WUXGA Touch | 12th Gen Intel Core i5-1255U | 16GB | 512GB SSD | Intel Iris Xe | W11 | Silver  
+**DocID:** `daraz_573648846`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,000
+
+---
+
+
+## Microsoft Surface Laptop 4, Core i7 11th Gen, 13.5" Display Black-16GB Ram, 512GB SSD Used Laptop  
+**DocID:** `daraz_573015218`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,950
+
+---
+
+
+## SAMSUNG Galaxy Book2 Pro 360, Intel Core i7 12th Gen, 15.6" FHD AMOLED Display (1920 x 1080) Used Laptop  
+**DocID:** `daraz_573004631`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 108,000
+
+---
+
+
+## Apple MacBook Pro 16" (2018, Refurbished) – Intel Core i7 2.6GHz, 32GB RAM, 512GB SSD, Silver Color  
+**DocID:** `daraz_568743293`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 83,640
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 14IRH8 (83EL0039LK) 13th Gen, Core i7, 16GB RAM, 512GB SSD, 14" FHD Laptop  
+**DocID:** `daraz_568662427`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 98,000
+
+---
+
+
+## MSI Modern 15 B12M 12th Gen i7-1255U 3.5 to 4.7GHz, 8GB RAM, 512GB SSD, Windows 11 Home, 15.6 Inch FHD IPS Laptop  
+**DocID:** `daraz_316674315`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 95,900
+
+---
+
+
+## Dell Inspiron 14 7420 2 in 1 12th Gen Core i5-1235U 3.3 to 4.4GHz, 8GB, 512GB SSD, Win 11 Home, 14Inch FHD Touch Laptop  
+**DocID:** `daraz_307978833`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 132,000
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15ITL (Refurbished)  
+**DocID:** `daraz_573998398`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 42,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6848,15 +6920,6 @@ Touch screen
 
 ## Apple MacBook Pro (16-inch, 32GB RAM, 512GB Storage, 2.6GHz Intel Core i7) - Space Gray 2019  
 **DocID:** `daraz_569238245`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 95,000
-
----
-
-
-## 2019 Apple MacBook Pro (16-inch, 32GB RAM, 512GB Storage, 2.6GHz Intel Core i7) - Space Gray  
-**DocID:** `daraz_568743293`
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 95,000
@@ -10208,6 +10271,60 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 222
+
+---
+
+
+## Stylist Premium Quality Summer Polo Shirt For Men - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_296096640`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Stylish Addition - Stylist Premium Quality Summer Polo Shirt For Men - Polo T Shirt For Men - Modern - Choice Expression  
+**DocID:** `daraz_295504739`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 298
+
+---
+
+
+## POLO Ralph Lauren For Men  
+**DocID:** `daraz_169240522`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 490
+
+---
+
+
+## Premium Malticolour half sleeve cotton polo shirt for men  
+**DocID:** `daraz_225092905`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## SMUG Premium Elite Edition Contrast Polo - soft touch and comfortable for day-long usage-Olive  
+**DocID:** `daraz_365192960`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
+
+---
+
+
+## Premium China Polo Shirt Triangle Pattern For Men-Black  
+**DocID:** `daraz_406531979`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 640
 
 ---
 
@@ -13725,6 +13842,15 @@ Synthetic rubber sole
 ---
 
 
+## Stylish Addition - New Collection Better Choice Stylish and Fashionable Exclusive Low Top Sneakers Converse for Men - Sustainable Choice  
+**DocID:** `daraz_345172683`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -16556,6 +16682,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 350
+
+---
+
+
+## Portugal Short Sleeve Football Jersey For Men - Half Sleeve - Portugal Jersey 2026  
+**DocID:** `daraz_272723482`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Argentina World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Half Sleeve - Argentina Jersey 2026  
+**DocID:** `daraz_563512865`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
 
 ---
 
@@ -19527,6 +19671,60 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 8,075
+
+---
+
+
+## Xaiomi Redmi 13 (6+128)  
+**DocID:** `daraz_386987544`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,999
+
+---
+
+
+## Xiaomi Redmi Note 13 5G (8GB/128GB)  
+**DocID:** `daraz_328536080`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 18,999
+
+---
+
+
+## M Horse Note 60 Ram 4Gb+ 4GB Extended  
+**DocID:** `daraz_535749945`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 9,990
+
+---
+
+
+## REDMI Note 15 4G (6/128GB) Unofficial Global /Official  
+**DocID:** `daraz_572369348`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 30,999
+
+---
+
+
+## Helio 45(6+128GB),6.75"IPS LCD, 120Hz ডিসপ্লে,18W ফাস্ট চার্জিং সহ 5000mah Battery  
+**DocID:** `daraz_573681983`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 11,989
+
+---
+
+
+## Itel A50C smart phone  
+**DocID:** `daraz_573802474`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 6,961
 
 ---
 
@@ -24299,6 +24497,66 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/xtra-active-s6-pro-smart-watch
 **Price:** 2,200৳ 2,399৳
+
+---
+
+
+## MSI Summit A16 AI+ A3HMTG Ryzen AI 7 350 165Hz 16" QHD IPS Laptop Copilot+PC  
+**DocID:** `startech_https://www.startech.com.bd/msi-summit-a16-ai-plus-a3hmtg-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-summit-a16-ai-plus-a3hmtg-laptop
+**Price:** 215,000৳
+
+---
+
+
+## MSI Cyborg A15 AI B2HWFKG Ryzen 7 260 RTX 5060 8GB Graphics 144hz 15.6" FHD IPS Gaming Laptop Copilot+PC  
+**DocID:** `startech_https://www.startech.com.bd/msi-cyborg-a15-ai-b2hwfkg-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-cyborg-a15-ai-b2hwfkg-laptop
+**Price:** 175,000৳
+
+---
+
+
+## MSI GeForce RTX 5070 12G VENTUS 2X OC 12GB GDDR7 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/msi-geforce-rtx-5070-12g-ventus-2x-oc-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/msi-geforce-rtx-5070-12g-ventus-2x-oc-graphics-card
+**Price:** 95,900৳
+
+---
+
+
+## ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/asus-rog-astral-geforce-rtx-5080-16gb-gddr7-oc-edition-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/asus-rog-astral-geforce-rtx-5080-16gb-gddr7-oc-edition-graphics-card
+**Price:** 289,900৳
+
+---
+
+
+## GIGABYTE Z790 EAGLE AX DDR5 ATX Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/gigabyte-z790-eagle-ax-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/gigabyte-z790-eagle-ax-motherboard
+**Price:** 30,500৳
+
+---
+
+
+## GIGABYTE Z790 AORUS ELITE AX ATX Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/gigabyte-z790-aorus-elite-ax-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/gigabyte-z790-aorus-elite-ax-motherboard
+**Price:** 40,500৳
 
 ---
 
