@@ -6738,6 +6738,60 @@ Touch screen
 ---
 
 
+## HP Omnibook 5 Flip 14, Intel Core i5 14th Gen, 14inch 2K x360 Touch Screen Laptop-8GB Ram, 512GB SSD, Full Box Intact Seal Packed Laptop  
+**DocID:** `daraz_569252530`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 83,424
+
+---
+
+
+## Asus VivoBook Go 15 E1504FA (BQ1333) Ryzen 5-7520U 2.80 to 4.30 GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_505446603`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 73,558
+
+---
+
+
+## HP 15s-fq5986TU 12th Gen i7-1260P-1.5 To 4.7 GHz, 8 GB DDR4, 512 GB SSD, Windows 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_266320681`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 103,700
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15ITL6 Core i7 11th Gen Laptop - 8GB DDR4 3200 RAM - 512GB M.2 NVME SSD - Intel Iris Xe Graphics - 15.6 Inch FHD Display #82H803EWIN [Get Surprise Gift]  
+**DocID:** `daraz_323057926`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 108,370
+
+---
+
+
+## Dell Vostro 3400 11th Gen Intel Core i5-1135G7 8GB, 256 SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_286327077`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 76,000
+
+---
+
+
+## Refubrished Dell Latitude 3540 Core i5 12th Gen 15.6" FHD Laptop  
+**DocID:** `daraz_573767548`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 25,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -10329,6 +10383,15 @@ Touch screen
 ---
 
 
+## Trendsetter - Fashion Innovator - Highly Sustainable - Half Sleeve Cotton Polo Shirt For Men - Durabilty Assured - Understated Sophistication  
+**DocID:** `daraz_303338419`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 285
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -13851,6 +13914,15 @@ Synthetic rubber sole
 ---
 
 
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_571461241`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 345
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -16700,6 +16772,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 360
+
+---
+
+
+## Liverpool New Jersey Football Jersey premium quality Jersey  
+**DocID:** `daraz_316138351`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 320
+
+---
+
+
+## Clorox Liquid Bleach - Original 1Lp  
+**DocID:** `daraz_416762050`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 340
+
+---
+
+
+## Brazil Jersey 2025/2026 Thai Premium Football Jersey For Men - Half Sleeve - Brazil Football Jersey 2025  
+**DocID:** `daraz_290581238`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 334
+
+---
+
+
+## Al-Nassr Short Sleeve Football Jersey For Man - Half Sleeve - Al Nassr Jersey 2026  
+**DocID:** `daraz_331250870`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 239
 
 ---
 
@@ -19725,6 +19833,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 6,961
+
+---
+
+
+## Motorola G06 power 4-64  
+**DocID:** `daraz_561227314`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,099
 
 ---
 
