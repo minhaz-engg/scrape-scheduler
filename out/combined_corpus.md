@@ -6792,6 +6792,69 @@ Touch screen
 ---
 
 
+## Walton Prelude N50 Pro Pentium Intel Quad-Core 1.10 GHz up to 3.10 GHz, 8GB DDR4, 256GB SSD, 14.1 Inch FHD Laptop  
+**DocID:** `daraz_538831513`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 31,850
+
+---
+
+
+## ASUS Vivobook 15 X1504VA-NJ550W 13th Gen Intel Core i3-1315U 8GB RAM 512GB SSD 15.6 Inch FHD Laptop  
+**DocID:** `daraz_361010151`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,700
+
+---
+
+
+## Hp Elitebook 745 G5  
+**DocID:** `daraz_483239722`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 40,000
+
+---
+
+
+## Lenovo IP Slim 3i 11th Gen Core i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, MX350 2GB GFX, Win 11 Home, 15.6 Inch FHD Laptop #82H802M5IN  
+**DocID:** `daraz_312946673`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 81,300
+
+---
+
+
+## HP Envy x360 Convertible 14-ES0033 13th Gen Core i7-1355U 3.7 to 5GHz, 16GB, 1TB SSD, Win 11 Home, 14 Inch IPS FHD Touch Laptop  
+**DocID:** `daraz_351664450`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 138,000
+
+---
+
+
+## Dell Latitude 5420 11th Gen Core i5-1135G7 2.4 to 4.2 GHz, 8GB, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_285428348`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 110,000
+
+---
+
+
+## Hp Elitebook 845 G8, Ryzen 5 Pro 5650U, 14" Used Laptop-16GB Ram, 256GB SSD  
+**DocID:** `daraz_569270001`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 39,072
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -10392,6 +10455,15 @@ Touch screen
 ---
 
 
+## Men's Custom Slim Fit Pony Embroidered Short-Sleeved Polo Shirt- Navy Blue  
+**DocID:** `daraz_290944461`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 820
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -13923,6 +13995,78 @@ Synthetic rubber sole
 ---
 
 
+## North Star VALERIO Sneaker for Men  
+**DocID:** `daraz_362314081`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 974
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_571462422`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 345
+
+---
+
+
+## Stylish Black Grey Blue and Khaki Color Korean Canvas Sneakers Shoes for Men Slip On Casual Shoes - Trendy Slip-On Sneakers  
+**DocID:** `daraz_320518361`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 367
+
+---
+
+
+## Indispensable-Quality And Durability-New Collection Black And White Color TopME Canvas Sneakers Shoes For Men Stylish And Comfortable Shoes For Summer M37  
+**DocID:** `daraz_415414483`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 520
+
+---
+
+
+## Elevate Your Style - New Collection of Stylish and Fashionable Exclusive Sneakers Converse for Men - Step into Luxury and Trend  
+**DocID:** `daraz_323702319`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 509
+
+---
+
+
+## New Trendy Premium Quality Black Blue And Grey Color CANADIAN Canvas Sneakers Shoes For Men M6060  
+**DocID:** `daraz_548287526`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 485
+
+---
+
+
+## North Star VALERIO Sneaker for Men  
+**DocID:** `daraz_362313185`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 974
+
+---
+
+
+## Indispensable-Quality And Durability-Stylish Blue And Green Color SUPERAR Sports Sneakers Shoes For Men-Canvas Shoes For Summer M38  
+**DocID:** `daraz_349048075`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 512
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -16808,6 +16952,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 239
+
+---
+
+
+## Brazil World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Long Sleeve - Brazil Jersey 2026  
+**DocID:** `daraz_566806855`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Argentina Jersey 2025/2026 Thai Premium Foodball Jersey for Men - Half Sleeve Jersey - Argentina Football Jersey 2025  
+**DocID:** `daraz_269547345`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
 
 ---
 
@@ -19842,6 +20004,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 13,099
+
+---
+
+
+## Xiaomi Redmi Note 14 5G (8+128GB)  
+**DocID:** `daraz_522450400`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 19,979
+
+---
+
+
+## Xaiomi Redmi Note 13 5G (6 + 128gb) ডিসপ্লে: 6.67'' AMOLED,120hz, 33w ফাস্ট চার্জিং সহ 5000mah  
+**DocID:** `daraz_545965021`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 17,479
+
+---
+
+
+## HONOR X9d 5G 12/256GB | AMOLED 120Hz Display | 8300mAh Battery | Official  
+**DocID:** `daraz_573998533`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 43,690
 
 ---
 
@@ -24674,6 +24863,126 @@ Non-removable Li-Po Battery
 **Category:** motherboard  
 **URL:** https://www.startech.com.bd/gigabyte-z790-aorus-elite-ax-motherboard
 **Price:** 40,500৳
+
+---
+
+
+## Lenovo IdeaPad 1 15AMN7 AMD Athlon Silver 7120U 512GB Storage 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-1-15amn7-amd-athlon-silver-7120u-512gb-storage-fhd-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-1-15amn7-amd-athlon-silver-7120u-512gb-storage-fhd-laptop
+**Price:** 42,900৳
+
+---
+
+
+## HP 15-fc0355au AMD Athlon Silver 7120U 15.6'' FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fc0355au-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fc0355au-laptop
+**Price:** 46,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 1 15AMN7 Ryzen 3 7320U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-1-15amn7-ryzen-3-7320u-fhd-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-1-15amn7-ryzen-3-7320u-fhd-laptop
+**Price:** 50,500৳
+
+---
+
+
+## GIGABYTE Intel Arc A380 GAMING OC 6G GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/gigabyte-intel-arc-a380-gaming-oc-6g-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/gigabyte-intel-arc-a380-gaming-oc-6g-graphics-card
+**Price:** 21,000৳
+
+---
+
+
+## OCPC GeForce GTX 1660 Ti XE 6GB GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/ocpc-geforce-gtx-1660-ti-xe-6gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/ocpc-geforce-gtx-1660-ti-xe-6gb-graphics-card
+**Price:** 23,500৳ 25,200৳
+
+---
+
+
+## V198 Max Toy Drone with RC Remote  
+**DocID:** `startech_https://www.startech.com.bd/v198-max-toy-drone`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/v198-max-toy-drone
+**Price:** 22,500৳
+
+---
+
+
+## DJI RS 3 Mini Gimbal Stabilizer  
+**DocID:** `startech_https://www.startech.com.bd/dji-rs-3-mini-gimbal-stabilizer`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/dji-rs-3-mini-gimbal-stabilizer
+**Price:** 26,900৳ 28,000৳
+
+---
+
+
+## Hohem iSteady MT2 Kit Camera Gimbal  
+**DocID:** `startech_https://www.startech.com.bd/hohem-isteady-mt2-kit-gimbal-stabilizer`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/hohem-isteady-mt2-kit-gimbal-stabilizer
+**Price:** 32,500৳ 35,000৳
+
+---
+
+
+## Xiaomi TV A Pro 32 2026 32 inch LED HD Smart Google TV (Global Version)  
+**DocID:** `startech_https://www.startech.com.bd/xiaomi-tv-a-pro-32-2026`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/xiaomi-tv-a-pro-32-2026
+**Price:** 23,500৳ 29,990৳
+
+---
+
+
+## Smart SEL-43G25F 43" 4K Voice Control Android Google TV  
+**DocID:** `startech_https://www.startech.com.bd/smart-sel-43g25f-4k-google-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/smart-sel-43g25f-4k-google-tv
+**Price:** 36,500৳ 43,500৳
+
+---
+
+
+## T800 Ultra 2 Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/t800-ultra-2-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/t800-ultra-2-smart-watch
+**Price:** 850৳ 900৳
+
+---
+
+
+## Haylou Solar Lite Smart Watch (Without Calling)  
+**DocID:** `startech_https://www.startech.com.bd/xiaomi-haylou-solar-lite-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/xiaomi-haylou-solar-lite-smart-watch
+**Price:** 2,083৳ 2,299৳
 
 ---
 
