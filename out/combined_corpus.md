@@ -6855,6 +6855,33 @@ Touch screen
 ---
 
 
+## Lenovo thinkpad X1 yoga i7 8th gen, 16/256  
+**DocID:** `daraz_573262263`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 39,999
+
+---
+
+
+## Apple MacBook Air MLXW3 (Late 2022) M2 Chip 2.42 to 3.48GHz, 8GB, 256GB SSD, 13.6 Inch Retina IPS Laptop  
+**DocID:** `daraz_352437822`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 153,300
+
+---
+
+
+## MSI Modern 15 B12M 12th Gen i7-1255U 3.5 to 4.7GHz, 16GB RAM, 512GB SSD, Win 11 Home, 15.6" FHD IPS Laptop (B12M-041BD-BB71255U16GXXDX11EMH)  
+**DocID:** `daraz_322385905`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 104,300
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6887,15 +6914,6 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 218,500
-
----
-
-
-## Apple MacBook Air MLXW3 (Late 2022) M2 Chip 2.42 to 3.48GHz, 8GB, 256GB SSD, 13.6 Inch Retina IPS Laptop  
-**DocID:** `daraz_352437822`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 153,300
 
 ---
 
@@ -10460,6 +10478,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 820
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
+**DocID:** `daraz_359351309`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 249
+
+---
+
+
+## Fashionable Men’s Premium Cotton Polo Shirt for Men  
+**DocID:** `daraz_538049996`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
 
 ---
 
@@ -14067,6 +14103,51 @@ Synthetic rubber sole
 ---
 
 
+## New Collection Premium Quality Black And Blue Color FRENCH Casual Canvas Shoes For Men M7171  
+**DocID:** `daraz_546786485`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 525
+
+---
+
+
+## Sneakers Blue fashionable casual light version  
+**DocID:** `daraz_190843571`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 799
+
+---
+
+
+## Sneakers half breathable shoes for men lace up shoes for men with trendy design rubber sool sneakers shoes.  
+**DocID:** `daraz_530368410`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 666
+
+---
+
+
+## Sneakers for men lightweight lace up Korean mesh trendy multicoloured and red  shoes for men  
+**DocID:** `daraz_543938475`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 740
+
+---
+
+
+## New Sport Bandage Style: Comfortable Stylish & Fashionable Sports Look Lace Up Canvas Sneakers Shoes for Men  
+**DocID:** `daraz_350468694`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 505
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -16970,6 +17051,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 350
+
+---
+
+
+## Portugal Premium Football Jersey For Men -  Portugal Half Sleeve Jersey - Portugal Football Jersey 2025-26  
+**DocID:** `daraz_260406000`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 333
+
+---
+
+
+## Spain Short Sleeve Thai Premium Football Jersey For Men - Half Sleeve T Shirt - Spain Jersey 2025-26  
+**DocID:** `daraz_525953927`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 380
+
+---
+
+
+## Kolkata Knight Riders Jersey 2026/27 Short Sleeve IPL Cricket Jersey For Men - Half Sleeve Jersey - KKR Jersey 2026  
+**DocID:** `daraz_306417398`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 250
 
 ---
 
@@ -20031,6 +20139,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 43,690
+
+---
+
+
+## Xiaomi Redmi Note 14 5G (8+256GB)  
+**DocID:** `daraz_522165645`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,979
 
 ---
 
