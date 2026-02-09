@@ -1990,6 +1990,51 @@
 ---
 
 
+## Asus TUF Gaming A16 FA607NUG (RL144W) AMD Ryzen 7 7445HS, 3.55GHz to 4.70GHz, 16GB RAM 1TB SSD, RTX 4050 Graphics, Win-11, 16-Inch Gaming Laptop  
+**DocID:** `daraz_1572528744`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 155,300
+
+---
+
+
+## Asus TUF Gaming A16 FA607NUG (RL144W) AMD Ryzen 7 7445HS, 3.55GHz to 4.70GHz, 16GB RAM 1TB SSD, RTX 4050 Graphics, Win-11, 16-Inch Gaming Laptop  
+**DocID:** `daraz_1572552009`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 155,600
+
+---
+
+
+## Asus TUF Gaming A16 FA607NUG (RL144W) AMD Ryzen 7 7445HS, 3.55GHz to 4.70GHz, 16GB RAM 1TB SSD, RTX 4050 Graphics, Win-11, 16-Inch Gaming Laptop  
+**DocID:** `daraz_1572542441`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 155,500
+
+---
+
+
+## Asus TUF Gaming A16 FA607NUG (RL144W) AMD Ryzen 7 7445HS, 3.55GHz to 4.70GHz, 16GB RAM 1TB SSD, RTX 4050 Graphics, Win-11, 16-Inch Gaming Laptop  
+**DocID:** `daraz_1572538361`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 155,400
+
+---
+
+
+## Asus TUF Gaming A16 FA607NUG (RL144W) AMD Ryzen 7 7445HS, 3.55GHz to 4.70GHz, 16GB RAM 1TB SSD, RTX 4050 Graphics, Win-11, 16-Inch Gaming Laptop  
+**DocID:** `daraz_1572536391`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 155,700
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -6882,6 +6927,51 @@ Touch screen
 ---
 
 
+## Dell Latitude 5410, Core i5 10th Gen, 14" FHD Display Silver Used Laptop  
+**DocID:** `daraz_574980329`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 39,975
+
+---
+
+
+## HP EliteBook x360 1040 G8 (Refurbished) – 14" FHD Display, Intel Core i5 11th Gen, 32GB RAM, 512GB SSD  
+**DocID:** `daraz_568611731`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 73,644
+
+---
+
+
+## [QuantaBD]HP 15s-fq5487TU Core i3 12th Gen 15.6" FHD Laptop  
+**DocID:** `daraz_325507587`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 64,340
+
+---
+
+
+## Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB, 512GB SSD, 14.2" Liquid Retina XDR Laptop (Late 2023)  
+**DocID:** `daraz_352454372`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 218,500
+
+---
+
+
+## Dell Latitude 7400, Core i5 8th Gen, 14" Full HD Display Black Used-8GB Ram, 256GB SSD  
+**DocID:** `daraz_569251617`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 29,568
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -6905,15 +6995,6 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 294,000
-
----
-
-
-## Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB, 512GB SSD, 14.2" Liquid Retina XDR Laptop (Late 2023)  
-**DocID:** `daraz_352454372`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 218,500
 
 ---
 
@@ -10493,6 +10574,33 @@ Touch screen
 
 ## Fashionable Men’s Premium Cotton Polo Shirt for Men  
 **DocID:** `daraz_538049996`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Cotton  Polo T-Shirt For Men - Polo T Shirt For Men  
+**DocID:** `daraz_301895913`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 180
+
+---
+
+
+## Menz Stylish Polo  
+**DocID:** `daraz_150818560`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## Stylist Premium Quality Summer Polo Shirt For Men - Polo T Shirt For Men - Polo T Shirt - Polo T Shirt For Men  
+**DocID:** `daraz_295508332`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 299
@@ -14148,6 +14256,51 @@ Synthetic rubber sole
 ---
 
 
+## Fashionable Multicolore Colore Winter Sneakers for Men  
+**DocID:** `daraz_364315928`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 384
+
+---
+
+
+## Premium Footwear - Stay Fashionable with Premium Quality High-Top Sneakers for Men, Directly from Vietnam, offering Comfort and Easy Maintenance  
+**DocID:** `daraz_546637720`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,670
+
+---
+
+
+## Black Green And Grey Color SPANISH Casual Sneakers Canvas Shoes For Men Comfortable And Lightweight Shoe For Walking  
+**DocID:** `daraz_340215844`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 418
+
+---
+
+
+## New Lambor ghini sneaker men casual shoes  
+**DocID:** `daraz_328600340`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 500
+
+---
+
+
+## New Trendy Fashionable Black And Blue Color Winter Canvas Sneakers for Men M002  
+**DocID:** `daraz_338451035`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 301
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -17078,6 +17231,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 250
+
+---
+
+
+## Barcelona  Half Sleeve Jesrey 2025/2026 Thai Premium Football Jersey For Man - Barcelona Jersey 2025  
+**DocID:** `daraz_343105084`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
 
 ---
 
@@ -20148,6 +20310,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 20,979
+
+---
+
+
+## Global/Chinese  Version  REDMI  (8gb,256gb) Note13 series 5G Black  
+**DocID:** `daraz_339074856`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,979
+
+---
+
+
+## Samsung Galaxy A56 5G (8+256GB)  
+**DocID:** `daraz_528804863`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 58,979
+
+---
+
+
+## Nothing CMF Phone 2 Pro 8GB RAM and 128GB/256GB Rom  
+**DocID:** `daraz_574924676`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 28,289
 
 ---
 
@@ -25100,6 +25289,86 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/xiaomi-haylou-solar-lite-smart-watch
 **Price:** 2,083৳ 2,299৳
+
+---
+
+
+## ARKTEK AMD Radeon RX 550 8GB GDDR5 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/arktek-amd-radeon-rx-550-8gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/arktek-amd-radeon-rx-550-8gb-graphics-card
+**Price:** 16,000৳
+
+---
+
+
+## ARKTEK AMD Radeon RX 550 4GB GDDR5 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/arktek-amd-radeon-rx-550-4gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/arktek-amd-radeon-rx-550-4gb-graphics-card
+**Price:** 12,500৳
+
+---
+
+
+## ARKTEK GeForce GTX 1660 Ti 6GB GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/arktek-geforce-gtx-1660ti-6gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/arktek-geforce-gtx-1660ti-6gb-graphics-card
+**Price:** 26,000৳
+
+---
+
+
+## ARKTEK GTX 1660 Super 6GB GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/arktek-gtx-1660-super-6gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/arktek-gtx-1660-super-6gb-graphics-card
+**Price:** 26,000৳
+
+---
+
+
+## ARKTEK AMD Radeon RX 5600 6GB GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/arktek-amd-radeon-rx-5600-6gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/arktek-amd-radeon-rx-5600-6gb-graphics-card
+**Price:** 22,000৳
+
+---
+
+
+## ARKTEK AMD Radeon RX 7600 XT 8GB GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/arktek-amd-radeon-rx-7600-xt-8gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/arktek-amd-radeon-rx-7600-xt-8gb-graphics-card
+**Price:** 43,000৳
+
+---
+
+
+## ARKTEK GeForce RTX 2070 SUPER 8GB GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/arktek-geforce-rtx-2070-super-8gb-gpu`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/arktek-geforce-rtx-2070-super-8gb-gpu
+**Price:** 40,000৳
+
+---
+
+
+## ARKTEK GeForce RTX 3050 8GB GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/arktek-geforce-rtx-3050-8gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/arktek-geforce-rtx-3050-8gb-graphics-card
+**Price:** 36,000৳
 
 ---
 
