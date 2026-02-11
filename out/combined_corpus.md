@@ -6972,6 +6972,78 @@ Touch screen
 ---
 
 
+## Dell Latitude 3310 (Refurbished) – Intel Core i5 8th Gen, 8GB DDR4 RAM, 256GB SSD, 13.3" Display  
+**DocID:** `daraz_568608843`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 32,490
+
+---
+
+
+## Lenovo Thinkpad X1 yoga  
+**DocID:** `daraz_556808159`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 37,000
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14ABR8 (82XL0069LK) AMD Ryzen 7 7730U 2 to 4.50GHz, 16GB, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_432200584`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 88,700
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15IRH10 (83K100G0LK) 13th Gen Core i7-13620H 16GB RAM 512GB SSD 15.3-inch WUXGA Laptop  
+**DocID:** `daraz_573866819`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 84,781
+
+---
+
+
+## Lenovo IdeaPad Slim 3i (83EM00D8LK) 13th Gen Core i5 16GB RAM 512GB SSD 15.6-inch FHD Laptop  
+**DocID:** `daraz_573878795`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 87,481
+
+---
+
+
+## Lenovo IdeaPad Slim 3i (82X700A7LK) 13th Gen Core-i3 Laptop  
+**DocID:** `daraz_536140985`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,540
+
+---
+
+
+## Lenovo V14 G4 ABP 82YXA00QLK Ryzen 7 7730U 8GB RAM 512GB SSD 14" FHD Laptop  
+**DocID:** `daraz_537123497`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 80,900
+
+---
+
+
+## Lenovo IdeaPad Slim 3i Core i5 10th Gen 256GB SSD MX330 2GB Graphics 15.6" FHD Laptop  
+**DocID:** `daraz_573866835`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 89,515
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -10604,6 +10676,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 299
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt - Polo T Shirt  
+**DocID:** `daraz_233054405`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 329
+
+---
+
+
+## Light Ash Stylish Polo T-Shirt For Men's  
+**DocID:** `daraz_118728191`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## পুরুষদের শর্ট হাতা বেসিক সলিড অর্গানিক সুতির পোলো টি-শার্ট  
+**DocID:** `daraz_191564732`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 408
 
 ---
 
@@ -14301,6 +14400,78 @@ Synthetic rubber sole
 ---
 
 
+## New Trendy Black And Grey Color ITALY Casual Canvas Sneakers Shoes For Men Fashionable and New Collection Shoes For Man  
+**DocID:** `daraz_431188415`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 535
+
+---
+
+
+## Khaki Color Korean Canvas Sneakers Shoes for Men Slip On Casual Sports Shoes  
+**DocID:** `daraz_322852552`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 299
+
+---
+
+
+## Comfortable and Stylish Lightweight Sneakers for Men – Houwai Sole, Lace-Up Closure  
+**DocID:** `daraz_167922338`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 510
+
+---
+
+
+## Stlysh Running Sports Sneakers Casual Lace-up Shoes Winter and Summer Men's Shoes  
+**DocID:** `daraz_279688793`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 526
+
+---
+
+
+## Sneakers shoes for men casual high neck up light weight rubber sool casual lace up version sneakers for men.  
+**DocID:** `daraz_167916339`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## Stylish And Fashionable Winter And Summer Exclusive Sneakers  Shoes For Men  
+**DocID:** `daraz_261136025`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 357
+
+---
+
+
+## Exclusive & Colorful Loafer For Men - Shoe - Insoles For Shoes - Shose For Men  
+**DocID:** `daraz_221058995`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 336
+
+---
+
+
+## New Trendy Black Blue And Grey Color EXPRESS Casual Canvas Sneakers Shoes For Men New Collection And Breathable Shoes For Man  
+**DocID:** `daraz_546769621`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 539
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -17240,6 +17411,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 350
+
+---
+
+
+## Japan World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Half Sleeve - Japan Jersey 2026  
+**DocID:** `daraz_279695083`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 332
+
+---
+
+
+## Japan Anime Jersey 2026/27 Thai Premium Football Jersey For Men - Half Sleeve - Japan Jersey 2026  
+**DocID:** `daraz_269702929`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 332
 
 ---
 
@@ -20337,6 +20526,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 28,289
+
+---
+
+
+## Walton Orbit Y11 (2+16GB) Official  
+**DocID:** `daraz_525354415`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 4,999
 
 ---
 
@@ -25369,6 +25567,96 @@ Non-removable Li-Po Battery
 **Category:** graphics-card  
 **URL:** https://www.startech.com.bd/arktek-geforce-rtx-3050-8gb-graphics-card
 **Price:** 36,000৳
+
+---
+
+
+## MSI Modern A15 AI F2HMG Ryzen 5 220 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/msi-modern-a15-ai-f2hmg-ryzen-5-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-modern-a15-ai-f2hmg-ryzen-5-laptop
+**Price:** 81,000৳
+
+---
+
+
+## MSI Modern A15 AI F2HMG Ryzen 7 250 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/msi-modern-a15-ai-f2hmg-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-modern-a15-ai-f2hmg-laptop
+**Price:** 91,000৳
+
+---
+
+
+## MSI Thin A15 B7UC Ryzen 5 7535HS RTX 3050 4GB GDDR6 Graphics 15.6" FHD Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/msi-thin-a15-b7uc-ryzen-5-7535hs-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-thin-a15-b7uc-ryzen-5-7535hs-laptop
+**Price:** 95,000৳
+
+---
+
+
+## Lenovo IdeaPad 1 15AMN7 Ryzen 3 7320U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-1-15amn7-ryzen-3-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-1-15amn7-ryzen-3-laptop
+**Price:** 54,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15ABR8 Ryzen 7 5825U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15abr8-ryzen-7-5825u-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15abr8-ryzen-7-5825u-laptop
+**Price:** 68,000৳
+
+---
+
+
+## MSI Stealth A16 AI+ A3XWJG Ryzen AI 9 HX 370 RTX 5090 24GB Graphics 16” QHD+ 240Hz OLED Gaming Laptop Copilot+PC  
+**DocID:** `startech_https://www.startech.com.bd/msi-stealth-a16-ai-plus-a3xwjg-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-stealth-a16-ai-plus-a3xwjg-laptop
+**Price:** 620,000৳
+
+---
+
+
+## MSI Raider A18 HX A9WIG-082US Ryzen 9 9955HX3D RTX 5080 16GB Graphics 18" UHD+ 120Hz Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/msi-raider-a18-hx-a9wig-082us-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-raider-a18-hx-a9wig-082us-laptop
+**Price:** 455,000৳
+
+---
+
+
+## MSI Raider A18 HX A9WHG Ryzen 9 9955HX3D RTX 5070 Ti 12GB Graphics 18" QHD+ 240Hz Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/msi-raider-a18-hx-a9whg-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-raider-a18-hx-a9whg-laptop
+**Price:** 350,000৳
+
+---
+
+
+## Dahua DHI-LM22-A211Y 21.45" IPS Full HD 120Hz Monitor  
+**DocID:** `startech_https://www.startech.com.bd/dahua-dhi-lm22-a211y-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/dahua-dhi-lm22-a211y-monitor
+**Price:** 10,800৳
 
 ---
 
