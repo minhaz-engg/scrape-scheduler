@@ -7044,6 +7044,69 @@ Touch screen
 ---
 
 
+## MSI Modern 15 F13MG Intel Core i3-1315U 3.3GHz to 4.5GHz, 8GB 3200MHz, 512GB Gen4 NVMe SSD, 15.6 Inch FHD IPS Laptop  
+**DocID:** `daraz_525778351`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 65,900
+
+---
+
+
+## HP 250 G9 Intel Core i3-1215U 12th Gen up to 4.4 GHz, 8GB RAM, 512GB SSD, Windows 10, 15.6 Inch IPS FHD Laptop  
+**DocID:** `daraz_322599314`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,000
+
+---
+
+
+## Chuwi MiniBook X 10.5 Inch Touch Yoga N100 0.8 to 3.4GHz, 12GB, 512GB, Win11 Laptop  
+**DocID:** `daraz_335910783`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 54,850
+
+---
+
+
+## ASUS Vivobook 15 X1504ZA-NJ1276W 12th Gen Core-i5-1235U 8GB RAM 512GB SSD 15.6" FHD Display Laptop  
+**DocID:** `daraz_417898238`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,100
+
+---
+
+
+## Asus VivoBook S15 S513EA (L13199WN) Intel 11th Gen Core i3-1115G4 3GHz to 4.4GHz, 8GB, 512GB SSD, Win 11, 15.6 Inch FHD OLED Laptop  
+**DocID:** `daraz_530049265`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,500
+
+---
+
+
+## HP 250 G9 Intel Core i5-1235U 12th Gen up to 4.4 GHz, 8GB RAM, 512GB SSD, Windows 10, 15.6 Inch IPS FHD Laptop  
+**DocID:** `daraz_323093402`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 67,500
+
+---
+
+
+## Walton Tamarind EX511G Pro 11th Gen Intel Core i5-1135G7 2.4GHz to 4.2GHz, 8GB RAM, 512GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569222239`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 64,660
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -10703,6 +10766,42 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 408
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_226011126`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 329
+
+---
+
+
+## Premium China Polo Shirt Triangle Pattern For Men- polo t-shirt  
+**DocID:** `daraz_409244081`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 450
+
+---
+
+
+## Stylish - Modern Vibe - Easily Usable - Half Sleeve Cotton Polo Shirt For Men - Polo T Shirt - Easy To maintain - Well Inspired & Crafted  
+**DocID:** `daraz_306152696`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 285
+
+---
+
+
+## Stylist Premium Quality Summer Polo Shirt For Men  
+**DocID:** `daraz_314298433`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 329
 
 ---
 
@@ -14472,6 +14571,87 @@ Synthetic rubber sole
 ---
 
 
+## Winter Stylish Look Mesh Sneakers Men-Special Offer  
+**DocID:** `daraz_215798200`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 440
+
+---
+
+
+## Trendy Exclusive Air Mesh High-Top Lace-Up Sneakers with an Exclusive Design - Stylish Comfort for Men  
+**DocID:** `daraz_315463863`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 565
+
+---
+
+
+## Trendy running fabric soft sneakers shoe's for walking lace up shoes.  
+**DocID:** `daraz_345447530`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 371
+
+---
+
+
+## New Premium Quality Trendy Korean Canvas Sneakers Slip on Casual Shoes Stylish and Fashionable Summer and Winter Collection for Man  
+**DocID:** `daraz_348855997`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 477
+
+---
+
+
+## Trendy Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes - Sneakers  
+**DocID:** `daraz_209124576`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
+## SNEKERS SHOES FOR BOYS STYLISH LIGHT WEIGHT FABRICS SHOES FOR MEN ENJOY WEAKEING  
+**DocID:** `daraz_345196620`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 429
+
+---
+
+
+## New Collection Blue Color BEER Casual Canvas Sneakers Shoes For Men Stylish And Fashionable Shoes For Man  
+**DocID:** `daraz_432772439`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 418
+
+---
+
+
+## New Lambor Ghini Sneaker Men Casual Shoes Men Fashion Sneakers  
+**DocID:** `daraz_484230279`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
+## Sneakers shoes for men lace up shoes for men with trendy design rubber sool sneakers shoes.  
+**DocID:** `daraz_342238347`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 595
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -17429,6 +17609,78 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 332
+
+---
+
+
+## Brazil Short Sleeve Football Jersey For Man - Half Sleeve T Shirt - Brazil Football Jersey  
+**DocID:** `daraz_526261137`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Argentina Home Short  Sleeve Jersey 2022  
+**DocID:** `daraz_284084080`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 700
+
+---
+
+
+## Free Fire World Series Jersey For Men - Half Sleeve Collar Polo t shirt - Free Fire Esports Teams Jersey  
+**DocID:** `daraz_219413317`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 250
+
+---
+
+
+## B-d Short sleeve Football Jersey for Man - Half Sleeve - Banglades Fan Jersey  
+**DocID:** `daraz_325745706`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Portugal New Half Sleeve 2024 Euro Premium Quality JerseyNew Football Short Sleeve Jersey For Men  
+**DocID:** `daraz_365634205`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Saudi Arabia Full Sleeve Football Jersey For Men - Long Sleeve - Saudi Jersey 2026  
+**DocID:** `daraz_278535790`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Spain World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve Jersey - Spain Jersey 2026  
+**DocID:** `daraz_302660946`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Real Madrid Jersey 2026/2027 Thai Premium Football Jersey For Men - Vini 7 and Mbappe 10 Jersey - Real Madrid Jersey 2026  
+**DocID:** `daraz_325685676`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 401
 
 ---
 
@@ -20535,6 +20787,60 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 4,999
+
+---
+
+
+## Symphony Max 60 SMART PHONE  
+**DocID:** `daraz_572971507`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 8,522
+
+---
+
+
+## Motorola G96 5G (8 + 256gb) ডিসপ্লে: 6.67'' P-OLED,144hz, 30w ফাস্ট চার্জিং সহ 5500mah  
+**DocID:** `daraz_545807125`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 29,979
+
+---
+
+
+## Infinix XPAD 20 | 8GB RAM + 256GB ROM | 11" Display | 1 Year Official Warranty  
+**DocID:** `daraz_558255460`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,648
+
+---
+
+
+## Oppo A5 (8/128GB) - Official  
+**DocID:** `daraz_562666245`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,970
+
+---
+
+
+## REDMI Note 15 Pro 4G (8/256GB) Unofficial Global / Chinese Global  
+**DocID:** `daraz_574209123`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 39,970
+
+---
+
+
+## Samsung galaxy S25  Dual SD  12-128 / 256  
+**DocID:** `daraz_543412634`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 81,279
 
 ---
 
