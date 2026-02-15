@@ -7107,6 +7107,33 @@ Touch screen
 ---
 
 
+## Asus Vivobook Flip 14, Intel Celeron Processor, x360 14" Full HD Touch Screen Display-4GB Ram,  
+**DocID:** `daraz_569251625`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 24,480
+
+---
+
+
+## Surface Laptop Go 2, Core i5 11th Gen, 12.4" Display-16GB Ram, 256GB SSD Silver Used Laptop  
+**DocID:** `daraz_571348916`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,270
+
+---
+
+
+## ASUS Vivobook Go 15 L1504FA-(BQ2549W) AMD Ryzen 5 7520U, 16GB RAM, 512GB SSD, 15.6" FHD Display Laptop  
+**DocID:** `daraz_568678539`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,600
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -10802,6 +10829,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 329
+
+---
+
+
+## Premium China Polo Shirt Triangle Pattern For Men-Navy  
+**DocID:** `daraz_406702112`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 639
+
+---
+
+
+## Cotton polo T Shirts for men-multi color stripped polo shirt for men  
+**DocID:** `daraz_301979526`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 180
+
+---
+
+
+## Regular-fit Stretchable Pure Cotton, Blue Grey Short-sleeve Solid Pique Polo T-shirt For Men's.  
+**DocID:** `daraz_209579705`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 580
 
 ---
 
@@ -14652,6 +14706,24 @@ Synthetic rubber sole
 ---
 
 
+## LV Black Sneaker for Men  
+**DocID:** `daraz_554485699`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,549
+
+---
+
+
+## New Collection Better Choice Stylish and Fashionable Exclusive Low Top Sneakers Converse for Men - Comfortable and Suitable for All Seasons  
+**DocID:** `daraz_324413085`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 544
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -17681,6 +17753,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 401
+
+---
+
+
+## Portugal World Cup Jersey 2026 Thai Premium Football Jersey For Men - Long Sleeve - Portugal Jersey 2026  
+**DocID:** `daraz_564688140`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Bayern Munich Short Sleeve Thai Premium Polo Football Jersey For Man - Bayern Half Sleeve t shirt - Bayern Jersey 2025/26  
+**DocID:** `daraz_417641652`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## AC Milan Jersey 2025/2026 Thai Premium Football Jersey For Men - Long Sleeve -  AC Milan Jersey 2025-26  
+**DocID:** `daraz_559142467`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
 
 ---
 
@@ -20841,6 +20940,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 81,279
+
+---
+
+
+## Itel Power 70 smart phone  
+**DocID:** `daraz_573846137`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,834
 
 ---
 
