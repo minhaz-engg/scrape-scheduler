@@ -2098,6 +2098,15 @@
 ---
 
 
+## ASUS ZenBook 13.3 AMD Ryzen 7-5000 Series Mobile Processors, providing powerful all-round performance.  
+**DocID:** `daraz_574306583`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 68,999
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -7269,6 +7278,33 @@ Touch screen
 ---
 
 
+## Lenovo IdeaPad Slim 3i 15ITL6 Core-i3 11th Gen Laptop - 4GB DDR4 RAM - 1TB HDD - Intel UHD Graphics - 15.6-Inch Display #82H8023GIN  
+**DocID:** `daraz_311283612`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,270
+
+---
+
+
+## HP 14s-dq5110TU 12th Gen i5-1235U 3.3 To 4.4GHz, 8GB, 512GB SSD, Win 11, 14 Inch FHD IPS Laptop (7Y970PA)  
+**DocID:** `daraz_324322326`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 81,400
+
+---
+
+
+## Lenovo V14 82KA00E6IN Intel Core i3-1115G4 3 to 4.1GHz, 4GB RAM, 1TB HDD, 14 inch HD Laptop  
+**DocID:** `daraz_261338984`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 57,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -11072,6 +11108,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 286
+
+---
+
+
+## Premier  Quality cotton Polo T-shirt  For Men Style with comfortable  Polo T-shirt  All  Season and Occasions  
+**DocID:** `daraz_542848668`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 169
 
 ---
 
@@ -14958,6 +15003,24 @@ Synthetic rubber sole
 ---
 
 
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_571466305`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 365
+
+---
+
+
+## Men's Trendy Leather Casual Sport Sneakers / Dress Shoes  
+**DocID:** `daraz_551005403`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 544
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -18023,6 +18086,60 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 408
+
+---
+
+
+## Tottenham Jersey 2026/2027 Thai Premium Football Jersey For Men - Half Sleeve Jersey - Tottenham Jersey 2026  
+**DocID:** `daraz_247794416`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Brazil Worldcup Jersey Home Kit Fan Version Qatar 2022 Short Sleeves - Jersey Football - Brazil Jersey 2022 World Cup  
+**DocID:** `daraz_271033844`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 598
+
+---
+
+
+## Man City New Jersey Football Jersey premium quality Jersey All over Jersey 25/26  
+**DocID:** `daraz_324131708`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 340
+
+---
+
+
+## AC Milan 2025-26 away kit  
+**DocID:** `daraz_315472625`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 323
+
+---
+
+
+## AC Milan Jersey 2025/2026 Thai Premium Football Jersey For Men - AC Milan Football Jersey 2025  
+**DocID:** `daraz_542539656`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Full Sleeve T-shirt For Men - Genji  
+**DocID:** `daraz_326558900`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 150
 
 ---
 
@@ -21255,6 +21372,69 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 30,279
+
+---
+
+
+## Samsung Galaxy A07(4+64GB)"6.7" PLS LCD, 90Hz ডিসপ্লে,25W ফাস্ট চার্জিং সহ 5000 mah Battery  
+**DocID:** `daraz_566665106`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,499
+
+---
+
+
+## iPhone 16 Global  
+**DocID:** `daraz_444385266`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 96,499
+
+---
+
+
+## Poco F7  Indian  
+**DocID:** `daraz_540868698`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 45,379
+
+---
+
+
+## Galaxy A36 8-128/256  
+**DocID:** `daraz_527017542`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 32,879
+
+---
+
+
+## REDMI Note 15 Global Unofficial /Official (8/256GB)  
+**DocID:** `daraz_572369295`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 34,979
+
+---
+
+
+## Helio 45 smart phone  
+**DocID:** `daraz_573384753`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,891
+
+---
+
+
+## Xiaomi Redmi 15(6+128gb)6.9"IPS LCD, 144Hz ডিসপ্লে, 33W ফাস্ট চার্জিং সহ 7000mah Battery  
+**DocID:** `daraz_558719884`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 18,479
 
 ---
 
