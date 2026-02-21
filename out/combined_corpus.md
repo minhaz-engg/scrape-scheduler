@@ -7305,6 +7305,33 @@ Touch screen
 ---
 
 
+## Hp Laptop er charing adaptar core i5 gen 8  
+**DocID:** `daraz_323981860`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 25,000
+
+---
+
+
+## Asus VivoBook 15 X1504VA (NJ725) 13th Gen Core i3-1315U 1.20 to 4.5 GHz 8GB, 512GB SSD, 15.6-inch FHD Laptop  
+**DocID:** `daraz_535972857`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 64,900
+
+---
+
+
+## Dell Inspiron 14 7420 2 in 1 12th Gen Core i7-1255U 3.5 to 4.7GHz, 16GB, 512GB SSD, MX550 2GB, Win 11 Home, 14Inch FHD Touch Laptop  
+**DocID:** `daraz_308003183`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 166,800
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -11117,6 +11144,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 169
+
+---
+
+
+## Premium Quality Cotton polo t-shirt for men-polo collection for men  
+**DocID:** `daraz_529075607`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 450
+
+---
+
+
+## Premium Quality  Polo shirt For men's  
+**DocID:** `daraz_315353437`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 300
 
 ---
 
@@ -15021,6 +15066,24 @@ Synthetic rubber sole
 ---
 
 
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Unleash Your Style  
+**DocID:** `daraz_313808319`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 551
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_571456397`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 365
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -18140,6 +18203,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 150
+
+---
+
+
+## Mexico World Cup Jersey 2026 Thai Premium Football Jersey For Men - Long Sleeve - Mexico Jersey 2026  
+**DocID:** `daraz_343834015`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
 
 ---
 
@@ -21435,6 +21507,42 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 18,479
+
+---
+
+
+## Samsung Galaxy A17 5G 6/128GB|6.6" FHD+ AMOLED  
+**DocID:** `daraz_563925076`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,220
+
+---
+
+
+## Helio 95 smart phone  
+**DocID:** `daraz_1572654475`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 24,400
+
+---
+
+
+## Shymphony Max 10 (3+32GB), 6.56"IPS INCELL, 60 Hz ডিসপ্লে,40W ফাস্ট চার্জিং সহ 5000mah Battery  
+**DocID:** `daraz_573487430`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 7,479
+
+---
+
+
+## Xiaomi Redmi Note 13 Pro 5G (8GB/256GB) Smartphone  
+**DocID:** `daraz_335268957`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 24,979
 
 ---
 
@@ -26557,6 +26665,66 @@ Non-removable Li-Po Battery
 **Category:** monitor  
 **URL:** https://www.startech.com.bd/dahua-dhi-lm22-a211y-monitor
 **Price:** 10,800৳
+
+---
+
+
+## Eurovision EV-GT2200-F 21.45" 100Hz FHD IPS Monitor  
+**DocID:** `startech_https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/eurovision-ev-gt2200-f-monitor
+**Price:** 10,200৳
+
+---
+
+
+## Eurovision EV-GT3400-D 34" 2K WQHD 165Hz Curved Gaming Monitor  
+**DocID:** `startech_https://www.startech.com.bd/eurovision-ev-gt3400-d-curved-gaming-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/eurovision-ev-gt3400-d-curved-gaming-monitor
+**Price:** 40,000৳
+
+---
+
+
+## Eurovision EV-SV3200-4S1 32" 75Hz IPS 4K UHD Monitor  
+**DocID:** `startech_https://www.startech.com.bd/eurovision-ev-sv3200-4s1-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/eurovision-ev-sv3200-4s1-monitor
+**Price:** 23,000৳
+
+---
+
+
+## Eurovision EV-GT2400A-F 24" 75Hz FHD IPS Monitor  
+**DocID:** `startech_https://www.startech.com.bd/eurovision-ev-gt2400a-f-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/eurovision-ev-gt2400a-f-monitor
+**Price:** 14,500৳
+
+---
+
+
+## Eurovision EV-GT2700-C 27" 2K QHD 165Hz IPS Gaming Monitor  
+**DocID:** `startech_https://www.startech.com.bd/eurovision-ev-gt2700-c-gaming-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/eurovision-ev-gt2700-c-gaming-monitor
+**Price:** 25,000৳
+
+---
+
+
+## Eurovision EV-GT2200A-W 21.45" 100Hz FHD IPS Monitor  
+**DocID:** `startech_https://www.startech.com.bd/eurovision-ev-gt2200a-w-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/eurovision-ev-gt2200a-w-monitor
+**Price:** 10,500৳
 
 ---
 
