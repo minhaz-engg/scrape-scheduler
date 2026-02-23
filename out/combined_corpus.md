@@ -7332,6 +7332,78 @@ Touch screen
 ---
 
 
+## Acer Aspire Lite AL15-41 (UN.31ZSI.04X) AMD Ryzen 5 7430U, Up to 4.3GHz, 16GB RAM, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_570367254`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 64,500
+
+---
+
+
+## Surface Laptop 6 || 14th Generation Intel Core Ultra 7 || 32 GB RAM || 2 TB SSD  
+**DocID:** `daraz_466328728`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 274,900
+
+---
+
+
+## Asus VivoBook 15 F1504ZA (NJ698) Intel 12th Gen Core i5-1235U 1.3 to 4.4 GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_505147609`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 77,700
+
+---
+
+
+## HP 14-ep0198TU (A0MU6PA) Intel 13th Gen i3-1315U 1.20 to 4.5 GHz, 8GB, 512GB SSD, Win 11, 14 Inch FHD Laptop  
+**DocID:** `daraz_424716716`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,200
+
+---
+
+
+## Chuwi GemiBook Xpro Intel Celeron N100 14.1 inch Full HD Laptop (used)  
+**DocID:** `daraz_521002697`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 34,500
+
+---
+
+
+## Walton Walpad 11G Display 10.95″  | 8GB RAM | 128GB Storage | Helio G99 | 7000mAh | 90Hz FHD Display  
+**DocID:** `daraz_573904264`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 28,500
+
+---
+
+
+## Hp G6 laptop Core i5 gen 10th Ram 16gb ssd 256gb Full fresh condition kono poblem nay  
+**DocID:** `daraz_571409975`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 36,499
+
+---
+
+
+## Walton Tamarind EX311G Pro 11th Gen Intel Core i3-1115G4 1.7GHz to 4.1GHz, 8GB RAM, 512GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569148070`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 36,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -11162,6 +11234,51 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 300
+
+---
+
+
+## Cotton  Polo T-Shirt For Men - Polo T Shirt For Men  
+**DocID:** `daraz_301905115`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 180
+
+---
+
+
+## Cotton  Polo T-Shirt For Men - Polo T Shirt For Men  
+**DocID:** `daraz_301894978`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 190
+
+---
+
+
+## Trendy Quality Cotton Polo Shirt For Men-Dynamic Style - Polo T Shirt For Men - Polo T Shirt - Polo T Shirt  
+**DocID:** `daraz_294210104`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 285
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts - Polo T Shirt  
+**DocID:** `daraz_302112366`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 190
+
+---
+
+
+## Cotton polo T Shirts for men-multi color stripped polo shirt for men  
+**DocID:** `daraz_301989599`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 440
 
 ---
 
@@ -15084,6 +15201,42 @@ Synthetic rubber sole
 ---
 
 
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_228382869`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 526
+
+---
+
+
+## New Collection Fashionable Black Green And Grey Color SPANISH Casual Sneakers Canvas Shoes For Men Comfortable And Lightweight Shoe For Walking  
+**DocID:** `daraz_340250306`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 439
+
+---
+
+
+## Trendsetter -Upscale Living -Black And Blue Color Winter Canvas Sneakers for Men M002- Inventive Choice Preferble - Low Hassle and Maintanance  
+**DocID:** `daraz_315324554`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 395
+
+---
+
+
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_366318840`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 498
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -18212,6 +18365,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 370
+
+---
+
+
+## Real Madrid new home kit 2025/26 half sleeve & full sleeves  
+**DocID:** `daraz_345170180`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 355
 
 ---
 
@@ -21543,6 +21705,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 24,979
+
+---
+
+
+## Oppo A6 6GB/128GB + Free Exclusive Hoodie | 7000mAh Battery | 2 Years Extended Warranty  
+**DocID:** `daraz_568401929`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 22,840
 
 ---
 
@@ -26725,6 +26896,16 @@ Non-removable Li-Po Battery
 **Category:** monitor  
 **URL:** https://www.startech.com.bd/eurovision-ev-gt2200a-w-monitor
 **Price:** 10,500৳
+
+---
+
+
+## Remax Watch 16 Ultra 2 Letor Series  
+**DocID:** `startech_https://www.startech.com.bd/remax-watch-16-ultra-2-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/remax-watch-16-ultra-2-smart-watch
+**Price:** 2,290৳ 2,499৳
 
 ---
 
