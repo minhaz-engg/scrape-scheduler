@@ -2107,6 +2107,15 @@
 ---
 
 
+## HP Victus Gaming 15-fb3093dx - (Mica Silver) Ryzen 7-7445HS 512/16 15.6" (1920x1080) 144Hz NVIDIA RTX 4050 - 6GB DDR6 (75W)  
+**DocID:** `daraz_1573486712`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 104,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -7404,6 +7413,33 @@ Touch screen
 ---
 
 
+## Walton Tamarind EX310A (WTEX41A3BL) 10th Gen Intel Core i3-10110U 2.10GHz to 4.10GHz, 4GB, 256GB SSD, Windows 10, 14 Inch FHD Laptop  
+**DocID:** `daraz_569403196`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 31,300
+
+---
+
+
+## Asus VivoBook 15 X1504ZA (NJ1452W) 12th Gen Intel Core i5-1235U 1.3 to 4.40 GHz 8GB, 512GB SSD, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_519032746`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 78,900
+
+---
+
+
+## Lenovo ThinkPad E14 Gen 6 Core Ultra 5 125H 16GB RAM 512GB SSD 14.0-inch WUXGA Copilot+ PC  
+**DocID:** `daraz_536030679`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 107,060
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -11279,6 +11315,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 440
+
+---
+
+
+## Premium Quality - Stylist Premium Quality Summer Polo Shirt For Men - Polo T Shirt For Men - Couture - High-end - Durablity Assurance  
+**DocID:** `daraz_296092907`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Yellow Cotton Casual Polo Shirt For Men - Polo T Shirt - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_254140546`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 230
 
 ---
 
@@ -15237,6 +15291,24 @@ Synthetic rubber sole
 ---
 
 
+## Korea: New Collection 2024 Better Choice Stylish And Fashionable Exclusive Sneakers For Men  
+**DocID:** `daraz_390403793`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 480
+
+---
+
+
+## Trendy Lightweight Colorful Lace Up Stylish Shoes For Men - Elevate Your Style With Trendy And Lightweight Footwear  
+**DocID:** `daraz_303159625`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 430
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -18374,6 +18446,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 355
+
+---
+
+
+## Real Madrid Jersey 2026/27 Thai Premium Jersey For Man - Half Sleeve Polo t shirt - Real Madrid Football Jersey 2026/27  
+**DocID:** `daraz_337695391`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Inter Milan Jersey 2026/2027 Thai Premium Football Jersey For Man - Half Sleeve - Inter Milan Football Jersey 2026/2027  
+**DocID:** `daraz_268139082`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
 
 ---
 
@@ -21714,6 +21804,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 22,840
+
+---
+
+
+## Galaxy S25 Ultra  
+**DocID:** `daraz_523433248`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 139,979
+
+---
+
+
+## REDMI Note 15Pro+  5G(12/512GB) Unofficial Global /Official  
+**DocID:** `daraz_574750674`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 69,980
+
+---
+
+
+## Moto Edge 60 Pro [8/256GB]  
+**DocID:** `daraz_531448526`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 41,399
+
+---
+
+
+## Realme C85 Pro (8+128GB), 6.8"AMOLED,120Hzডিসপ্লে,45W ফাস্ট চার্জিং সহ 7000mah Battery  
+**DocID:** `daraz_568461985`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 24,479
+
+---
+
+
+## Xiaomi Redmi Note 14 5G  
+**DocID:** `daraz_573874604`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,128
 
 ---
 
