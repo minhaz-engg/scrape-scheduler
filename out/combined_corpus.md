@@ -2116,6 +2116,24 @@
 ---
 
 
+## Asus TUF Gaming A15 FA506NCG (HN223W) Ryzen 7-7445HS 3.5 to 4.70GHz, 8GB, 512GB SSD, RTX 3050 4GB, Win 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_1573778715`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 122,000
+
+---
+
+
+## Acer Nitro V15 ANV15-52-57BB - (Obsidian Black) Core i5-13420H 512/16 15.6" (1920x1080) 165Hz NVIDIA RTX 5050 - 8GB DDR7 Intact  
+**DocID:** `daraz_1573743004`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 115,500
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -7440,6 +7458,69 @@ Touch screen
 ---
 
 
+## Walton Tamarind EX311G Pro 11th Gen Intel Core i3-1115G4 1.7GHz to 4.1GHz, 8GB RAM, 512GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569152186`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 36,000
+
+---
+
+
+## Asus Vivobook Go 15 L1504FA (BQ2546W) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz,16GB RAM,512GB SSD,15.6"Inch Win-11,FHD Display Laptop  
+**DocID:** `daraz_571261989`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,000
+
+---
+
+
+## HP EliteBook x360 1040 G7 (Refurbished) – 14" Touch Laptop, Intel Core i7 10th Gen, 32GB RAM, 512GB SSD  
+**DocID:** `daraz_574310502`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 69,063
+
+---
+
+
+## Asus Vivobook 15 OLED A1505VA (L1944W) Intel 13th Gen Core i5-13420H, 1.50 GHz to 4.60 GHz, 16GB, 512GB SSD, Win 11, 15.6 Inch FHD OLED Display  
+**DocID:** `daraz_560799542`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 89,200
+
+---
+
+
+## Acer TravelLite TL14-52M 13th Gen Core i5-1335U-1305U 3.4 to 4.6GHz, 8GB DDR4, 512GB SSD, 14 Inch FHD IPS Display Laptop  
+**DocID:** `daraz_525897375`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 87,500
+
+---
+
+
+## Acer TravelMate TMP 214-53-72WA 11th Gen i7-1165G7 2.8 to 4.7GHz, 8GB, 512GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_292348895`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 84,500
+
+---
+
+
+## Lenovo ThinkPad L14 #20X2S5S100-3Y# 11th Gen Core i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_325469676`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 107,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -11333,6 +11414,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 230
+
+---
+
+
+## GoodMan Premium Quality Dark Gray Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_534448105`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 581
+
+---
+
+
+## Premium Summer Polo T-shirt soft and comfortable mesh Fabric t shart for man stylish and printed polo T shart  
+**DocID:** `daraz_560906064`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 440
+
+---
+
+
+## Gray Cotton Polo For Men  
+**DocID:** `daraz_104716130`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 288
 
 ---
 
@@ -15309,6 +15417,87 @@ Synthetic rubber sole
 ---
 
 
+## New Best classical Gym and Rauf Used  2025 Comfortable Stylish & Fashionable Sports Look, Lace Up, Slip-on & Pull-on, Light Weight - White and Black Color Combination Sneaker For Men - Perfect For Any Occasion  
+**DocID:** `daraz_546784265`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 479
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_571459486`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 345
+
+---
+
+
+## Pro Washable and Light-Weight Men's Shoe- Shoes For Men  
+**DocID:** `daraz_293519015`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,690
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_571459519`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 345
+
+---
+
+
+## Comfortable Sports Sneakers - Stylish Lace-Up Trendy Shoes for Men - Comfortable for All Seasons  
+**DocID:** `daraz_554488835`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 470
+
+---
+
+
+## School sneakers for boys with lace up weightless version.  
+**DocID:** `daraz_317889506`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 386
+
+---
+
+
+## Hot Collection Stylish and Fashionable Low Top Winter and Summer Exclusive Converse Sneakers for Men - Comfortable and Suitable for All Seasons  
+**DocID:** `daraz_571369382`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 345
+
+---
+
+
+## Hot Collection  Stlysh Running Sports Sneakers Casual Lace-up Shoes Winter and Summer Men's Shoes  
+**DocID:** `daraz_318633097`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 588
+
+---
+
+
+## New Stylish Fashion Sole Winter Sneakers for Men-Black  
+**DocID:** `daraz_567058065`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 559
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -18464,6 +18653,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 350
+
+---
+
+
+## England home jersey 25/26 (long sleeve) - ⁠World Cup England jersey  
+**DocID:** `daraz_305004185`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 355
+
+---
+
+
+## Rajshahi Warriors BPL 2026 Half Sleeve Jersey. Goat Hub  
+**DocID:** `daraz_569813743`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 371
+
+---
+
+
+## Real Madrid Away Jersey (Retro) Logo Embroidery Full Sleeve Thai premium CLub Football Jersey  
+**DocID:** `daraz_563057210`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 600
+
+---
+
+
+## Brazil Euro Jersey 2026/27 Short Sleeve Football Jersey For Men - Half Sleeve - Brazil Jersey 2026/2027  
+**DocID:** `daraz_252133161`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
 
 ---
 
@@ -21849,6 +22074,69 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 21,128
+
+---
+
+
+## M-HORSE M17 Pro Max (6+6)12 GB RAM 128GB ROM  5000 Mah Battery 4G Network  32 MP Camera powerful CPU . 1 year Brand Warrenty  
+**DocID:** `daraz_1573431330`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,980
+
+---
+
+
+## Galaxy M36 [6/128GB] 5G  
+**DocID:** `daraz_540728947`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 23,889
+
+---
+
+
+## Symphony Z60 SMART PHONE  
+**DocID:** `daraz_572699181`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,472
+
+---
+
+
+## Apple iPhone 17 Pro 256GB || Official  
+**DocID:** `daraz_562293660`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 229,974
+
+---
+
+
+## OnePlus 9 5g 8/128  
+**DocID:** `daraz_327640739`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 49,974
+
+---
+
+
+## Redmi turbo 4 12/256 Chaina  
+**DocID:** `daraz_521203596`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 29,974
+
+---
+
+
+## iPhone 17 Pro Max GLOBAL  
+**DocID:** `daraz_554474986`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 204,994
 
 ---
 
