@@ -2134,6 +2134,24 @@
 ---
 
 
+## Asus ROG Strix G15 G513RC 144Hz Ryzen 7 6800H 8GB DDR5 512GB SSD 4GB  
+**DocID:** `daraz_270140966`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 195,049
+
+---
+
+
+## Dell XPS 15 9510 Intel Core i9-11900H 11th Gen 64GB RAM 4TB SSD Nvidia RTX 3050Ti 4GB 15.6″ FHD+ Display  
+**DocID:** `daraz_271111515`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 377,499
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -7521,6 +7539,15 @@ Touch screen
 ---
 
 
+## Dell Latitude 3440 12th Gen Core i3-1215U 1.2 to 4.5GHz, 8GB, 256GB SSD, 14" HD Laptop  
+**DocID:** `daraz_350802624`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 86,300
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -7715,6 +7742,321 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 83,599
+
+---
+
+
+## Apple MacBook Air laptop, M1 Chip 13 inch 8GB RAM 256GB SSD Space Grey  
+**DocID:** `daraz_269812291`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 119,900
+
+---
+
+
+## Apple MacBook Air M1 Chip 13 inch 8GB RAM 256GB SSD Space grey  
+**DocID:** `daraz_272534032`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 119,500
+
+---
+
+
+## Apple iPad Pro M2 2022  11‑inch Liquid Retina display  Apple M2 chip, WiFi, 128GB  
+**DocID:** `daraz_287814543`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 125,000
+
+---
+
+
+## Apple MacBook Air M2 Chip 8-Core CPU 8-Core GPU 13.6-inch Liquid Retina display with True Tone 8GB RAM 256GB SSD  Laptop  
+**DocID:** `daraz_269824473`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 165,999
+
+---
+
+
+## Apple iPad Mini 6 2021 Wi-Fi – 64GB  
+**DocID:** `daraz_291210148`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 75,500
+
+---
+
+
+## iPad 10.9 10th Gen - 2022  
+**DocID:** `daraz_294283628`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 75,500
+
+---
+
+
+## Apple Mac mini M2  Apple M2  8-core CPU  10-core GPU  16‑core Neural Engine  8GB Ram  256GB SSD। Pre-Order  
+**DocID:** `daraz_294257555`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 95,000
+
+---
+
+
+## Apple Mac mini M2 | Apple M2 | 8-core CPU | 10-core GPU | 16‑core Neural Engine | 8GB Ram | 512GB SSD। Pre-Order  
+**DocID:** `daraz_294266475`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 125,000
+
+---
+
+
+## Apple MacBook Air M2 CHIP 8-CORE CPU 8-CORE GPU 13.6-inch Liquid Retina display with True Tone 8GB RAM 256GB SSD  
+**DocID:** `daraz_269178529`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 159,999
+
+---
+
+
+## Apple iPad 9th Generation laptop  10.2-inch Retina A13 Bionic 64GB  
+**DocID:** `daraz_280300453`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 59,000
+
+---
+
+
+## Apple MacBook Air 15 inch| 15.3-inch Liquid Retina | M2 Chip | 8-core CPU | 10-core GPU | 16 GB Ram | 512 GB SSD |  
+**DocID:** `daraz_347592444`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 249,000
+
+---
+
+
+## Apple MacBook Pro 2023 | 14-inch Liquid Retina XDR display | Apple M3 | 11-core CPU | 14-core GPU | 18GB Ram | 512GB SSD  
+**DocID:** `daraz_347603764`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 280,999
+
+---
+
+
+## Apple iPad Pro M2 2022 | 11inch Liquid Retina display | Apple M2 chip WiFi+ Cellular  
+**DocID:** `daraz_287865514`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 146,500
+
+---
+
+
+## Apple MacBook Air M2 Chip 8-Core CPU 8-Core GPU 13.6-inch Liquid Retina display with True Tone 8GB RAM 256GB SSD STAR LIGHT - Laptop  
+**DocID:** `daraz_272935072`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 155,990
+
+---
+
+
+## Apple MacBook Pro M2 | 13-inch Retina display True Tone display | 8-core CPU 10-core GPU | 8GB memory | 256GB SSD  
+**DocID:** `daraz_326402859`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 165,000
+
+---
+
+
+## MacBook Air 15 inch| 15.3-inch Liquid Retina | M2 Chip | 8-core CPU | 10-core GPU | 8 GB Ram | 256 GB SSD |  
+**DocID:** `daraz_337468638`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 169,000
+
+---
+
+
+## Apple MacBook Air M2 Chip 8-Core CPU 10-Core GPU 8GB RAM 512GB SSD 13.6-inch Liquid Retina display  
+**DocID:** `daraz_269191251`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 199,300
+
+---
+
+
+## Apple MacBook Air M2 Chip 8-Core CPU 10-Core GPU 13.6-inch Liquid Retina display with True Tone 16GB RAM 256GB SSD  
+**DocID:** `daraz_269828736`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 215,000
+
+---
+
+
+## Apple MacBook Air 13.6 M2 Z15S000D1  13.6-inch Liquid Retina display  Apple M2 chip 8-core CPU 10-core GPU  16GB Ram  256GB SSD  
+**DocID:** `daraz_282300893`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 225,000
+
+---
+
+
+## Apple MacBook Pro 14 2023 | 14-inch Liquid Retina XDR display | Apple M3 | 8-core CPU | 10-core GPU | 8GB Ram | 512GB SSD  
+**DocID:** `daraz_338708794`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 228,500
+
+---
+
+
+## Apple MacBook Air M2 Chip 8-Core CPU 8-Core GPU 13.6" 16GB RAM 512GB SSD  
+**DocID:** `daraz_270131276`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 230,000
+
+---
+
+
+## Apple MacBook Air M2 Chip Customize Model-2022- 8-Core CPU 8-core GPU-16GB RAM 1TB  
+**DocID:** `daraz_269218331`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 274,500
+
+---
+
+
+## Apple MacBook Air M2 Chip 2022 Model 8-core CPU 16GB RAM 1TB SSD with 4 performance cores and 4 efficiency cores 10-core GPU 16-core Neural Engine  
+**DocID:** `daraz_277436453`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 279,000
+
+---
+
+
+## MacBook Air M2 Chip 13.6-inch  
+**DocID:** `daraz_1574017701`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 108,200
+
+---
+
+
+## Apple Mac mini M1 Chip Customize Model 16GB Ram 256GB SSD  
+**DocID:** `daraz_293982904`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 125,000
+
+---
+
+
+## 2020 Apple iPad Pro 12.9-inch, Wi-Fi, 256GB Space Gray 4th Generation  
+**DocID:** `daraz_269756653`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 159,500
+
+---
+
+
+## Apple MacBook Air M1 Chip 8-Core CPU 7-Core GPU 16GB Ram 512GB SSD  
+**DocID:** `daraz_270552093`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 192,500
+
+---
+
+
+## Apple ipad Air 5th Gen 10.9-Inch 64GB Wi-Fi Blue - Emphasizing Value - Good Durability  
+**DocID:** `daraz_272336317`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 95,000
+
+---
+
+
+## Apple  
+**DocID:** `daraz_165140195`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 109,000
+
+---
+
+
+## Apple MacBook Pro M1 Chip with 8-Core GPU 8GB RAM 256GB Storage - Laptop  
+**DocID:** `daraz_164660449`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 178,000
+
+---
+
+
+## Apple iPad Pro 11 inch M1 2021 128GB 5G WiFi+Cellular Gray and Silver  
+**DocID:** `daraz_270114433`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 125,500
+
+---
+
+
+## Apple MacBook Pro M1 Chip with 8-Core GPU 8GB RAM 512GB Storage  
+**DocID:** `daraz_271358530`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 179,500
+
+---
+
+
+## Apple MacBook Air M1 Chip 16GB Ram 256GB SSD Customize Model  
+**DocID:** `daraz_269746061`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 187,000
+
+---
+
+
+## Apple MacBook Pro M1 chip 8-core CPU 8-core GPU 16GB RAM 512GB SSD 13.3 inch Retina display  
+**DocID:** `daraz_273362499`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 239,990
+
+---
+
+
+## Apple MacBook Pro M1 Pro Chip 8-Core CPU 14-Core GPU 16GB Ram 512GB SSD 14-Inch Liquid Retina XDR Display  
+**DocID:** `daraz_214545494`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 283,800
 
 ---
 
@@ -11441,6 +11783,60 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 288
+
+---
+
+
+## Premium Contrast New Polo Shirt  For Men - Polo T Shirt For Men  
+**DocID:** `daraz_298864891`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 276
+
+---
+
+
+## Summer New Solid Color Loose Short-sleeved Polo Shirt Men's All-match Light Mature Style Casual All-match Fashionable Lapel Top  
+**DocID:** `daraz_531144787`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,222
+
+---
+
+
+## Polo Shirts Men Plus Size 1XL-7XL 110-175kg Short Sleeve T Shirt Loose Polos Oversized Tops Big Size Men Clothing 티셔츠 남성 T シャツ  
+**DocID:** `daraz_546157851`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,696
+
+---
+
+
+## Navy Blue Cotton Polo For Men  
+**DocID:** `daraz_105790268`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 311
+
+---
+
+
+## Trendsetter -Stylist Premium Quality Summer Polo Shirt For Men - Polo T Shirt For Men - Polo T Shirt - Polo T Shirt- Inventive Choice  
+**DocID:** `daraz_296098350`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Premium Quality Cotton polo t-shirt for men-polo collection for men-tama  
+**DocID:** `daraz_529063804`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 450
 
 ---
 
@@ -15498,6 +15894,42 @@ Synthetic rubber sole
 ---
 
 
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_330527993`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 577
+
+---
+
+
+## Men's PU Leather Waterproof Sneakers Casual Sports Shoes Men Lightweight Breathable Flat Non-slip Tenis Shoes Zapatillas Hombre  
+**DocID:** `daraz_546067443`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,405
+
+---
+
+
+## Signature Style: Stylish Addition - Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Modern - Choice Expression  
+**DocID:** `daraz_316297763`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 588
+
+---
+
+
+## All Star Multicolor Color Converse For Man (Made In Vietnam )  
+**DocID:** `daraz_233883192`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,400
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -18689,6 +19121,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 260
+
+---
+
+
+## Real Madrid Jersey 2026/27 Football Jersey for Man - Half Sleeve t-shirt - Real Madrid Football Jersey 2026/27  
+**DocID:** `daraz_275574759`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## England World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve Collar Polo - England Jersey 2026  
+**DocID:** `daraz_484561665`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
 
 ---
 
@@ -22141,6 +22591,60 @@ Non-removable Li-Po Battery
 ---
 
 
+## Samsung Galaxy A07(6+128GB)"6.7" PLS LCD, 90Hz ডিসপ্লে,25W ফাস্ট চার্জিং সহ 5000 mah Battery  
+**DocID:** `daraz_566654690`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 18,494
+
+---
+
+
+## Coolpad Cool C15 Smartphone – 6.56” HD+ 90Hz Display, 12GB RAM (6+6), 256GB ROM, Helio G36, 50MP Dual Camera, 5000mAh Battery, With Free Premium Quality Jacket  
+**DocID:** `daraz_570614760`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,800
+
+---
+
+
+## VIVO X300 ( 12 - 256/512 )IND  
+**DocID:** `daraz_574646408`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 91,499
+
+---
+
+
+## IQOO 15 16-512 ( IND )  
+**DocID:** `daraz_573990720`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 107,499
+
+---
+
+
+## Samsung Galaxy A36(8+256gb)6.7" Super AMOLED,120Hzডিসপ্লে, 45W ফাস্ট চার্জিং সহ 5000mah Battery  
+**DocID:** `daraz_556995351`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 49,964
+
+---
+
+
+## iPhone 17 Pro Max JAPAN  
+**DocID:** `daraz_561271489`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 177,974
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -22596,6 +23100,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 22,999
+
+---
+
+
+## Galaxy Tab S7+  
+**DocID:** `daraz_184320916`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 90,000
+
+---
+
+
+## Apple iPad Pro 11 inch M1 256GB 2021 WiFi - Gray and Silver  
+**DocID:** `daraz_270109914`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 145,500
+
+---
+
+
+## Apple iPad Pro 11 inch M1 2021 5G 256GB WiFi+Cellular Gray and Silver  
+**DocID:** `daraz_270115512`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 165,000
+
+---
+
+
+## Apple iPad Pro 11 inch M1 512GB 2021 WiFi -  Gray and Silver  
+**DocID:** `daraz_270113460`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 175,000
+
+---
+
+
+## Apple iPad Pro 11 inch M1 2021 5G 512GB WiFi+Cellular Gray and Silver  
+**DocID:** `daraz_270115722`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 195,000
 
 ---
 
