@@ -2152,6 +2152,15 @@
 ---
 
 
+## Lenovo LOQ Gaming 15_15IAX9E - (Luna Grey) Core i5-12450HX 512/16 15.6" (1920x1080) 144Hz NVIDIA RTX 2050 - 4GB DDR6 (65W) Intact  
+**DocID:** `daraz_1573457377`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 82,908
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -7548,6 +7557,60 @@ Touch screen
 ---
 
 
+## Dell Latitude 7480, Core i5 6th Gen, 14" FHD Display-8GB Ram, 256GB SSD Black Used Laptop  
+**DocID:** `daraz_1573340907`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 25,800
+
+---
+
+
+## HP 15-fc0166AU (9S532PA) AMD Ryzen-5 7520U, 2.8 to 4.3GHz, 8GB RAM, 512GB SSD, Windows 11 Home, 15.6 Inch FHD Display Moonlight Blue Laptop  
+**DocID:** `daraz_453744552`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,599
+
+---
+
+
+## Acer TravelLite TL14-52M 13th Gen Core i3-1305U 3.30 to 4.1GHz, 8GB DDR4, 512GB SSD, 14 Inch FHD IPS Display Laptop  
+**DocID:** `daraz_526307195`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,900
+
+---
+
+
+## Asus Vivobook Go 15 L1504FA (BQ2546W) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz,16GB RAM,512GB SSD,15.6"Inch Win-11,FHD Display Laptop  
+**DocID:** `daraz_570854743`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 73,900
+
+---
+
+
+## Dell Vostro 15 3510 11th Gen i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, MX350 2GB, Windows 10 Home, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_275403538`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 95,000
+
+---
+
+
+## Lenovo Yoga Slim 7i 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 1TB SSD, Iris Graphics, Win 11 Home, 13.3 Inch WQXGA Laptop (82EV00AFIN-3Y)  
+**DocID:** `daraz_313281070`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 184,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -11841,6 +11904,15 @@ Touch screen
 ---
 
 
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_460562444`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 293
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -15930,6 +16002,33 @@ Synthetic rubber sole
 ---
 
 
+## Striking White Ash - Lace-Up Sneakers For Men - Shoe For Boys - Experience Trendy Fashion  
+**DocID:** `daraz_225815911`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
+## New Trendy Black And Blue Color JENS2025 Canvas Sneakers Shoes For Men Comfortable Stylish Shoes For Winter  
+**DocID:** `daraz_557001683`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 363
+
+---
+
+
+## Winter-Ready Boys' Shoes - Windproof Fabrics, Cool Designs, Colorful Lace-Up - Ideal for All Seasons - Low Top Sneakers  
+**DocID:** `daraz_202636690`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 415
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -19139,6 +19238,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 369
+
+---
+
+
+## Barcelona Jersey 2025/2026 Thai Premium Jersey For Men - Long Sleeve Jersey - Barcelona Football Jersey 2025  
+**DocID:** `daraz_542400697`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 359
+
+---
+
+
+## Neymar Fan Half Sleeve Tshirt For Comfortable Use - Jersey Football  
+**DocID:** `daraz_259362287`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 150
 
 ---
 
@@ -22641,6 +22758,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 177,974
+
+---
+
+
+## Google Pixel 7 pro (12/128GB) Smartphone  
+**DocID:** `daraz_346287343`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 49,489
+
+---
+
+
+## Motorola Moto G86 Power INDIAN 8-128  
+**DocID:** `daraz_543516396`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,799
+
+---
+
+
+## HONOR X5c Plus 4GB/128GB | 6.74" 90Hz | Official  
+**DocID:** `daraz_1573424652`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,750
+
+---
+
+
+## Redmi 15C 6GB/128GB - Official  
+**DocID:** `daraz_1573765308`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,989
+
+---
+
+
+## Infinix Smart 20 | 4/64 GB Storage | 7.7mm Slim | 1 year Official Warranty  
+**DocID:** `daraz_1573292783`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,290
 
 ---
 
