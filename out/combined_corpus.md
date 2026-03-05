@@ -2161,6 +2161,15 @@
 ---
 
 
+## Asus ROG Zephyrus G16 - (​Eclipse Grey) Core Ultra 9 185H (14th Gen) 1024/16 16" (2560x1600) 240Hz OLED NVIDIA RTX 4070 8GB DDR6 (105W) Intact  
+**DocID:** `daraz_1573487115`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 261,500
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -7611,6 +7620,51 @@ Touch screen
 ---
 
 
+## Dell Latitude 3310 (Refurbished) – Intel Core i5 8th Gen, 8GB DDR4 RAM, 256GB SSD, 13.3" Display  
+**DocID:** `daraz_574320104`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 33,077
+
+---
+
+
+## HP Elitebook 845 G7 Ryzen 5 Pro-4650U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1573485993`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 34,545
+
+---
+
+
+## HP EliteBook 845 G8 (Refurbished) – AMD Ryzen 7 Pro 5850U, 14" FHD Display, 16GB RAM, 512GB SSD  
+**DocID:** `daraz_574313381`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 53,058
+
+---
+
+
+## MSI GF63 Thin 12UCX 12th Gen Core i5-12450H 3.3 to 4.4GHz, 8GB, 512GB SSD, RTX 2050 4GB Graphics, Windows 11 Home, 15.6 FHD IPS Gaming Laptop  
+**DocID:** `daraz_360612327`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 98,100
+
+---
+
+
+## Dell Latitude 7420 11th Gen  i7-1165G7 2.8 to 4.7GHz, 16 GB, 512GB SSD, Silver, 14 Inch FHD Laptop  
+**DocID:** `daraz_285434181`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 192,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -11913,6 +11967,33 @@ Touch screen
 ---
 
 
+## Versatile -Good Shape Polo T-Shirt For Man  
+**DocID:** `daraz_200902660`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 249
+
+---
+
+
+## Stylish Premium Quality cotton Polo Shirt for Men  
+**DocID:** `daraz_529965018`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 503
+
+---
+
+
+## Cotton  Polo T-Shirt For Men - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_301890600`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 210
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -16029,6 +16110,42 @@ Synthetic rubber sole
 ---
 
 
+## White Lambrgn Sneakers For Men - Sneakers - Shoe For Boys - White Shoes  
+**DocID:** `daraz_217251281`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,750
+
+---
+
+
+## Trendy running fabrics shoes with rubber sool.  
+**DocID:** `daraz_265829426`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 410
+
+---
+
+
+## Fashionable Blue Black And Cream Color JAPANESE Casual Sneakers Canvas Shoes For Men Fashionable Lightweight And Comfortable Shoes  
+**DocID:** `daraz_340226196`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 392
+
+---
+
+
+## Fashionable Black Blue Khaki And Grey Color canvas Sneakers Half Shoes For Men M005  
+**DocID:** `daraz_301986890`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 350
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -19256,6 +19373,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 150
+
+---
+
+
+## Bayern Munich Jersey 2026/27  Thai Premium Football Jersey For Men - Half Sleeve Jersey - Bayern Football Jersey 2026/27  
+**DocID:** `daraz_541529767`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Argentina Jersey 2026/27 Thai Premium Football Jersey For Man - Half Sleeve - Argentina Away Jersey 2026  
+**DocID:** `daraz_257654088`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Germany World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Half Sleeve - Germany Jersey 2026  
+**DocID:** `daraz_563518015`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
 
 ---
 
@@ -22803,6 +22947,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 12,290
+
+---
+
+
+## Xiaomi Redmi Note 15 (6+128GB) 6.77" AMOLED, 120Hzডিসপ্লে,45W ফাস্ট চার্জিং সহ 5520mah Battery  
+**DocID:** `daraz_573759665`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,999
+
+---
+
+
+## Samsung Galaxy S26 Ultra 12/256 & 512GB  
+**DocID:** `daraz_1574008675`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 184,999
 
 ---
 
