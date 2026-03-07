@@ -2170,6 +2170,15 @@
 ---
 
 
+## HP Victus Gaming 15-fb3166AX Ryzen 5 8645HS RTX 2050 4GB Graphics 15.6" FHD Gaming Laptop  
+**DocID:** `daraz_1574015504`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 104,690
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -7665,6 +7674,60 @@ Touch screen
 ---
 
 
+## Surface Laptop Go, Core i5 10th Gen, 12.4" Display Used Laptop-8GB Ram, 256GB SSD  
+**DocID:** `daraz_569250600`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 48,400
+
+---
+
+
+## [QuantaBD]HP 15s-eq1578AU AMD Athlon 3050U 15.6" FHD Laptop  
+**DocID:** `daraz_325483008`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 52,900
+
+---
+
+
+## HP EliteBook x360 1040 G8 (Refurbished) – 14" FHD Display, Intel Core i5 11th Gen, 32GB RAM, 512GB SSD  
+**DocID:** `daraz_574311466`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 75,174
+
+---
+
+
+## HP Elitebook 845 G9 Ryzen 5 Pro-6650U 512/8 14" (1920x1200) Touch  
+**DocID:** `daraz_1573504967`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 50,830
+
+---
+
+
+## HP Elitebook 845 G8 Ryzen 7 Pro-5850U 256/16 14" (1920x1080)  
+**DocID:** `daraz_1573485654`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 43,428
+
+---
+
+
+## Apple MacBook Air MLXW3 M2 Chip 2.42 to 3.48GHz, 8GB, 256GB SSD, 13.6" Retina IPS Laptop (Late 2022)  
+**DocID:** `daraz_352436414`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 153,200
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -7787,15 +7850,6 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 153,500
-
----
-
-
-## Apple MacBook Air MLXW3 M2 Chip 2.42 to 3.48GHz, 8GB, 256GB SSD, 13.6" Retina IPS Laptop (Late 2022)  
-**DocID:** `daraz_352436414`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 153,200
 
 ---
 
@@ -11994,6 +12048,15 @@ Touch screen
 ---
 
 
+## New Premium Fabric Stylish Zipper Polo T-Shirt - Comfortable and Wear Ideal for All Seasons  
+**DocID:** `daraz_545970177`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 464
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -16146,6 +16209,24 @@ Synthetic rubber sole
 ---
 
 
+## Sneakers Men Casual Shoes Men Fashion Sneakers Light Weight - Walk in Style  
+**DocID:** `daraz_320814521`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 402
+
+---
+
+
+## Stylish and Lightweight Low Top Sneakers for Boys - Fashionable Design for Every Season  
+**DocID:** `daraz_255636160`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 480
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -19400,6 +19481,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 369
+
+---
+
+
+## Liverpool Short sleeve Jersey  
+**DocID:** `daraz_474763881`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
 
 ---
 
@@ -22965,6 +23055,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 184,999
+
+---
+
+
+## HONOR X6c 6/ 256GB | 5300mAh & 35W Large Battery | Official  
+**DocID:** `daraz_1573464328`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,740
+
+---
+
+
+## Iphone 17 Pro Global & Japan  
+**DocID:** `daraz_556125384`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 164,000
 
 ---
 
