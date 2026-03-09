@@ -2179,6 +2179,15 @@
 ---
 
 
+## HP Victus 15 fb1054AX Ryzen 5 7535HS RTX 2050 4GB 15.6 Inch FHD Gaming Laptop  
+**DocID:** `daraz_1574055109`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 102,964
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -7728,6 +7737,87 @@ Touch screen
 ---
 
 
+## Lenovo ThinkBook 14 (20VD01A3IN-3Y) 11th Gen Core i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_312000108`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 90,000
+
+---
+
+
+## Microsoft Surface Pro 7 12.3" (Platinum) Core i7-1065G7 256/16 12.3" (2736x1824) G.Touch With Surface Detachable Keyboard  
+**DocID:** `daraz_1573722242`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,207
+
+---
+
+
+## HP 250 G9 Intel Core i3-1215U 12th Gen up to 4.4 GHz, 8GB RAM, 512GB SSD, Windows 10, 15.6 Inch IPS FHD Laptop  
+**DocID:** `daraz_322595600`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 56,400
+
+---
+
+
+## P 15-fc0355au AMD Athlon Silver 7120U 15.6'' FHD Laptop  
+**DocID:** `daraz_1574046325`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 48,788
+
+---
+
+
+## Apple MacBook Pro 16" (2018, Refurbished) – Intel Core i7 2.6GHz, 32GB RAM, 512GB SSD, Silver Color  
+**DocID:** `daraz_574301779`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 81,091
+
+---
+
+
+## Acer Swift Go 14 SFG14-41(NX.KG3SI.002) AMD Ryzen 5 7530U 7th Gen 2 to 4.5 GHz, 8GB, 512GB SSD, 14" FHD Laptop  
+**DocID:** `daraz_313700369`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 94,200
+
+---
+
+
+## HP Probook 640 G5 Core i5-8365U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1574302558`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 29,900
+
+---
+
+
+## HP Elitebook 845 G8 Ryzen 5 Pro-5650U 256/16 14" (1920x1080)  
+**DocID:** `daraz_1573487667`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 39,480
+
+---
+
+
+## Microsoft Surface Laptop Go - 12.4" (Platinum) Core i5-1035G1 256/16 12.4" (1536x1024) G.Touch  
+**DocID:** `daraz_1573920214`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 40,467
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -7904,15 +7994,6 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 107,299
-
----
-
-
-## Apple MacBook Pro 16" (2018, Refurbished) – Intel Core i7 2.6GHz, 32GB RAM, 512GB SSD, Silver Color  
-**DocID:** `daraz_574301779`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 83,599
 
 ---
 
@@ -12053,6 +12134,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 464
+
+---
+
+
+## Manfare Premium Zipper Polo For Men | MFP-28  
+**DocID:** `daraz_528189180`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 690
 
 ---
 
@@ -16227,6 +16317,33 @@ Synthetic rubber sole
 ---
 
 
+## Men's Sneakers Converse 2022 Running Casual Lace-up Shoes Winter and Summer Men's Shoes  
+**DocID:** `daraz_238311482`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 475
+
+---
+
+
+## Understated Stylish and Fashionable Low Top Sneakers for Men - Shoe For Boys - Progressively Better - Comfortable for All Seasons  
+**DocID:** `daraz_307495007`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 415
+
+---
+
+
+## 2025 New Trendy Black And Grey Color SAMBA Canvas Sneakers Shoes For Men Lightweight And New Collection Shoes For Man  
+**DocID:** `daraz_525068714`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 650
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -19490,6 +19607,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 270
+
+---
+
+
+## Brazil World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Half Sleeve - Brazil Jersey 2026  
+**DocID:** `daraz_567029973`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Man Jersey 2026/27 Thai Premium Football Jersey for Men - Half Sleeve Club T Shirt - Man Football Jersey 2026/2027  
+**DocID:** `daraz_270631588`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
 
 ---
 
@@ -23073,6 +23208,60 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 164,000
+
+---
+
+
+## Coolpad CP12 Neo Smartphone – 6.56” HD+ Display, 8GB RAM (4+4), 64GB ROM, Unisoc SC9863A1, 13MP Camera, 5000mAh Battery, With Free Premium Quality Jacket  
+**DocID:** `daraz_1572424392`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 9,490
+
+---
+
+
+## HONOR X6c (6GB/128GB) - Official  
+**DocID:** `daraz_564006588`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,399
+
+---
+
+
+## HONOR X5c 4GB/64GB | 6.74" 90Hz | Official  
+**DocID:** `daraz_1573444030`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 11,999
+
+---
+
+
+## HONOR X5c 4GB/64GB | 6.74" 90Hz | Official  
+**DocID:** `daraz_1572433704`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 11,999
+
+---
+
+
+## Coolpad Cool 30 Play Smartphone – 6.79” HD+ Display, 16GB RAM (8+8), 256GB ROM, Helio G99, 64MP Camera, 5000mAh Battery, With Free Premium Quality Jacket  
+**DocID:** `daraz_571675357`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,990
+
+---
+
+
+## Walton Primo GH11 4GB Ram and 32GB Rom  
+**DocID:** `daraz_366485720`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 7,994
 
 ---
 
