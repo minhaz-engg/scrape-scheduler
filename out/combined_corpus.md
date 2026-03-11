@@ -2188,6 +2188,33 @@
 ---
 
 
+## HP OMEN Gaming 16-xd0015AX - (Shadow Black) Ryzen 7-7840HS 512/16 16.1" (1920x1080) 165Hz NVIDIA RTX 4050 - 6GB DDR6 (120W) RGB Keyboard | With NPU  
+**DocID:** `daraz_1574577796`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 135,700
+
+---
+
+
+## HP Victus Gaming 15-fa2013dx - (Mica Silver) Core i5-13420H 512/8 15.6" (1920x1080) 144Hz NVIDIA RTX 3050 - 6GB DDR6 (75W)  
+**DocID:** `daraz_1574769042`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 93,000
+
+---
+
+
+## HP Pro book Core-i5 5th Gen 16GB RAM 128 GB M.2 SSD 500GB HDD  
+**DocID:** `daraz_1575333089`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 22,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -7818,6 +7845,69 @@ Touch screen
 ---
 
 
+## Asus Vivobook Go 15 L1504FA (BQ611) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz 8GB RAM 512GB SSD 15.6"Inch FHD Laptop  
+**DocID:** `daraz_1573243994`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,000
+
+---
+
+
+## HP 15-fc0239AU AMD Athlon Silver 7120U 15.6" FHD Laptop  
+**DocID:** `daraz_1574024520`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 44,579
+
+---
+
+
+## HP EliteBook 845 G8 (Refurbished) – AMD Ryzen 5 Pro 5650U, 14" FHD Display, 16GB RAM, 256GB SSD  
+**DocID:** `daraz_574298860`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 46,365
+
+---
+
+
+## Asus VivoBook 15 X515EA (BQ2313W) 11th Gen i5-1135G7 2.4 to 4.2GHz, 4GB DDR4 RAM,1TB HDD, Win 11 Home, 15.6" Inch FHD Laptop  
+**DocID:** `daraz_334223043`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 71,200
+
+---
+
+
+## Walton Tamarind EX310A (WTEX41A3BL) 10th Gen Intel Core i3-10110U 2.10GHz to 4.10GHz, 4GB, 256GB SSD, Windows 10, 14 Inch FHD Laptop  
+**DocID:** `daraz_569223405`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 31,200
+
+---
+
+
+## Lenovo V15 G4 IRU (Iron Gray) Core i5-1335U 512/8 15.6" (1920x1080) Intact  
+**DocID:** `daraz_1573460949`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,207
+
+---
+
+
+## HP 15s-eq3619AU (7K1K5PA) Ryzen 5-5625U 2.3 To 4.3GHz, 8GB, 512GB SSD, Win 11, 15.6 Inch IPS FHD Laptop  
+**DocID:** `daraz_304824350`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 83,200
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -12147,6 +12237,24 @@ Touch screen
 ---
 
 
+## Premium Cotton Polo T Shirt for Men - Stay Stylish and Comfortable in All Seasons and Occasions  
+**DocID:** `daraz_367139114`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 309
+
+---
+
+
+## Combo pack 2 pic Stylish Premium Quality Summer Polo Shirt for Men - Classic Design Suitable for All Seasons  
+**DocID:** `daraz_571996850`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 558
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -16344,6 +16452,42 @@ Synthetic rubber sole
 ---
 
 
+## SNEAKERS EXCLUSIVE SHOE'S DESIGN TRENDY COLLECTION WINTER MODEL SNEAKERS SHOES FOR MEN.  
+**DocID:** `daraz_344178503`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 553
+
+---
+
+
+## Chess-Court -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men- Avant-garde  
+**DocID:** `daraz_349389022`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 505
+
+---
+
+
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_322670285`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 419
+
+---
+
+
+## Summer Fashion New Design Male Running Sports Shoes Pu Mesh Breathable Sneakers For Men  
+**DocID:** `daraz_443821901`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 498
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -19625,6 +19769,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 360
+
+---
+
+
+## Germany Euro Jersey 2026/27 Short Sleeve Football Jersey For Men - Half Sleeve - Germany Jersey 2026  
+**DocID:** `daraz_472122020`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 265
 
 ---
 
@@ -23266,6 +23419,69 @@ Non-removable Li-Po Battery
 ---
 
 
+## HONOR X9D ( 12 - 256/512 ) GLOBAL  
+**DocID:** `daraz_574961370`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 39,499
+
+---
+
+
+## Redmi Note 15 4G [6/128GB] International  
+**DocID:** `daraz_503794867`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 24,650
+
+---
+
+
+## Samsung Galaxy A17 5G 8/256GB|6.6" FHD+ AMOLED  
+**DocID:** `daraz_563968722`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 31,050
+
+---
+
+
+## Coolpad X100 5G Smartphone (Blue) – 6.78” FHD+ 120Hz Display, 16GB RAM (8+8), 256GB ROM, Helio G99, 108MP Triple Camera, 5000mAh Battery , With Free Premium Quality Jacket  
+**DocID:** `daraz_574131141`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,990
+
+---
+
+
+## iphone 17 Air Australia  
+**DocID:** `daraz_556119841`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 130,999
+
+---
+
+
+## Vivo Y31d [6/128GB] Official  
+**DocID:** `daraz_1574800649`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,099
+
+---
+
+
+## Google Pixel 7 (8/128GB) Smartphone  
+**DocID:** `daraz_346290579`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 59,990
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -23766,6 +23982,87 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 195,000
+
+---
+
+
+## Redmi 15 8GB/256GB with Free Travel Bag | Official  
+**DocID:** `daraz_1575588476`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 22,400
+
+---
+
+
+## Redmi Note 15 8GB/256GB with Free Premium Travel Bag  
+**DocID:** `daraz_1575578541`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 29,100
+
+---
+
+
+## Redmi 15C 6GB/128GB with Free Travel Bag | Official  
+**DocID:** `daraz_1575578059`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 16,700
+
+---
+
+
+## Redmi 15 6GB/128GB with Free Travel Bag | Official  
+**DocID:** `daraz_1575559149`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 18,600
+
+---
+
+
+## Redmi Note 15 Pro Plus 5G 12GB/512GB with Premium Travel Bag | Official  
+**DocID:** `daraz_1575557426`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 56,400
+
+---
+
+
+## Redmi Note 15 5G 8GB/256GB | Official  
+**DocID:** `daraz_1575557413`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 32,900
+
+---
+
+
+## Redmi 15C 8GB/256GB with Free Travel Bag | Official  
+**DocID:** `daraz_1575555314`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 19,550
+
+---
+
+
+## Redmi Note 15 6GB/128GB with Free Premium Travel Bag | Official  
+**DocID:** `daraz_1575545670`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 26,250
+
+---
+
+
+## Redmi A5 4GB/ 64GB with Free Travel Bag | Official  
+**DocID:** `daraz_1575258449`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 12,900
 
 ---
 
