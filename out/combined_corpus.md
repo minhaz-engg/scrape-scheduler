@@ -2215,6 +2215,33 @@
 ---
 
 
+## Lenovo LOQ Gaming 15_15IAX9E - (Luna Grey) Core i5-12450HX 512/8 15.6" (1920x1080) 144Hz NVIDIA RTX 4050 - 6GB DDR6 Intact  
+**DocID:** `daraz_1576166146`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 111,550
+
+---
+
+
+## Acer Predator Helios Neo 14 | PHN14-51-79UB - (Abyssal Black) Core Ultra 7 155H (14th Gen) 1024/16 14.5" (2560x1600) 120Hz NVIDIA RTX 4070 - 8GB DDR6 (125W) RGB 3 Zones Backlight Intact  
+**DocID:** `daraz_1574163431`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 156,000
+
+---
+
+
+## Asus TUF Gaming A16 FA607NUG - (Mecha Gray) Ryzen 7-7445HS 512/16 16" (1920x1200) 144Hz NVIDIA RTX 4050 - 6GB DDR6 (140W) RGB Keyboard Intact  
+**DocID:** `daraz_1574564224`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 135,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -7908,6 +7935,78 @@ Touch screen
 ---
 
 
+## Asus Vivobook Go 14 E1504GA (NJ092W) Intel Core i3-N305 1.8GHz to 3.80 GHz 8GB RAM 512GB SSD 15.6" FHD Display Laptop  
+**DocID:** `daraz_1573351286`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 57,000
+
+---
+
+
+## Asus VivoBook 15 X1504ZA (NJ847) 12th Gen Core i3-1215U 1.2 to 4.40 GHz 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_505424225`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,200
+
+---
+
+
+## Walton Laptop Tamarind MX711G Core i7 Intel 11th Generation Processor 8GB DDR4 3200MHz RAM 512GB M.2 2280 SSD Display Full HD with 100% sRGB  
+**DocID:** `daraz_298887469`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 75,050
+
+---
+
+
+## Microsoft Surface Pro 7+ 12.3" (Platinum) Core i7-1165G7 256/16 12.3" (2736x1824) G.Touch With Surface Detachable Keyboard  
+**DocID:** `daraz_1573795128`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 72,544
+
+---
+
+
+## Lenovo ThinkBook 15 (20VE015VIN-3Y) 11th Gen Core i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_312011932`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 96,000
+
+---
+
+
+## Asus Vivobook Go 15 L1504FA (BQ2548W) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz, 16GB RAM 512GB SSD, 15.6"Inch, Win-11 FHD Display Laptop  
+**DocID:** `daraz_1572536663`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,200
+
+---
+
+
+## Dell Latitude 3440 13th Gen Core i7-1355U 1.7 to 5GHz, 8GB, 512GB SSD, 14" FHD Laptop  
+**DocID:** `daraz_350828319`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 151,200
+
+---
+
+
+## HP Elitebook 845 G7 AMD Ryzen 5 pro 16GB RAM 512GB SSD 14inch FHD Display Laptop  
+**DocID:** `daraz_1574460109`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -12255,6 +12354,15 @@ Touch screen
 ---
 
 
+## Cotton half sleeve polo shirts for men-multicolor polo shirts - Polo T Shirt For Men  
+**DocID:** `daraz_302094528`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 190
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -16488,6 +16596,42 @@ Synthetic rubber sole
 ---
 
 
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Low Top Type - Perfect for All Occasions - Comfortable Wear  
+**DocID:** `daraz_228382933`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 590
+
+---
+
+
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_390404798`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 515
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Shoe For Boys - Shoe For Boys - Shoes For Men  
+**DocID:** `daraz_482859364`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 460
+
+---
+
+
+## Sneakers For Men (White) - Shoe For Men  
+**DocID:** `daraz_343256011`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 430
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -19778,6 +19922,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 265
+
+---
+
+
+## Al-Nassr Ronaldo 7 Jersey 2026/2027 Football Jersey For Man - Half Sleeve - Al Nassr Ronaldo 7 Jersey 2026  
+**DocID:** `daraz_274225320`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 310
+
+---
+
+
+## Barcelona Jersey 2026/27 Thai Premium Football For Men - Half Sleeve Club t shirt - Barcelona Jersey 2026  
+**DocID:** `daraz_557024389`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Barcelona Jersey 2026/2027 Thai Premium Football Jersey For Men - Short Sleeve Club Jersey - Barcelona Jersey 2026  
+**DocID:** `daraz_540703592`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## Al-Hilal Full Sleeve Collar Polo Football Jersey For Men - Long Sleeve Polo - Al Hilal Jersey 2026/27  
+**DocID:** `daraz_319075536`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 310
 
 ---
 
@@ -23478,6 +23658,60 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 59,990
+
+---
+
+
+## Linnex LX 4G Plus (3GB/32GB) | Android 3.5" Touch Smart Feature Phone With Face Unlock  
+**DocID:** `daraz_540989640`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 3,990
+
+---
+
+
+## Samsung Galaxy A07 4/128GB | 6.5" HD+ Display  
+**DocID:** `daraz_1572286269`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 15,558
+
+---
+
+
+## Motorola Edge 60 Stylus [8/256GB]  
+**DocID:** `daraz_529896815`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 28,399
+
+---
+
+
+## HONOR 500 PRO ( 12 - 256 ) CN  
+**DocID:** `daraz_574691008`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 75,999
+
+---
+
+
+## Galaxy A56 12-256  
+**DocID:** `daraz_561221921`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 47,999
+
+---
+
+
+## Redmi Note 15 6GB/128GB - Official  
+**DocID:** `daraz_1573779305`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 26,989
 
 ---
 
