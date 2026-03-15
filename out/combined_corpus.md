@@ -2242,6 +2242,15 @@
 ---
 
 
+## Acer Nitro V16 AI ANV16-42-R309 - (Shale Black) Ryzen 5 240 512/16 16" (1920x1200) 180Hz NVIDIA RTX 5050 - 8GB DDR7 Amber Backlight Intact  
+**DocID:** `daraz_1574177364`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 120,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -8007,6 +8016,33 @@ Touch screen
 ---
 
 
+## HP EliteBook 840 G8 Core i5 11th Gen 16GB RAM  
+**DocID:** `daraz_1574425538`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 55,000
+
+---
+
+
+## HP Elitebook 845 G10 Ryzen 5 Pro-7545U 256/16 14" (1920x1200)  
+**DocID:** `daraz_1573493519`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 65,550
+
+---
+
+
+## Lenovo Thinkpad X1 Carbon - Gen 10 Core i5-1245U 1024/32 14" (1920x1200) Touch  
+**DocID:** `daraz_1573895602`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 80,440
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -12363,6 +12399,42 @@ Touch screen
 ---
 
 
+## Ralph Lauren Cable-Knit Cotton Polo Sweater – Navy Blue  
+**DocID:** `daraz_550719932`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,190
+
+---
+
+
+## Premier Quality Polo T-Shirt for Men 2XL 3XL 4XL Comfortable and Stylish Solit black and white  
+**DocID:** `daraz_564673551`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## classic pique cotton polo shirt for men  
+**DocID:** `daraz_346874106`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 319
+
+---
+
+
+## Premium China Polo Shirt Triangle Pattern For Men-Grey  
+**DocID:** `daraz_406662305`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 640
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -16632,6 +16704,222 @@ Synthetic rubber sole
 ---
 
 
+## Stylish Black LOTTO Black Cotton Fabrics Sneaker Shoes Slip-Ons & Sneakers for Men C05  
+**DocID:** `daraz_428783432`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 323
+
+---
+
+
+## MAEDEF Running Shoes Men Breathable Sneakers 2025 Lightweight Walking Shoes Anti Slip Comfortable Mens Athletic Shoes Summer  
+**DocID:** `daraz_547032242`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,941
+
+---
+
+
+## New Spring Breathable Sneakers Men Casual Shoes Lightweight Slip On Loafers Men Outdoor Shoes Walking Elastic Pantshoes Flats  
+**DocID:** `daraz_547558987`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,547
+
+---
+
+
+## Sneakers shoes for men houwie sool light weight lace up colour ful sneakers shoes for men for casual use.  
+**DocID:** `daraz_338444738`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 455
+
+---
+
+
+## Men Trail Running Shoes Minimalist Barefoot Wide Width Gym Workout Fitness Low Zero Drop Women Sneakers Treadmill Free Athletic  
+**DocID:** `daraz_546043428`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,343
+
+---
+
+
+## Lufeh Hot Collection Stylish and Fashionable shoes for men  
+**DocID:** `daraz_470130363`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,752
+
+---
+
+
+## Sneakers for man casual use and rubber sool. - Shoes For Men -  - জুতা ছেলেদের  
+**DocID:** `daraz_266090999`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## High-Quality Sneakers for Men - Low Top Type - Casual Shoes - Fashionable Style for Every Season - Elevate Your Wardrobe  
+**DocID:** `daraz_291816588`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 900
+
+---
+
+
+## Sneakers high neck air Jordan Korean mesh up light weight black and grey shoes for men  
+**DocID:** `daraz_573991771`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 922
+
+---
+
+
+## White Ash Strip Sneakers For Men With Trendy And Soft Leather . - Sneakers For Men - Insoles For Shoes - Shose For Men - Sneakers  
+**DocID:** `daraz_226047278`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
+## Sneakers trendy model wind proof plain lace up shoes rubber with artificial leather.a  
+**DocID:** `daraz_324134301`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 799
+
+---
+
+
+## SPRINT Men's Sports Shoe  
+**DocID:** `daraz_277586438`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,632
+
+---
+
+
+## Super Casual Sneakers for Men  
+**DocID:** `daraz_170106242`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,250
+
+---
+
+
+## White Ash Stip Lace Up Shoes For Men trendy stylish shoes for men.  
+**DocID:** `daraz_264433044`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 368
+
+---
+
+
+## Men's shoes 2024 new sneaker casual cloth shoes for men breathable board canvas sneakers for men  
+**DocID:** `daraz_214469982`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,640
+
+---
+
+
+## Putian Men's Shoes Spring and Summer 2024 New Sports Shoes Leather Waterproof Trendy Breathable Student Casual Couple Trendy Shoes by Doob Cart  
+**DocID:** `daraz_451643192`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,000
+
+---
+
+
+## Men vulcanized shoes 2025 outdoor casual sneakers comfortable lightweight shoes for men Flats Large Sized 48 Walking Sneakers  
+**DocID:** `daraz_546099151`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,387
+
+---
+
+
+## Bata HENRY Casual Lace-Up Sneaker for Men  
+**DocID:** `daraz_503089856`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,874
+
+---
+
+
+## Trendy shoes breathable colourful lace up sneakers with light weight shoes .  
+**DocID:** `daraz_198359573`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
+## Sneaker Shoes for Men  For Casual use - Insoles For Shoes  
+**DocID:** `daraz_311685799`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,949
+
+---
+
+
+## Totto Sneakers Pullon Shoes Wind Proof Fabrics with Rubber Material  - Flip On  Shoe  
+**DocID:** `daraz_199675400`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
+## New Trendy Black And Grey Color SAMBA Canvas Sneakers Shoes For Men Lightweight And New Collection Shoes For Man  
+**DocID:** `daraz_525069751`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 599
+
+---
+
+
+## SNEAKERS CASUAL LIGHT WEIGHT LACE UP CLASSIC MODEL SHOES FOR MEN.  
+**DocID:** `daraz_286016212`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 570
+
+---
+
+
+## Sneakers for men Casual use colour ful sneakers for men lace up shoes.  
+**DocID:** `daraz_265471097`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 420
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -19958,6 +20246,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 310
+
+---
+
+
+## Liverpool Thai Premium Football Jersey for Men - Half Sleeve Jersey - Liverpool Jersey 2026  
+**DocID:** `daraz_385290550`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Portugal World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve - Portugal Jersey 2026  
+**DocID:** `daraz_327784938`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
 
 ---
 
@@ -23712,6 +24018,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 26,989
+
+---
+
+
+## Infinix XPAD 20 | 6GB RAM + 128GB ROM | 11" Display | 1 Year Official Warranty  
+**DocID:** `daraz_558232933`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 18,844
 
 ---
 
@@ -29030,6 +29345,147 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/remax-watch-16-ultra-2-smart-watch
 **Price:** 2,290৳ 2,499৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14IRU8 Core i3 13th Gen 14" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-14iru8-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-14iru8-laptop
+**Price:** 57,000৳
+
+---
+
+
+## Lenovo Yoga 7 2-in-1 14AHP9 Ryzen 7 8840HS AI Integrated 14" Touch Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-yoga-7-2-in-1-14ahp9-ryzen-7-8840hs-touch-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/lenovo-yoga-7-2-in-1-14ahp9-ryzen-7-8840hs-touch-laptop
+**Price:** Up Coming
+
+---
+
+
+## Acer Aspire 3 A325-45 Celeron N4500 12GB RAM 15.6" HD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-3-a325-45-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/acer-aspire-3-a325-45-laptop
+**Price:** 41,500৳
+
+---
+
+
+## Acer Aspire 3 A324-31 Intel N100 14" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-3-a324-31-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/acer-aspire-3-a324-31-laptop
+**Price:** 46,500৳
+
+---
+
+
+## Asrock B450M Steel Legend AMD Micro-ATX Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/asrock-b450m-steel-legend-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/asrock-b450m-steel-legend-motherboard
+**Price:** 12,500৳ 13,300৳
+
+---
+
+
+## Gigasonic RB-G215S-400C 21.5" FHD LED Monitor  
+**DocID:** `startech_https://www.startech.com.bd/gigasonic-rb-g215s-400c-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/gigasonic-rb-g215s-400c-monitor
+**Price:** 6,700৳
+
+---
+
+
+## DJI Mini 5 Pro Fly More Combo With RC-N3  
+**DocID:** `startech_https://www.startech.com.bd/dji-mini-5-pro-fly-more-combo-rc-n3`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-mini-5-pro-fly-more-combo-rc-n3
+**Price:** 99,000৳ 120,000৳
+
+---
+
+
+## DJI MINI 4 PRO Fly More Combo Plus + DJI RC2 (Global Version)  
+**DocID:** `startech_https://www.startech.com.bd/dji-mini-4-pro-drone-mini-to-the-max-combo-global`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-mini-4-pro-drone-mini-to-the-max-combo-global
+**Price:** 99,999৳ 125,000৳
+
+---
+
+
+## Lenovo C35 3MP Pan & Tilt WiFi Camera  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-c35-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/lenovo-c35-wifi-camera
+**Price:** 1,755৳ 1,950৳
+
+---
+
+
+## Lenovo X5T 3MP Pan & Tilt WiFi Camera  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-x5t-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/lenovo-x5t-wifi-camera
+**Price:** 3,431৳ 3,990৳
+
+---
+
+
+## Tenda CH3-WCA Smart Full-Color Night Vision Wi-Fi IP Camera  
+**DocID:** `startech_https://www.startech.com.bd/tenda-ch3-wca-wi-fi-pan-tilt-ip-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/tenda-ch3-wca-wi-fi-pan-tilt-ip-camera
+**Price:** 4,100৳ 4,200৳
+
+---
+
+
+## EZVIZ CS-H8c Pro 3MP 2K Pan & Tilt Wi-Fi IP Camera  
+**DocID:** `startech_https://www.startech.com.bd/ezviz-cs-h8c-pro-3mp-wi-fi-ip-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/ezviz-cs-h8c-pro-3mp-wi-fi-ip-camera
+**Price:** 4,249৳ 4,300৳
+
+---
+
+
+## COLMI C61 Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/colmi-c61-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/colmi-c61-smart-watch
+**Price:** 2,250৳ 2,450৳
+
+---
+
+
+## COLMI L10 Lady Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/colmi-l10-bluetooth-calling-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/colmi-l10-bluetooth-calling-smart-watch
+**Price:** 2,295৳ 2,550৳
 
 ---
 
