@@ -2251,6 +2251,15 @@
 ---
 
 
+## HP OMEN Transcend Gaming 14-fb0064TX (Ceramic White Aluminum) Core Ultra 9 185H (14th Gen) 1024/32 14" (2880x1800) 120Hz | G | OLED NVIDIA RTX 4070 - 8GB DDR6 (65W) RGB Keyboard | With NPU Open Box  
+**DocID:** `daraz_1574055806`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 189,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -8043,6 +8052,69 @@ Touch screen
 ---
 
 
+## Walton Tamarind EX310A (WTEX41A3BL) 10th Gen Intel Core i3-10110U 2.10GHz to 4.10GHz, 4GB, 256GB SSD, Windows 10, 14 Inch FHD Laptop  
+**DocID:** `daraz_569450800`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 31,250
+
+---
+
+
+## HP Elitebook 840 G6 Intel Core i5 8th Gen 256GB SSD 8GB RAM 14″ Laptop  
+**DocID:** `daraz_526654545`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 35,000
+
+---
+
+
+## Apple MacBook Air MLXW3 M2 Chip 2.42 to 3.48GHz, 8GB RAM, 256GB SSD, 13.6 Inch Retina IPS Laptop (Late 2022)  
+**DocID:** `daraz_352441099`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 153,500
+
+---
+
+
+## Dell Latitude 7400 - (Silver) Core i5-8365U 256/8 14" (1920x1080) Glass Touch  
+**DocID:** `daraz_1574329632`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 34,500
+
+---
+
+
+## ASUS Vivobook 14 X1404VA-NK480W 13th Gen Core i7 16GB RAM 512GB SSD 14" FHD Laptop  
+**DocID:** `daraz_469802232`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 81,700
+
+---
+
+
+## HP Pavilion 15-eg3041TX 13th Gen i5-1335U 1.3 to 4.6GHz, 15.6 Inch FHD, 8GB, 512GB SSD, Win 11 Laptop  
+**DocID:** `daraz_349488611`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 112,100
+
+---
+
+
+## HP 250 G10 13th Gen Core i3-1315U 3.3 to 4.5GHz, 8GB RAM, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_327351144`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 53,990
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -8156,15 +8228,6 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 167,999
-
----
-
-
-## Apple MacBook Air MLXW3 M2 Chip 2.42 to 3.48GHz, 8GB RAM, 256GB SSD, 13.6 Inch Retina IPS Laptop (Late 2022)  
-**DocID:** `daraz_352441099`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 153,500
 
 ---
 
@@ -12431,6 +12494,42 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 640
+
+---
+
+
+## New contrast Polo Shirt for Men -  fabric soft to wear  
+**DocID:** `daraz_213520241`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 305
+
+---
+
+
+## New Premium Fabric Stylish Polo T-Shirt - Comfortable and Wear Ideal for All Seasons  
+**DocID:** `daraz_545974019`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 550
+
+---
+
+
+## GoodMan Premium Quality Turquoise Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_540762292`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 649
+
+---
+
+
+## Smart men\'s short sleeve cotton polister mix polo t-shirt  
+**DocID:** `daraz_128878689`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
 
 ---
 
@@ -16920,6 +17019,330 @@ Synthetic rubber sole
 ---
 
 
+## Trendy Sneakers For Men (Black) - Shoe For Men  
+**DocID:** `daraz_545866886`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 365
+
+---
+
+
+## New Collection Better Choice: Stylish And Fashionable Exclusive Sneakers Converse for Men - Elevate Your Style  
+**DocID:** `daraz_416777134`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 599
+
+---
+
+
+## Male Sneakers Stylish Rotating Buckle Hiking Boots Solid Color Comfortable Non-slip Sporty Shoes Plus Size Men Shoes Leather  
+**DocID:** `daraz_546061619`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 3,428
+
+---
+
+
+## White sneakers trendy weightless lace up shoes for men  
+**DocID:** `daraz_222775706`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 420
+
+---
+
+
+## Trendy Shoes For Men With Korean Air Mesh High-Quality Lightweight Fabrics And Plain Rubber Sole Sneakers - Comfortable for All Seasons  
+**DocID:** `daraz_198133741`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 430
+
+---
+
+
+## White Lambrgn Bubble Sneakers For Men - Sneakers  
+**DocID:** `daraz_295811018`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,890
+
+---
+
+
+## SPRINT Men's Sports Shoe  
+**DocID:** `daraz_277590023`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,392
+
+---
+
+
+## New Trendy Black Grey Red and Khaki Color Korean Canvas Sneakers Shoes for Men Slip On Casual Shoes  
+**DocID:** `daraz_525576238`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
+## Men's sports breathable fashion men sneakers running shoes casual sneakers  
+**DocID:** `daraz_324929343`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 589
+
+---
+
+
+## White Black Men Shoes Comfortable Casual Skateboard Shoes Men Solid Leisure Sneakers Lightweight Walking Shoes  
+**DocID:** `daraz_546057322`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,632
+
+---
+
+
+## Yellow sneakers for men lace up rubber weightless shoes for trendy boys. - Shoes For Men - à¦œà§à¦¤à¦¾ à¦›à§‡à¦²à§‡à¦¦à§‡à¦° - জুতা ছেলেদের  
+**DocID:** `daraz_212590917`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 444
+
+---
+
+
+## Weinbrenner Outdoor Shoe for Men  
+**DocID:** `daraz_157188166`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 3,499
+
+---
+
+
+## Exclusive sneakers for casual use and light weight version. - Shoes For Men  - Shose For Men  
+**DocID:** `daraz_277530876`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 922
+
+---
+
+
+## Mens Casual Sneakers Running Shoes Men Lace-up Lightweight Comfortable Breathable Big Size 46 Athletic Walking Shoes for Men  
+**DocID:** `daraz_546140077`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,806
+
+---
+
+
+## Shoes for men Summer breathable new versatile sports men's shoes casual sneaker lace-up sneakers for men  
+**DocID:** `daraz_463698881`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,990
+
+---
+
+
+## shoes for men flying woven breathable trendy men's shoes -casual sneaker spring sneakers for men  
+**DocID:** `daraz_233520022`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,640
+
+---
+
+
+## North Star NADAL Cool & Easy Shoe for Men  
+**DocID:** `daraz_468959235`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 999
+
+---
+
+
+## Running White light weight version sneakers for men with lace up version  
+**DocID:** `daraz_335524694`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 451
+
+---
+
+
+## Men Casual Sports Shoes Breathable Orthopedic Travel Flat-Bottomed Casual Shoes Suitable Outdoor Activities Hiking Sports Shoes  
+**DocID:** `daraz_546080250`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,206
+
+---
+
+
+## New Fashion Men's shoes Trendy Sneaker Waterproof Shoes for men fashion Shoes - Sneakers For Men  
+**DocID:** `daraz_233507954`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,640
+
+---
+
+
+## SPRINT Men's Sports Shoe  
+**DocID:** `daraz_277585589`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,832
+
+---
+
+
+## SPRINT Men's Sports Shoe  
+**DocID:** `daraz_277587344`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,392
+
+---
+
+
+## North Star Synthetic Casual Lifestyle Sneakers - Blue  
+**DocID:** `daraz_2451273`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 999
+
+---
+
+
+## Men's winter trending breathable high neck model casual winter wind proff casual used stylish sneakers light weight lace up shoes for men  
+**DocID:** `daraz_446037558`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 600
+
+---
+
+
+## North Star ARGON 3 Lace-Up Sneaker for Men  
+**DocID:** `daraz_452194410`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 3,499
+
+---
+
+
+## North Star KAHOLO Lace-Up Sneaker for Men  
+**DocID:** `daraz_452194411`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 3,999
+
+---
+
+
+## SPRINT Men's Sports Shoe  
+**DocID:** `daraz_277585553`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,632
+
+---
+
+
+## SPRINT Men's Sports Shoe  
+**DocID:** `daraz_277583970`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,592
+
+---
+
+
+## New Men Casual Sports Sneakers Low Cut Breathable Mesh PU Leather Fashion Shoes  
+**DocID:** `daraz_347299856`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,835
+
+---
+
+
+## New Men's shoes Korean Version Fashion All-Match shoes for men Trendy Low-Top Flat European Sneaker White - Sneakers For Men  
+**DocID:** `daraz_233858457`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,490
+
+---
+
+
+## Shoes for men new breathable thin comfortable sneaker mesh outdoor leisure mesh sneakers for men Black  
+**DocID:** `daraz_302455787`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,989
+
+---
+
+
+## New breathable shoes for men Korean sneaker of the trendy casual men's shoes mesh sneakers for men sneakers gray  
+**DocID:** `daraz_469545545`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 840
+
+---
+
+
+## Shoes for men Summer breathable new shoes sneakers men's canvas shoes casual shoes lace-up men shoes sneakers for men  
+**DocID:** `daraz_470943074`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 840
+
+---
+
+
+## North Star VALERIO Low-Top Casual Lace-Up Sneaker for Men Exclusively only for Daraz  
+**DocID:** `daraz_325810415`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,699
+
+---
+
+
+## Men's low-top thick-shoes fashion all-match breathable mesh shoes soft-soled comfortable color matching casual shoes  
+**DocID:** `daraz_295495082`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,640
+
+---
+
+
+## Boys converse with houwie sool and weightless shoes. - Juta - Shoe For Boys - Shoe For Boys  
+**DocID:** `daraz_228332207`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 699
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -20264,6 +20687,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 360
+
+---
+
+
+## Brazil National Team Football Team Jersey For Kids (premium) - World Cup 2022  
+**DocID:** `daraz_278723019`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 199
+
+---
+
+
+## Brazil World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Half Sleeve - Brazil Jersey 2026/2027  
+**DocID:** `daraz_268587874`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Juventus Jersey 2026/27 Thai Premium Football Jersey For Man - Half Sleeve Club T Shirt - Juventus Jersey 2026  
+**DocID:** `daraz_540202553`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## B-d Short Sleeve Polo Football Jersey for Man - Half Sleeve Polo - Banglades Fan Jersey 2026-27  
+**DocID:** `daraz_269527237`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 299
 
 ---
 
@@ -24027,6 +24486,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 18,844
+
+---
+
+
+## Coolpad CP12 Smartphone – 6.52” HD+ Display, 8GB RAM (4+4), 128GB ROM, Unisoc SC9863A, 13MP Camera, 4500mAh Battery, With Free Premium Quality Jacket  
+**DocID:** `daraz_571656172`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,990
+
+---
+
+
+## HONOR 400 Lite 12GB/256GB | AMOLED 120hz Display | 108MP Triple Camera | Official  
+**DocID:** `daraz_1573414822`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 31,620
 
 ---
 
@@ -29486,6 +29963,16 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/colmi-l10-bluetooth-calling-smart-watch
 **Price:** 2,295৳ 2,550৳
+
+---
+
+
+## CHARG Digiwatch  
+**DocID:** `startech_https://www.startech.com.bd/charg-digiwatch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/charg-digiwatch
+**Price:** 1,790৳ 1,899৳
 
 ---
 
