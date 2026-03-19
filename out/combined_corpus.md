@@ -8115,6 +8115,33 @@ Touch screen
 ---
 
 
+## HP Envy x360 Convertible 14-ES0033 13th Gen Core i7-1355U 3.7 to 5GHz, 16GB, 1TB SSD, Windows 11, 14" IPS FHD Touch Laptop  
+**DocID:** `daraz_351642766`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 138,000
+
+---
+
+
+## Asus Vivobook Go 15 L1504FA (BQ2546W) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz,16GB RAM,512GB SSD,15.6"Inch Win-11,FHD Display Laptop  
+**DocID:** `daraz_571271006`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,300
+
+---
+
+
+## MSI Modern 14 C13M 13th Gen Core i7-1355U 3.7 to 5GHz, 16GB RAM, 512GB SSD, Win 11, 14 FHD Laptop  
+**DocID:** `daraz_316330635`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 115,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -12530,6 +12557,51 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 199
+
+---
+
+
+## Trendy Fashionable Cotton Zipper Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_527043180`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
+
+---
+
+
+## 2025 New Men's Business Casual Short Sleeved Printed Polo Shirt Fashionable Breathable Comfortable and Versatile Top  
+**DocID:** `daraz_571532550`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,210
+
+---
+
+
+## White Polo Shirt - Polo Collar Neck Sports, Causal Cotton T-Shirt for Men and Boys  
+**DocID:** `daraz_325754390`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 347
+
+---
+
+
+## Eid Collation Stylish Polo shirt for men - Polo T Shirt  
+**DocID:** `daraz_307608170`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
+
+---
+
+
+## Premium Quality pk Cotton Polo Shirt for Men  
+**DocID:** `daraz_390645524`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
 
 ---
 
@@ -17343,6 +17415,240 @@ Synthetic rubber sole
 ---
 
 
+## Running Sneakers White Color Shoes Casual Lace-up Winter and Summer Men's Shoes  
+**DocID:** `daraz_221105951`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,000
+
+---
+
+
+## Running Sneakers Casual Lace-Up Shoes Summer Men'S Shoes. - Sneakers  
+**DocID:** `daraz_325994408`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 549
+
+---
+
+
+## Running Sneakers Casual Lace-Up Shoes Summer Men'S Shoes. - Sneakers  
+**DocID:** `daraz_325991759`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 699
+
+---
+
+
+## Sprint Men's Canvas  
+**DocID:** `daraz_548692082`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,352
+
+---
+
+
+## Sprint Men's Canvas  
+**DocID:** `daraz_548680527`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,592
+
+---
+
+
+## Stylish fashionable sneakers for men Sole Shoes for men - Shoes For Men -  - জুতা ছেলেদের - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Sneakers For Men - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Shoe For Boys  
+**DocID:** `daraz_225802861`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,300
+
+---
+
+
+## Running Sneakers Multicolor Casual Lace-Up Shoes Winter And Summer Men'S Shoes by Nayeem Fashion World  
+**DocID:** `daraz_325556920`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 899
+
+---
+
+
+## NORTH STAR VALERIO MENS CANVAS F.TIME  
+**DocID:** `daraz_563710217`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,099
+
+---
+
+
+## Shoes for men summer breathable men shoes mesh casual juta sneakers for men  
+**DocID:** `daraz_471657457`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 990
+
+---
+
+
+## North Star NADAL Cool & Easy Shoe for Men  
+**DocID:** `daraz_468932714`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 999
+
+---
+
+
+## Running Sneakers Casual Lace-Up Shoes Summer Men'S Shoes. - Shoe For Boys  
+**DocID:** `daraz_267548468`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 700
+
+---
+
+
+## Men’s Cream Casual Sneakers – Premium Street Style Shoes for Men  
+**DocID:** `daraz_530675822`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 3,840
+
+---
+
+
+## North Star ARCE Lifestyle Sneaker for Men  
+**DocID:** `daraz_320132954`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 4,499
+
+---
+
+
+## Flix Footwear shoes for men 3 Running Shoes Summer Breathable Men's Shoes Racing Training Shoes Carbon Plate Sports sneakers for men.  
+**DocID:** `daraz_347577151`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 990
+
+---
+
+
+## Shoes for men new breathable thin comfortable sneaker mesh outdoor leisure mesh sneakers for men White  
+**DocID:** `daraz_324222915`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 3,450
+
+---
+
+
+## Men's low-top thick-shoes fashion all-match breathable mesh shoes soft-soled comfortable color matching casual shoes  
+**DocID:** `daraz_295484664`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,890
+
+---
+
+
+## Shoes for men New Flying Mesh Running mens Shoes Non-slip Wear-Resistant Casual sneaker Platform Sole sneakers for men  
+**DocID:** `daraz_324254907`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 4,850
+
+---
+
+
+## Sprint Black Fabric Canvas for Women  
+**DocID:** `daraz_326300412`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 792
+
+---
+
+
+## Running Sneakers Casual Lace-up Shoes Summer Men's Shoes Yellow  
+**DocID:** `daraz_191187556`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 385
+
+---
+
+
+## North Star VALERIO Cool & Easy Shoe for Men  
+**DocID:** `daraz_468940545`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,099
+
+---
+
+
+## Maverick Men's Casual Shoe  
+**DocID:** `daraz_526118992`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,392
+
+---
+
+
+## Asics Men's Mash woven shoes light weight high-end stretch surface breathable washable and comfortable sneakers  
+**DocID:** `daraz_230239423`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,450
+
+---
+
+
+## Shoes new Korean version men's shoes casual shoes summer breathable all-match thick-soled shoes  
+**DocID:** `daraz_320308071`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,740
+
+---
+
+
+## Autumn new men's shoes Korean version men's casual board black PU leather shoes shoes  
+**DocID:** `daraz_302640836`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,990
+
+---
+
+
+## New Collection - Better Choice Stylish and Fashionable Exclusive Sneaker for Men - Trendy Men's Sneakers for Anytime Wear  
+**DocID:** `daraz_230443994`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## Power REVO Men's Performance Sneaker  
+**DocID:** `daraz_424875652`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 3,999
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -20723,6 +21029,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 299
+
+---
+
+
+## Mexico World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve - Mexico Jersey 2026  
+**DocID:** `daraz_335964912`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
 
 ---
 
@@ -24504,6 +24819,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 31,620
+
+---
+
+
+## Samsung Galaxy A36 5G 8/256GB|6.6" FHD+ AMOLED 120Hz  
+**DocID:** `daraz_563970531`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 47,295
 
 ---
 
@@ -29973,6 +30297,16 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/charg-digiwatch
 **Price:** 1,790৳ 1,899৳
+
+---
+
+
+## CHARG Fusion  
+**DocID:** `startech_https://www.startech.com.bd/charg-fusion`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/charg-fusion
+**Price:** 2,990৳ 3,199৳
 
 ---
 
