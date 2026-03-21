@@ -8142,6 +8142,96 @@ Touch screen
 ---
 
 
+## Hp 840 G6  
+**DocID:** `daraz_573992699`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 41,250
+
+---
+
+
+## HP Elitebook 745 G6 Ryzen 7 Pro-3700U 256/8 14" (1920x1080) Radeon  10 - 2GB  
+**DocID:** `daraz_1573512805`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 33,558
+
+---
+
+
+## HP EliteBook Ultra G1q Next Gen Ai - (Atmospheric Blue) Snapdragon X Elite (12 Core) 1024/32 14" (2240x1400) G.Touch With NPU  
+**DocID:** `daraz_1574733122`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 138,000
+
+---
+
+
+## Dell Latitude 5300 (2-in-1) Core i7-8665U 256/8 13.3" (1920x1080) X360 G.Touch  
+**DocID:** `daraz_1573623388`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 33,064
+
+---
+
+
+## HP EliteBook 745 G6 Ryzen 5 Pro 3500U 8GB 256GB SSD 14 Inch FHD Laptop  
+**DocID:** `daraz_1574773129`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 34,500
+
+---
+
+
+## Walton Tamarind EX310A (WTEX41A3BL) 10th Gen Intel Core i3-10110U 2.10GHz to 4.10GHz, 4GB, 256GB SSD, Windows 10, 14 Inch FHD Laptop  
+**DocID:** `daraz_569222485`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 31,500
+
+---
+
+
+## HP Elitebook 840 G6 Core i7-8665U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1573794049`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 34,545
+
+---
+
+
+## HP Elitebook 840 G6 Core i5-8365U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1573493443`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 31,525
+
+---
+
+
+## Microsoft Surface Laptop Go 3 Core i5 12th Gen 12.4" QHD Multi-Touch Laptop (XKQ-00006)  
+**DocID:** `daraz_1574328965`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 55,000
+
+---
+
+
+## Hp Probook 630 G8, Core i5 11th Gen, 14" Full HD Display Used Laptop-16GB Ram, 512GB SSD  
+**DocID:** `daraz_569251633`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,600
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -12602,6 +12692,42 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 350
+
+---
+
+
+## Premium Cotton Casual Polo T-shirt for Men - Polo T Shirt For Men  
+**DocID:** `daraz_373546867`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 219
+
+---
+
+
+## GoodMan Premium Quality Navy Blue Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_526108191`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 840
+
+---
+
+
+## GoodMan Premium Quality Navy Blue Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_526111167`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 840
+
+---
+
+
+## Classic fit half sleeve casual polo t-shirt for man  
+**DocID:** `daraz_128736788`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
 
 ---
 
@@ -17649,6 +17775,105 @@ Synthetic rubber sole
 ---
 
 
+## New Collection Fashionable Black blue And Gra Color PREMIUM Quality Sneakers Canvas shoes For Men C001  
+**DocID:** `daraz_347908477`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 470
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Sneakers for Men  
+**DocID:** `daraz_567048151`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,690
+
+---
+
+
+## Leather Shoe Polish Conditioner Multifunctional Leather Shoes Handbag Cleaner  
+**DocID:** `daraz_330572630`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 199
+
+---
+
+
+## Premium Quality Black Cotton Fabrics Sneaker PRINT Shoes Slip-Ons & Sneakers for Men C002gg  
+**DocID:** `daraz_454751113`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 499
+
+---
+
+
+## Running Sneakers Casual Lace-up Shoes Summer Men's Shoes Red  
+**DocID:** `daraz_191186336`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 355
+
+---
+
+
+## Sprint Men's Sports Shoe  
+**DocID:** `daraz_526131926`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,990
+
+---
+
+
+## Men's shoes summer breathable new mesh shoes shock-absorbing air cushion running casual national men's models  
+**DocID:** `daraz_342313536`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,890
+
+---
+
+
+## Men's Shoes 2022 Trendy Summer Breathable Sneakers Casual All-match Comfortable  
+**DocID:** `daraz_234316182`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,500
+
+---
+
+
+## Power ENGAGE+ 100 Men's Performance Sneaker  
+**DocID:** `daraz_424925063`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 3,499
+
+---
+
+
+## Black  Color Casual Shoe by North Star for Men  
+**DocID:** `daraz_127333849`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 999
+
+---
+
+
+## Khaki Color Korean Canvas Sneakers Shoes for Men Slip On Casual Shoes - Insoles For Shoes - Sensible - Must Have  
+**DocID:** `daraz_556094232`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 299
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -21038,6 +21263,51 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 360
+
+---
+
+
+## Real Madrid Jersey 2025/26 - Thai Premium Football Jersey For Man - Real Madrid Jersey 2025  
+**DocID:** `daraz_351070058`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 412
+
+---
+
+
+## AC Milan 2024-25 Home Jersey Half Sleeve (Thai Premium)  
+**DocID:** `daraz_455156984`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 450
+
+---
+
+
+## Bangladesh Fan 2026/2027 Thai Premium Football Jersey For Men - b-d Home Half Sleeve Jersey - Bangladesh Fan Jersey 2026  
+**DocID:** `daraz_543318432`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## 2019/20 Juventus Away Short Sleeve Jersey Premium Quality (Thailand)  
+**DocID:** `daraz_114716811`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 750
+
+---
+
+
+## Barcelona Jersey 2026/27 Thai Premium Football Jersey For Men - Half Sleeve Polo Jersey - Barcelona Football Jersey 2026/27  
+**DocID:** `daraz_531232979`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
 
 ---
 
@@ -24828,6 +25098,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 47,295
+
+---
+
+
+## Samsung Galaxy A26 5G 8/128GB|6.6" FHD+ AMOLED  
+**DocID:** `daraz_563973367`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 36,242
+
+---
+
+
+## REDMI 15C (6/128) Unofficial Global /Official  
+**DocID:** `daraz_573800454`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,999
 
 ---
 
