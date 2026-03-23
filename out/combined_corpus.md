@@ -8232,6 +8232,51 @@ Touch screen
 ---
 
 
+## Microsoft Surface Laptop 1 - 13.5" (Platinum) Core i5-7300U 256/8 13.5" (2256x1504) G.Touch  
+**DocID:** `daraz_1574536133`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 33,350
+
+---
+
+
+## Dell Latitude 5420 (Refurbished) – 14" FHD Display, Intel Core i5 11th Gen, 16GB RAM, 512GB SSD  
+**DocID:** `daraz_568554206`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 53,580
+
+---
+
+
+## Chuwi CoreBook XPro 15.6 Inch i3-1215U 3.3 to 4.4GHz, 16GB, 512GB, Win11 Laptop  
+**DocID:** `daraz_336022825`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 75,000
+
+---
+
+
+## HP Elitebook 840 G11 Core Ultra 5 135U (14th Gen) 512/16 14" (1920x1200)  
+**DocID:** `daraz_1574114594`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,000
+
+---
+
+
+## HP 14-ep0160TU 13th Gen i3-1315U 1.2 to 4.5GHz, 14 Inch FHD, 8GB, 512GB SSD, Win 11 Laptop  
+**DocID:** `daraz_348185642`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 68,699
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -12728,6 +12773,51 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 199
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt For Men  
+**DocID:** `daraz_367043750`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 266
+
+---
+
+
+## GoodMan Premium Quality Navy Blue Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_424050732`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 660
+
+---
+
+
+## Lightweight Polo Shirt for Men  
+**DocID:** `daraz_266611791`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 700
+
+---
+
+
+## premium Quality polo shirt For mens  
+**DocID:** `daraz_557108891`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 325
+
+---
+
+
+## Classic fit half sleeve casual polo t-shirt for man  
+**DocID:** `daraz_128742417`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 192
 
 ---
 
@@ -17874,6 +17964,33 @@ Synthetic rubber sole
 ---
 
 
+## Air Force 1 Low - Sneakers - Premium Quality - Shoes For Men  
+**DocID:** `daraz_329137910`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,178
+
+---
+
+
+## Men's Thick Sole Sport Shoes Simple Fashionable Casual Sneaker High Quality Rubber Plastic Male Athletic Shoes Chunky Sneakers  
+**DocID:** `daraz_547878454`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 3,018
+
+---
+
+
+## Splendid Trendsetter -Upscale Living -Flix Fashion Sneakers for men flying latest design running shoes for men- Inventive Choice  
+**DocID:** `daraz_322731593`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 3,450
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -21308,6 +21425,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 350
+
+---
+
+
+## Belgium short Sleeve Jersey 2026/27 Thai Premium Football Jersey for Man - Half Sleeve - Belgium Jersey 2026  
+**DocID:** `daraz_561018059`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 359
+
+---
+
+
+## Barcelona Jersey 2026/27 Thai Premium Football Jersey For Men - Half Sleeve Club Jersey - Barcelona Jersey 2026  
+**DocID:** `daraz_540712380`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
 
 ---
 
@@ -25116,6 +25251,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 20,999
+
+---
+
+
+## Redmi 15 [6/128GB] Official  
+**DocID:** `daraz_563623353`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 19,350
+
+---
+
+
+## Honor 400 Pro [12/512GB] International  
+**DocID:** `daraz_530976478`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 66,499
+
+---
+
+
+## Realme C85 Pro [8GB RAM] Official  
+**DocID:** `daraz_1574919844`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,399
 
 ---
 
