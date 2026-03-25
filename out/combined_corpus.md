@@ -8277,6 +8277,42 @@ Touch screen
 ---
 
 
+## HP Probook 445 G9, Ryzen 5 5625U, 14inch Silver Used Laptop-8GB Ram, 512GB SSD  
+**DocID:** `daraz_569251396`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 48,000
+
+---
+
+
+## HP 15-fd0268TU (9X4G8PA) Intel Core i5 1334U 13th Gen, 8GB RAM, 512GB SSD, Windows 11 Home, 15.6 Inch FHD Display Silver Laptop  
+**DocID:** `daraz_456905258`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 78,500
+
+---
+
+
+## HP 15-fd0024TX Intel i5 13th Gen 1335U 1.3 to 4.6 GHz, 8GB, 512GB SSD, Win11 Laptop  
+**DocID:** `daraz_349157156`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 100,700
+
+---
+
+
+## Dell XPS 13 7390 - (Silver) Core i5-10210U 512/8 13.3" (1920x1080) G.Touch  
+**DocID:** `daraz_1577078705`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 51,750
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -12818,6 +12854,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 192
+
+---
+
+
+## Men's Business Casual Long Sleeve Polo T-shirt Summer Comfortable Breathable Top for Formal Occasions  
+**DocID:** `daraz_546032891`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,317
+
+---
+
+
+## polo shirt for men - sports polo t shirt  
+**DocID:** `daraz_529599170`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
 
 ---
 
@@ -17991,6 +18045,33 @@ Synthetic rubber sole
 ---
 
 
+## New Trendy Black Grey Blue And Khaki Color Korean Canvas Sneakers Shoes For Men - Out In Style With New Trendy Korean Canvas Sneakers  
+**DocID:** `daraz_323363302`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 455
+
+---
+
+
+## Men Sneakers - Black Glass Sole  
+**DocID:** `daraz_260590591`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,850
+
+---
+
+
+## Black White And Grey Color Mixcolor Casual Sneakers Shoes For Men New Designed Shoes M24 - Unique and Stylish Sneakers  
+**DocID:** `daraz_324120361`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 465
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -21443,6 +21524,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 360
+
+---
+
+
+## Man-U Full Sleeve Jersey 2026/2027 Thai Premium Football Jersey for Man - Long Sleeve Club Jersey - man-u Jersey 2026  
+**DocID:** `daraz_327835052`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Manchester City Half Sleeve Football Jersey for Man - Manchester City Football Jersey 2025-26  
+**DocID:** `daraz_484436618`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
 
 ---
 
@@ -25278,6 +25377,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 25,399
+
+---
+
+
+## Vivo Y31d [8GB RAM] Official  
+**DocID:** `daraz_1574806695`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 27,099
+
+---
+
+
+## iPhone Air (1 Year Apple International Warranty)  
+**DocID:** `daraz_557078263`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 128,999
 
 ---
 
