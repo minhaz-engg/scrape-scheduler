@@ -8313,6 +8313,51 @@ Touch screen
 ---
 
 
+## Tecno Megabook K15SDA AMD Ryzen 5 7430U 2.3 to 4.3GHz, 16GB, 512GB SSD, Windows 11, 15.6 Inch FHD IPS Laptop  
+**DocID:** `daraz_1574803978`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 65,500
+
+---
+
+
+## Asus Vivobook Go 14 L1404FA (EB595W) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz 16GB RAM 512GB SSD 14"Inch FHD Display Laptop  
+**DocID:** `daraz_1576888600`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,200
+
+---
+
+
+## HP 15-fc0166AU (9S532PA) AMD Ryzen-5 7520U, 2.8 to 4.3GHz, 8GB RAM, 512GB SSD, Windows 11 Home, 15.6 Inch FHD Display Moonlight Blue Laptop  
+**DocID:** `daraz_453769201`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,599
+
+---
+
+
+## Brand New HP Envy x360 2 in 1, Core i5 120U, 14'' Touch Screen x360 Silver Laptop-8GB Ram, 512GB SSD Full Box Intact  
+**DocID:** `daraz_569238884`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 98,400
+
+---
+
+
+## Dell Latitude 7320 (2-in-1) Detachable (Gray) Core i5-1140G7 256/8 12.3" (1920x1280) G.Touch With Detachable Keyboard & Stylus  
+**DocID:** `daraz_1574425628`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 54,050
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -12872,6 +12917,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 349
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts - Polo T Shirt For Men  
+**DocID:** `daraz_302120898`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 440
+
+---
+
+
+## Trendy Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_430840789`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
 
 ---
 
@@ -18072,6 +18135,33 @@ Synthetic rubber sole
 ---
 
 
+## Running Sneakers for Men - Low Top Type - White Color - Casual Lace-Up Shoes for Every Season - Fashionable and Lightweight  
+**DocID:** `daraz_1574063166`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 299
+
+---
+
+
+## Sneakers high neck lace up stylish rubber sool winter collection trendy cool design shoes.  
+**DocID:** `daraz_169632433`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 570
+
+---
+
+
+## -Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_345333424`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 660
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -21542,6 +21632,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 260
+
+---
+
+
+## Real Madrid Short Sleeve Football Jersey For Men - Mbappe 10 Jersey - Real Madrid 10 Jersey 2026  
+**DocID:** `daraz_503408698`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 329
 
 ---
 
@@ -25395,6 +25494,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 128,999
+
+---
+
+
+## IQOO Z11 TURBO 12-256 (CN)  
+**DocID:** `daraz_573984718`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 52,999
 
 ---
 
@@ -30874,6 +30982,106 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/charg-fusion
 **Price:** 2,990৳ 3,199৳
+
+---
+
+
+## Dahua DHI-NC14-EIN2L1 Intel N100 12th Gen 14" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/dahua-dhi-nc14-ein2l1-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/dahua-dhi-nc14-ein2l1-laptop
+**Price:** 33,000৳
+
+---
+
+
+## HP 15-fc0621AU AMD Athlon Silver 7120U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fc0621au-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fc0621au-laptop
+**Price:** 46,500৳
+
+---
+
+
+## AFOX NVIDIA GeForce GT 610 2GB GDDR3 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/afox-gt-610-2gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/afox-gt-610-2gb-graphics-card
+**Price:** 4,900৳
+
+---
+
+
+## AFOX NVIDIA GeForce GT 240 1GB GDDR3 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/afox-gt-240-1gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/afox-gt-240-1gb-graphics-card
+**Price:** 5,000৳
+
+---
+
+
+## AFOX NVIDIA GeForce GT 710 2GB GDDR3 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/afox-gt-710-2gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/afox-gt-710-2gb-graphics-card
+**Price:** 6,500৳
+
+---
+
+
+## AFOX NVIDIA GeForce GT 730 2GB GDDR3 Low Profile Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/afox-gt-730-2gb-low-profile-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/afox-gt-730-2gb-low-profile-graphics-card
+**Price:** 7,300৳
+
+---
+
+
+## AFOX NVIDIA GeForce GT 710 4GB GDDR3 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/afox-gt-710-4gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/afox-gt-710-4gb-graphics-card
+**Price:** 8,500৳
+
+---
+
+
+## AFOX NVIDIA GeForce GT 1030 2GB GDDR5 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/afox-gt-1030-2gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/afox-gt-1030-2gb-graphics-card
+**Price:** 14,000৳
+
+---
+
+
+## AFOX Radeon RX 550 4GB GDDR5 Dual Fan Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/afox-radeon-rx-550-4gb-dual-fan-graphics-card
+**Price:** 14,500৳
+
+---
+
+
+## GIGABYTE H510M K V2 11th/10th Gen mATX Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/gigabyte-h510m-k-v2-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/gigabyte-h510m-k-v2-motherboard
+**Price:** 10,000৳
 
 ---
 
