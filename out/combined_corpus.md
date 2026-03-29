@@ -2260,6 +2260,24 @@
 ---
 
 
+## Lenovo LOQ Intel Core i5 12450HX 8GB RAM 512GB SSD 15.6 Inch FHD RTX 4050 6GB Graphics Luna Grey Gaming Laptop Model 15IAX9E 83LK00C9US  
+**DocID:** `daraz_1577719181`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 101,000
+
+---
+
+
+## HP Victus 15 Core i5 13420H 8GB RAM 512GB SSD RTX 4050 6GB 15.6 Inch FHD Black Laptop Model FA2082WM (B5EQ3UA)  
+**DocID:** `daraz_1577627659`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 106,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -8358,6 +8376,42 @@ Touch screen
 ---
 
 
+## Dell XPS 13 9370 - (Silver) Core i7-8550U 256/8 13.3" (1920x1080) G  
+**DocID:** `daraz_1574278888`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 42,500
+
+---
+
+
+## Acer EXTENSA 15 EX215-23-R2JD (NX.EH3S1.009) Ryzen 3 7320U 2.4 to 4.1GHz, 8GB, 256GB SSD, 15.6" FHD Laptop  
+**DocID:** `daraz_323228953`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 61,000
+
+---
+
+
+## Microsoft Surface Laptop 3 - 13.5" Core i7-1065G7 512/16 13.5" (2256x1504) G.Touch  
+**DocID:** `daraz_1573779262`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 61,000
+
+---
+
+
+## HP Elitebook 830 G8 Core i5-1145G7 512/8 13.3" (1920x1080)  
+**DocID:** `daraz_1574338161`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 43,700
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -12935,6 +12989,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 350
+
+---
+
+
+## Cotton polo T Shirts for men-multi color stripped polo shirt for men  
+**DocID:** `daraz_302597005`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 174
+
+---
+
+
+## Black Cotton Polo For Men  
+**DocID:** `daraz_104712167`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 288
 
 ---
 
@@ -18162,6 +18234,42 @@ Synthetic rubber sole
 ---
 
 
+## 1002/ New Trendy Black Blue And Grey Color EXPRESS Casual Canvas Sneakers Shoes For Men New Collection And Breathable Shoes For Man  
+**DocID:** `daraz_555741578`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 469
+
+---
+
+
+## New Trendy Black Blue And Grey Color EXPRESS Casual Canvas Sneakers Shoes For Men New Collection And Breathable Shoes For Man  
+**DocID:** `daraz_546772932`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 535
+
+---
+
+
+## Stylish Black Blue Khaki And Grey Color SPORT1888 Canvas Sneaker Shoes For Men Lightweight Casual Sneakers For Winter  
+**DocID:** `daraz_556999733`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 565
+
+---
+
+
+## winter hot Chinese collection light sneakers shoes for men with lace up design.  
+**DocID:** `daraz_446554539`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 650
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -21641,6 +21749,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 329
+
+---
+
+
+## Manchester City Thai Premium Football Jersey For Man - Half Sleeve Collar Polo t shirt - Manchester City Jersey 2026  
+**DocID:** `daraz_269032713`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Manchester City Thai Premium Jersey For Man - Half Sleeve Polo - Manchester City Football Jersey  2026/27  
+**DocID:** `daraz_287521111`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Arsenal 24/25 Home Shirt  
+**DocID:** `daraz_389585842`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 297
+
+---
+
+
+## Ronaldo Thai Premium Football Jersey For Man - Half Sleeve T Shirt - Portugal Football Jersey 2025  
+**DocID:** `daraz_530773057`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 557
 
 ---
 
@@ -25503,6 +25647,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 52,999
+
+---
+
+
+## Realme 16 pro ( 8-128/256 ) IND  
+**DocID:** `daraz_574651243`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 42,499
+
+---
+
+
+## Oppo RENO 15 PRO MINI ( 12 - 256 / 512 )  
+**DocID:** `daraz_574639903`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 74,499
 
 ---
 
@@ -31082,6 +31244,26 @@ Non-removable Li-Po Battery
 **Category:** motherboard  
 **URL:** https://www.startech.com.bd/gigabyte-h510m-k-v2-motherboard
 **Price:** 10,000৳
+
+---
+
+
+## HP 15-fd0841TU Core i3 13th Gen 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fd0841tu-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fd0841tu-laptop
+**Price:** 58,500৳
+
+---
+
+
+## Intel 10th Gen Core i5-10505 Processor  
+**DocID:** `startech_https://www.startech.com.bd/intel-core-i5-10505-processor`
+**Source:** StarTech  
+**Category:** processor  
+**URL:** https://www.startech.com.bd/intel-core-i5-10505-processor
+**Price:** 13,900৳ 14,800৳
 
 ---
 
