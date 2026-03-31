@@ -8412,6 +8412,78 @@ Touch screen
 ---
 
 
+## MSI Modern 15 F13MG Intel Core i3-1315U 3.3GHz to 4.5GHz, 8GB 3200MHz, 512GB Gen4 NVMe SSD, 15.6 Inch FHD IPS Laptop  
+**DocID:** `daraz_526570315`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 61,300
+
+---
+
+
+## Dell Latitude 7400 Core i5-8365U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1574391891`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 32,200
+
+---
+
+
+## Microsoft Surface Laptop 2 - 13.5" (Black) Core i7-8650U 512/16 13.5" (2256x1504) G.Touch  
+**DocID:** `daraz_1573916203`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,402
+
+---
+
+
+## Lenovo ThinkPad X13 (Refurbished) – 13.3" WUXGA Display, Intel Core i7 13th Gen, 16GB RAM, 512GB SSD  
+**DocID:** `daraz_574307620`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,799
+
+---
+
+
+## Acer Aspire 3-A325-53 (UN.34YSI.00Y) 13th Gen Intel Core i5-1334U 3.4GHz to 4.60GHz, 16GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_1576916145`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 75,800
+
+---
+
+
+## Dell Vostro 14 3530 13th Gen Core i3-1305U 1.6 to 4.5GHz, 8GB, 512GB SSD, 15.6Inch FHD Laptop  
+**DocID:** `daraz_350639371`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 68,100
+
+---
+
+
+## Chuwi MiniBook X 10.5 Inch Touch Yoga N100 0.8 to 3.4GHz, 12GB, 512GB, Win11 Laptop  
+**DocID:** `daraz_335910782`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 58,000
+
+---
+
+
+## Asus Vivobook Go 14 L1404FA (EB595W) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz 16GB RAM 512GB SSD 14"Inch FHD Display Laptop  
+**DocID:** `daraz_1576842545`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 72,300
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13007,6 +13079,42 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 288
+
+---
+
+
+## NEW Stylish Premium Quality Fashionable POLO Shirt  For Men  
+**DocID:** `daraz_539393431`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 160
+
+---
+
+
+## Men's Summer 2025 New casual short-sleeved T-shirt sportswear set fashionable men's round-neck top + shorts 2-piece set  
+**DocID:** `daraz_540106034`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 314
+
+---
+
+
+## Cotton polo T Shirts for men-multi color stripped polo shirt for men  
+**DocID:** `daraz_302605118`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 440
+
+---
+
+
+## New Mens Embroidered Polo Shirts Summer Short Sleeve Shirt Luxury Top Lapel Streetwear Men Breathable Lightweight T Shirt Homme  
+**DocID:** `daraz_546037832`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,440
 
 ---
 
@@ -18270,6 +18378,33 @@ Synthetic rubber sole
 ---
 
 
+## Shoes for Men Sneakers Lightweight Breathable Comfortable Casual Shoes for Walking  
+**DocID:** `daraz_316541648`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
+## Stylish Addition to High-Quality Sneakers Men's Casual Shoes - Flyknit, Slip-on, and Sustainable - All Season Power  
+**DocID:** `daraz_169064125`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 533
+
+---
+
+
+## Indispensable-Quality And Durability-Stylish Blue And Green Color SUPERAR Sports Sneakers Shoes For Men-Canvas Shoes For Summer M38  
+**DocID:** `daraz_349298631`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 522
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -21785,6 +21920,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 557
+
+---
+
+
+## Borussia Dortmund Jersey 2026/2027 Thai Premium Football Jersey For Men - Long Sleeve  - Borussia Jersey 2026/2027  
+**DocID:** `daraz_221109791`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
 
 ---
 
@@ -25665,6 +25809,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 74,499
+
+---
+
+
+## Samsung Galaxy A17 5G 8/128GB|6.6" FHD+ AMOLED  
+**DocID:** `daraz_563877869`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 28,625
+
+---
+
+
+## Iphone 17 Pro Max USA  
+**DocID:** `daraz_564232180`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 178,999
 
 ---
 
