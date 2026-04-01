@@ -8484,6 +8484,24 @@ Touch screen
 ---
 
 
+## HP Pavilion 15-eg3041TX Intel i5 13th Gen 1335U 1.3 to 4.6 GHz, 8GB, 512GB SSD, Win11 Laptop  
+**DocID:** `daraz_349423741`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 112,100
+
+---
+
+
+## Lenovo ThinkPad E14 11th Gen Core i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, Iris Graphics, 14 Inch FHD Laptop (20TBS6VA00-3Y)  
+**DocID:** `daraz_311966846`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 101,200
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13115,6 +13133,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 1,440
+
+---
+
+
+## Classic Fit Half Sleeve Casual Polo T-Shirt For Man - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_272092460`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
 
 ---
 
@@ -18405,6 +18432,42 @@ Synthetic rubber sole
 ---
 
 
+## Snicker 2020 Trendy Casual Shoes For Men - Shoes - ÃÂ¦Å“ÃÂ§ÂÃÂ¦Â¤ÃÂ¦Â¾ ÃÂ¦Â€ºãÂ§Â€¡ÃÂ¦Â²ÃÂ§Â€¡ÃÂ¦Â¦ÃÂ§Â€¡ÃÂ¦Â° -  - Sneakers  
+**DocID:** `daraz_214372873`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 358
+
+---
+
+
+## Stylish and Fashionable 2022 Winter and Summer White Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_228362493`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 499
+
+---
+
+
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Low Top Sneakers Converse Shoes for Men - Ideal for All Seasons  
+**DocID:** `daraz_557566630`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 850
+
+---
+
+
+## Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Into Style and Comfort  
+**DocID:** `daraz_324386336`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 536
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -21929,6 +21992,51 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 370
+
+---
+
+
+## Spain World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Long Sleeve Jersey - Spain Jersey 2026  
+**DocID:** `daraz_543296785`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Inter Miami Thai Premium Football Jersey For Mne - Halj Sleeve Jersey - Inter Miami Jersey 2026/2027  
+**DocID:** `daraz_264035941`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Portugal Short Sleeve Football Jersey For Men - Half Sleeve - Portugal Jersey 2026  
+**DocID:** `daraz_469957347`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Argentina Jersey 2026/27 Short Sleeve Collar Football Jersey for Man - Half Sleeve Polo - Argentina Jersey 2026  
+**DocID:** `daraz_563203085`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 299
+
+---
+
+
+## Morocco World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve - Morocco Home Kit Kids Jersey 2026  
+**DocID:** `daraz_278545163`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
 
 ---
 
@@ -25827,6 +25935,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 178,999
+
+---
+
+
+## Vivo Y05 [4GB RAM] Official  
+**DocID:** `daraz_1575014008`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,499
+
+---
+
+
+## Redmi Note 15 8GB/256GB - Official  
+**DocID:** `daraz_1573513743`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 29,979
+
+---
+
+
+## Iphone 14  
+**DocID:** `daraz_466834240`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 72,999
 
 ---
 
