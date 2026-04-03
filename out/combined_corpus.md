@@ -8502,6 +8502,33 @@ Touch screen
 ---
 
 
+## HP Elitebook 840 G6 Core i5-8365U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1574526022`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 34,500
+
+---
+
+
+## MSI Modern 14 B11MOU 11th Gen i3-1115G4 3 to 4.1GHz, 8GB, 512GB SSD, 14 FHD Laptop  
+**DocID:** `daraz_232161048`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,000
+
+---
+
+
+## HP Probook 640 G8 Core i5-1145G7 512/8 14" (1920x1080)  
+**DocID:** `daraz_1573578185`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 42,550
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13142,6 +13169,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 199
+
+---
+
+
+## Men's Summer Short Sleeve T-Shirt New Polo Shirt Collar Ice Silk Middle aged and Elderly  
+**DocID:** `daraz_533428156`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 352
+
+---
+
+
+## Eid Special Premium Cotton Polo Shirt for Men - Avant-garde Remarkable - Comfortable to Wear in All Seasons  
+**DocID:** `daraz_367530797`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 269
+
+---
+
+
+## RL Single Big Pony Mesh Short-Sleeve Polo Shirt - White  
+**DocID:** `daraz_249375564`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 850
 
 ---
 
@@ -18468,6 +18522,51 @@ Synthetic rubber sole
 ---
 
 
+## Trendy Sneakers For Men (Black) - Shoe For Men  
+**DocID:** `daraz_1573426810`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 345
+
+---
+
+
+## Trendy Sneakers For Men (Black) - Shoe For Men  
+**DocID:** `daraz_1573449090`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 345
+
+---
+
+
+## Mens Fashionable Exclusive Sneakers Converse shoe for Men  
+**DocID:** `daraz_1574361225`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 333
+
+---
+
+
+## Trendy Sneakers For Men (Black) - Shoe For Men  
+**DocID:** `daraz_1573437917`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 345
+
+---
+
+
+## Premium Collection High Qulaity Sports' Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men  
+**DocID:** `daraz_325055845`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -22037,6 +22136,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 360
+
+---
+
+
+## Bayern Munich Jersey 2026/2027 Thai Premium Football Jersey For Men - Half Sleeve - Bayern Munich Jersey 2026/2027  
+**DocID:** `daraz_264043799`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
 
 ---
 
@@ -25962,6 +26070,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 72,999
+
+---
+
+
+## Honor 400 lite  
+**DocID:** `daraz_531064706`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 31,499
+
+---
+
+
+## REDMI NOTE 15 4G ( 6-128 ) GLOBAL  
+**DocID:** `daraz_574882326`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 24,999
 
 ---
 
@@ -31561,6 +31687,16 @@ Non-removable Li-Po Battery
 **Category:** processor  
 **URL:** https://www.startech.com.bd/intel-core-i5-10505-processor
 **Price:** 13,900৳ 14,800৳
+
+---
+
+
+## Acer Aspire 3 A315-24P AMD Ryzen 3 7320U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-3-a315-24p-ryzen-3-7320u-fhd-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/acer-aspire-3-a315-24p-ryzen-3-7320u-fhd-laptop
+**Price:** 50,000৳
 
 ---
 
