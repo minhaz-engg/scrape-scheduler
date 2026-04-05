@@ -8529,6 +8529,24 @@ Touch screen
 ---
 
 
+## HP Elitebook 840 G6 Intel Core i5 8th Gen 512GB SSD 16GB RAM 14″ Laptop  
+**DocID:** `daraz_526874077`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 41,500
+
+---
+
+
+## Asus VivoBook Intel Core i3 1315U 8GB RAM 512GB SSD 15.6 Inch FHD Quite Blue Laptop Model F1504VA 90NB10J1-M01S60  
+**DocID:** `daraz_1577616748`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13196,6 +13214,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 850
+
+---
+
+
+## Premier Quality Polo T-Shirt for Men - Comfortable and Stylish Ideal for All Occasions  
+**DocID:** `daraz_315576169`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 214
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts  
+**DocID:** `daraz_302598749`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 210
+
+---
+
+
+## Premium Quality Men's for Polo T-Shirts Slim Fit & Breathable Exquisite Design for Comfort & Style  
+**DocID:** `daraz_533463513`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 355
 
 ---
 
@@ -18567,6 +18612,24 @@ Synthetic rubber sole
 ---
 
 
+## New Collection Better Choice Stylish and Fashionable Exclusive Sneakers Converse for Men by Nayeem Fashion World  
+**DocID:** `daraz_320818213`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 519
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Shoe For Boys - White Shoes  
+**DocID:** `daraz_307491287`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 418
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -22145,6 +22208,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 350
+
+---
+
+
+## Barcelona Jersey 2025/2026 Thai Premium Jersey For Men - Long Sleeve Polo Jersey - Barcelona Football Jersey 2025  
+**DocID:** `daraz_542365514`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 395
 
 ---
 
@@ -26088,6 +26160,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 24,999
+
+---
+
+
+## Redmi Note 13 Pro 5G (12GB/256GB) China Smartphone  
+**DocID:** `daraz_347807641`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 28,799
+
+---
+
+
+## Redmi Turbo 5 Max 12/256 CN  
+**DocID:** `daraz_1574536900`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 47,989
 
 ---
 
@@ -31697,6 +31787,46 @@ Non-removable Li-Po Battery
 **Category:** laptop  
 **URL:** https://www.startech.com.bd/acer-aspire-3-a315-24p-ryzen-3-7320u-fhd-laptop
 **Price:** 50,000৳
+
+---
+
+
+## ASUS Vivobook Go 15 E1504GA Core i3 N305 512GB SSD 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-go-15-e1504ga-512gb-ssd-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-go-15-e1504ga-512gb-ssd-laptop
+**Price:** 52,000৳
+
+---
+
+
+## PC Power PCGM-King22 21.45" IPS FHD 100Hz Monitor White  
+**DocID:** `startech_https://www.startech.com.bd/pc-power-pcgm-king22-monitor-white`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/pc-power-pcgm-king22-monitor-white
+**Price:** 10,400৳
+
+---
+
+
+## Value-Top X22IFR100 21.5" 100Hz FHD IPS Monitor  
+**DocID:** `startech_https://www.startech.com.bd/value-top-x22ifr100-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/value-top-x22ifr100-monitor
+**Price:** 10,600৳
+
+---
+
+
+## DJI Avata 2 Fly Smart Combo Drone  
+**DocID:** `startech_https://www.startech.com.bd/dji-avata-2-fly-smart-combo-drone`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-avata-2-fly-smart-combo-drone
+**Price:** 92,000৳ 120,000৳
 
 ---
 
