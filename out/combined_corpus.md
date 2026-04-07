@@ -8547,6 +8547,60 @@ Touch screen
 ---
 
 
+## MacBook Air M2 Chip 13.6-inch  
+**DocID:** `daraz_1574017701`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 105,279
+
+---
+
+
+## HP 15 AMD Ryzen 3 7320U 8GB RAM 512GB SSD 15.6 Inch FHD Natural Silver Laptop Model fc0197n D01R3EA  
+**DocID:** `daraz_1577688300`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 58,000
+
+---
+
+
+## Lenovo IdeaPad 1 Intel Core i3 1215U 8GB RAM 256GB SSD 14 Inch FHD Cloud Grey Laptop Model 14IAU7 82QC006KUS  
+**DocID:** `daraz_1577565069`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 50,500
+
+---
+
+
+## HP 250 G8 (5C132PA) Intel Core i7-1165G7 11th Gen, 2.80 to 4.70 GHz, 8GB RAM, 1TB HDD + 256GB SSD, Windows 11, 15.6 inch IPS FHD Display Dark Ash Silver Laptop  
+**DocID:** `daraz_314430117`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,699
+
+---
+
+
+## HP Probook Core i7 1355U 16GB RAM 512GB SSD 15.6 Inch FHD Backlit Fingerprint LAN Pike Silver Laptop Model 450 G10 (71H61AV,7L702ET)  
+**DocID:** `daraz_1577724078`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 114,000
+
+---
+
+
+## HP 15-fc0355AU (C5JS1PA) AMD Athlon Silver 7120U 2.4 to 3.5GHz, 8GB DDR4, 512GB SSD, Win 11, 15.6 Inch Full HD Silver Laptop  
+**DocID:** `daraz_1576859525`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 50,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -8921,15 +8975,6 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 279,000
-
----
-
-
-## MacBook Air M2 Chip 13.6-inch  
-**DocID:** `daraz_1574017701`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 108,200
 
 ---
 
@@ -13241,6 +13286,42 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 355
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts  
+**DocID:** `daraz_302139309`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 210
+
+---
+
+
+## Men’s Classic Premium Polo T-Shirt ✅  
+**DocID:** `daraz_543960815`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 278
+
+---
+
+
+## Polo Ralph Lauren Big Pony Mesh Polo Shirt Polo  
+**DocID:** `daraz_249378808`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 850
+
+---
+
+
+## Cotton Half Sleeve Polo Shirts For Men-Multicolor Polo Shirts - Polo T Shirt  
+**DocID:** `daraz_302608161`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 210
 
 ---
 
@@ -18630,6 +18711,15 @@ Synthetic rubber sole
 ---
 
 
+## Fashionable Casual Shoes For Men - Black - Shoe For Boys - Sneakers  
+**DocID:** `daraz_346933990`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 370
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -22217,6 +22307,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 395
+
+---
+
+
+## AC Milan 2006/07 Away Jersey(Retro) Logo Embroidery Thai Premium Club Football Jersey  
+**DocID:** `daraz_1573643486`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 386
+
+---
+
+
+## Spain World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve Collar Polo World Cup Jersey - Spain Jersey 2026  
+**DocID:** `daraz_1576488355`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
 
 ---
 
@@ -26178,6 +26286,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 47,989
+
+---
+
+
+## Samsung Galaxy A36 5G 8GB/256GB - Unofficial  
+**DocID:** `daraz_542551935`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 37,980
 
 ---
 
@@ -31827,6 +31944,66 @@ Non-removable Li-Po Battery
 **Category:** drone  
 **URL:** https://www.startech.com.bd/dji-avata-2-fly-smart-combo-drone
 **Price:** 92,000৳ 120,000৳
+
+---
+
+
+## ASUS Vivobook Go 14 E1404GA Core i3-N305 14" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-go-14-e1404ga-core-i3-n305-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-go-14-e1404ga-core-i3-n305-laptop
+**Price:** 52,000৳
+
+---
+
+
+## GEESUU CloudWing G20FM1 19.5" 75Hz HD+ Monitor  
+**DocID:** `startech_https://www.startech.com.bd/geesuu-cloudwing-g20fm1-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/geesuu-cloudwing-g20fm1-monitor
+**Price:** 8,200৳
+
+---
+
+
+## Smart SM2225U 21.5" 100Hz FHD Monitor  
+**DocID:** `startech_https://www.startech.com.bd/smart-sm2225u-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/smart-sm2225u-monitor
+**Price:** 9,900৳
+
+---
+
+
+## HP P204v 19.5 Inch HD LED Monitor (HDMI, VGA)  
+**DocID:** `startech_https://www.startech.com.bd/hp-p204v-19-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/hp-p204v-19-monitor
+**Price:** 12,300৳ 13,700৳
+
+---
+
+
+## HP Series 3 Pro 322pf 21.45" 100Hz FHD IPS Monitor  
+**DocID:** `startech_https://www.startech.com.bd/hp-series-3-pro-322pf-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/hp-series-3-pro-322pf-monitor
+**Price:** 13,200৳ 13,500৳
+
+---
+
+
+## HP M22f 22" FHD IPS Monitor  
+**DocID:** `startech_https://www.startech.com.bd/hp-m22f-22-inch-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/hp-m22f-22-inch-monitor
+**Price:** 15,500৳ 16,000৳
 
 ---
 
