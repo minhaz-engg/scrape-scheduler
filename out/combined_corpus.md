@@ -8601,6 +8601,15 @@ Touch screen
 ---
 
 
+## Acer Aspire 3 A325-45 (UN.344SI.00U) Intel Celeron N4500 Up to 2.80GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_1576743956`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 38,900
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13322,6 +13331,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 210
+
+---
+
+
+## Portugal 2026 World cup Away Jersey Imported Player edition  
+**DocID:** `daraz_571685905`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,050
+
+---
+
+
+## Stylish Polo Shirts For Men - Elevate Your Wardrobe with MEM's Signature Collection of Premium Polo T-Shirts  
+**DocID:** `daraz_322133348`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 213
+
+---
+
+
+## Argentina 2026 World cup jersey player edition  
+**DocID:** `daraz_571770067`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,050
 
 ---
 
@@ -18720,6 +18756,24 @@ Synthetic rubber sole
 ---
 
 
+## Stylish Blue Black And Cream Color JAPANESE Casual Sneakers Canvas Shoes For Men Lightweight And Comfortable Shoes  
+**DocID:** `daraz_321564911`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 425
+
+---
+
+
+## Understated -Craftsmanship and Trendy -New Collection Black And Grey Color ADAIA Sneakers Shoes For Men M006- Progressively Better  
+**DocID:** `daraz_315322745`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 385
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -22325,6 +22379,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 360
+
+---
+
+
+## Brazil Official away jersey 2026 worldcup New season special Edition  
+**DocID:** `daraz_563948882`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 550
 
 ---
 
@@ -26295,6 +26358,42 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 37,980
+
+---
+
+
+## OPPO A5 6GB/128GB | 45W Flash Charge 6000mAh Battery | Official  
+**DocID:** `daraz_549632378`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 17,990
+
+---
+
+
+## Coolpad X100 Smartphone – 6.78” FHD+ 120Hz Display, 16GB RAM (8+8), 256GB ROM, Helio G99, 108MP Triple Camera, 5000mAh Battery , With Free Premium Quality Jacket  
+**DocID:** `daraz_570614725`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,990
+
+---
+
+
+## REDMI 14C Global/official Version(8/256GB) 4G  
+**DocID:** `daraz_496911717`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,000
+
+---
+
+
+## Nothing Phone 4A Pro 12/256 India  
+**DocID:** `daraz_1578125943`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 66,499
 
 ---
 
