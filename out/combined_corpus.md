@@ -8610,6 +8610,33 @@ Touch screen
 ---
 
 
+## Acer Aspire Lite-AL15-31 (UN.346SI.005) Intel Core N100 3.4GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_1576761281`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 44,200
+
+---
+
+
+## HP 15 Intel Core 7 150U 16GB RAM 1TB SSD 15.6 Inch FHD Moonlight Blue Laptop Model fd0099nq C58T3EA  
+**DocID:** `daraz_1577727953`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 109,000
+
+---
+
+
+## HP 15-fd0037TX (9X7J6PA) Intel Core i5-1334U 13th Gen, 1.30 to 4.60 GHz, 8GB RAM, 512GB SSD, 2GB Dedicated Graphics, Windows 11, 15.6 Inch FHD Display Silver Laptop  
+**DocID:** `daraz_523923453`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 98,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13358,6 +13385,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 1,050
+
+---
+
+
+## Men Summer Short Sleeve T Shirt High End Polo Collar Casual Embroidered Shirt  
+**DocID:** `daraz_533358208`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 366
+
+---
+
+
+## inter miami polo t shirt for men  
+**DocID:** `daraz_319732193`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 192
 
 ---
 
@@ -18774,6 +18819,33 @@ Synthetic rubber sole
 ---
 
 
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_322670378`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 418
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_344144077`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 650
+
+---
+
+
+## Boots high neck mid caff golden,black mix fabrics and leather rubber sool shoes for man. - Shoes For Men -  - জুতা ছেলেদের - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Shoe For Boys  
+**DocID:** `daraz_346157423`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 599
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -22388,6 +22460,60 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 550
+
+---
+
+
+## Argentina World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Long Sleeve - Argentina Jersey 2026  
+**DocID:** `daraz_269580789`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Inter Milan2024-25 Home Jersey Half Sleeve (Thai Premium)  
+**DocID:** `daraz_455601364`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 445
+
+---
+
+
+## Brazil World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Long Sleeve - Brazil Jersey 2026  
+**DocID:** `daraz_567032878`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 363
+
+---
+
+
+## Blue Lock B. Munchen Jersey – Anime Football Jersey | Player Edition Quality Sportswear  
+**DocID:** `daraz_539407563`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Portugal Jersey half sleeve 2026 Thai premium  
+**DocID:** `daraz_349155350`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 389
+
+---
+
+
+## Argentina Copa America Jersey 2024 ( 3 Star )Half Sleeve Premium Quality With Embroidery  
+**DocID:** `daraz_421070631`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 378
 
 ---
 
@@ -26394,6 +26520,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 66,499
+
+---
+
+
+## MOTOROLA EDGE 70 ( 8- 256 ) IND  
+**DocID:** `daraz_574973247`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 44,979
+
+---
+
+
+## Redmi Note 15 Pro Plus 12/512  
+**DocID:** `daraz_1573781621`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 52,979
 
 ---
 
@@ -32103,6 +32247,37 @@ Non-removable Li-Po Battery
 **Category:** monitor  
 **URL:** https://www.startech.com.bd/hp-m22f-22-inch-monitor
 **Price:** 15,500৳ 16,000৳
+
+---
+
+
+## Starlink Gen 3 Mesh Tri-Band Wi-Fi 6 Router  
+**DocID:** `startech_https://www.startech.com.bd/starlink-gen-3-mesh-wi-fi-6-router`
+**Source:** StarTech  
+**Category:** starlink  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/starlink-gen-3-mesh-wi-fi-6-router
+**Price:** Up Coming
+
+---
+
+
+## DJI Avata 360 with DJI RC 2  
+**DocID:** `startech_https://www.startech.com.bd/dji-avata-360`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-avata-360
+**Price:** 79,990৳ 85,000৳
+
+---
+
+
+## DJI Avata 360 Fly More Combo with DJI RC 2  
+**DocID:** `startech_https://www.startech.com.bd/dji-avata-360-fly-more-combo`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-avata-360-fly-more-combo
+**Price:** 99,990৳ 107,000৳
 
 ---
 
