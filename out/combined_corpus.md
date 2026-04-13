@@ -8637,6 +8637,33 @@ Touch screen
 ---
 
 
+## MSI Modern 14 B11MOU Intel Core i3 1115G4 14 Inch FHD IPS Display Carbon Gray Laptop by Othoba  
+**DocID:** `daraz_420480978`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 75,999
+
+---
+
+
+## Asus ExpertBook Core i5 13420H 8GB RAM 512GB SSD 14 Inch FHD Misty Grey Laptop Model P1403CVA 90NX0871-M016C0  
+**DocID:** `daraz_1577938258`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 95,000
+
+---
+
+
+## HP Elitebook 840 G8 Core i7-1185G7 512/16 14" (1920x1080)  
+**DocID:** `daraz_1574524018`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 55,200
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13403,6 +13430,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 192
+
+---
+
+
+## Stylish Premium Quality Summer Polo Shirt for Men - Classic Design Suitable for All Seasons  
+**DocID:** `daraz_572370419`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 275
 
 ---
 
@@ -18846,6 +18882,51 @@ Synthetic rubber sole
 ---
 
 
+## Stylish and Fashionable 2022 Winter and Summer White Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_227546008`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 490
+
+---
+
+
+## STYLISH Sneakers for Men's Trendy Casual Shoes Comfortable  
+**DocID:** `daraz_284811039`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 440
+
+---
+
+
+## New Collection Better Choice Stylish and Fashionable Low Top Sneakers Converse for Men  
+**DocID:** `daraz_322768928`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 509
+
+---
+
+
+## Mens Fashionable Exclusive Sneakers Converse shoe for Men  
+**DocID:** `daraz_567036787`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 650
+
+---
+
+
+## Trendy Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Lightweight Air Mesh Men Shoes - Shoe For Boys - Shoes For Men - à¦œà§à¦¤à¦¾ à¦›à§‡à¦²à§‡à¦¦à§‡à¦° - Shose For Men  
+**DocID:** `daraz_196074262`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 353
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -22514,6 +22595,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 378
+
+---
+
+
+## Brazil national football team copa America away half sleeve Jersey Thai premium  
+**DocID:** `daraz_365083320`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 389
+
+---
+
+
+## A3H Premium Polyester Round Neck Jersy for Men- Germany 2026 World Cup Home Jersey – Player Edition  
+**DocID:** `daraz_1574111908`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 499
+
+---
+
+
+## PSG Short Sleeve Jersey 2026/2027 Thai Premium Football Jersey for Men - Half Sleeve Club Jersey - PSG Jersey 2026  
+**DocID:** `daraz_530905328`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 367
 
 ---
 
@@ -26538,6 +26646,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 52,979
+
+---
+
+
+## Itel A100C (2+64GB),6.6",IPS LCD, 90Hz,ডিসপ্লে,10W ফাস্ট চার্জিং সহ 5000mah Battery  
+**DocID:** `daraz_1578752136`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 8,959
+
+---
+
+
+## Vivo V70 12/256 India  
+**DocID:** `daraz_1574587033`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 64,470
 
 ---
 
@@ -32278,6 +32404,16 @@ Non-removable Li-Po Battery
 **Category:** drone  
 **URL:** https://www.startech.com.bd/dji-avata-360-fly-more-combo
 **Price:** 99,990৳ 107,000৳
+
+---
+
+
+## GUNNIR Intel Arc A750 Photon 8G OC GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/gunnir-intel-arc-a750-photon-8g-oc-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/gunnir-intel-arc-a750-photon-8g-oc-graphics-card
+**Price:** 30,900৳ 32,500৳
 
 ---
 
