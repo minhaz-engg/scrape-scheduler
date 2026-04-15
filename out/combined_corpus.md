@@ -8664,6 +8664,60 @@ Touch screen
 ---
 
 
+## Asus Zenbook 14 OLED_UX3405CA-U7512 - (Jasper Gray) Core Ultra 7-255H (15th Gen) 512/16 14" (1920x1200) G.Touch  OLED Intact  
+**DocID:** `daraz_1573765231`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 135,700
+
+---
+
+
+## SURFACE LAPTOP 3  
+**DocID:** `daraz_573962855`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 52,500
+
+---
+
+
+## Asus Vivobook Core i7-1355U 8GB RAM 512GB SSD 15.6 Inch FHD Cool Silver Laptop Model X1504VA (90NB10J2-M00H50)  
+**DocID:** `daraz_1577908954`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 95,500
+
+---
+
+
+## Lenovo ThinkPad Core i5 1335U 16GB RAM 512GB SSD 14 Inch FHD Black Laptop Model T14 G4 (21HD0018AU)  
+**DocID:** `daraz_1577724125`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 132,000
+
+---
+
+
+## HP OmniBook X Flip 14-fm0023dx Next Gen Ai - (Atmospheric Blue) Core Ultra 7 256V (15th Gen) 1024/16 14" (1920x1200) X360 | G.Touch Intact  
+**DocID:** `daraz_1573882756`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 131,100
+
+---
+
+
+## Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB, 512GB SSD, 14.2" Liquid Retina XDR Laptop (Late 2023)  
+**DocID:** `daraz_352645071`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 294,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -8678,15 +8732,6 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 297,000
-
----
-
-
-## Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB, 512GB SSD, 14.2" Liquid Retina XDR Laptop (Late 2023)  
-**DocID:** `daraz_352645071`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 294,000
 
 ---
 
@@ -13439,6 +13484,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 275
+
+---
+
+
+## Men's New Summer Fashion Casual Printed Short Sleeve T-Shirt  
+**DocID:** `daraz_533278921`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 499
 
 ---
 
@@ -18927,6 +18981,15 @@ Synthetic rubber sole
 ---
 
 
+## Mens Fashionable Exclusive Sneakers Converse shoe for Men  
+**DocID:** `daraz_1574164870`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 333
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -22622,6 +22685,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 367
+
+---
+
+
+## Brazil Full Sleeve World Cup Footbaall Jersey For Man - Long Sleeve - Brazil Jersey 2026  
+**DocID:** `daraz_567679515`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
 
 ---
 
@@ -26664,6 +26736,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 64,470
+
+---
+
+
+## Villaon Hyper 100  (4+64GB),6.75",IPS LCD, 120Hz,ডিসপ্লে,18W ফাস্ট চার্জিং সহ 5000mah Battery  
+**DocID:** `daraz_1578744473`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 10,499
+
+---
+
+
+## OPPO Reno 12F 5G 12GB/256GB | 6.67" AMOLED 120Hz FHD+ 1200nits Display | MediaTek Dimensity 6300 CPU 8 Core | 50MP + 32MP Camera  
+**DocID:** `daraz_549638296`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 29,190
 
 ---
 
