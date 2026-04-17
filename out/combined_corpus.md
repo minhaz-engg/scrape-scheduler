@@ -8718,6 +8718,51 @@ Touch screen
 ---
 
 
+## Asus Vivobook Core i3 1315U 8GB RAM 128GB SSD 14 Inch FHD Quite Blue Laptop Model X1404VA (90NB10I1-M015F0)  
+**DocID:** `daraz_1577545427`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 49,000
+
+---
+
+
+## HP EliteBook 745 G5 Used Laptop Ryzen 7 Pro 2700U 8GB RAM 256GB SSD 14" FHD  
+**DocID:** `daraz_1574391038`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 34,500
+
+---
+
+
+## 14. Full HD Laptop  Intel N100 8GB RAM 256GB SSD  
+**DocID:** `daraz_1578233236`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 36,000
+
+---
+
+
+## HP Elitebook 840 G7 Intel Core i5 10th Gen 14″ 8 GB RAM 256 GB SSD Laptop  
+**DocID:** `daraz_526862341`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 55,000
+
+---
+
+
+## Apple MacBook Pro 14.2" (2023, Refurbished) – M2 Chip, 10‑Core CPU, 16‑Core GPU, 8GB Unified Memory, 256GB SSD, Liquid Retina XDR, Space Gray  
+**DocID:** `daraz_574298862`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 119,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13493,6 +13538,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 499
+
+---
+
+
+## Premium PK Polo T-Shirt  
+**DocID:** `daraz_298796651`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
 
 ---
 
@@ -18990,6 +19044,24 @@ Synthetic rubber sole
 ---
 
 
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Shoe For Boys  
+**DocID:** `daraz_307488484`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
+## Men Boots Outdoor Sneakers Men Shoes 2025 New Fashion Male Casual Footwear Comfortable Tenis Masculino Botas Men Sneakers Shoes  
+**DocID:** `daraz_547514396`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,978
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -22694,6 +22766,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 270
+
+---
+
+
+## Brazil Fifa World Cup 2026 Home Kit - Neymer New Jersey  
+**DocID:** `daraz_1578173596`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 391
+
+---
+
+
+## Portugal Short sleeve Jersey For Men-Portugal Jersey 2024 I National Team Football Jersey 2024  
+**DocID:** `daraz_365664723`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Arsenal Jersey 2025/2026 Thai Premium Football Jersey For Man - T Shirt For Man - Arsenal Jersey 2026/2027  
+**DocID:** `daraz_270630443`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Inter Milan Jersey 2026/2027 Thai Premium Football Jersey - Half Sleeve club Jersey - Inter Milan Jersey 2026  
+**DocID:** `daraz_538683414`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 359
 
 ---
 
@@ -26754,6 +26862,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 29,190
+
+---
+
+
+## Redmi 15 8GB/256GB - Official  
+**DocID:** `daraz_1573762233`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 23,989
+
+---
+
+
+## Redmi Note 15 4G [8/256GB] International  
+**DocID:** `daraz_548701614`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 28,199
 
 ---
 
@@ -32504,6 +32630,86 @@ Non-removable Li-Po Battery
 **Category:** graphics-card  
 **URL:** https://www.startech.com.bd/gunnir-intel-arc-a750-photon-8g-oc-graphics-card
 **Price:** 30,900৳ 32,500৳
+
+---
+
+
+## Smart Flairedge Core i5 12th Gen 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/smart-flairedge-core-i5-12th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/smart-flairedge-core-i5-12th-gen-laptop
+**Price:** 53,000৳
+
+---
+
+
+## TP-Link Deco BE22 BE3600 Dual-Band WiFi 7 Mesh Router (3-Pack)  
+**DocID:** `startech_https://www.startech.com.bd/tp-link-deco-be22-mesh-router-3-pack`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/tp-link-deco-be22-mesh-router-3-pack
+**Price:** 24,549৳
+
+---
+
+
+## TP-Link Deco BE22 BE3600 Dual-Band WiFi 7 Mesh Router (2-Pack)  
+**DocID:** `startech_https://www.startech.com.bd/tp-link-deco-be22-mesh-router-2-pack`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/tp-link-deco-be22-mesh-router-2-pack
+**Price:** 16,390৳
+
+---
+
+
+## TP-Link Deco BE22 BE3600 Dual-Band WiFi 7 Mesh Router (1-Pack)  
+**DocID:** `startech_https://www.startech.com.bd/tp-link-deco-be22-mesh-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/tp-link-deco-be22-mesh-router
+**Price:** 8,249৳
+
+---
+
+
+## BDCOM WAP2100-WR1200G Dual-Band Gigabit WiFi Router  
+**DocID:** `startech_https://www.startech.com.bd/bdcom-wap2100-wr1200g-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/bdcom-wap2100-wr1200g-router
+**Price:** 1,850৳ 1,950৳
+
+---
+
+
+## Mercusys MR30G AC1200 Dual Band Gigabit Router  
+**DocID:** `startech_https://www.startech.com.bd/mercusys-mr30g-ac1200-wireless-dual-band-gigabit-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/mercusys-mr30g-ac1200-wireless-dual-band-gigabit-router
+**Price:** 2,043৳ 2,150৳
+
+---
+
+
+## Gigasonic RB-G185S-300C 18.5" HD LED Monitor  
+**DocID:** `startech_https://www.startech.com.bd/gigasonic-rb-g185s-300c-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/gigasonic-rb-g185s-300c-monitor
+**Price:** 5,200৳
+
+---
+
+
+## S11 Mini Neo Dual Camera Toy Drone  
+**DocID:** `startech_https://www.startech.com.bd/s11-mini-neo-dual-camera-toy-drone`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/s11-mini-neo-dual-camera-toy-drone
+**Price:** 5,900৳ 6,300৳
 
 ---
 
