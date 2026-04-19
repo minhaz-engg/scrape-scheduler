@@ -2278,6 +2278,24 @@
 ---
 
 
+## HP OMEN MAX Gaming 16-ah0058XT - (Shadow Black Aluminum) Core Ultra 9 275HX (15th Gen) 1024/32 16" (2560x1600) 240Hz | OLED NVIDIA RTX 5090 - 24GB GDDR7 (175W) Full-Size Per Key RGB Backlit With Numeric Keypad | NPU  
+**DocID:** `daraz_1579972678`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 437,000
+
+---
+
+
+## HP OMEN Gaming 16-xd0015AX - (Shadow Black) Ryzen 7-7840HS 512/16 16" (1920x1080) 165Hz NVIDIA RTX 4050 - 6GB DDR6 4 Zone RGB Keyboard | With NPU  
+**DocID:** `daraz_1579787284`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 124,200
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -8763,6 +8781,51 @@ Touch screen
 ---
 
 
+## Acer Extensa 15 EX215-54-596B 11th Gen i5-1135G7 2.4 to 4.2GHz, 8GB, 1TB, 15.6 FHD Laptop  
+**DocID:** `daraz_239836702`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 68,000
+
+---
+
+
+## Lenovo Thinkpad X1 Carbon - Gen 7 Core i5-8365U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1574375528`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 36,800
+
+---
+
+
+## Lenovo IdeaPad Slim3 15IRH8 Core i5 13th Gen 15.6" FHD Military Grade Laptop  
+**DocID:** `daraz_363502600`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 86,500
+
+---
+
+
+## Hp 15s-eq3234AU AMD Ryzen5-5625U 2.3 to 4.3GHz, 8GB, 512GB SSD, Win11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_279887005`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 80,700
+
+---
+
+
+## Lenovo IdeaPad 1 15IRU7 - (Cloud Grey) Core i5-1335U 256/16 15.6" (1920x1080) Intact  
+**DocID:** `daraz_1573495471`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 66,700
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13547,6 +13610,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 399
+
+---
+
+
+## Fashionable Cotton Polo Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_525225923`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 349
+
+---
+
+
+## Classic Pique Cotton Polo Shirt for Men  
+**DocID:** `daraz_346992954`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 499
 
 ---
 
@@ -19062,6 +19143,24 @@ Synthetic rubber sole
 ---
 
 
+## 2025 New Trendy Black And Grey Color SAMBA Canvas Sneakers Shoes For Men Lightweight And New Collection Shoes For Man  
+**DocID:** `daraz_556098270`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 572
+
+---
+
+
+## High-Quality Sports Sneakers Men Casual Shoes Fashion Sneakers - Flyknit Lightweight Slip-On Men's - Comfortable All Seasons  
+**DocID:** `daraz_557561706`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 789
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -22802,6 +22901,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 359
+
+---
+
+
+## Bashundhara Kings Short Sleeve Collar Football Jersey For Man - Bashundhara Polo Jersey  
+**DocID:** `daraz_467925153`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 310
+
+---
+
+
+## Portugal Jersey 2026/2027 Thai Premium Football For Men - Half Sleeve Collar Polo Jersey - Portugal Jersey 2026  
+**DocID:** `daraz_567047440`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
 
 ---
 
@@ -26880,6 +26997,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 28,199
+
+---
+
+
+## Oppo A6s Pro 8GB / 256GB | Free Gift Elite Bag | 7000mAh Battery | 2 Years Warranty  
+**DocID:** `daraz_1573486923`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 36,690
+
+---
+
+
+## iPhone 17Pro Max 256GB  
+**DocID:** `daraz_568459286`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 250,000
+
+---
+
+
+## Coolpad X100 Smartphone (Pink) – 6.78” FHD+ 120Hz Display, 16GB RAM (8+8), 256GB ROM, Helio G99, 108MP Triple Camera, 5000mAh Battery , With Free Premium Quality Jacket  
+**DocID:** `daraz_574119376`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,990
+
+---
+
+
+## Vivo V70 Elite 8/256 India  
+**DocID:** `daraz_1577690962`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 68,499
+
+---
+
+
+## Oppo A6k 4GB/128GB |  Snapdragon 685 | 2 Years Warranty  
+**DocID:** `daraz_1578375028`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 17,790
 
 ---
 
