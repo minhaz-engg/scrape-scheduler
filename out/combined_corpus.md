@@ -2296,6 +2296,15 @@
 ---
 
 
+## HP OMEN Gaming 16-xf0100AX - (Shadow Black) Ryzen 9-7940HS 1024/16 16" (1920x1080) 165Hz NVIDIA RTX 4070 - 8GB DDR6 (140W) 4 Zone RGB Keyboard | With NPU  
+**DocID:** `daraz_1579779965`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 161,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -8826,6 +8835,33 @@ Touch screen
 ---
 
 
+## Tecno Megabook K15SDA Ryzen 5 7430U 2.3GHz to 4.3GHz, 16GB, 512GB SSD, 15.6 Inch FHD LED Laptop  
+**DocID:** `daraz_555737431`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,650
+
+---
+
+
+## Lenovo Thinkpad T14 - Gen 1 Core i5-10310U 256/16 14" (1920x1080)  
+**DocID:** `daraz_1574386887`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 37,950
+
+---
+
+
+## Asus Vivobook Go 14 L1404FA (EB542W) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz 16GB RAM 512GB SSD 14"Inch FHD Display Laptop  
+**DocID:** `daraz_570825152`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,200
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13625,6 +13661,24 @@ Touch screen
 
 ## Classic Pique Cotton Polo Shirt for Men  
 **DocID:** `daraz_346992954`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 499
+
+---
+
+
+## Classic fit performance polo t-shirt for man  
+**DocID:** `daraz_128746273`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 218
+
+---
+
+
+## Classic Pique Cotton Polo Shirt for Men  
+**DocID:** `daraz_346993856`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 499
@@ -19161,6 +19215,15 @@ Synthetic rubber sole
 ---
 
 
+## New Stylish and Fashionable Winter and Summer Sneakers for Men  
+**DocID:** `daraz_365338398`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 595
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -22919,6 +22982,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 369
+
+---
+
+
+## Argentina fifa world cup 2026/27 Jersey - Thai Premium Football Jersey For Man - Half sleeve - Argentina Away Jersey 2026  
+**DocID:** `daraz_573871051`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## Croatia World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve Jersey - Croatia Jersey 2026  
+**DocID:** `daraz_279678800`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
 
 ---
 
@@ -27042,6 +27123,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 17,790
+
+---
+
+
+## OPPO Reno 15F 5G 8GB/256GB | Official  
+**DocID:** `daraz_1578542087`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 48,690
+
+---
+
+
+## Redmi 15C 8GB/256GB - Official  
+**DocID:** `daraz_1573795243`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,989
 
 ---
 
@@ -32872,6 +32971,36 @@ Non-removable Li-Po Battery
 **Category:** drone  
 **URL:** https://www.startech.com.bd/s11-mini-neo-dual-camera-toy-drone
 **Price:** 5,900৳ 6,300৳
+
+---
+
+
+## ASUS Vivobook Go 14 E1404GA Core i3-N305 14" FHD Laptop with Windows 11  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-go-14-e1404ga-core-i3-14-inch-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-go-14-e1404ga-core-i3-14-inch-laptop
+**Price:** 57,000৳
+
+---
+
+
+## ASUS Vivobook Go 15 E1504GA Core i3-N305 15.6" FHD Laptop with Windows 11  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-go-15-e1504ga-core-i3-15-6-inch-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-go-15-e1504ga-core-i3-15-6-inch-laptop
+**Price:** 57,000৳
+
+---
+
+
+## Remax Watch 15 Letar Series  
+**DocID:** `startech_https://www.startech.com.bd/remax-watch-15-letar-series-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/remax-watch-15-letar-series-smart-watch
+**Price:** 2,117৳ 2,550৳
 
 ---
 
