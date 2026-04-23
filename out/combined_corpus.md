@@ -8862,6 +8862,69 @@ Touch screen
 ---
 
 
+## Microsoft Surface SE, Intel Celeron, 11.6" HD Display-8GB Ram, 128GB SSD White Used Laptop  
+**DocID:** `daraz_1578887787`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 22,440
+
+---
+
+
+## Walton Tamarind MX311G 11th Gen Intel Core i3-1115G4 1.7GHz to 4.1GHz, 8GB RAM, 512GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_1574629183`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 42,600
+
+---
+
+
+## HP Elitebook 845 G9 Ryzen 5 Pro-6650U 512/8 14" (1920x1200)  
+**DocID:** `daraz_1573514283`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 55,200
+
+---
+
+
+## Hp Elitebook 845 G8, Ryzen 5 Pro 5650U, 14" Used Laptop-8GB Ram,  256GB SSD  
+**DocID:** `daraz_569255295`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,600
+
+---
+
+
+## Lenovo IP Slim 3i 11th Gen Core i3-1115G4 3 to 4.1GHz, 8GB, 1TB, Win 11 Home, 15.6 Inch FHD Laptop #82H8034UIN  
+**DocID:** `daraz_312931978`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 56,700
+
+---
+
+
+## Asus VivoBook 15 F1504ZA (NJ698) Intel 12th Gen Core i5-1235U 1.3 to 4.4 GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_505397662`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,400
+
+---
+
+
+## HP Elitebook 645 G11 Ryzen 5 Pro-7535U 512/8 14" (1920x1200)  
+**DocID:** `daraz_1574125811`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 57,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13682,6 +13745,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 499
+
+---
+
+
+## High-quality polo shirts for Men stylish and comfortable Men's Exclusive Premium Quality Stylish Polo T-Shirt  
+**DocID:** `daraz_530554230`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 201
+
+---
+
+
+## Men's Polo Shirt Fashionable Polo Shirt For Men  
+**DocID:** `daraz_223880380`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 599
+
+---
+
+
+## Stylish Short Sleeve Polo T-shirt for Man - Comfortable casual collar T-shirt for men  
+**DocID:** `daraz_530470122`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 220
 
 ---
 
@@ -19224,6 +19314,15 @@ Synthetic rubber sole
 ---
 
 
+## Lavish indulgent - Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Easy To maintain  
+**DocID:** `daraz_322751320`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 408
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -23000,6 +23099,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 360
+
+---
+
+
+## Inter Milan Short Sleeve Jersey 2026/27 Football Jersey For Men - Half Sleeve Jersey - Inter Milan Jersey 2026  
+**DocID:** `daraz_316777094`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Brazil World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve Collar Polo Jersey - Brazil Jersey 2026  
+**DocID:** `daraz_1575770952`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## Japan World Cup Jersey 2026/2027 Thai Premium Football Jersey For Men - Half Sleeve - Japan Jersey 2026  
+**DocID:** `daraz_316280937`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
 
 ---
 
@@ -27141,6 +27267,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 20,989
+
+---
+
+
+## Honor 200 5G (12+512GB),6.7"OLED, 1B colors, 120Hz,ডিসপ্লে,100Wফাস্ট চার্জিং সহ 5200mah Battery  
+**DocID:** `daraz_1579795313`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 42,999
+
+---
+
+
+## OnePlus Nord 5 - [12/512GB] Official  
+**DocID:** `daraz_538162211`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 54,999
+
+---
+
+
+## Itel Super 26 Ultra (8+256GB),6.78"AMOLED, 144Hz,ডিসপ্লে,18W ফাস্ট চার্জিং সহ 6000mah Battery  
+**DocID:** `daraz_1579721772`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,899
 
 ---
 
@@ -33001,6 +33154,46 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/remax-watch-15-letar-series-smart-watch
 **Price:** 2,117৳ 2,550৳
+
+---
+
+
+## Asus Vivobook Go 15 E1504TA Intel N150 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-go-15-e1504ta-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-go-15-e1504ta-laptop
+**Price:** 60,800৳
+
+---
+
+
+## Asus Vivobook Go 15 E1504TA Intel N150 15.6" FHD Laptop Cool Silver  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-go-15-e1504ta-laptop-cool-silver`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-go-15-e1504ta-laptop-cool-silver
+**Price:** 60,800৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14IAN8 Core i3 N305 14" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-14ian8-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-14ian8-laptop
+**Price:** 55,500৳
+
+---
+
+
+## MSI Modern 15 F13MG Core i3 13th Gen 15.6" FHD Laptop Platinum Gray  
+**DocID:** `startech_https://www.startech.com.bd/msi-modern-15-f13mg-core-i3-13th-gen-fhd-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-modern-15-f13mg-core-i3-13th-gen-fhd-laptop
+**Price:** 58,000৳
 
 ---
 
