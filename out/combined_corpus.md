@@ -8925,6 +8925,15 @@ Touch screen
 ---
 
 
+## HP Zbook Firefly 14 G7 Core i7-10610U 256/16 14" (1920x1080)  
+**DocID:** `daraz_1573814029`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 54,050
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13772,6 +13781,51 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 220
+
+---
+
+
+## Men's Cotton T-Shirt    – Best Quality – 150tk  
+**DocID:** `daraz_1578233521`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 120
+
+---
+
+
+## Cotton half sleeve polo shirts for men-multicolor polo shirts - Polo T Shirt For Men  
+**DocID:** `daraz_302099066`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 210
+
+---
+
+
+## Cotton polo T Shirts for men-multi color stripped polo shirt for men  
+**DocID:** `daraz_301990745`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 190
+
+---
+
+
+## New Year Smart Quality Cotton Polo Shirt for Men - Regular Fit - Refresh Your Wardrobe - All Size Available  
+**DocID:** `daraz_299585241`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 265
+
+---
+
+
+## Premium Stylish Polo Shirts for Men - Comfortable and Soft Wear  
+**DocID:** `daraz_365207161`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 380
 
 ---
 
@@ -19323,6 +19377,42 @@ Synthetic rubber sole
 ---
 
 
+## Stylish And Fashionable Shoes Winter And Summer Exclusive Sneakers Converse Shoes For Men - Shoe For Boys - Shoe For Boys - Shoes For Men  
+**DocID:** `daraz_315990454`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 460
+
+---
+
+
+## sneakers for men Lace Up Trendy Shoes For Man Casual lightweight stylish shoes.  
+**DocID:** `daraz_264434015`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 599
+
+---
+
+
+## New Collection Black And White Color TopME Canvas Sneakers Shoes For Men Stylish And Comfortable Shoes For Summer M37  
+**DocID:** `daraz_1579060288`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 409
+
+---
+
+
+## New Collection Better Choice Stylish and Fashionable Exclusive Sneakers Converse for Men - Walk in Style  
+**DocID:** `daraz_293809304`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 473
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -23126,6 +23216,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 369
+
+---
+
+
+## Brazil Home 2026 World cup Half Sleeve premium National Team Football Jersey (Logo Embroidery)  
+**DocID:** `daraz_1578183276`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 349
 
 ---
 
@@ -27294,6 +27393,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 21,899
+
+---
+
+
+## Xaiomi Redmi Note 15 Pro 5g (8+256GB),6.93"AMOLED, 120Hzডিসপ্লে,45W ফাস্ট চার্জিং সহ 7000mah Battery  
+**DocID:** `daraz_1573500585`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 40,999
+
+---
+
+
+## Honor X9d [8/256GB]  
+**DocID:** `daraz_531165647`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 36,499
+
+---
+
+
+## Samsung Galaxy S26 Ultra  
+**DocID:** `daraz_1573874764`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 141,499
 
 ---
 
@@ -33194,6 +33320,46 @@ Non-removable Li-Po Battery
 **Category:** laptop  
 **URL:** https://www.startech.com.bd/msi-modern-15-f13mg-core-i3-13th-gen-fhd-laptop
 **Price:** 58,000৳
+
+---
+
+
+## Microsoft Surface Laptop 7th Edition Snapdragon X Elite Copilot+ & AI Optimized 15" Laptop Platinum  
+**DocID:** `startech_https://www.startech.com.bd/microsoft-surface-laptop-7th-edition-15-inch-platinum`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/microsoft-surface-laptop-7th-edition-15-inch-platinum
+**Price:** 184,000৳
+
+---
+
+
+## MSI Modern 15 F13MG Core i3 13th Gen 15.6" FHD Laptop Urban Silver  
+**DocID:** `startech_https://www.startech.com.bd/msi-modern-15-f13mg-core-i3-13th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-modern-15-f13mg-core-i3-13th-gen-laptop
+**Price:** 58,000৳
+
+---
+
+
+## Newland NL-C606 3MP Indoor Portable WiFi Camera  
+**DocID:** `startech_https://www.startech.com.bd/newland-nl-c606-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/newland-nl-c606-wifi-camera
+**Price:** 3,200৳
+
+---
+
+
+## Newland NL-C604 3MP Outdoor Dome IP Camera  
+**DocID:** `startech_https://www.startech.com.bd/newland-nl-c604-dome-ip-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/newland-nl-c604-dome-ip-camera
+**Price:** 2,300৳
 
 ---
 
