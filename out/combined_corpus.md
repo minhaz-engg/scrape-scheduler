@@ -8934,6 +8934,24 @@ Touch screen
 ---
 
 
+## HP 15 Intel Core i5 1334U 8GB RAM 512GB SSD 15.6 Inch FHD Touch Natural Silver Laptop Model Fd0154wm BZ1W9UA  
+**DocID:** `daraz_1577908140`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 72,000
+
+---
+
+
+## MSI Modern 15 B12M 12th Gen i7-1255U 3.5 to 4.7GHz, 16GB RAM, 512GB SSD, Windows 11 Home, 15.6" FHD IPS Laptop (B12M-041BD-BB71255U16GXXDX11EMH)  
+**DocID:** `daraz_322385595`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 95,800
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -13826,6 +13844,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 380
+
+---
+
+
+## Premium Quality cotton Polo Shirt for Men  
+**DocID:** `daraz_530025904`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## 2025 Summer Cotton Golf Tennis Polos Casual Harajuku Camisa Polo Shirt Masculina Tops  
+**DocID:** `daraz_533449071`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 344
+
+---
+
+
+## Men'S  Exclusive U.S Polo T-Shirt - Polo T Shirt For Men - Polo T Shirt - Polo T Shirt  
+**DocID:** `daraz_273435555`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
 
 ---
 
@@ -19413,6 +19458,15 @@ Synthetic rubber sole
 ---
 
 
+## Mens Fashionable Exclusive Sneakers Converse shoe for Men  
+**DocID:** `daraz_1574172753`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 333
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -23225,6 +23279,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 349
+
+---
+
+
+## Brasil New world Cup 2026 jersey away for Men short sleeve  
+**DocID:** `daraz_269006378`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 349
+
+---
+
+
+## Borussia Dortmund Jersey 2023/24 Thai Premium Football Jersey For Men - Half Sleeve t-shirt - Borussia Football Jersey 2025  
+**DocID:** `daraz_327737456`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
 
 ---
 
@@ -27420,6 +27492,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 141,499
+
+---
+
+
+## M-HORSE M17 Pro Max (6+6)12 GB RAM 128GB ROM  5000 Mah Battery 4G Network  32 MP Camera powerful CPU . 1 year Brand Warrenty  
+**DocID:** `daraz_1580400187`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,490
+
+---
+
+
+## Walton Smart Phone NEXG N6  
+**DocID:** `daraz_325690952`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,499
+
+---
+
+
+## Itel City 200 (6+128GB),6.78",IPS LCD, 120Hz,ডিসপ্লে,18W ফাস্ট চার্জিং সহ 5200mah Battery  
+**DocID:** `daraz_1578557576`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,899
 
 ---
 
@@ -33360,6 +33459,96 @@ Non-removable Li-Po Battery
 **Category:** wifi-camera  
 **URL:** https://www.startech.com.bd/newland-nl-c604-dome-ip-camera
 **Price:** 2,300৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15IAN8 Core i3 N305 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15ian8-core-i3-n305-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15ian8-core-i3-n305-laptop
+**Price:** 55,500৳
+
+---
+
+
+## Smart Flairedge Core i5 13th Gen 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/smart-flairedge-core-i5-13th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/smart-flairedge-core-i5-13th-gen-laptop
+**Price:** 57,500৳
+
+---
+
+
+## MSI Modern 14 F13MG Core i3 13th Gen 14" FHD Laptop Urban Silver  
+**DocID:** `startech_https://www.startech.com.bd/msi-modern-14-f13mg-core-i3-13-gen-14-inch-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-modern-14-f13mg-core-i3-13-gen-14-inch-laptop
+**Price:** 58,000৳
+
+---
+
+
+## Ruijie RG-EW300 Pro 300Mbps Smart WiFi Router  
+**DocID:** `startech_https://www.startech.com.bd/ruijie-rg-ew300-pro-wifi-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/ruijie-rg-ew300-pro-wifi-router
+**Price:** 2,200৳ 2,250৳
+
+---
+
+
+## TP-Link Tapo C210 3MP Pan & Tilt Wi-Fi Security Camera  
+**DocID:** `startech_https://www.startech.com.bd/tp-link-tapo-c210-wi-fi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/tp-link-tapo-c210-wi-fi-camera
+**Price:** 2,025৳ 2,250৳
+
+---
+
+
+## Tenda CP3 360° 2MP Pan Tilt Security Wifi IP Camera  
+**DocID:** `startech_https://www.startech.com.bd/tenda-cp3-360-degree-security-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/tenda-cp3-360-degree-security-camera
+**Price:** 2,050৳ 2,300৳
+
+---
+
+
+## TP-Link Tapo C212 3MP Pan & Tilt Wi-Fi Security Camera  
+**DocID:** `startech_https://www.startech.com.bd/tp-link-tapo-c212-3mp-wi-fi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/tp-link-tapo-c212-3mp-wi-fi-camera
+**Price:** 2,250৳ 2,500৳
+
+---
+
+
+## Zeblaze Btalk Plus  
+**DocID:** `startech_https://www.startech.com.bd/zeblaze-btalk-plus`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/zeblaze-btalk-plus
+**Price:** 1,650৳ 1,799৳
+
+---
+
+
+## Zeblaze Btalk 2 Lite  
+**DocID:** `startech_https://www.startech.com.bd/zeblaze-btalk-2-lite`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/zeblaze-btalk-2-lite
+**Price:** 1,850৳ 1,999৳
 
 ---
 
