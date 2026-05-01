@@ -9060,6 +9060,15 @@ Touch screen
 ---
 
 
+## MSI Modern 14 B11SB 11th Gen i7-1165G7 2.8 to 4.7GHz, 16GB, 1TB SSD, MX450 2GB Graphics, Win10H, 14 FHD Laptop (Blue Stone)  
+**DocID:** `daraz_232228648`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 116,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14006,6 +14015,51 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 380
+
+---
+
+
+## RL Men's  Triple Pony Embroidered Polo Shirt- Black  
+**DocID:** `daraz_183903281`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 870
+
+---
+
+
+## Ralph Lauren Cable-Knit Cotton Polo Sweater – Beige  
+**DocID:** `daraz_550733214`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,190
+
+---
+
+
+## Eid Special Premium Cotton Polo Shirt for Men - Avant-garde Remarkable - Comfortable to Wear in All Seasons  
+**DocID:** `daraz_367534495`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 269
+
+---
+
+
+## Premium quality smart cotton polo shirt for men--polo shirt  
+**DocID:** `daraz_323804706`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Premium Polo T-Shirt for Men – Stylish & Comfortable  
+**DocID:** `daraz_543777553`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 274
 
 ---
 
@@ -19611,6 +19665,15 @@ Synthetic rubber sole
 ---
 
 
+## Sneakers Men Casual Shoes Men Fashion Sneakers Light Weight - Elevate Your Casual Style  
+**DocID:** `daraz_298793486`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 523
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -23468,6 +23531,60 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 360
+
+---
+
+
+## Roma Short sleeve Football Jersey For Men - Half Sleeve - Roma Jersey 2026/2027  
+**DocID:** `daraz_269541754`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Brazil World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve world cup t shirt - Brazil Jersey 2026  
+**DocID:** `daraz_342667080`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Liverpool Jersey 2026/27 Thai Premium Football Jersey For Man - Half Sleeve Club t shirt - Liverpool Jersey 2026  
+**DocID:** `daraz_529989792`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## Brazil Short Sleeve Football Training Jersey For Man - Half Sleeve - Brazil Training Jersey 2026/2027  
+**DocID:** `daraz_247246885`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Manchester City (Logo Embroidery) Full Sleeve Thai premium CLub Football Jersey  
+**DocID:** `daraz_558226212`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 600
+
+---
+
+
+## Fashionable Sports Jersey For Men - Jersey  
+**DocID:** `daraz_238273646`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 249
 
 ---
 
@@ -27735,6 +27852,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 14,350
+
+---
+
+
+## HONOR X8d 8/256GB | AMOLED 120Hz Display | 7000 mAh Battery | Official  
+**DocID:** `daraz_1580410887`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 35,350
+
+---
+
+
+## HONOR X9c 12/256GB | AMOLED Display | Snapdragon Chipsent | Curved Display | Official  
+**DocID:** `daraz_535816204`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 37,250
 
 ---
 
@@ -33815,6 +33950,26 @@ Non-removable Li-Po Battery
 **Category:** monitor  
 **URL:** https://www.startech.com.bd/gigasonic-gs-215fhd500s9-monitor
 **Price:** 9,200৳
+
+---
+
+
+## Dell 15 DC15250 Core 3 100U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/dell-15-dc15250-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/dell-15-dc15250-laptop
+**Price:** 59,000৳
+
+---
+
+
+## Asus ExpertBook B1 B1503CTA Core 3 N355 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/asus-expertbook-b1-b1503cta-core-3-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-expertbook-b1-b1503cta-core-3-laptop
+**Price:** 59,500৳
 
 ---
 
