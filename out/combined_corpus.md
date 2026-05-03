@@ -2359,6 +2359,15 @@
 ---
 
 
+## Acer Predator Helios Neo 16 | PHN16S-71-98RF - (Abyssal Black) Core Ultra 9 275HX (15th Gen) 1024/32 16" (2560x1600) 240Hz | OLED NVIDIA RTX 5070Ti - 12GB DDR7 RGB-Backlight Keyboard | NPU Intact  
+**DocID:** `daraz_1581602114`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 322,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -9069,6 +9078,42 @@ Touch screen
 ---
 
 
+## Lenovo Thinkpad T490 Core i5-10210U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1574470046`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 33,350
+
+---
+
+
+## HP 250 G10 13th Gen Core i3-1315U 3.3 to 4.5GHz, 8GB RAM, 512GB SSD, 15.6" FHD Laptop  
+**DocID:** `daraz_327348287`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 64,500
+
+---
+
+
+## Lenovo IdeaPad Slim 3i – 13th Gen Intel Core i7‑13620H, 16 GB DDR5 RAM, 512 GB SSD, 14″ WUXGA IPS Antiglare Display, Intel UHD Graphics  
+**DocID:** `daraz_536005584`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 106,200
+
+---
+
+
+## HP Pavilion Aero 13-bg0012AU - (Sky Blue) Ryzen 7-8840U 512/16 13.3" (1920x1200) With NPU  
+**DocID:** `daraz_1579845036`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 89,700
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14060,6 +14105,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 274
+
+---
+
+
+## Custom Print Polo T Shirt - Body White Color Nave Blue - Polo T Shirt  
+**DocID:** `daraz_294289145`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
 
 ---
 
@@ -19674,6 +19728,24 @@ Synthetic rubber sole
 ---
 
 
+## Modern Sneaker Elegance - New Collection of Better Choice Stylish and Fashionable Exclusive Low Top Sneakers Converse for Men  
+**DocID:** `daraz_318528563`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 480
+
+---
+
+
+## Casual Walking Shoes Same as A Picture Lightweight Anti Slip Running Sport Sneakers For men  
+**DocID:** `daraz_209325121`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 405
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -23585,6 +23657,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 249
+
+---
+
+
+## Japan World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve World Cup t shirt - Japan Jersey 2026  
+**DocID:** `daraz_247805123`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Germany World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve collar polo world cup t shirt - Germany Jersey 2026  
+**DocID:** `daraz_366782332`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
 
 ---
 
@@ -27870,6 +27960,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 37,250
+
+---
+
+
+## REDMI 13 (8/256GB) Global version or Official Version  
+**DocID:** `daraz_497006176`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 26,000
+
+---
+
+
+## Infinix Smart 20 (4/64GB)6.78"IPS LCD, 120Hz ডিসপ্লে,15W চার্জিং 5200mah battery  
+**DocID:** `daraz_1580894533`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,899
 
 ---
 
@@ -33970,6 +34078,67 @@ Non-removable Li-Po Battery
 **Category:** laptop  
 **URL:** https://www.startech.com.bd/asus-expertbook-b1-b1503cta-core-3-laptop
 **Price:** 59,500৳
+
+---
+
+
+## Tecno MEGABOOK K15SDA Ryzen 5 7430U 15.6" IPS FHD Laptop with Windows 11  
+**DocID:** `startech_https://www.startech.com.bd/tecno-megabook-k15sda-ryzen-5-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/tecno-megabook-k15sda-ryzen-5-laptop
+**Price:** 59,990৳
+
+---
+
+
+## ASUS Vivobook Go 15 L1504FA Ryzen 5 7520U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-go-15-l1504fa-ryzen-5-7520u-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-go-15-l1504fa-ryzen-5-7520u-laptop
+**Price:** 64,000৳
+
+---
+
+
+## ASUS Vivobook Go 15 L1504FA Ryzen 5 7520U 15.6" FHD Laptop Cool Silver  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-go-15-l1504fa-ryzen-5-laptop-cool-silver`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-go-15-l1504fa-ryzen-5-laptop-cool-silver
+**Price:** 64,000৳
+
+---
+
+
+## Starlink Standard 4 X Kit  
+**DocID:** `startech_https://www.startech.com.bd/starlink-standard-4-x`
+**Source:** StarTech  
+**Category:** starlink  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/starlink-standard-4-x
+**Price:** Up Coming
+
+---
+
+
+## Haier H43P7UX 43 Inch Voice Control HQLED 4K Smart Google TV  
+**DocID:** `startech_https://www.startech.com.bd/haier-h43p7ux-43-inch-hqled-4k-smart-google-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/haier-h43p7ux-43-inch-hqled-4k-smart-google-tv
+**Price:** 39,500৳ 51,900৳
+
+---
+
+
+## Awei H30 Kids Smart Watch with GPS  
+**DocID:** `startech_https://www.startech.com.bd/awei-h30-smartwatch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/awei-h30-smartwatch
+**Price:** 3,650৳ 3,999৳
 
 ---
 
