@@ -9114,6 +9114,33 @@ Touch screen
 ---
 
 
+## HP 15s-fq5886TU 12th Gen i5-1235U-1.3 To 4.4 GHz, 8GB DDR4, 512 GB SSD, Windows 11, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_266312749`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 80,800
+
+---
+
+
+## Walton Prelude N40 Pro Intel Celeron N4020 1.1GHz, 8GB RAM, 256GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569176335`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 26,200
+
+---
+
+
+## Lenovo Thinkpad 11e Yoga Gen 6 Core M3-8100Y 256/8 11.6" (1366x768) X360 | G.Touch Dual Camera With Stylus  
+**DocID:** `daraz_1573512493`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 20,700
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14111,6 +14138,15 @@ Touch screen
 
 ## Custom Print Polo T Shirt - Body White Color Nave Blue - Polo T Shirt  
 **DocID:** `daraz_294289145`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 350
+
+---
+
+
+## Polo T-Shirt - Custom Print Polo T Shirt - White Body With Nave Blue Collar - Polo T Shirt  
+**DocID:** `daraz_294928182`
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 350
@@ -19746,6 +19782,24 @@ Synthetic rubber sole
 ---
 
 
+## Hig Qulaity Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men by Footwear Point  
+**DocID:** `daraz_323741251`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 510
+
+---
+
+
+## New Collection Better Choice Stylish and Fashionable Exclusive Low Top Sneakers Converse for Men - Comfortable and Suitable for All Seasons  
+**DocID:** `daraz_316303222`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 496
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -23675,6 +23729,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 360
+
+---
+
+
+## Portugal World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve Collar Polo t shirt - Portugal Jersey 2026  
+**DocID:** `daraz_1574268775`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 351
 
 ---
 
@@ -27982,6 +28045,78 @@ Non-removable Li-Po Battery
 ---
 
 
+## Xiaomi Redmi 15C 6GB/128GB | Official  
+**DocID:** `daraz_1575578059`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 17,240
+
+---
+
+
+## Xiaomi Redmi 15 6GB/128GB | Official  
+**DocID:** `daraz_1575559149`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 19,150
+
+---
+
+
+## Xiaomi Redmi 15C 8GB/256GB | Official  
+**DocID:** `daraz_1575555314`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,090
+
+---
+
+
+## Xiaomi Redmi Note 15 5G 8GB/256GB | Official  
+**DocID:** `daraz_1575557413`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 34,500
+
+---
+
+
+## Xiaomi Redmi Note 15 6GB/128GB | Official  
+**DocID:** `daraz_1575545670`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,820
+
+---
+
+
+## Xiaomi Redmi 15 8GB/256GB | Official  
+**DocID:** `daraz_1575588476`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 22,950
+
+---
+
+
+## Xiaomi Redmi Note 15 Pro Plus 5G 12GB/512GB | Official  
+**DocID:** `daraz_1575557426`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 55,700
+
+---
+
+
+## Xiaomi Redmi Note 15 8GB/256GB | Official  
+**DocID:** `daraz_1575578541`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 28,650
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -28482,78 +28617,6 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 195,000
-
----
-
-
-## Redmi 15 8GB/256GB with Free Travel Bag | Official  
-**DocID:** `daraz_1575588476`
-**Source:** Daraz  
-**Category:** tablets
-**Price:** ৳ 22,400
-
----
-
-
-## Redmi Note 15 8GB/256GB with Free Premium Travel Bag  
-**DocID:** `daraz_1575578541`
-**Source:** Daraz  
-**Category:** tablets
-**Price:** ৳ 29,100
-
----
-
-
-## Redmi 15C 6GB/128GB with Free Travel Bag | Official  
-**DocID:** `daraz_1575578059`
-**Source:** Daraz  
-**Category:** tablets
-**Price:** ৳ 16,700
-
----
-
-
-## Redmi 15 6GB/128GB with Free Travel Bag | Official  
-**DocID:** `daraz_1575559149`
-**Source:** Daraz  
-**Category:** tablets
-**Price:** ৳ 18,600
-
----
-
-
-## Redmi Note 15 Pro Plus 5G 12GB/512GB with Premium Travel Bag | Official  
-**DocID:** `daraz_1575557426`
-**Source:** Daraz  
-**Category:** tablets
-**Price:** ৳ 56,400
-
----
-
-
-## Redmi Note 15 5G 8GB/256GB | Official  
-**DocID:** `daraz_1575557413`
-**Source:** Daraz  
-**Category:** tablets
-**Price:** ৳ 32,900
-
----
-
-
-## Redmi 15C 8GB/256GB with Free Travel Bag | Official  
-**DocID:** `daraz_1575555314`
-**Source:** Daraz  
-**Category:** tablets
-**Price:** ৳ 19,550
-
----
-
-
-## Redmi Note 15 6GB/128GB with Free Premium Travel Bag | Official  
-**DocID:** `daraz_1575545670`
-**Source:** Daraz  
-**Category:** tablets
-**Price:** ৳ 26,250
 
 ---
 
@@ -34139,6 +34202,109 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/awei-h30-smartwatch
 **Price:** 3,650৳ 3,999৳
+
+---
+
+
+## Walton Passion BX510U Core i5 10th Gen 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/walton-passion-bx510u-core-i5-10th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/walton-passion-bx510u-core-i5-10th-gen-laptop
+**Price:** 44,500৳ 55,550৳
+
+---
+
+
+## Walton Passion BX710U Core i7 10th Gen 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/walton-passion-bx710u-core-i7-10th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/walton-passion-bx710u-core-i7-10th-gen-laptop
+**Price:** 67,500৳ 77,850৳
+
+---
+
+
+## Walton ACC PASSION BX513U Pro Core i5 13th Gen 16GB RAM 16" 2.5K IPS Display Laptop  
+**DocID:** `startech_https://www.startech.com.bd/walton-acc-passion-bx513u-pro-core-i5-13th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/walton-acc-passion-bx513u-pro-core-i5-13th-gen-laptop
+**Price:** 85,550৳
+
+---
+
+
+## Walton ACC TAMARIND EX514H Core Ultra 5 14" 2.8K IPS 120Hz Display Laptop  
+**DocID:** `startech_https://www.startech.com.bd/walton-acc-tamarind-ex514h-core-ultra-5-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/walton-acc-tamarind-ex514h-core-ultra-5-laptop
+**Price:** 112,550৳
+
+---
+
+
+## Walton ACC KARONDA GX713H Core i7 13th Gen RTX 4050 6GB Graphics 15.3" 2.5K Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/walton-acc-karonda-gx713h-core-i7-13th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/walton-acc-karonda-gx713h-core-i7-13th-gen-laptop
+**Price:** 137,750৳
+
+---
+
+
+## Walton ACC WAXJAMBU GL714HX Core i7 14th Gen RTX 4060 8GB Graphics 16" 2.5K 240Hz Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/walton-acc-waxjambu-gl714hx-gaming-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/walton-acc-waxjambu-gl714hx-gaming-laptop
+**Price:** 162,550৳
+
+---
+
+
+## Walton TAMARIND ZX3700 Core i3 7th Gen 14" HD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/walton-tamarind-zx3700-core-i3-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/walton-tamarind-zx3700-core-i3-laptop
+**Price:** Up Coming
+
+---
+
+
+## Walton Tamarind EX510G Core i5 10th Gen 14" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/walton-tamarind-ex510g-core-i5-10th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/walton-tamarind-ex510g-core-i5-10th-gen-laptop
+**Price:** Up Coming
+
+---
+
+
+## Walton Tamarind MX511G Core i5 11th Gen 14" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/walton-tamarind-mx511g-core-i5-11th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/walton-tamarind-mx511g-core-i5-11th-gen-laptop
+**Price:** Up Coming
+
+---
+
+
+## DJI RS 4 Mini Handheld Camera Gimbal Stabilizer  
+**DocID:** `startech_https://www.startech.com.bd/dji-rs-4-mini-gimbal-stabilizer`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/dji-rs-4-mini-gimbal-stabilizer
+**Price:** 31,500৳ 36,500৳
 
 ---
 
