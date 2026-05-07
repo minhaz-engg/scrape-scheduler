@@ -9141,6 +9141,69 @@ Touch screen
 ---
 
 
+## Dell Latitude 3310 (Refurbished) – Intel Core i5 8th Gen, 8GB DDR4 RAM, 256GB SSD, 13.3" Display  
+**DocID:** `daraz_1581039461`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 34,099
+
+---
+
+
+## Asus Vivobook 15 A1504VA (BQ387W) Intel Core 5 120U 1.40GHz to 5.00GHz 16GB RAM 512GB SSD Win 11 15.6"Inch FHD Display Laptop  
+**DocID:** `daraz_1579188987`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 93,300
+
+---
+
+
+## Acer Aspire 3 A315-59-5031 (NX.K6TSI.00B) 12th Gen i5-1235U 3.3 to 4.4GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_322900765`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,800
+
+---
+
+
+## Asus Vivobook Go 15 L1504FA (BQ2548W) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz, 16GB RAM 512GB SSD, 15.6"Inch, Win-11 FHD Display Laptop  
+**DocID:** `daraz_1572925260`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,300
+
+---
+
+
+## HP OmniBook 7 Aero 13-bg1009AU - (Glacier Silver) Ryzen AI 7 350 1024/32 13.3" (1920x1200) With NPU  
+**DocID:** `daraz_1579813584`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 103,500
+
+---
+
+
+## Asus Vivobook Go 15 E1504TA (BQ211W) Intel 12th Gen Core N150 3.60GHz, 8GB RAM, 512GB SSD, Win-11, 15.6-Inch  FHD Laptop  
+**DocID:** `daraz_1580425382`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 65,360
+
+---
+
+
+## HP OmniBook Ultra 14-fd0005AU - (Meteor Silver) Ryzen AI 9 365 1024/16 14" (2240x1400) G.Touch With NPU  
+**DocID:** `daraz_1579821510`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 138,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14150,6 +14213,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 350
+
+---
+
+
+## SMUG Premium Elite Edition Contrast Polo - soft touch and comfortable for day-long usage-Pest Color  
+**DocID:** `daraz_378023779`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 364
+
+---
+
+
+## 100% pure cotton men's short sleeved polo shirt hot selling summer fashionable horse logo embroidery classic Paul casual T-shirt  
+**DocID:** `daraz_1574622228`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 2,448
 
 ---
 
@@ -19800,6 +19881,51 @@ Synthetic rubber sole
 ---
 
 
+## New Collection Better Choice: Stylish And Fashionable Exclusive Sneakers Converse For Men - Elevate Your Style  
+**DocID:** `daraz_276054312`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 509
+
+---
+
+
+## New Lambor ghini sneaker men casual shoes  
+**DocID:** `daraz_342935279`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## YRZL Men Sports Running Black Jogging Shoes Casual Sneakers Outdoor Breathable Mesh Women Light Shock-absorption Sneakers Men  
+**DocID:** `daraz_546993511`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,978
+
+---
+
+
+## 2026 New Comfortable casual shoes man classic sneakers Durable black Flat Canvas Shoes sneakers  
+**DocID:** `daraz_547557082`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,032
+
+---
+
+
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Sneakers for Men  
+**DocID:** `daraz_365343348`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 472
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -23738,6 +23864,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 351
+
+---
+
+
+## Barcelona collar polo Jersey 2026/27 Thai Premium Football For Men - Half Sleeve polo - Barcelona Jersey 2026  
+**DocID:** `daraz_556986047`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 335
 
 ---
 
@@ -28113,6 +28248,105 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 28,650
+
+---
+
+
+## Xiaomi Redmi Turbo 4 Pro 5g (12+256GB) Unofficial  
+**DocID:** `daraz_1581103358`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 42,999
+
+---
+
+
+## Coolpad Cool 40i Smartphone (lvory White) – 6.56” HD+ 90Hz Display, 8GB RAM (4+4), 128GB ROM, Helio G37, 50MP Camera, 4500mAh Battery  
+**DocID:** `daraz_574128481`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,990
+
+---
+
+
+## Moto G24 Power [8/128] Smartphone  
+**DocID:** `daraz_412569282`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 17,199
+
+---
+
+
+## Infinix Note 60 Pro 8/256GB – Premium 1.5K AMOLED Flagship | Dimensity 8300 Ultimate | 200MP Periscope Camera | 45W Fast Charging | Official Warranty  
+**DocID:** `daraz_1578093953`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 45,465
+
+---
+
+
+## Proton HyperX 16GB RAM (8 GB Extended) 128GB ROM with Water Resistant and Iron guard Protection - 751310  
+**DocID:** `daraz_1581447443`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,690
+
+---
+
+
+## vivo iQOO Z11x 5g (8+128GB) Unofficial  
+**DocID:** `daraz_1581423791`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 31,999
+
+---
+
+
+## Xiaomi Redmi Note 15 Pro 5g (12+256GB) Unofficial  
+**DocID:** `daraz_1581137961`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 41,999
+
+---
+
+
+## HTC Wildfire E5 Elite 6GB/256GB | Official  
+**DocID:** `daraz_1580185911`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,369
+
+---
+
+
+## Xiaomi Poco M7 5g (8+128GB) Unofficial  
+**DocID:** `daraz_1581421749`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,999
+
+---
+
+
+## ZTE Nubia Neo 5g (8+256GB)6.8"IPS LCD, 120Hz ডিসপ্লে,45W চার্জিং 6050mah battery  
+**DocID:** `daraz_1580856690`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,499
+
+---
+
+
+## Motorola Edge 60 pro 5g (8+256GB) Unofficial  
+**DocID:** `daraz_1580998505`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 44,999
 
 ---
 
