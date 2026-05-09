@@ -2368,6 +2368,15 @@
 ---
 
 
+## Victus Gaming Laptop 15-fb2082wm AMD Ryzen™ 5 8645HS Processor 8GB DDR5 Ram 512 GB PCIe Gen4 SSD NVIDIA GeForce RTX™ 4050 6 GB GDDR6 dedicated Graphics 15.6" FHD IPS 144Hz Display Windows 11 Mica silver Color  
+**DocID:** `daraz_443605446`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 110,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -9204,6 +9213,33 @@ Touch screen
 ---
 
 
+## HP Zbook Firefly 14 G7 Core i7-10610U 512/16 14" (1920x1080) Touch  
+**DocID:** `daraz_1574794085`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 55,200
+
+---
+
+
+## HP 250 G10 i3 (1315u) Laptop with 13th Gen 8GB RAM 512GB SSD 15.6" FHD IPS Silver and 2 Year Warranty  
+**DocID:** `daraz_323965673`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 56,382
+
+---
+
+
+## Lenovo IdeaPad Slim 3 Intel Core i7 1355U 16GB RAM 1TB SSD 15.6 Inch FHD Touch Arctic Grey Laptop Model 15IRU8 82X700HUUS  
+**DocID:** `daraz_1577727815`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 106,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14231,6 +14267,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 2,448
+
+---
+
+
+## Men's Polo Shirt (Fashionable Polo For Men)  
+**DocID:** `daraz_223867308`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 599
 
 ---
 
@@ -19926,6 +19971,24 @@ Synthetic rubber sole
 ---
 
 
+## 2024 Lunching Most Popular Hig Qulaity Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men  
+**DocID:** `daraz_351436491`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 714
+
+---
+
+
+## Embrace Style in Blue White And Red PAINT Casual Sneakers Canvas Shoes For Men - Lightweight- Breathable and Comfortable Shoes  
+**DocID:** `daraz_324317618`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 850
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -23873,6 +23936,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 335
+
+---
+
+
+## Spain Away Jersey Spain Football Jersey Spain New Jersey Spain Thai Premium Football Jersey 2026 Spain Fifa World Cup Jersey  
+**DocID:** `daraz_1580181136`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 450
 
 ---
 
@@ -28351,6 +28423,33 @@ Non-removable Li-Po Battery
 ---
 
 
+## Honor X7d 5g (8+512GB) Unofficial  
+**DocID:** `daraz_1581322151`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,999
+
+---
+
+
+## Honor Win 5g (12+256GB) Unofficial  
+**DocID:** `daraz_1581057558`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 81,999
+
+---
+
+
+## vivo V70 5g (8+256GB) Unofficial  
+**DocID:** `daraz_1581457362`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 61,999
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -28860,6 +28959,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 12,900
+
+---
+
+
+## Xiaomi Redmi Pad 2 (8+256) | Official  
+**DocID:** `daraz_1581862823`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 29,999
+
+---
+
+
+## Xiaomi Redmi PAD 2 Pro (8+256) | Official  
+**DocID:** `daraz_1581647491`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 37,999
+
+---
+
+
+## Xiaomi Redmi PAD 2 Pro 5G (8+256) | Official  
+**DocID:** `daraz_1581637833`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 44,999
+
+---
+
+
+## Xiaomi PAD 8 (8+256) | Official  
+**DocID:** `daraz_1581637825`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 52,999
+
+---
+
+
+## Xiaomi Redmi Pad 2 (6+128) | Official  
+**DocID:** `daraz_1581633992`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 24,999
 
 ---
 
@@ -34539,6 +34683,16 @@ Non-removable Li-Po Battery
 **Category:** gimbal  
 **URL:** https://www.startech.com.bd/dji-rs-4-mini-gimbal-stabilizer
 **Price:** 31,500৳ 36,500৳
+
+---
+
+
+## DJI Lito 1 Drone 4K Fly More Combo with RC-N3 Controller  
+**DocID:** `startech_https://www.startech.com.bd/dji-lito-1-fly-more-combo-rc-n3-drone`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-lito-1-fly-more-combo-rc-n3-drone
+**Price:** 49,500৳ 55,000৳
 
 ---
 
