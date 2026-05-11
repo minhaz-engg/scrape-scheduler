@@ -2377,6 +2377,15 @@
 ---
 
 
+## HP VICTUS 15-FA1082WM Core i5 13420H 16GB RAM 512GB SSD NVIDIA RTX 4050 6GB Graphics 15.6" FHD Gaming Laptop  
+**DocID:** `daraz_489373951`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 108,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -9240,6 +9249,33 @@ Touch screen
 ---
 
 
+## ASUS Vivobook Go Core i3-N305 8GB RAM 128GB UFS 15.6 Inch FHD Win-11 Mixed Black Laptop Model E1504GA (90NB0ZT2-M00XW0)  
+**DocID:** `daraz_1577545428`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 48,500
+
+---
+
+
+## Lenovo Thinkpad T490s Core i5-8365U 256/8 14" (1920x1080) Touch  
+**DocID:** `daraz_1574573266`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 31,625
+
+---
+
+
+## Tecno Megabook K15SDA Ryzen 5 7430U 2.3GHz to 4.3GHz, 16GB, 512GB SSD, 15.6 Inch FHD LED Laptop  
+**DocID:** `daraz_555780339`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,700
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14276,6 +14312,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 599
+
+---
+
+
+## Comfort 100% cotton polo Shirt For Men  
+**DocID:** `daraz_533275928`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 322
 
 ---
 
@@ -19989,6 +20034,24 @@ Synthetic rubber sole
 ---
 
 
+## 2026 Eid Collection Stylish and Fashionable Summer and Winter Exclusive Sneakers Converse Shoes for Men- Avant-garde Any Color  
+**DocID:** `daraz_364313480`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 390
+
+---
+
+
+## Most Popular Fashionable Winter Sneaker For Men-Special Offer - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Sneakers For Men - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Shoe For Boys - Shoe For Boys  
+**DocID:** `daraz_215782849`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 440
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -23945,6 +24008,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 450
+
+---
+
+
+## Brazil  World Cup Official Away Kit/Jersey 2026- Premium Quality Half Sleeve Football Jersey  
+**DocID:** `daraz_268146278`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 359
+
+---
+
+
+## Portugal jersey  2026/27 Thai Premium Football For Men - Half Sleeve Jersey - Portugal Football Jersey 2026/27  
+**DocID:** `daraz_286086376`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 332
 
 ---
 
@@ -28446,6 +28527,87 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 61,999
+
+---
+
+
+## iPhone 17 256GB | 512GB (e-Sim Only)  
+**DocID:** `daraz_553416692`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 127,999
+
+---
+
+
+## Coolpad Cool 40i Smartphone – 6.56” HD+ 90Hz Display, 8GB RAM (4+4), 128GB ROM, Helio G37, 50MP Camera, 4500mAh Battery  
+**DocID:** `daraz_570620189`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 12,990
+
+---
+
+
+## CMF Phone 2 Pro  
+**DocID:** `daraz_1572533996`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 32,999
+
+---
+
+
+## Realme 16 Pro 5g (8+128GB) Unofficial  
+**DocID:** `daraz_1581310344`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 40,999
+
+---
+
+
+## Meizu Note 21 (8+256GB) Unofficial  
+**DocID:** `daraz_1581445393`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 17,999
+
+---
+
+
+## Samsung Galaxy A56 5G 8/256GB|6.7" AMOLED 120Hz  
+**DocID:** `daraz_563977043`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 60,950
+
+---
+
+
+## Xiaomi Poco X8 Pro 5g (8+256GB) Unofficial  
+**DocID:** `daraz_1581415866`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 47,999
+
+---
+
+
+## Itel A100C (4+64GB),6.6",IPS LCD, 90Hz,ডিসপ্লে,10W ফাস্ট চার্জিং সহ 5000mah Battery  
+**DocID:** `daraz_1578549749`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 11,979
+
+---
+
+
+## Infinix Smart 20 (4/128GB)6.78"IPS LCD, 120Hz ডিসপ্লে,15W চার্জিং 5200mah battery  
+**DocID:** `daraz_1580908057`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 15,499
 
 ---
 
@@ -34693,6 +34855,28 @@ Non-removable Li-Po Battery
 **Category:** drone  
 **URL:** https://www.startech.com.bd/dji-lito-1-fly-more-combo-rc-n3-drone
 **Price:** 49,500৳ 55,000৳
+
+---
+
+
+## Acer Aspire 15 AS15-42-R5 Ryzen 5 7430U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-15-as15-42-r5-ryzen-5-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/acer-aspire-15-as15-42-r5-ryzen-5-laptop
+**Price:** Up Coming
+
+---
+
+
+## Acer Aspire 15 AS15-42-R7 Ryzen 7 7730U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-15-as15-42-r7-ryzen-7-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**Status:** Up Coming  
+**URL:** https://www.startech.com.bd/acer-aspire-15-as15-42-r7-ryzen-7-laptop
+**Price:** Up Coming
 
 ---
 
