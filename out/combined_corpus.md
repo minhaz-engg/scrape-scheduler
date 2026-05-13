@@ -9276,6 +9276,15 @@ Touch screen
 ---
 
 
+## Lenovo Yoga Slim 7i Carbon #82EV006JIN# 11th Gen Core i7-1165G7 2.8 to 4.7GHz, 16GB, 1TB SSD, Win10 13.3 Inch Laptop  
+**DocID:** `daraz_216234503`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 171,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14321,6 +14330,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 322
+
+---
+
+
+## Maroon Cotton Polo T.Shirt for Men  
+**DocID:** `daraz_108822080`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
+
+---
+
+
+## Premium Cotton Polo T-shirt For men's  
+**DocID:** `daraz_380768050`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 149
 
 ---
 
@@ -20052,6 +20079,33 @@ Synthetic rubber sole
 ---
 
 
+## Black Green And Grey Color SPANISH Casual Sneakers Canvas Shoes For Men Comfortable And Lightweight Shoe For Walking M18  
+**DocID:** `daraz_338213502`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 396
+
+---
+
+
+## Canvas Stylish shoes Black And Blue Color Winter Canvas Sneakers for Men, Black And Blue Color Winter Canvas Sneakers For Men - Shoes For Men - Shoe For Boys - White Shoes  
+**DocID:** `daraz_259203073`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 272
+
+---
+
+
+## North Star CONVERSE Sneaker for Men  
+**DocID:** `daraz_362313187`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 674
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -24026,6 +24080,60 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 332
+
+---
+
+
+## Portugal Maggie sleeve Football Jersey For Men - magi sleeve World Cup t shirt - Portugal World Cup Jersey 2026  
+**DocID:** `daraz_279413308`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## England World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve World Cup t shirt - England World Jersey 2026  
+**DocID:** `daraz_567970483`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 369
+
+---
+
+
+## Spain Jersey 2026/2027 Thai Premium Football Jersey For Man - Half Sleeve - Spain Jersey 2026  
+**DocID:** `daraz_552300146`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 326
+
+---
+
+
+## Argentina World Cup Jersey 2026 Thai Premium Football Jersey For Men - Messi 10 Half Sleeve Jersey - Messi 10 Jersey 2026  
+**DocID:** `daraz_247330174`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 372
+
+---
+
+
+## AC Milan Full Sleeve Jersey 2025/2026 Thai Premium Football Jersey For Man - Long Sleeve - AC Milan Football Jersey 2025  
+**DocID:** `daraz_523371544`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 344
+
+---
+
+
+## Brazil Jersey 2026/27 Short Sleeve Football Jersey For Men - Half Sleeve Jersey - Brazil Jersey 2026  
+**DocID:** `daraz_464173946`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
 
 ---
 
@@ -28608,6 +28716,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 15,499
+
+---
+
+
+## Vivo Y05 4GB/64GB | 6.74” 120Hz | 6500mAh Battery | Official  
+**DocID:** `daraz_1575852829`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,190
+
+---
+
+
+## realme C100i 4/64GB Smartphone – 7000mAh Battery, HD+ Display – Official Warranty  
+**DocID:** `daraz_1581326067`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,940
+
+---
+
+
+## iPhone 17 256GB | 512GB (Physical Sim + e-Sim)  
+**DocID:** `daraz_553693312`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 132,990
+
+---
+
+
+## Xiaomi Redmi A5 6GB/128GB | Official  
+**DocID:** `daraz_1575282077`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 15,290
+
+---
+
+
+## Google Pixel 7 Pro - 12GB RAM - 128GB ROM - [Hazel/Snow/Obsidian] - 6.7" LTPO 120Hz Display - 50MP Triple AI Camera - 5x Optical Zoom - Google Tensor G2 - Official Warranty  
+**DocID:** `daraz_1581415448`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 56,575
 
 ---
 
@@ -34877,6 +35030,76 @@ Non-removable Li-Po Battery
 **Status:** Up Coming  
 **URL:** https://www.startech.com.bd/acer-aspire-15-as15-42-r7-ryzen-7-laptop
 **Price:** Up Coming
+
+---
+
+
+## HP 15-fd0176TU Intel Core i3 13th Gen 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fd0176tu-core-i3-13th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fd0176tu-core-i3-13th-gen-laptop
+**Price:** 70,500৳
+
+---
+
+
+## Asus Vivobook 15 A1504VA CORE 3 100U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-15-a1504va-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-15-a1504va-laptop
+**Price:** 65,800৳
+
+---
+
+
+## MAXSUN Intel ARC B580 iCraft 12G GDDR6 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/maxsun-intel-arc-b580-icraft-12g-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/maxsun-intel-arc-b580-icraft-12g-graphics-card
+**Price:** 40,500৳
+
+---
+
+
+## VSOL HG3610AC-1G3F AC1200 Dual-Band Gigabit WiFi 5 Router  
+**DocID:** `startech_https://www.startech.com.bd/vsol-hg3610ac-1g3f-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/vsol-hg3610ac-1g3f-router
+**Price:** 3,200৳
+
+---
+
+
+## Cudy WR300 N300 300mbps WiFi Router  
+**DocID:** `startech_https://www.startech.com.bd/cudy-wr300-n300-300mbps-wifi-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/cudy-wr300-n300-300mbps-wifi-router
+**Price:** 1,500৳
+
+---
+
+
+## HP Series 3 Pro 322pe 21.45" 100Hz FHD IPS Monitor  
+**DocID:** `startech_https://www.startech.com.bd/hp-series-3-pro-322pe-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/hp-series-3-pro-322pe-monitor
+**Price:** 13,500৳ 14,200৳
+
+---
+
+
+## HP Series 524SF 23.8" 100Hz FHD IPS Monitor  
+**DocID:** `startech_https://www.startech.com.bd/hp-series-524sf-fhd-ips-monitor`
+**Source:** StarTech  
+**Category:** monitor  
+**URL:** https://www.startech.com.bd/hp-series-524sf-fhd-ips-monitor
+**Price:** 18,500৳ 20,000৳
 
 ---
 
