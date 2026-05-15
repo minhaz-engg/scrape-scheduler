@@ -9285,6 +9285,87 @@ Touch screen
 ---
 
 
+## MSI Modern 14 B11MOU Intel Core i3 1115G4 14 Inch FHD IPS Display Carbon Gray Laptop  
+**DocID:** `daraz_279317423`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,999
+
+---
+
+
+## Acer TravelMate TMP 214-53-30NZ 11th Gen i3-1115G4 1.7 to 4.1GHz, 4GB, 256GB SSD, 1TB HDD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_311812302`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,200
+
+---
+
+
+## Lenovo V15 Gen 4 Note PC Core i5 13th Gen 15.6" FHD Laptop  
+**DocID:** `daraz_1581281191`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,000
+
+---
+
+
+## HP 250 G10 13th Gen Core i3-1315U 3.3 to 4.5GHz, 8GB, 512GB SSD, UHD Graphics, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_327345497`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,950
+
+---
+
+
+## Lenovo IdeaPad Slim 3 Intel Core i3 1315U 8GB RAM 256GB SSD 15.6 Inch Arctic Grey laptop Model 15IRU8 82X700DBUE  
+**DocID:** `daraz_1577896607`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 59,000
+
+---
+
+
+## Microsoft Surface Pro 9 - 13" (Sapphire) Core i7-1255U 256/16 13" (2880x1920) G.Touch | 120Hz  Intact  
+**DocID:** `daraz_1576879942`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 181,125
+
+---
+
+
+## Chuwi MiniBook X 10.5 Inch Touch Yoga N100 0.8 to 3.4GHz, 12GB, 512GB, Win11 Laptop  
+**DocID:** `daraz_335908533`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 54,270
+
+---
+
+
+## Lenovo ThinkPad T14s - Gen 2 Core i7-1185G7 512/32 14" (1920x1080) Touch  
+**DocID:** `daraz_1580004964`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,035
+
+---
+
+
+## Walton Tamarind EX311G Pro 11th Gen Intel Core i3-1115G4 1.7GHz to 4.1GHz, 8GB RAM, 512GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569061728`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 36,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -9767,6 +9848,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 83,499
+
+---
+
+
+## Apple MacBook Neo 13-inch with A18 Pro chip 256GB/8GB (Blush)  
+**DocID:** `daraz_1582520083`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 85,990
+
+---
+
+
+## Apple MacBook Neo 13-inch with A18 Pro chip 256GB/8GB (Silver)  
+**DocID:** `daraz_1582323042`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 84,990
 
 ---
 
@@ -14348,6 +14447,51 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 149
+
+---
+
+
+## Men Polo T Shirt | Zipper Polo Shirt for Men | Cotton Casual Polo T-Shirt  
+**DocID:** `daraz_1572511149`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 649
+
+---
+
+
+## Men’s Solid Black Polo T-Shirt  Premium PK Cotton | Casual & Formal Wear  
+**DocID:** `daraz_567816704`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 229
+
+---
+
+
+## Smart quality cotton polo shirt for men-polo shirt  
+**DocID:** `daraz_339004358`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
+## Men's Solid Color Polo Shirts -  
+**DocID:** `daraz_530110888`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 137
+
+---
+
+
+## Maroon Cotton Polo For Men - Polo T Shirt For Men  
+**DocID:** `daraz_100696020`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 414
 
 ---
 
@@ -20106,6 +20250,15 @@ Synthetic rubber sole
 ---
 
 
+## High-Quality Sports' Sneakers Men's Casual Shoes Men's Fashion Sneakers Flyknit Lightweight Slip  
+**DocID:** `daraz_326052496`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 647
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -24134,6 +24287,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 260
+
+---
+
+
+## Brazil Short Sleeve Collart Polo Football Jersey For Men - Neymar jr 10 Half Sleeve Collar Polo t shirt - Brazil 10 Jersey  
+**DocID:** `daraz_305762859`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 280
 
 ---
 
@@ -28761,6 +28923,60 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 56,575
+
+---
+
+
+## realme C100i 4/128GB Smartphone – 7000mAh Battery, HD+ Display – Official Warranty  
+**DocID:** `daraz_1581057605`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,650
+
+---
+
+
+## Motorola Moto G57 Power 5g (8+128GB) Unofficial  
+**DocID:** `daraz_1581044422`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 24,999
+
+---
+
+
+## Nothing Phone (3a) Pro 5g (12+256GB) Unofficial  
+**DocID:** `daraz_1581452542`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 52,999
+
+---
+
+
+## Vivo Y31d 8GB/128GB |  7200mAh Battery | Snapdragon Processor | Official  
+**DocID:** `daraz_1575876422`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 28,290
+
+---
+
+
+## OPPO A6x 4GB Ram and 64GB | 128GB Rom (Official)  
+**DocID:** `daraz_1581664790`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,899
+
+---
+
+
+## Google Pixel 9 - 12GB RAM - 128GB ROM - Obsidian - 6.3" Actua Display - 50MP Dual Camera - Google Tensor G4 Chip - Official Warranty  
+**DocID:** `daraz_1581612739`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 84,724
 
 ---
 
@@ -35100,6 +35316,36 @@ Non-removable Li-Po Battery
 **Category:** monitor  
 **URL:** https://www.startech.com.bd/hp-series-524sf-fhd-ips-monitor
 **Price:** 18,500৳ 20,000৳
+
+---
+
+
+## Asus Vivobook 15 A1504VA Core 3 100U 15.6" FHD Laptop Cool Silver  
+**DocID:** `startech_https://www.startech.com.bd/asus-vivobook-15-a1504va-laptop-cool-silver`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/asus-vivobook-15-a1504va-laptop-cool-silver
+**Price:** 65,800৳
+
+---
+
+
+## AFOX NVIDIA GeForce GTX 750 Ti 4GB GDDR5 Graphics Card  
+**DocID:** `startech_https://www.startech.com.bd/afox-gtx-750-ti-4gb-graphics-card`
+**Source:** StarTech  
+**Category:** graphics-card  
+**URL:** https://www.startech.com.bd/afox-gtx-750-ti-4gb-graphics-card
+**Price:** 18,000৳
+
+---
+
+
+## Zyxel NBG6604 AC1200 Dual-Band WiFi Router  
+**DocID:** `startech_https://www.startech.com.bd/zyxel-nbg6604-ac1200-dual-band-wireless-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/zyxel-nbg6604-ac1200-dual-band-wireless-router
+**Price:** 1,659৳ 3,199৳
 
 ---
 
