@@ -9366,6 +9366,33 @@ Touch screen
 ---
 
 
+## Lenovo Yoga 720 (2-in-1) 13IKB - (Platinum Silver) Core i5-7200U 256/8 13.3" (1920x1080) X360 | G.Touch  
+**DocID:** `daraz_1581426678`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 45,885
+
+---
+
+
+## Huawei MateBook D15 11th Gen i5-1135G7 2.4 to 4.2GHz, 8GB, 512GB SSD, Fingerprint, 15.6" FHD IPS Laptop  
+**DocID:** `daraz_317664078`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,870
+
+---
+
+
+## HP Spectre X360 16-aa0015TU - ( Nightfall Black) Core Ultra 7 155H (14th Gen) 1024/16 16" (2560x1600) X360 | G.Touch | 120Hz With NPU | Box  
+**DocID:** `daraz_1580034115`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 181,125
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14492,6 +14519,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 414
+
+---
+
+
+## Royal Blue Export Quality Cotton Short Sleeve Polo for Men  
+**DocID:** `daraz_100699029`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 345
 
 ---
 
@@ -20259,6 +20295,42 @@ Synthetic rubber sole
 ---
 
 
+## Sneakers Weightless Lambergen Style Lace Up 2022 Shoes For Men. - Shoes - Sneakers  
+**DocID:** `daraz_275608438`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## New Best Collection 2025 Comfortable Stylish & Fashionable Sports Look, Lace Up, Slip-on & Pull-on, Light Weight - Black and White Mixed Color Combination Sneaker For Men - Perfect For Any Occasion  
+**DocID:** `daraz_530257887`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,399
+
+---
+
+
+## Best Collection - Stylish and Fashionable Exclusive Sneakers - Men's Versatile Footwear for Everyday Wear  
+**DocID:** `daraz_321277797`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 588
+
+---
+
+
+## Stylish and Fashionable 2022 Winter and Summer White Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_268343819`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 540
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -24296,6 +24368,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 280
+
+---
+
+
+## Brazil Away Kid’s Jersey World Cup 2026 combo set  
+**DocID:** `daraz_545940722`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 585
+
+---
+
+
+## রিয়াল মাদ্রি  short Sleeve Football Jersey for men half sleeve - রিয়াল মাদ্রিদের jersey 2026  
+**DocID:** `daraz_1573430251`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 600
+
+---
+
+
+## A3H Premium Polyester Round Neck Jersey for Men-Brazil Home Kit - Brazil Thai Premium Football Jersey For Men - Brazil Jersey  
+**DocID:** `daraz_1574052953`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 475
 
 ---
 
@@ -28977,6 +29076,33 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 84,724
+
+---
+
+
+## Vivo Y11d 4GB/128GB | 6.75" 120Hz | 45W 6500mAh Battery | Official  
+**DocID:** `daraz_1576202321`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 17,890
+
+---
+
+
+## Motorola Edge 70 Fusion 5g (8+128GB) Unofficial  
+**DocID:** `daraz_1580725612`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 39,999
+
+---
+
+
+## Samsung Galaxy A07 (8+256GB) Unofficial  
+**DocID:** `daraz_1581457354`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,999
 
 ---
 
