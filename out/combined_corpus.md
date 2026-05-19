@@ -9393,6 +9393,24 @@ Touch screen
 ---
 
 
+## Lenovo IdeaPad Slim 3 15IAU7 (82RK0152IN) 12th Gen i3-1215U 3.3 to 4.44GHz, 8GB DDR4, 512GB M.2 NVMe SSD, 15.6Inch FHD Laptop  
+**DocID:** `daraz_437392006`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 57,500
+
+---
+
+
+## HP EliteBook 840 G5 Core i5-8350U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1582163806`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 35,070
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14528,6 +14546,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 345
+
+---
+
+
+## Fabrilife ফ্যাব্রিলাইফ সিঙ্গেল জার্সি বোনা সুতি পোলো কালো  
+**DocID:** `daraz_229151579`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 750
+
+---
+
+
+## Classic fit half sleeve casual polo t-shirt for man - Polo T Shirt For Men  
+**DocID:** `daraz_128744366`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 198
 
 ---
 
@@ -20331,6 +20367,15 @@ Synthetic rubber sole
 ---
 
 
+## Active  Shoes Sneaker For Men's & Boy's  
+**DocID:** `daraz_161052890`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,350
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -24395,6 +24440,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 475
+
+---
+
+
+## Argentina World Cup Jersey 2026 Premium Football Jersey For Men - Half Sleeve Jersey - Argentina Jersey 2026  
+**DocID:** `daraz_274232447`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 335
 
 ---
 
@@ -29103,6 +29157,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 20,999
+
+---
+
+
+## HONOR X6d 5G 4/128GB | 120Hz Display | 50MP Camera | Official  
+**DocID:** `daraz_1580424606`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 18,640
+
+---
+
+
+## Honor X9d 5g (8+256GB) Unofficial  
+**DocID:** `daraz_1581332948`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 38,999
+
+---
+
+
+## Walton NEXG N28 (8+128GB) Official  
+**DocID:** `daraz_1582215389`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,999
+
+---
+
+
+## Helio 100 (8+256GB) Official  
+**DocID:** `daraz_1582404295`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 21,999
+
+---
+
+
+## ITEL A50 SMART PHONE  
+**DocID:** `daraz_573849274`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 11,322
 
 ---
 
@@ -35472,6 +35571,56 @@ Non-removable Li-Po Battery
 **Category:** router  
 **URL:** https://www.startech.com.bd/zyxel-nbg6604-ac1200-dual-band-wireless-router
 **Price:** 1,659৳ 3,199৳
+
+---
+
+
+## DJI Lito X1 Fly More Combo with RC 2 Controller  
+**DocID:** `startech_https://www.startech.com.bd/dji-lito-x1-fly-more-combo-rc-2`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-lito-x1-fly-more-combo-rc-2
+**Price:** 72,990৳ 76,000৳
+
+---
+
+
+## Tenda CP3 V3 360° 3MP Pan Tilt Security Wi-Fi IP Camera  
+**DocID:** `startech_https://www.startech.com.bd/tenda-cp3-v3-3mp-ip-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/tenda-cp3-v3-3mp-ip-camera
+**Price:** 2,000৳ 2,100৳
+
+---
+
+
+## TP-Link Tapo C232 5MP AI Pan/Tilt WiFi Camera  
+**DocID:** `startech_https://www.startech.com.bd/tp-link-tapo-c232-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/tp-link-tapo-c232-wifi-camera
+**Price:** 2,700৳ 2,850৳
+
+---
+
+
+## Oraimo Watch 6 Lite  
+**DocID:** `startech_https://www.startech.com.bd/oraimo-watch-6-lite-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/oraimo-watch-6-lite-smart-watch
+**Price:** 2,210৳ 2,399৳
+
+---
+
+
+## Oraimo Watch 5N  
+**DocID:** `startech_https://www.startech.com.bd/oraimo-watch-5n`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/oraimo-watch-5n
+**Price:** 2,620৳ 2,799৳
 
 ---
 
