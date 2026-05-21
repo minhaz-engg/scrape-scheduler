@@ -9411,6 +9411,42 @@ Touch screen
 ---
 
 
+## Dell Inspiron 15 3520 Core i5 1235U 12th Gen 1.3 to 4.4GHz, 8GB , 512GB SSD, Win 11, 15.6" FHD Platinum Silver Laptop  
+**DocID:** `daraz_487259125`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 72,000
+
+---
+
+
+## HP 15 Intel Core i3 N305 8GB RAM 256GB SSD 15.6 Inch FHD Touch Cozy cashmere Laptop Model fd0230wm C68GJUA  
+**DocID:** `daraz_1577729882`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 53,500
+
+---
+
+
+## HP ELITEBOOK 830 G5 CORE I5 8TH GEN RAM-8GB, SSD-256GB Used By Japan  
+**DocID:** `daraz_1581722787`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 25,500
+
+---
+
+
+## Dell Latitude 5300 (2-in-1) Core i5-8365U 256/8 13.3" (1920x1080) X360 | G.Touch  
+**DocID:** `daraz_1579587748`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 33,350
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14564,6 +14600,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 198
+
+---
+
+
+## Best quality cotton pk polo shirt for men-Polo T shirt  
+**DocID:** `daraz_313383544`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 275
+
+---
+
+
+## short Sleeve Polo t shirts for men  
+**DocID:** `daraz_311419374`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
+
+---
+
+
+## Premium China Polo Shirt Triangle Pattern For Men- polo t-shirt  
+**DocID:** `daraz_409154993`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 399
 
 ---
 
@@ -20376,6 +20439,33 @@ Synthetic rubber sole
 ---
 
 
+## Low cut Lightweight Sports Shoes Men's Casual Shoes Korean Edition Trendy Shoes 2025 Summer Flying Weaving Mens Running Shoes  
+**DocID:** `daraz_546087512`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,749
+
+---
+
+
+## Step Out in Fashion with Black Grey Blue and Khaki Korean Canvas Sneakers Shoes for Men - Perfect for Every Season Casual Slip-On Comfort and Style  
+**DocID:** `daraz_329639421`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 445
+
+---
+
+
+## High Quality Men's Sneakers Mesh Casual Shoes Autumn 2024 New Breathable Men Shoes Tennis Male Flat Shoe Zapatillas Hombre  
+**DocID:** `daraz_547265482`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,265
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -24449,6 +24539,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 335
+
+---
+
+
+## Argentina World Cup Full Sleeve Football For Man - Long Sleeve t shirt - Argentina Jersey 2026/27  
+**DocID:** `daraz_272566823`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Brasil Away Jersey FIFA 2026  
+**DocID:** `daraz_1580797782`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 400
+
+---
+
+
+## Germany Home Short Sleeve World Cup Jersey 2026  Jersey  
+**DocID:** `daraz_184128431`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 403
 
 ---
 
@@ -29206,6 +29323,42 @@ Non-removable Li-Po Battery
 ---
 
 
+## OPPO A6c 4GB/64GB | 6.75" 120Hz Display | Official  
+**DocID:** `daraz_1581425767`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 15,280
+
+---
+
+
+## Google Pixel 7 Pro(12GB/128GB)  
+**DocID:** `daraz_1580426818`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 56,575
+
+---
+
+
+## Coolpad CP12  (4+128GB) Official  
+**DocID:** `daraz_1582125729`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 11,999
+
+---
+
+
+## Samsung a 224g  
+**DocID:** `daraz_331162285`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 180
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -29760,6 +29913,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 24,999
+
+---
+
+
+## TECNO Megapad SE 4/128 GB  
+**DocID:** `daraz_1583008431`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 20,999
 
 ---
 
@@ -35621,6 +35783,16 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/oraimo-watch-5n
 **Price:** 2,620৳ 2,799৳
+
+---
+
+
+## U6 8K Three Aerial Toy Drone  
+**DocID:** `startech_https://www.startech.com.bd/u6-toy-drone`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/u6-toy-drone
+**Price:** 8,500৳ 11,000৳
 
 ---
 
