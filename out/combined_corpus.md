@@ -9447,6 +9447,42 @@ Touch screen
 ---
 
 
+## HP 250 G8 (5C3R7PA) Intel Celeron N4020 1.1 to 2.8GHz, 8GB RAM, 512GB SSD, Win 11, 15.6 Inch FHD Dark Ash Silver Laptop  
+**DocID:** `daraz_527058516`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 41,299
+
+---
+
+
+## ASUS Vivobook 15 OLED M1505YA-L1098W Ryzen 7 7730U Laptop  
+**DocID:** `daraz_387532906`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 103,400
+
+---
+
+
+## Lenovo IdeaPad Slim 3 Core i5 13420H 16GB RAM 512GB SSD 15.3 Inch WUXGA Luna Grey Laptop Model 15IRH10 (83K100MLLK,83K100VEIN)  
+**DocID:** `daraz_1577515768`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 81,000
+
+---
+
+
+## MSI Modern 14 B11SB 11th Gen i7-1165G7 2.8 to 4.7GHz, 16GB, 512GB SSD, MX450 2GB Graphics, Win10H, 14 FHD Laptop (Blue Stone)  
+**DocID:** `daraz_232241548`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 104,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14627,6 +14663,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 399
+
+---
+
+
+## premium quality cotton polo t shirt for men- Polo Tshirt for men  
+**DocID:** `daraz_523013806`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 325
 
 ---
 
@@ -20466,6 +20511,78 @@ Synthetic rubber sole
 ---
 
 
+## SNEAKERS exclusive  colourful HIGH SOOL  WEIGHTLESS CLASSICAL MODEL  VANS SHOES FOR MEN.  
+**DocID:** `daraz_530364369`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 699
+
+---
+
+
+## China Exclusive Men Sneaker - Black  
+**DocID:** `daraz_360026078`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,715
+
+---
+
+
+## North Star PU Flat Casual Lifestyle Canvas Shoes - Black  
+**DocID:** `daraz_2191654`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 999
+
+---
+
+
+## Men's Explosive Street Eye Catching Design Board Shoes with Unique Color Matching Breathable Comfortable Anti Slip Walking Shoes  
+**DocID:** `daraz_546061355`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,484
+
+---
+
+
+## Running Sneakers Black and Red Color Casual Lace-Up Shoes Winter And Summer Men'S Shoes - - Shoe For Boys - Shoes For Men - Sneakers For Men - Shoe For Boys - Shoes For Men  
+**DocID:** `daraz_345331805`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,638
+
+---
+
+
+## POWER TIN Men's Sneakers  
+**DocID:** `daraz_1573430439`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,499
+
+---
+
+
+## Green Backless Sneaker For Men  
+**DocID:** `daraz_317207469`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,749
+
+---
+
+
+## Trendsetter -Black Grey Blue And Khaki Color Korean Canvas Sneakers Shoes For Men Slip On Casual Shoes - Shoe For Boys - White Shoes- Inventive Choice  
+**DocID:** `daraz_343986925`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 295
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -24566,6 +24683,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 403
+
+---
+
+
+## Germany World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Half Sleeve - Germany Jersey 2026  
+**DocID:** `daraz_327791495`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 352
+
+---
+
+
+## world cup Argentina away Jersey 2026 half sleeve Thai premium  
+**DocID:** `daraz_321092616`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 388
+
+---
+
+
+## Portugal world cup JERSEY 2026 THAI PREMIUM  
+**DocID:** `daraz_326835730`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 389
+
+---
+
+
+## Brazil World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve World Cup t shirt - Brazil Jersey 2026  
+**DocID:** `daraz_278589427`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 380
 
 ---
 
@@ -29359,6 +29512,42 @@ Non-removable Li-Po Battery
 ---
 
 
+## Vivo Y05 4GB/128GB | 6.74” 120Hz | 6500mAh Battery | Official  
+**DocID:** `daraz_1575886167`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 15,990
+
+---
+
+
+## Coolpad Cool 30 Play Smartphone (Black) – 6.79” HD+ Display, 16GB RAM (8+8), 256GB ROM, Helio G99, 64MP Camera, 5000mAh Battery  
+**DocID:** `daraz_574095828`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 17,990
+
+---
+
+
+## Xiaomi Redmi Note 15 Pro Plus 5G 8GB/256GB | Official  
+**DocID:** `daraz_1578547095`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 43,700
+
+---
+
+
+## vivo Y31d 6GB/128GB |  7200mAh Battery | Snapdragon Processor | Official  
+**DocID:** `daraz_1575882076`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 25,390
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -29922,6 +30111,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 20,999
+
+---
+
+
+## HONOR Pad X7 WIFI 4/128GB | 7020mAh Massive Battery | Snapdragon 8 Chip | Official  
+**DocID:** `daraz_1583281387`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 16,999
 
 ---
 
@@ -35793,6 +35991,46 @@ Non-removable Li-Po Battery
 **Category:** drone  
 **URL:** https://www.startech.com.bd/u6-toy-drone
 **Price:** 8,500৳ 11,000৳
+
+---
+
+
+## Acer Aspire 15 AS15-42 Ryzen 5 7430U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-15-as15-42-ryzen-5-7430u-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/acer-aspire-15-as15-42-ryzen-5-7430u-laptop
+**Price:** 66,500৳
+
+---
+
+
+## Mercusys MR20 AC750 Dual-Band WiFi Router  
+**DocID:** `startech_https://www.startech.com.bd/mercusys-mr20-dual-band-router`
+**Source:** StarTech  
+**Category:** router  
+**URL:** https://www.startech.com.bd/mercusys-mr20-dual-band-router
+**Price:** 1,449৳
+
+---
+
+
+## DJI Osmo Mobile 8P Creator Combo  
+**DocID:** `startech_https://www.startech.com.bd/dji-osmo-mobile-8p-creator-combo`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/dji-osmo-mobile-8p-creator-combo
+**Price:** 21,400৳ 23,000৳
+
+---
+
+
+## Haier H32S80GFX 32" QLED FHD Android Google TV  
+**DocID:** `startech_https://www.startech.com.bd/haier-h32s80gfx-32-google-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/haier-h32s80gfx-32-google-tv
+**Price:** 25,000৳ 30,900৳
 
 ---
 
