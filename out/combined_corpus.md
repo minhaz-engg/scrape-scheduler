@@ -9501,6 +9501,69 @@ Touch screen
 ---
 
 
+## Dell Latitude 7320 (2-in-1) Detachable (Titan Gray) Core i7-1180G7 512/16 13" (1920x1280) G.Touch With Detachable Keyboard & Stylus  
+**DocID:** `daraz_1579761740`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,035
+
+---
+
+
+## Dell XPS 13 9380 - (Silver) Core i5-8265U 256/8 13.3 (1920x1080)  
+**DocID:** `daraz_1579972291`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 42,550
+
+---
+
+
+## Lenovo Yoga 7 (2-in-1) 16IRL8 - (Storm Gray) Core i7-1355U 512/16 16" (1920x1200) X360 | G.Touch  
+**DocID:** `daraz_1580167471`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 108,675
+
+---
+
+
+## HP 14-ep0161TU Intel i5 13th Gen 1335U 1.3 to 4.6 GHz, 8GB, 512GB SSD, Win11 Laptop  
+**DocID:** `daraz_349150093`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 86,299
+
+---
+
+
+## ASUS Vivobook 15 (M1502IA-EJ388W) AMD Ryzen 5-4600H 8GB RAM 512GB SSD 15.6 Inch FHD Laptop  
+**DocID:** `daraz_347759588`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 81,000
+
+---
+
+
+## HP Elite X2 G8 Tablet - (Silver) Core i5-1145G7 256/16 13" (1920x1280) G.Touch With Detachable Keyboard  
+**DocID:** `daraz_1579972357`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 63,250
+
+---
+
+
+## HP EliteBook 840 G5, Intel Core i5 8th Gen  
+**DocID:** `daraz_1582943944`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 29,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14771,6 +14834,42 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 245
+
+---
+
+
+## Premium Quality polo Shirt for mens  
+**DocID:** `daraz_1577963036`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 269
+
+---
+
+
+## Men's Embroidered Casual Fashion Short Sleeved POLO Shirt Summer Comfortable Top  
+**DocID:** `daraz_547241803`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,373
+
+---
+
+
+## Fabrilife ফ্যাব্রিলাইফ সিঙ্গেল জার্সি বোনা সুতি পোলো নেভি  
+**DocID:** `daraz_229159020`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 980
+
+---
+
+
+## Long Sleeve Band Coller Polo Shirt - Polo T Shirt  
+**DocID:** `daraz_183613001`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 240
 
 ---
 
@@ -20916,6 +21015,60 @@ Synthetic rubber sole
 ---
 
 
+## Simple Nen's Casual shoes, With Comfortable and Breathable design, Air-cushioned sole, Suitable for Outdoor Cycling and Golfing.  
+**DocID:** `daraz_546094738`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 3,122
+
+---
+
+
+## Trending White Converse For Men and Women - Shoes For Men  
+**DocID:** `daraz_221267142`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,600
+
+---
+
+
+## Exclusive Sports White Sneakers For Men Lace-up Winter and Summer Men's Shoes - Sneakers  
+**DocID:** `daraz_274055195`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 800
+
+---
+
+
+## Trendy Casual Sports Sneakers for Men  
+**DocID:** `daraz_203428013`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 750
+
+---
+
+
+## Panda Women Casual Sneaker | White Pink  
+**DocID:** `daraz_562240516`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,750
+
+---
+
+
+## Vens Old school Grey & jet best casual sneaker ever  
+**DocID:** `daraz_112076880`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 990
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -25079,6 +25232,78 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 133
+
+---
+
+
+## Brazil World Cup Jersey - Short Sleeve Football Jersey For Men - Half Sleeve - Brazil Jersey 2026  
+**DocID:** `daraz_567596713`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Brazil away World Cup Half Sleeve Premium Football Jersey 2026 (Logo Embroidery)  
+**DocID:** `daraz_1578270034`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 380
+
+---
+
+
+## 100% Imported  Germany 2026 World Cup Home Jersey Player Edition  
+**DocID:** `daraz_1582628658`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 953
+
+---
+
+
+## Inter Miami Football Jersey For Men - Half Sleeve Collar Polo Club Jersey - Inter Miami Jersey 2026  
+**DocID:** `daraz_316789413`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 309
+
+---
+
+
+## Al-Nassr Jersey 2026/2027 Thai Premium Football Jersey For Men - Half Sleeve - Al Nassr Jersey 2026  
+**DocID:** `daraz_324991825`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 360
+
+---
+
+
+## Palmeiras Jersey 2026/27  Short Sleeve Football Jersey For Man - Half Sleeve Jersey - Palmeiras Football Jersey 2026/27  
+**DocID:** `daraz_531172132`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Argentina World Cup Jersey 2026 Thai Premium  
+**DocID:** `daraz_1581586975`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 690
+
+---
+
+
+## Argentina Full Sleeve Training For Men - Argentina Training Jersey - Argentina Jersey  
+**DocID:** `daraz_483201995`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 280
 
 ---
 
@@ -29922,6 +30147,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 72,081
+
+---
+
+
+## OPPO A6c 4GB/64GB - Official  
+**DocID:** `daraz_1581828960`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 16,949
+
+---
+
+
+## iPhone 17 Pro 256GB | 512GB | 1TB (Physical Sim + e-Sim)  
+**DocID:** `daraz_556448096`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 189,990
 
 ---
 
