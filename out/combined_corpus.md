@@ -9564,6 +9564,42 @@ Touch screen
 ---
 
 
+## Lenovo Thinkpad L14 - Gen 1 Core i5-10310U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1574326895`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 33,350
+
+---
+
+
+## HP EliteBook 840 G4 Core i5 7th Gen  SSD-256GB RAM-8GB 14" HD (1366x768)  
+**DocID:** `daraz_1582704105`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 29,500
+
+---
+
+
+## HP ProBook 440 G10 (843X9PA) Intel 13th Gen i5-1335U 1.30 to 4.60GHz, 8GB, 512GB SSD, 14 Inch FHD Laptop  
+**DocID:** `daraz_438459880`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 102,200
+
+---
+
+
+## Lenovo V15 Core i5 13420H 8GB RAM 512 GB SSD 15.6 Inch FHD Business Black Laptop Model G4 IRU 83A100SUUE  
+**DocID:** `daraz_1577928307`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 79,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14870,6 +14906,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 240
+
+---
+
+
+## Summer New Men's Lop-up Hollow Short-sleeved Polo Tee Shirt Ice Silk Breathable Business Fashion T-Shirt Male Brand Clothes  
+**DocID:** `daraz_546039777`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,318
 
 ---
 
@@ -21069,6 +21114,51 @@ Synthetic rubber sole
 ---
 
 
+## Versatile and stylish collection of exclusive winter and summer sneakers for men, including Converse shoes - avant-garde fashion  
+**DocID:** `daraz_520284677`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## Men's Lightweight Breathable Mesh Training Running Shoes - Non-Slip, Casual Athletic Sneakers for Outdoor Sports & Jogging  
+**DocID:** `daraz_568007340`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,697
+
+---
+
+
+## Sneakers Men Orthopedics Wide Feet Swollen Walking Casual Shoes Thumb Eversion Adjusting Soft Comfortable Light Man Shoes Black  
+**DocID:** `daraz_547214596`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,821
+
+---
+
+
+## YRZL Mens Lightweight Sneakers Breathable Comfortable Men Running Shoes New Non-Slip Durable Soft Casual Outdoor Sports Shoes  
+**DocID:** `daraz_546975770`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,355
+
+---
+
+
+## New Style Men's Casual Leather Shoes, Trendy, Breathable, Versatile, Sports White Sneakers, Leather Trendy Shoes  
+**DocID:** `daraz_564619673`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,505
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -25304,6 +25394,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 280
+
+---
+
+
+## Brazil World Cup Jersey - Full Sleeve Thai Premium Football Jersey For Men - Long Sleeve  - Brazil Jersey  2026/2027  
+**DocID:** `daraz_269702246`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 380
+
+---
+
+
+## BRASIL FOOTBALL TEAM  JERSEY ( PLAYER’S EDITION)  PREMIUM THAI FABRIC QUALITY  
+**DocID:** `daraz_382661075`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 426
+
+---
+
+
+## France Full Sleeve Jersey 2026/27 Football Jersey For Man - Long Sleeve Jersey - France Jersey 2026  
+**DocID:** `daraz_278098122`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
 
 ---
 
@@ -30165,6 +30282,132 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 189,990
+
+---
+
+
+## iPhone 17 256GB | 512GB (Physical Sim only)  
+**DocID:** `daraz_553754475`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 139,999
+
+---
+
+
+## Infinix Note 60 8/256GB – 6500mAh Massive Battery + 45W Ultra-Fast Charging | AMOLED Display | MediaTek Dimensity 7400 Ultimate Chipset | Official Warranty  
+**DocID:** `daraz_1578021733`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 40,955
+
+---
+
+
+## OPPO Reno14 5G 12GB/256GB | Official  
+**DocID:** `daraz_1578506785`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 52,990
+
+---
+
+
+## Vivo Y31d 8GB/256GB |  7200mAh Battery | Snapdragon Processor | Official  
+**DocID:** `daraz_1575880337`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 30,990
+
+---
+
+
+## Realme 14T 5G (8GB/256GB) - Official  
+**DocID:** `daraz_564462769`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 31,899
+
+---
+
+
+## Google Pixel 8 Pro - 12GB RAM - 128GB ROM - [Porcelain/Obsidian] - 6.7" Super Actua Display - 50MP Triple AI Camera - Google Tensor G3 - 5G - Official Warranty  
+**DocID:** `daraz_1581407509`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 79,998
+
+---
+
+
+## Coolpad Cool C15 Smartphone (Black) – 6.56” HD+ 90Hz Display, 12GB RAM (6+6), 256GB ROM, Helio G36, 50MP Dual Camera, 5000mAh Battery  
+**DocID:** `daraz_574291042`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 15,990
+
+---
+
+
+## Google Pixel 9 (12GB/128GB)  
+**DocID:** `daraz_1580442517`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 89,999
+
+---
+
+
+## Google Pixel 9 Pro XL (16GB RAM, 128GB ROM) - Obsidian - 6.8" Super Actua Display - 5G Android Smartphone (Official Warranty)  
+**DocID:** `daraz_1581389904`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 112,499
+
+---
+
+
+## Google Pixel 9A 5G 8GB/128GB  
+**DocID:** `daraz_1580442491`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 69,990
+
+---
+
+
+## Google Pixel 9 Pro XL (16GB/128GB)  
+**DocID:** `daraz_1580428904`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 124,999
+
+---
+
+
+## Coolpad Cool 30i Smartphone – 6.56” HD+ Display, 12GB RAM (6+6), 256GB ROM, Helio MTK G37 Octa - Core processor, 50MP Camera, 5000mAh Battery  
+**DocID:** `daraz_1582072082`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,990
+
+---
+
+
+## Coolpad Cool 30 Play Smartphone – 6.79” HD+ Display, 16GB RAM (8+8), 256GB ROM, Helio G99, 64MP Camera, 5000mAh Battery  
+**DocID:** `daraz_1578394373`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 17,990
+
+---
+
+
+## Samsung Galaxy A36 5G 8/128GB|6.6" FHD+ AMOLED 120Hz  
+**DocID:** `daraz_563978035`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 45,257
 
 ---
 
