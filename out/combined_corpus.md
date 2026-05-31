@@ -9600,6 +9600,33 @@ Touch screen
 ---
 
 
+## HP ProBook 445 G8 Ryzen 5-5600U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1582641828`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 40,800
+
+---
+
+
+## Apple MacBook Neo 13-inch with A18 Pro chip 256GB/8GB (Blush)  
+**DocID:** `daraz_1582520083`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 85,990
+
+---
+
+
+## Apple MacBook Neo 13-inch with A18 Pro chip 256GB/8GB (Silver)  
+**DocID:** `daraz_1582323042`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 84,990
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -10082,24 +10109,6 @@ Touch screen
 **Source:** Daraz  
 **Category:** macbooks
 **Price:** ৳ 83,499
-
----
-
-
-## Apple MacBook Neo 13-inch with A18 Pro chip 256GB/8GB (Blush)  
-**DocID:** `daraz_1582520083`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 85,990
-
----
-
-
-## Apple MacBook Neo 13-inch with A18 Pro chip 256GB/8GB (Silver)  
-**DocID:** `daraz_1582323042`
-**Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 84,990
 
 ---
 
@@ -14915,6 +14924,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 1,318
+
+---
+
+
+## Stylish Premium Quality Summer Polo Shirt for Men - Classic Design Suitable for All Seasons  
+**DocID:** `daraz_571768601`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 269
+
+---
+
+
+## New Fashionable cotton polo tshirt for men-  
+**DocID:** `daraz_306607904`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
 
 ---
 
@@ -21159,6 +21186,33 @@ Synthetic rubber sole
 ---
 
 
+## Fashionable Premium Quality Black And Blue Color Thailand Casual Canvas Sneakers Shoes For Men M8080  
+**DocID:** `daraz_453233084`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 363
+
+---
+
+
+## Casual Cool - Korean Canvas Slip-On Shoes in Black-Grey-Blue-Khaki | Boys' Collection  
+**DocID:** `daraz_297019805`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 410
+
+---
+
+
+## Black Grey Blue and Khaki Korean Canvas Sneakers Shoes for Men - Perfect for Every Season Effortless Casual Chic and Comfort  
+**DocID:** `daraz_320430772`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 485
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -25421,6 +25475,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 270
+
+---
+
+
+## Argentina Terrace Kit: Half Sleeve (Thai Premium)  
+**DocID:** `daraz_1581097512`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 580
+
+---
+
+
+## Argentina Terrace Kit: Half Sleeve (Thai Premium)  
+**DocID:** `daraz_1581081953`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 570
+
+---
+
+
+## Japan World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve World Cup t shirt - Japan Jersey 2026  
+**DocID:** `daraz_263128483`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 370
+
+---
+
+
+## Germany football jersey 2024 - Stylish Half Sleeve Jersey-Have for Supporters  
+**DocID:** `daraz_530456442`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 340
 
 ---
 
@@ -30408,6 +30498,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 45,257
+
+---
+
+
+## HTC Wildfire E7 Life(6/128GB)  
+**DocID:** `daraz_571768504`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 20,500
+
+---
+
+
+## OPPO Reno12 F 5G 12GB/256GB (Official)  
+**DocID:** `daraz_463724475`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 32,999
 
 ---
 
