@@ -9627,6 +9627,15 @@ Touch screen
 ---
 
 
+## Microsoft Surface Laptop 3 - 13.5" (Platinum) Core i5-1035G7 256/16 13.5" (2256x1504) G.Touch  
+**DocID:** `daraz_1573578168`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 48,300
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14942,6 +14951,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 299
+
+---
+
+
+## Blue Color Polo T-shirt For Men Best Comfortable and Premium T-shirt By Trendy & Elegance  
+**DocID:** `daraz_530544467`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 210
+
+---
+
+
+## GoodMan Premium Quality Anthra Melange Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_1580367427`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 590
+
+---
+
+
+## Men's Polo Shirt (Fashionable Polo For Men)  
+**DocID:** `daraz_223856674`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 599
 
 ---
 
@@ -21213,6 +21249,33 @@ Synthetic rubber sole
 ---
 
 
+## Sneakers high neck boot shoes with lace up version and artificial leather.  
+**DocID:** `daraz_168752344`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 630
+
+---
+
+
+## Trendy Sneakers Shoes For Men With Rubber Sool And Lace Up Design. - Sneakers -  -  - Shoe For Boys - Shoes For Men -  - Sneakers For Men - Shoe For Boys - Shoes For Men -  - Shoe For Boys - Sneakers  
+**DocID:** `daraz_264423995`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 599
+
+---
+
+
+## Mens smart shoes  
+**DocID:** `daraz_293986349`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,990
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -25511,6 +25574,15 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 340
+
+---
+
+
+## ARGENTINA FOOTBALL TEAM  JERSEY ( PLAYER’S EDITION)  PREMIUM THAI FABRIC QUALITY  
+**DocID:** `daraz_382632353`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 499
 
 ---
 
@@ -30516,6 +30588,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 32,999
+
+---
+
+
+## Moto Edge 70 Fusion 8/128 & 256GB India  
+**DocID:** `daraz_1577694884`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 43,599
+
+---
+
+
+## Xiaomi 17 Ultra 16/512 Int  
+**DocID:** `daraz_1578928863`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 179,999
 
 ---
 
