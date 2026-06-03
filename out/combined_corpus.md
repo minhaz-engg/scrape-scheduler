@@ -9636,6 +9636,51 @@ Touch screen
 ---
 
 
+## Asus VivoBook Go 15 OLED E1504FA (L1245W) Ryzen 3-7320U 2.4 to 4.1 GHz, 8GB, 512 SSD, Win 11, 15.6 Inch Laptop  
+**DocID:** `daraz_505566523`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 69,500
+
+---
+
+
+## Asus Vivobook Go 15 E1504TA (BQ211W) Intel 12th Gen Core N150 3.60GHz, 8GB RAM, 512GB SSD, Win-11, 15.6-Inch  FHD Laptop  
+**DocID:** `daraz_1580614392`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 65,550
+
+---
+
+
+## MSI Modern 15 F13MG Intel Core i3-1315U 3.3GHz to 4.5GHz, 8GB 3200MHz, 512GB Gen4 NVMe SSD, 15.6 Inch FHD IPS Laptop  
+**DocID:** `daraz_526543893`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 60,900
+
+---
+
+
+## HP ProBook 4 G1a 14 - (Pike Silver) Ryzen 5 230 512/16 14" (1920x1200) With NPU  
+**DocID:** `daraz_1579839346`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 72,450
+
+---
+
+
+## HP Envy X360 14-fa0000AU - (Meteor Silver) Ryzen 5-8640HS 512/16 14" (1920x1200) X360 | G.Touch With NPU  
+**DocID:** `daraz_1579787240`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 96,600
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -14978,6 +15023,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 599
+
+---
+
+
+## Gent'S Pure Cotton Slate Gray, Half-Sleeve Pique Polo Shirt. - Polo T Shirt For Men - Polo T Shirt  
+**DocID:** `daraz_183438500`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 270
 
 ---
 
@@ -21276,6 +21330,33 @@ Synthetic rubber sole
 ---
 
 
+## Trendy Shoes For Man With High Quality Fabrics And Breathable Outdoor Sport Sneakers Mesh Men Shoes  
+**DocID:** `daraz_572375809`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 370
+
+---
+
+
+## White And Green Color PREMIUM Quality High-Top Sneakers Canvas Shoes For Men  
+**DocID:** `daraz_324692449`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 429
+
+---
+
+
+## FASHION 2024 Black Blue Grey And Cream Color Casual Canvas Sneakers Shoes For Men New Trendy And Lightweight Casual Loafer Shoes For Man  
+**DocID:** `daraz_546767724`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 529
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -25583,6 +25664,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 499
+
+---
+
+
+## Brazil  World Cup Half Sleeve Premium Mesh Football Jersey 2026  
+**DocID:** `daraz_268150015`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 398
+
+---
+
+
+## Brazil 2026 world cup Home Jersey (Logo Embroidery) Thai premium National Team Football Jersey  
+**DocID:** `daraz_569692232`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 610
+
+---
+
+
+## ARGENTINA FOOTBALL TEAM  JERSEY  ( PLAYER’S EDITION)  PREMIUM THAI FABRIC QUALITY  
+**DocID:** `daraz_382648391`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 499
+
+---
+
+
+## Argentina jersey 2026 world cup  
+**DocID:** `daraz_148762781`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 550
 
 ---
 
@@ -30606,6 +30723,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 179,999
+
+---
+
+
+## Apple iPhone 17 256GB || Official  
+**DocID:** `daraz_562282998`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 179,999
+
+---
+
+
+## Nothing Phone 4A Pro 8/128 & 256GB India  
+**DocID:** `daraz_1578135815`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 63,999
 
 ---
 
@@ -37163,6 +37298,26 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/unikyy-q1-smart-watch
 **Price:** 3,300৳ 3,599৳
+
+---
+
+
+## Acer Aspire 3 A325-53 Core i5 13th Gen 15.6" FHD Silver Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-3-a325-53-core-i5-1334u-silver-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/acer-aspire-3-a325-53-core-i5-1334u-silver-laptop
+**Price:** 68,000৳
+
+---
+
+
+## Haier H43S80GUX 43" QLED 4K UHD Google TV  
+**DocID:** `startech_https://www.startech.com.bd/haier-h43s80gux-43-inch-4k-google-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/haier-h43s80gux-43-inch-4k-google-tv
+**Price:** 39,000৳ 50,900৳
 
 ---
 
