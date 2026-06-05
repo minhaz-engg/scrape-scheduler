@@ -9681,6 +9681,24 @@ Touch screen
 ---
 
 
+## Walton Tamarind EX511G Pro 11th Gen Intel Core i5-1135G7 2.4GHz to 4.2GHz, 8GB RAM, 512GB SSD, 14 Inch FHD IPS Laptop  
+**DocID:** `daraz_569221266`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 64,500
+
+---
+
+
+## HP ProBook 450 G6 Core i5 8th Gen 256GB SSD Laptop  
+**DocID:** `daraz_1583255605`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 36,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -15032,6 +15050,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 270
+
+---
+
+
+## RL Single Big Pony Mesh Short-Sleeve Polo Shirt - Black  
+**DocID:** `daraz_526618758`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 850
 
 ---
 
@@ -21357,6 +21384,78 @@ Synthetic rubber sole
 ---
 
 
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_567034903`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
+## Running Sneakers Black Color Casual Lace-Up Shoes Winter And Summer Men'S Shoes - Shoe For Boys - Shoes For Men - Sneakers For Men - Shoe For Boys  
+**DocID:** `daraz_388042628`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 385
+
+---
+
+
+## Sneakers shoes for men with trendy design rubber sool sneakers shoes exclusive design leather shoes and lace up design white shoe's.  
+**DocID:** `daraz_348744884`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 388
+
+---
+
+
+## New Trendy Black Blue And Grey Color EXPRESS Casual Canvas Sneakers Shoes For Men New Collection And Breathable Shoes For Man  
+**DocID:** `daraz_431144858`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 585
+
+---
+
+
+## School shoes for boys with soft rubber sool and white  
+**DocID:** `daraz_315462808`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 599
+
+---
+
+
+## New Collection Better Choice Stylish and Fashionable Exclusive Sneakers Converse for Men  
+**DocID:** `daraz_348876959`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 695
+
+---
+
+
+## Sneakers for man light weight high neck boot shoes  lace up shoes - Sneakers - Shoes For Men -  - জুতা ছেলেদের - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Shoe For Boys - Shoe For Boys  
+**DocID:** `daraz_182467946`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 630
+
+---
+
+
+## Sneakers Vans Model Lace White Rubber Sole High-Top Shoes For Men - Shoe For Boys  
+**DocID:** `daraz_265831313`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 333
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -25700,6 +25799,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 550
+
+---
+
+
+## Germany World Cup Half Sleeve Premium Football Jersey 2026  
+**DocID:** `daraz_184676800`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 399
+
+---
+
+
+## Argentina Football Jersey 2026 Away – Fan Edition Premium Thai Fabric Breathable Sports T-Shirt for Men (Thai Quality)  
+**DocID:** `daraz_1581526138`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 599
+
+---
+
+
+## Netherland Short Sleeve Football Jersey For Man - Half Sleeve Euro Jersey - Netherlands Jersey 2026  
+**DocID:** `daraz_261880118`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 259
+
+---
+
+
+## new Spain Away Authentic Jersey World Cup Football 2026  
+**DocID:** `daraz_263503363`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 399
 
 ---
 
@@ -30741,6 +30876,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 63,999
+
+---
+
+
+## Xiaomi 14T Global  
+**DocID:** `daraz_538146600`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 58,499
 
 ---
 
@@ -37318,6 +37462,36 @@ Non-removable Li-Po Battery
 **Category:** television-startech  
 **URL:** https://www.startech.com.bd/haier-h43s80gux-43-inch-4k-google-tv
 **Price:** 39,000৳ 50,900৳
+
+---
+
+
+## HP 15-fc0660au Ryzen 5 7520U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fc0660au-fhd-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fc0660au-fhd-laptop
+**Price:** 77,500৳ 80,000৳
+
+---
+
+
+## Acer Aspire Lite AL15-53 Core i5 1334U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/acer-aspire-lite-al15-53-core-i5-1334u-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/acer-aspire-lite-al15-53-core-i5-1334u-laptop
+**Price:** 69,000৳
+
+---
+
+
+## Riversong Motive 7C Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/riversong-motive-7c-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/riversong-motive-7c-smart-watch
+**Price:** 1,750৳ 1,899৳
 
 ---
 
