@@ -9699,6 +9699,15 @@ Touch screen
 ---
 
 
+## Lenovo IP Slim 3i (81WE01P2IN) 10th Gen i3-1005G1 1.2 to 3.4GHz, 4GB, 256GB SSD, Win11, 15.6 FHD Laptop  
+**DocID:** `daraz_240848043`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 50,500
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -15059,6 +15068,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 850
+
+---
+
+
+## Combo Pack of 4 Classic Fit Performance  Polo T-Shirt .  
+**DocID:** `daraz_135860161`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 799
 
 ---
 
@@ -21456,6 +21474,24 @@ Synthetic rubber sole
 ---
 
 
+## Men's Barefoot Shoes Fashion Casual Sneakers Light Comfort Sports Running Shoes for Men Breathable Mesh Shoes  
+**DocID:** `daraz_549123390`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 580
+
+---
+
+
+## Stylish and Fashionable Winter and Summer White Exclusive Sneakers Converse Shoes for Men - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Sneakers For Men - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Shoe For Boys  
+**DocID:** `daraz_212213354`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 398
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -25835,6 +25871,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 399
+
+---
+
+
+## Polyester Short Sleeve Home Jersey Brazil- 2026 World Cup.  
+**DocID:** `daraz_1583590736`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 145
+
+---
+
+
+## Portugal Short Sleeve Jersey 2026/27 Football Jersey For Men - Half Sleeve - Portugal Jersey 2026  
+**DocID:** `daraz_363788815`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 247
+
+---
+
+
+## France 2026 World Cup Jersey Premium Quality France World Cup Jersey France Football Thai Premium Jersey France Fifa World Cup Jersey France New Jersey  
+**DocID:** `daraz_1577945790`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 495
 
 ---
 
@@ -30885,6 +30948,42 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 58,499
+
+---
+
+
+## Redmi Note 15 Pro 5G 8/256 Global  
+**DocID:** `daraz_1573895027`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 37,499
+
+---
+
+
+## Redmi Note 15 Pro Plus 12/256 India  
+**DocID:** `daraz_1578605367`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 49,999
+
+---
+
+
+## Honor 600 12/256 int  
+**DocID:** `daraz_1583546778`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 59,999
+
+---
+
+
+## MOTOROLA G67 POWER ( 8- 128 ) IND  
+**DocID:** `daraz_574995044`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 27,699
 
 ---
 
@@ -37492,6 +37591,26 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/riversong-motive-7c-smart-watch
 **Price:** 1,750৳ 1,899৳
+
+---
+
+
+## HP 15-fd0180TU Intel Core i3 13th Gen 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fd0180tu-core-i3-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fd0180tu-core-i3-laptop
+**Price:** 70,500৳
+
+---
+
+
+## Samsung 43U8000F 43" 4K UHD LED Smart TV  
+**DocID:** `startech_https://www.startech.com.bd/samsung-43u8000f-43-inch-smart-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/samsung-43u8000f-43-inch-smart-tv
+**Price:** 42,000৳ 51,900৳
 
 ---
 
