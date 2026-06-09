@@ -9708,6 +9708,42 @@ Touch screen
 ---
 
 
+## HP 250 G9 Intel Core i5-1235U 12th Gen up to 4.4 GHz, 8GB RAM, 512GB SSD, Windows 10, 15.6 Inch IPS FHD Laptop  
+**DocID:** `daraz_323095145`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,600
+
+---
+
+
+## Lenovo Thinkpad X1 Carbon - Gen 9 Core i7-1185G7 512/32 14" (1920x1200) Touch  
+**DocID:** `daraz_1574431007`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 72,450
+
+---
+
+
+## ASUS Vivobook 16 X1605VA-MB871W Core-i3 13th Gen 8GB RAM 512GB SSD 16" WUXGA Laptop  
+**DocID:** `daraz_388938709`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 70,464
+
+---
+
+
+## HP EliteBook 840 G2 Core i5-5300U 500/4 14" (1366x768) Radeon R7 M260X - 1GB  
+**DocID:** `daraz_1582372287`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 24,999
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -15077,6 +15113,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 799
+
+---
+
+
+## Green Cotton Polo For Men - Polo T Shirt For Men  
+**DocID:** `daraz_106036617`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 438
+
+---
+
+
+## Fabrilife Single Knitted Cotton Polo Chocolate  
+**DocID:** `daraz_229125218`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 750
+
+---
+
+
+## QUIZ Clothing Mens Regular Fit Polo Shirts-White  
+**DocID:** `daraz_302951468`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 160
 
 ---
 
@@ -21492,6 +21555,24 @@ Synthetic rubber sole
 ---
 
 
+## New Collection SPANISH Casual Sneakers Canvas Shoes For Men - Low Top Type - Comfortable And Lightweight Shoe For Walking M18 - Ideal for All Seasons  
+**DocID:** `daraz_323507046`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 439
+
+---
+
+
+## Black And Blue Color Winter Canvas Sneakers For Men M002 - Shoes For Men - Shoe For Boys - White Shoes  
+**DocID:** `daraz_334189206`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 390
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -25898,6 +25979,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 495
+
+---
+
+
+## Argentina Full Sleeve Jersey 2026/27 Football Jersey For Men - Long Sleeve t shirt - Argentina Jersey 2026  
+**DocID:** `daraz_270352682`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Morocco Short Sleeve Polo Football Jersey For Men - Morocco Football Jersey 2026-27  
+**DocID:** `daraz_313668973`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## BRAZIL AWAY KIT 2026 WORLD CUP  
+**DocID:** `daraz_1582824022`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 599
+
+---
+
+
+## Portugal Black Panther Jersey 2026 (Embroidery Logo) Portugal New Jersey 2026 Portugal Thai Premium Jersey  
+**DocID:** `daraz_1572956951`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 760
 
 ---
 
@@ -30984,6 +31101,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 27,699
+
+---
+
+
+## Honor X8D 8/256 Int  
+**DocID:** `daraz_1579124228`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 31,799
 
 ---
 
@@ -37611,6 +37737,26 @@ Non-removable Li-Po Battery
 **Category:** television-startech  
 **URL:** https://www.startech.com.bd/samsung-43u8000f-43-inch-smart-tv
 **Price:** 42,000৳ 51,900৳
+
+---
+
+
+## AMD RYZEN 5 3500 Processor  
+**DocID:** `startech_https://www.startech.com.bd/amd-ryzen-5-3500-pocessor`
+**Source:** StarTech  
+**Category:** processor  
+**URL:** https://www.startech.com.bd/amd-ryzen-5-3500-pocessor
+**Price:** 8,650৳
+
+---
+
+
+## SINGER Primax S43-SLE43GU5000TV 43" 4K Android Google TV  
+**DocID:** `startech_https://www.startech.com.bd/singer-primax-s43-sle43gu5000tv-4k-android-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/singer-primax-s43-sle43gu5000tv-4k-android-tv
+**Price:** 48,800৳ 55,990৳
 
 ---
 
