@@ -9744,6 +9744,24 @@ Touch screen
 ---
 
 
+## HP EliteBook 840 G3 Core i5-6200U 256/8 14" (1920x1080)  
+**DocID:** `daraz_1573994497`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 26,500
+
+---
+
+
+## Lenovo ThinkPad X1 Carbon - Gen 8 Core i5-10310U 512/8 14" (1920x1080)  
+**DocID:** `daraz_1582926255`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 49,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -15140,6 +15158,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 160
+
+---
+
+
+## Royal blue Cotton Polo For Men  
+**DocID:** `daraz_100693028`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 403
+
+---
+
+
+## styllish quality cotton polo tshirt for men-polo shirt  
+**DocID:** `daraz_367497626`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
 
 ---
 
@@ -21573,6 +21609,15 @@ Synthetic rubber sole
 ---
 
 
+## Trendy Men's Casual Sneakers - Comfortable Medium Tops with Genuine Leather - Soft & Breathable Canvas  
+**DocID:** `daraz_295607419`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 429
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -26015,6 +26060,87 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 760
+
+---
+
+
+## Argentina Jersey - Player Edition Jersey - Argentine Football Association AFC - Home/Away Kit - Special Fans Version Jersey Club Jersey 2024?25 - Thai Fabrics - Short Sleeve - New Football Jersey - Copa America Jersey 2024 Design - Premium  
+**DocID:** `daraz_406896541`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 344
+
+---
+
+
+## Brazil Jersey 2025/26 Short Sleeve Polo Football Jersey For Men - Half Sleeve Polo - Brazil Jersey 2026/27  
+**DocID:** `daraz_453757147`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 290
+
+---
+
+
+## Argentina Short Sleeve Polo Jersey-2026-2027  
+**DocID:** `daraz_469940972`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 329
+
+---
+
+
+## Argentina World Cup Jersey 2026 Thai Premium Football Jersey For Men - Messi 10 Half Sleeve Jersey - Messi 10 Jersey 2026  
+**DocID:** `daraz_483231889`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 409
+
+---
+
+
+## Brazil Full Sleeve World Cup Footbaall Jersey For Man - Long Sleeve t shirt - Brazil Jersey 2026  
+**DocID:** `daraz_567676710`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Argentina 2026 World Cup Away Jersey Premium Quality Argentina Away Jersey 2026 Argentina World Cup Jersey Argentina Fifa World Cup Jersey Argentina Football Jersey Argentina Thai Premium Jersey  
+**DocID:** `daraz_1578072603`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 790
+
+---
+
+
+## Kolkata Knight Riders Jersey 2026/27 Premium IPL Cricket Jersey For Men - KKR Half Sleeve Polo - Kalkata Jersey 2026  
+**DocID:** `daraz_351912216`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 380
+
+---
+
+
+## France World Cup Official Home Kit/Jersey 2026- Premium Quality Half Sleeve Football Jersey  
+**DocID:** `daraz_278998856`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 498
+
+---
+
+
+## Japan x Naruto Itachi Uchiha Special Edition Premium Football Jersey - Black & Red  
+**DocID:** `daraz_1581630753`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 399
 
 ---
 
@@ -31110,6 +31236,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 31,799
+
+---
+
+
+## Samsung Galaxy S26 Ultra 5g (12+256GB) Unofficial  
+**DocID:** `daraz_1581423786`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 144,999
+
+---
+
+
+## Samsung Galaxy S26 Ultra 12/256 & 512GB Official  
+**DocID:** `daraz_1577798860`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 179,999
+
+---
+
+
+## Honor Win RT 12/256 CN  
+**DocID:** `daraz_1574197092`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 65,499
+
+---
+
+
+## Oppo RENO 15 ( 8-256 ) IND  
+**DocID:** `daraz_574649266`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 52,999
+
+---
+
+
+## Moto Edge 70 8/256 India  
+**DocID:** `daraz_1577722549`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 42,499
 
 ---
 
