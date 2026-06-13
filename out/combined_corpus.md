@@ -9762,11 +9762,29 @@ Touch screen
 ---
 
 
-## Mackbook AIR M1  13'' 8/256  
-**DocID:** `daraz_478722990`
+## Lenovo IdeaPad Slim 3 15ABR8 (82XM007ULK) Ryzen 7 7730U 2 to 4.5GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_523487811`
 **Source:** Daraz  
-**Category:** macbooks
-**Price:** ৳ 92,299
+**Category:** laptops
+**Price:** ৳ 72,300
+
+---
+
+
+## Lenovo IdeaPad Slim 3i (83EM007FLK) 13th Gen Core-i5 Laptop -  8GB LPDDR5 RAM -   512GB M.2 PCIe 4.0x4 NVMe SSD -  Integrated Intel UHD Graphics -  15.6-inch Full HD (1920x1080) Display -  FHD 1080p webcam with Privacy Shutter  
+**DocID:** `daraz_363804527`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 92,670
+
+---
+
+
+## Lenovo IdeaPad Slim 3i 15IAU7 (82RK0123IN) 12th Gen i3-1215U 3.3 to 4.44GHz, 8GB DDR4, 512GB M.2 NVMe SSD, 15.6Inch Full HD Laptop  
+**DocID:** `daraz_442876598`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 57,400
 
 ---
 
@@ -9774,8 +9792,17 @@ Touch screen
 ## Apple MacBook Pro MTL73 M3 Chip 2.75 to 4.05GHz, 8GB RAM, 512GB SSD, 14.2 Inch Liquid Retina XDR Laptop (Late 2023)  
 **DocID:** `daraz_352666243`
 **Source:** Daraz  
-**Category:** macbooks
+**Category:** laptops
 **Price:** ৳ 297,000
+
+---
+
+
+## Mackbook AIR M1  13'' 8/256  
+**DocID:** `daraz_478722990`
+**Source:** Daraz  
+**Category:** macbooks
+**Price:** ৳ 92,299
 
 ---
 
@@ -15176,6 +15203,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 299
+
+---
+
+
+## Premium Quality Jeeper Polo shirt for mens  
+**DocID:** `daraz_1577963176`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 249
+
+---
+
+
+## Purple Cotton Polo For Men  
+**DocID:** `daraz_125441106`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 345
 
 ---
 
@@ -21618,6 +21663,33 @@ Synthetic rubber sole
 ---
 
 
+## Fashion Shoes For Men Casual Shoes Comfortable  
+**DocID:** `daraz_323027626`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 570
+
+---
+
+
+## FARUK'S Stylish Ash Color Winter Canvas Sneakers for Men  
+**DocID:** `daraz_307244354`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 401
+
+---
+
+
+## Men's Sneakers Converse Running  Casual Lace-up Shoes Winter and Summer Men's Shoes  
+**DocID:** `daraz_318632207`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 588
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -26141,6 +26213,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 399
+
+---
+
+
+## world cup Argentina away Jersey 2026 half sleeve Thai premium  
+**DocID:** `daraz_1581449141`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 450
+
+---
+
+
+## 100% Imported  Spain 2026 World Cup Away Jersey Player Edition  
+**DocID:** `daraz_1581449229`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 1,334
+
+---
+
+
+## Polyester Short Sleeve Home Jersey Brazil- 2026 World Cup.  
+**DocID:** `daraz_1583512040`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 149
+
+---
+
+
+## 100% Imported  Argentina 2026 World Cup Home Jersey Player Edition  
+**DocID:** `daraz_1582650169`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 1,334
 
 ---
 
@@ -31281,6 +31389,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 42,499
+
+---
+
+
+## Vivo Y31d (6+128GB) Official  
+**DocID:** `daraz_1582640089`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 27,899
 
 ---
 
@@ -37928,6 +38045,46 @@ Non-removable Li-Po Battery
 **Category:** television-startech  
 **URL:** https://www.startech.com.bd/singer-primax-s43-sle43gu5000tv-4k-android-tv
 **Price:** 48,800৳ 55,990৳
+
+---
+
+
+## Gigabyte Z890 AORUS ELITE WIFI7 ICE LGA 1851 ATX Motherboard  
+**DocID:** `startech_https://www.startech.com.bd/gigabyte-z890-aorus-elite-wifi7-ice-atx-motherboard`
+**Source:** StarTech  
+**Category:** motherboard  
+**URL:** https://www.startech.com.bd/gigabyte-z890-aorus-elite-wifi7-ice-atx-motherboard
+**Price:** 42,000৳ 44,200৳
+
+---
+
+
+## DJI Lito X1 Fly More Combo Plus with RC 2 Controller  
+**DocID:** `startech_https://www.startech.com.bd/dji-lito-x1-fly-more-combo-plus-rc-2`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-lito-x1-fly-more-combo-plus-rc-2
+**Price:** 82,300৳ 85,000৳
+
+---
+
+
+## Realview L43D01 43" 4K QLED Google TV  
+**DocID:** `startech_https://www.startech.com.bd/realview-l43d01-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/realview-l43d01-tv
+**Price:** 41,500৳ 53,500৳
+
+---
+
+
+## Realview L32D01 32" HD LED Android Smart TV  
+**DocID:** `startech_https://www.startech.com.bd/realview-l32d01-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/realview-l32d01-tv
+**Price:** 21,500৳ 25,500৳
 
 ---
 
