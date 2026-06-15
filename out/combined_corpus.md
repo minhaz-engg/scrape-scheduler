@@ -15225,6 +15225,15 @@ Touch screen
 ---
 
 
+## Stylish Men’s Polo T-Shirt Slim Fit Casual Wear Cotton Blend Polo Shirt  
+**DocID:** `daraz_1580012488`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 299
+
+---
+
+
 ## High Quality Sports' Sneakers for Men - Low Top Type - Versatile Casual Shoes for All Seasons - Stylish and Comfortable  
 **DocID:** `daraz_318526898`
 **Source:** Daraz  
@@ -21690,6 +21699,15 @@ Synthetic rubber sole
 ---
 
 
+## Hot Collection Stylish and Fashionable Low Top Winter and Summer Exclusive Converse Sneakers for Men - Comfortable and Suitable for All Seasons  
+**DocID:** `daraz_313810131`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 542
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -26249,6 +26267,33 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 1,334
+
+---
+
+
+## Brazil Short Sleeve Football Jersey For Men - Half Sleeve Jersey - Brazil Jersey 2026/27  
+**DocID:** `daraz_453779079`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Argentina World Cup Jersey 2026/27 Thai Premium Football Jersey For Men - Long Sleeve - Argentina Jersey 2026  
+**DocID:** `daraz_541332904`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 400
+
+---
+
+
+## Brazil World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve Jersey - Brazil Jersey 2026  
+**DocID:** `daraz_259670466`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 635
 
 ---
 
@@ -31398,6 +31443,51 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 27,899
+
+---
+
+
+## REDMI K90 ( 12 - 256 ) CN  
+**DocID:** `daraz_574646463`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 51,999
+
+---
+
+
+## Honor 400 5G (12+512GB),6.55"AMOLED, 1B colors120Hz,ডিসপ্লে,66Wফাস্ট চার্জিং সহ 6000mah Battery  
+**DocID:** `daraz_1580038205`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 50,999
+
+---
+
+
+## Infinix Note 60 5g (8+256GB) Official  
+**DocID:** `daraz_1581937478`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 43,999
+
+---
+
+
+## M-HORSE M17 Pro Max Variant 01 (6+6)12 GB RAM 128GB ROM  5000 Mah Battery  WIFI 5GHz Network  32 MP Camera powerful CPU . 1 year Brand Warrenty  
+**DocID:** `daraz_1585064744`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,990
+
+---
+
+
+## Vivo V70FE 8/256 Int  
+**DocID:** `daraz_1583690347`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 49,999
 
 ---
 
@@ -38085,6 +38175,106 @@ Non-removable Li-Po Battery
 **Category:** television-startech  
 **URL:** https://www.startech.com.bd/realview-l32d01-tv
 **Price:** 21,500৳ 25,500৳
+
+---
+
+
+## Lenovo Legion 5 15AKP10 Ryzen AI 7 350 RTX 5060 8GB Graphics 15.1" WQXGA OLED Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-legion-5-15akp10-rtx-5060-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-legion-5-15akp10-rtx-5060-laptop
+**Price:** 240,000৳
+
+---
+
+
+## Lenovo Legion Pro 5 16ADR10 Ryzen 7 8745HX RTX 5060 8GB Graphics 24GB RAM 16" OLED Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-legion-pro-5-16adr10-24gb-ram-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-legion-pro-5-16adr10-24gb-ram-laptop
+**Price:** 240,000৳
+
+---
+
+
+## Lenovo LOQ 15AHP10 Ryzen 7 250 RTX 5050 8GB Graphics 1TB SSD 15.6" FHD 144Hz Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-loq-15ahp10-ryzen-7-250-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-loq-15ahp10-ryzen-7-250-laptop
+**Price:** 167,000৳ 172,000৳
+
+---
+
+
+## Lenovo LOQ 15AHP10 Ryzen 7 250 RTX 5050 8GB Graphics 15.6" FHD 144Hz Gaming Laptop With FreeDOS  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-loq-15ahp10-laptop-with-freedos`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-loq-15ahp10-laptop-with-freedos
+**Price:** 165,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15ABR8 Ryzen 5 5625U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15abr8-ryzen-5-5625u-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15abr8-ryzen-5-5625u-laptop
+**Price:** 72,000৳ 75,000৳
+
+---
+
+
+## Lenovo IdeaPad 1 15AMN7 Ryzen 5 7520U 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-1-15amn7-ryzen-5-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-1-15amn7-ryzen-5-laptop
+**Price:** 81,000৳ 86,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 15ABR8 Ryzen 7 5825U 15.6" FHD Laptop With Fingerprint  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-slim-3-15abr8-laptop-with-fingerprint`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-slim-3-15abr8-laptop-with-fingerprint
+**Price:** 90,000৳ 95,000৳
+
+---
+
+
+## Lenovo IdeaPad Slim 3 14ABR8 Ryzen 7 5825U 14" FHD Laptop with Backlit Keyboard  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-ideapad-1-15amn7-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-ideapad-1-15amn7-laptop
+**Price:** 90,000৳ 95,000৳
+
+---
+
+
+## Lenovo ThinkPad E14 Gen 6 Core Ultra 5 125U 14" WUXGA Laptop  
+**DocID:** `startech_https://www.startech.com.bd/lenovo-thinkpad-e14-gen-6-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/lenovo-thinkpad-e14-gen-6-laptop
+**Price:** 107,000৳
+
+---
+
+
+## DJI Lito X1 Fly More Combo with RC-N3 Controller  
+**DocID:** `startech_https://www.startech.com.bd/dji-lito-x1-fly-more-combo-with-rc-n3-controller`
+**Source:** StarTech  
+**Category:** drone  
+**URL:** https://www.startech.com.bd/dji-lito-x1-fly-more-combo-with-rc-n3-controller
+**Price:** 62,500৳ 65,000৳
 
 ---
 
