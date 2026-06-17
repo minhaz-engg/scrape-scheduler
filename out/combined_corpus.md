@@ -2386,6 +2386,15 @@
 ---
 
 
+## VICTUS by HP Gaming 15-fa2701wm 13th Gen i5 13420H-16GB SODIMM DDR4 SDRAM 512GB SSD 15.6 Inch Full HD IPS LED 144Hz 300 nits  
+**DocID:** `daraz_546758497`
+**Source:** Daraz  
+**Category:** gaming laptops
+**Price:** ৳ 117,000
+
+---
+
+
 ## Hp elightbook 840 G3 Laptop gen 6th ram 8gb core i5  Ssd 256 gb full fresh and  fast laptop ..7 days garanty..1 years servise warranty  (used)  
 **DocID:** `daraz_323885381`
 **Source:** Daraz  
@@ -9798,6 +9807,24 @@ Touch screen
 ---
 
 
+## Asus Vivobook Go 15 L1504FA (BQ611) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz 8GB RAM 512GB SSD 15.6"Inch FHD Laptop  
+**DocID:** `daraz_1573255854`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 62,400
+
+---
+
+
+## Lenovo IdeaPad 1 15AMN7 (82VG00EUIN) AMD Ryzen 3 7320U 2.4 to 4.1GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop  
+**DocID:** `daraz_523518527`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 52,875
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -15230,6 +15257,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 299
+
+---
+
+
+## Black Cotton Polo For Men  
+**DocID:** `daraz_105802264`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 368
+
+---
+
+
+## Best quality cotton pk polo shirt for men-Polo T shirt  
+**DocID:** `daraz_313383565`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 275
 
 ---
 
@@ -21708,6 +21753,15 @@ Synthetic rubber sole
 ---
 
 
+## Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men By Riyan Shoes - Comfortable And Stylish  
+**DocID:** `daraz_328489143`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 580
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -26294,6 +26348,51 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 635
+
+---
+
+
+## Saudi Arabia (KSA) FIFA World Cup 2026  Home Jersey: Half Sleeve (Thai Premium)  
+**DocID:** `daraz_1581384032`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 570
+
+---
+
+
+## Argentina Home Football Jersey 2026 – Fan Edition Premium Thai Fabric Breathable Sports T-Shirt for Men (White )  
+**DocID:** `daraz_1581518502`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 799
+
+---
+
+
+## Brazil World Cup Jersey 2026 Thai Premium Football Jersey For Men - Half Sleeve Jersey - Brazil Jersey 2026  
+**DocID:** `daraz_1578521377`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 499
+
+---
+
+
+## Portugal 2026 World Cup Home Jersey for Men – Thai Premium Football Shirt  
+**DocID:** `daraz_1582970540`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 530
+
+---
+
+
+## Portugal Short Sleeve Football Jersey For Men - Half Sleeve - Portugal Jersey 2026/2027  
+**DocID:** `daraz_269563053`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
 
 ---
 
@@ -31488,6 +31587,42 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 49,999
+
+---
+
+
+## Xiaomi Redmi Note 14 Pro 5g (8+256GB)  
+**DocID:** `daraz_522164573`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 30,999
+
+---
+
+
+## Realme C85 (6+128GB), 6.8"IPS LCD,144 Hz ডিসপ্লে,45W ফাস্ট চার্জিং সহ 7000mah Battery  
+**DocID:** `daraz_568486586`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 22,899
+
+---
+
+
+## W&O 17 Pro Max (6+6)12 GB RAM 128GB ROM  6200 Mah Battery 32 MP Camera powerful CPU 1 year Brand Warrenty  Cable.. Back cover ..screen protector..warrenty card inside the box No adapter  
+**DocID:** `daraz_1584699150`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 14,500
+
+---
+
+
+## Oppo A6k 6GB/128GB - Official  
+**DocID:** `daraz_1585017256`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 23,899
 
 ---
 
@@ -38275,6 +38410,26 @@ Non-removable Li-Po Battery
 **Category:** drone  
 **URL:** https://www.startech.com.bd/dji-lito-x1-fly-more-combo-with-rc-n3-controller
 **Price:** 62,500৳ 65,000৳
+
+---
+
+
+## DJI Osmo Mobile 8P  
+**DocID:** `startech_https://www.startech.com.bd/osmo-mobile-8p-gimbal`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/osmo-mobile-8p-gimbal
+**Price:** 18,500৳
+
+---
+
+
+## Haier H32K85GX 32" DLED HD Google TV  
+**DocID:** `startech_https://www.startech.com.bd/haier-h32k85gx-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/haier-h32k85gx-tv
+**Price:** 21,500৳ 27,900৳
 
 ---
 
