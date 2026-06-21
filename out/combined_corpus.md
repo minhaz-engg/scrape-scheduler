@@ -9843,6 +9843,15 @@ Touch screen
 ---
 
 
+## Dell Latitude 7320 (Refurbished) – 13.3" FHD Display, Intel Core i7 11th Gen, 16GB DDR4 RAM, 256GB SSD  
+**DocID:** `daraz_574311467`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 51,200
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -15347,6 +15356,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 418
+
+---
+
+
+## GoodMan Premium Quality Black Color Cotton Short Sleeve Polo T Shirt for Men.  
+**DocID:** `daraz_1580341909`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 589
 
 ---
 
@@ -21861,6 +21879,15 @@ Synthetic rubber sole
 ---
 
 
+## Hig Qulaity Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men by Footwear Point  
+**DocID:** `daraz_323744135`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 540
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -26528,6 +26555,42 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 396
+
+---
+
+
+## Iran World Cup Jersey 2026 Jersey For Men - Half Sleeve Collar Polo Football t shirt - Iran Jersey  
+**DocID:** `daraz_187542581`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 269
+
+---
+
+
+## Argentina 2026 Retro Jersey White | Argentina Football Jersey Bangladesh | Terrace Icon Football T Shirt | Premium Mesh Fabric  
+**DocID:** `daraz_1582384467`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 450
+
+---
+
+
+## Morocco Football Jersey For Men - Half Sleeve Collar Polo t shirt - Morocco Fan Jersey  
+**DocID:** `daraz_187437245`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 249
+
+---
+
+
+## Mbappe 10 Short Sleeve Football Jersey For Men - Half Sleeve Mbappe 10 t shirt - France 10 Jersey  
+**DocID:** `daraz_293179647`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 319
 
 ---
 
@@ -31776,6 +31839,78 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 33,999
+
+---
+
+
+## M-HORSE M17 Pro Max Variant 2 (4+4)8 GB RAM 64GB ROM  5000 Mah Battery 4G Network   powerful CPU . 1 year Brand Warrenty  
+**DocID:** `daraz_1585098019`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 13,990
+
+---
+
+
+## Motorola Edge 60 Stylus 5g (8+256GB) Unofficial  
+**DocID:** `daraz_1580996312`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 32,999
+
+---
+
+
+## Motorola Moto G67 Power 5g (8+128GB)  
+**DocID:** `daraz_1581012975`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 29,999
+
+---
+
+
+## Infinix Note Edge 5g (8+128GB) Official  
+**DocID:** `daraz_1582074727`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 30,999
+
+---
+
+
+## Tecno Spark 50 (6+128GB) Official  
+**DocID:** `daraz_1582621010`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 19,999
+
+---
+
+
+## Samsung Galaxy S25 Ultra 5g (12+256GB) Unofficial  
+**DocID:** `daraz_1581644346`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 117,999
+
+---
+
+
+## Infinix Note Edge 5g (8+256GB) Official  
+**DocID:** `daraz_1581831910`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 34,999
+
+---
+
+
+## Xiaomi Redmi Note 15 5g (8+256GB) Unofficial  
+**DocID:** `daraz_1581203293`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 37,499
 
 ---
 
@@ -38583,6 +38718,26 @@ Non-removable Li-Po Battery
 **Category:** television-startech  
 **URL:** https://www.startech.com.bd/haier-h32k85gx-tv
 **Price:** 21,500৳ 27,900৳
+
+---
+
+
+## MacBook Air M4 Chip 13-inch (10‑core CPU, 8 core GPU)  
+**DocID:** `startech_https://www.startech.com.bd/apple-macbook-air-m4-13-inch`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/apple-macbook-air-m4-13-inch
+**Price:** 128,000৳
+
+---
+
+
+## DJI Osmo Mobile 8P  
+**DocID:** `startech_https://www.startech.com.bd/dji-osmo-mobile-8p-gimbal`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/dji-osmo-mobile-8p-gimbal
+**Price:** 18,500৳
 
 ---
 
