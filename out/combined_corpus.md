@@ -9852,6 +9852,15 @@ Touch screen
 ---
 
 
+## Dell Latitude 7300 (Refurbished) – 13.3" FHD Display, Intel Core i5 8th Gen, 8GB RAM, 256GB SSD  
+**DocID:** `daraz_574321048`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 34,100
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -15365,6 +15374,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 589
+
+---
+
+
+## Premium Embroidery World Cup Polo Shirt for Men – Brazil & Argentina Edition  
+**DocID:** `daraz_1583596050`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 450
+
+---
+
+
+## Preimum Quality Polo T-shirt For man - Real Madrid Concept  
+**DocID:** `daraz_328495638`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 269
+
+---
+
+
+## SMUG Premium Combo Offer Polo shirt - Olive , Grey, Red - 3 pis combo  
+**DocID:** `daraz_526779919`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 1,065
 
 ---
 
@@ -21888,6 +21924,15 @@ Synthetic rubber sole
 ---
 
 
+## Fashion Summer Couple Style Toe Wrap Sandals Platform Non-slip Flip-flop For Men Women Outdoor Beach Shoes Men's Home Slippers  
+**DocID:** `daraz_547247976`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 1,262
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -26591,6 +26636,51 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 319
+
+---
+
+
+## Argentina Jersey 2026/27 Full Sleeve Football Jersey For Man - Long Sleeve t shirt - Argentina Jersey 2026  
+**DocID:** `daraz_270630739`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 251
+
+---
+
+
+## Brazil 2026 Special White Kit Medium Quality [Haf Slevee]  
+**DocID:** `daraz_522834444`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 537
+
+---
+
+
+## Polyester Short Sleeve Home Jersey Brazil- 2026 World Cup.  
+**DocID:** `daraz_1583351826`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 149
+
+---
+
+
+## Germany 2026 Official Fan Edition Jersey  
+**DocID:** `daraz_1583345180`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 699
+
+---
+
+
+## Portugal Short Sleeve Football Jersey For Men - Half Sleeve t shirt - Portugal Jersey 2026  
+**DocID:** `daraz_330959418`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 242
 
 ---
 
@@ -31911,6 +32001,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 37,499
+
+---
+
+
+## Honor 600 [8/256GB] Global  
+**DocID:** `daraz_1581769484`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 53,999
 
 ---
 
@@ -38738,6 +38837,76 @@ Non-removable Li-Po Battery
 **Category:** gimbal  
 **URL:** https://www.startech.com.bd/dji-osmo-mobile-8p-gimbal
 **Price:** 18,500৳
+
+---
+
+
+## HP 15-fd0807TU Intel Core i3 13th Gen 15.6" FHD Laptop  
+**DocID:** `startech_https://www.startech.com.bd/hp-15-fd0807TU-core-i3-13th-gen-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/hp-15-fd0807TU-core-i3-13th-gen-laptop
+**Price:** 65,000৳
+
+---
+
+
+## MSI Raider 18 HX AI A2XWJG Core Ultra 9 285HX RTX 5090 24GB Graphics 18" UHD+ MiniLED 120Hz Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/msi-raider-18-hx-ai-a2xwjg-gaming-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-raider-18-hx-ai-a2xwjg-gaming-laptop
+**Price:** 630,000৳
+
+---
+
+
+## MSI Katana 15 HX B14WEK Core i9 14th Gen RTX 5050 8GB Graphics 15.6" QHD Gaming Laptop  
+**DocID:** `startech_https://www.startech.com.bd/msi-katana-15-hx-b14wek-core-i9-qhd-gaming-laptop`
+**Source:** StarTech  
+**Category:** laptop  
+**URL:** https://www.startech.com.bd/msi-katana-15-hx-b14wek-core-i9-qhd-gaming-laptop
+**Price:** 220,000৳
+
+---
+
+
+## Realview L32D01 32" HD LED Android Smart TV  
+**DocID:** `startech_https://www.startech.com.bd/realview-l32d01-led-android-smart-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/realview-l32d01-led-android-smart-tv
+**Price:** 21,500৳ 25,500৳
+
+---
+
+
+## Realview L43D01 43" 4K QLED Google TV  
+**DocID:** `startech_https://www.startech.com.bd/realview-l43d01-4k-qled-google-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/realview-l43d01-4k-qled-google-tv
+**Price:** 41,500৳ 53,500৳
+
+---
+
+
+## Xiaomi TV A Pro 43 2026 43 inch QLED 4K UHD Smart Google TV (Global Version)  
+**DocID:** `startech_https://www.startech.com.bd/xiaomi-tv-a-pro-43-2026`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/xiaomi-tv-a-pro-43-2026
+**Price:** 43,500৳ 55,990৳
+
+---
+
+
+## Huawei Watch Fit 2 Active Calling Smart Watch  
+**DocID:** `startech_https://www.startech.com.bd/huawei-watch-fit-2-active-smart-watch`
+**Source:** StarTech  
+**Category:** smart-watch  
+**URL:** https://www.startech.com.bd/huawei-watch-fit-2-active-smart-watch
+**Price:** 14,999৳ 15,499৳
 
 ---
 
