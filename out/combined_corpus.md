@@ -9861,6 +9861,15 @@ Touch screen
 ---
 
 
+## New Laptop Chuwi HeroBook Pro Intel Celeron N4020 14.1 inch Full HD Laptop with Windows 11  
+**DocID:** `daraz_1579699339`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 29,000
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -15401,6 +15410,24 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 1,065
+
+---
+
+
+## Royal Blue Colour PK Cotton Polo T-shirt For Man's  
+**DocID:** `daraz_1572536546`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 234
+
+---
+
+
+## QUIZ Clothing Mens Regular Fit Polo Shirts, t shirt for men, polo shirt, Coffee  
+**DocID:** `daraz_317851750`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 199
 
 ---
 
@@ -21933,6 +21960,60 @@ Synthetic rubber sole
 ---
 
 
+## Shoes for Men Sneakers Lightweight Breathable Comfortable Casual Shoes for Walking  
+**DocID:** `daraz_324096747`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 430
+
+---
+
+
+## Black Cotton Fabrics Sneaker Shoes Slip-Ons & Sneakers for Men  
+**DocID:** `daraz_324401522`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 395
+
+---
+
+
+## Qualify-Athletic Mesh Lace Up Shoe Sneaker for Man with Medium Cut Height - Soft and breathable canvas  
+**DocID:** `daraz_212053826`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 440
+
+---
+
+
+## Streetwise Elegance: Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_314467711`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 546
+
+---
+
+
+## Fashionable Multicolore Colore Winter Sneakers for Men  
+**DocID:** `daraz_364311693`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 540
+
+---
+
+
+## High-Quality Sneakers - Men's Casual Shoes - Fashionable Flyknit - Light Weight Slip-On - Walk in Style and Comfort  
+**DocID:** `daraz_323743405`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 538
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -26681,6 +26762,51 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 242
+
+---
+
+
+## Argentina FIFA World CUP Jersey - Thai Premium Messi 10 Football Jersey For Men - Messi 10 Jersey 2026  
+**DocID:** `daraz_570281981`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 354
+
+---
+
+
+## Palestine Short Sleeve Jersey 2026/27 Football Jersey Fom Men - Half Sleeve Jersey - Palestine Jersey 2026  
+**DocID:** `daraz_327789673`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 260
+
+---
+
+
+## Polyester Short Sleeve Home Jersey Argentina- 2026 World Cup.  
+**DocID:** `daraz_1583347890`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 135
+
+---
+
+
+## Germany Jersey, short sleeve Jersey  
+**DocID:** `daraz_474814261`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 270
+
+---
+
+
+## Polyester Short Sleeve Home Jersey Argentina- 2026 World Cup.  
+**DocID:** `daraz_1583662358`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 149
 
 ---
 
@@ -32014,6 +32140,33 @@ Non-removable Li-Po Battery
 ---
 
 
+## Xiaomi 17 Pro Max 12/512 CN  
+**DocID:** `daraz_1578811509`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 120,999
+
+---
+
+
+## One Plus Nord CE6 Lite 6/128  
+**DocID:** `daraz_1584987494`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 33,999
+
+---
+
+
+## Honor 600 Lite 8/256 int  
+**DocID:** `daraz_1583313458`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 40,999
+
+---
+
+
 ## Galaxy Tab A9+ [ Wi-Fi + Cell ]  
 **DocID:** `daraz_486082989`
 **Source:** Daraz  
@@ -32586,6 +32739,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** tablets
 **Price:** ৳ 16,999
+
+---
+
+
+## Honor Pad 10 Wifi 8GB/256GB 12Inch Tab | Snapdragon | Official  
+**DocID:** `daraz_1585928120`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 37,999
+
+---
+
+
+## Honor Pad X8B Wifi 4GB/128GB 11Inch Tab | Snapdragon | Official  
+**DocID:** `daraz_1585689122`
+**Source:** Daraz  
+**Category:** tablets
+**Price:** ৳ 22,999
 
 ---
 
@@ -38907,6 +39078,56 @@ Non-removable Li-Po Battery
 **Category:** smart-watch  
 **URL:** https://www.startech.com.bd/huawei-watch-fit-2-active-smart-watch
 **Price:** 14,999৳ 15,499৳
+
+---
+
+
+## DJI RS 4 Mini Handheld Camera Gimbal Stabilizer Combo  
+**DocID:** `startech_https://www.startech.com.bd/dji-rs-4-mini-combo-gimbal-stabilizer`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/dji-rs-4-mini-combo-gimbal-stabilizer
+**Price:** 39,900৳ 43,000৳
+
+---
+
+
+## DJI RS 5 Handheld Camera Gimbal Stabilizer  
+**DocID:** `startech_https://www.startech.com.bd/dji-rs-5-gimbal`
+**Source:** StarTech  
+**Category:** gimbal  
+**URL:** https://www.startech.com.bd/dji-rs-5-gimbal
+**Price:** 49,990৳
+
+---
+
+
+## TCL 43V6C 43" 4K UHD Smart Google TV  
+**DocID:** `startech_https://www.startech.com.bd/tcl-43v6c-43-inch-4k-google-tv`
+**Source:** StarTech  
+**Category:** television-startech  
+**URL:** https://www.startech.com.bd/tcl-43v6c-43-inch-4k-google-tv
+**Price:** 44,500৳ 53,990৳
+
+---
+
+
+## Dahua DH-IPC-H5AS 5MP Indoor Pan & Tilt WiFi Camera  
+**DocID:** `startech_https://www.startech.com.bd/dahua-dh-ipc-h5as-5mp-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/dahua-dh-ipc-h5as-5mp-wifi-camera
+**Price:** 3,050৳
+
+---
+
+
+## Dahua DH-IPC-H3AS 3MP Indoor Pan & Tilt WiFi Camera  
+**DocID:** `startech_https://www.startech.com.bd/dahua-dh-ipc-h3as-3mp-wifi-camera`
+**Source:** StarTech  
+**Category:** wifi-camera  
+**URL:** https://www.startech.com.bd/dahua-dh-ipc-h3as-3mp-wifi-camera
+**Price:** 2,550৳
 
 ---
 
