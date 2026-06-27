@@ -9870,6 +9870,24 @@ Touch screen
 ---
 
 
+## Lenovo IdeaPad Slim 3i 15IRH8(83EM000MLK) Intel Core i5 13420H 8GB RAM, 512GB SSD 15.6 Inch FHD Display Arctic Grey Laptop  
+**DocID:** `daraz_352943305`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 66,400
+
+---
+
+
+## HP 15s-fq3617TU Intel Celeron N4500 1.1 to 2.8GHz, 4GB, 256GB SSD, UHD Graphics, Win 11, 15.6 Inch IPS FHD Laptop (7K1K6PA)  
+**DocID:** `daraz_312698476`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 47,399
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -15428,6 +15446,33 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 199
+
+---
+
+
+## Fashionable Men’s Premium Cotton Polo Shirt for Men  
+**DocID:** `daraz_538063279`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 230
+
+---
+
+
+## Men's Solid Color Polo Shirts - Sky Blue - Polo T Shirt  
+**DocID:** `daraz_144896219`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 300
+
+---
+
+
+## RED Polo T-shirt for men IP FASHION  
+**DocID:** `daraz_184275359`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 321
 
 ---
 
@@ -22014,6 +22059,69 @@ Synthetic rubber sole
 ---
 
 
+## TRENDY  SNEAKERS WEIGHTLESS LACE UP COLOURFUL SHOES FOR MEN. - Shoes For Men -  - জুতা ছেলেদের - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Sneakers For Men - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Shoe For Boys  
+**DocID:** `daraz_265829713`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 388
+
+---
+
+
+## Hot Collection Comfortable Sports Sneakers  Stylish Lace up Trendy Shoes for man  
+**DocID:** `daraz_315666187`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 498
+
+---
+
+
+## White plains casual walker colour ful sneakers for men. - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Sneakers For Men - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Shoe For Boys  
+**DocID:** `daraz_265827821`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 399
+
+---
+
+
+## Stylish Addition - Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men - Modern - Choice Expression  
+**DocID:** `daraz_322674188`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 498
+
+---
+
+
+## Hig Qulaity Sneakers Men Casual Shoes Men Fashion Sneakers Fly knit Light weight Slip-on Men by Footwear Point  
+**DocID:** `daraz_323440256`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 404
+
+---
+
+
+## Hot Collection Stylish and Fashionable Winter and Summer Exclusive Sneakers Converse Shoes for Men  
+**DocID:** `daraz_340638443`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 550
+
+---
+
+
+## Boot Converse Low Top Sneakers - Fabric Leather Lace-up Breathable Shoes for Man - Rubber Sole - Vans Model - Breathable Neck Design  
+**DocID:** `daraz_226655929`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 580
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -26807,6 +26915,24 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 149
+
+---
+
+
+## Iran World Cup Jersey 2026 Short Sleeve Football Jersey For Men - Half Sleeve t shirt - Iran Jersey  
+**DocID:** `daraz_193985807`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 250
+
+---
+
+
+## Germany Home Jersey 1990 – Adidas – Retro Style – Short Sleeve Football Jersey – Germany/DFB Fan Shirt (White, Black, Red, Yellow) - White  
+**DocID:** `daraz_1584522108`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 418
 
 ---
 
@@ -32163,6 +32289,24 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 40,999
+
+---
+
+
+## Vivo T4 Pro 12-256  
+**DocID:** `daraz_554399888`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 46,500
+
+---
+
+
+## REDMI Note 15 5G (8/256GB) Unofficial Global /Officiall  
+**DocID:** `daraz_572991908`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 45,000
 
 ---
 
