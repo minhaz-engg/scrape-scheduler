@@ -9888,6 +9888,15 @@ Touch screen
 ---
 
 
+## HP 15s-fq5344TU (9T0Z0PA) Intel Core i5-1235U 12th Generation, 8GB RAM, 512GB SSD, Windows 11, 15.6 inch FHD Spruce Blue Laptop  
+**DocID:** `daraz_364424100`
+**Source:** Daraz  
+**Category:** laptops
+**Price:** ৳ 74,899
+
+---
+
+
 ## Mackbook AIR M1  13'' 8/256  
 **DocID:** `daraz_478722990`
 **Source:** Daraz  
@@ -15473,6 +15482,15 @@ Touch screen
 **Source:** Daraz  
 **Category:** mens polo shirts
 **Price:** ৳ 321
+
+---
+
+
+## Men Summer Short Sleeve T Shirt High End Polo Collar Casual Embroidered Shirt  
+**DocID:** `daraz_533368011`
+**Source:** Daraz  
+**Category:** mens polo shirts
+**Price:** ৳ 550
 
 ---
 
@@ -22122,6 +22140,42 @@ Synthetic rubber sole
 ---
 
 
+## Shoes for Men Sneakers Lightweight Breathable Comfortable Casual Shoes for Walking - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Sneakers For Men - Shoe For Boys - Shoes For Men - জুতা ছেলেদের - Shoe For Boys  
+**DocID:** `daraz_192721691`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 400
+
+---
+
+
+## Hot Collection Stylish Running Sports Sneakers - Casual Lace-up Shoes for Winter and Summer: Comfort and Style in Every Step  
+**DocID:** `daraz_567569596`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 450
+
+---
+
+
+## Hot Collection of Stylish and Sustainable Winter and Summer Exclusive Low Top Sneakers Converse Shoes for Men - Smart Choice  
+**DocID:** `daraz_314468765`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 590
+
+---
+
+
+## Lace-up Casual Shoe for Men - Black  
+**DocID:** `daraz_157186626`
+**Source:** Daraz  
+**Category:** mens sneakers
+**Price:** ৳ 2,099
+
+---
+
+
 ## B-d Short Sleeve Football Jersey for Men - Half Sleeve t-shirt - Banglades Fan Jersey  
 **DocID:** `daraz_269939820`
 **Source:** Daraz  
@@ -26933,6 +26987,51 @@ Synthetic rubber sole
 **Source:** Daraz  
 **Category:** mens sports football shirts and merchandise
 **Price:** ৳ 418
+
+---
+
+
+## Argentina 2026 World Cup Jersey Home & Away Kit – Half Sleeve, Comfortable Mesh Fabric, Premium Quality  
+**DocID:** `daraz_1585456508`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 350
+
+---
+
+
+## Argentina Baby Jersey 2026 World Cup – Kids Football Jersey Set – Premium 3-Star National Team Kit Half Sleeve Argentina Home Kit premium sticker print  
+**DocID:** `daraz_1585247051`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 399
+
+---
+
+
+## Argentina World Cup 2026 Away Jersey - Premium  
+**DocID:** `daraz_1585073774`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 399
+
+---
+
+
+## MOROCCO Short Sleeve Football Jersey For Men - Half Sleeve t shirt - Morocco Jersey 2026  
+**DocID:** `daraz_194899760`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 250
+
+---
+
+
+## Polyester Short Sleeve Home Jersey Argentina- 2026 World Cup.  
+**DocID:** `daraz_1583395583`
+**Source:** Daraz  
+**Category:** mens sports football shirts and merchandise
+**Price:** ৳ 135
 
 ---
 
@@ -32307,6 +32406,15 @@ Non-removable Li-Po Battery
 **Source:** Daraz  
 **Category:** smartphones
 **Price:** ৳ 45,000
+
+---
+
+
+## Honor 600 Pro 12/256 int  
+**DocID:** `daraz_1583550677`
+**Source:** Daraz  
+**Category:** smartphones
+**Price:** ৳ 82,999
 
 ---
 
